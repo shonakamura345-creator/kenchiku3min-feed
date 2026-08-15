@@ -1,0 +1,75 @@
+name: notify-push
+
+on:
+  push:
+    branches: [main]
+    paths: ["issues.json"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Check for new issue
+        id: check
+        run: |
+          NEW_ID=$(python3 -c "import json;print(json.load(open('issues.json'))['issues'][0]['id'])")
+          OLD_ID=""
+          if git rev-parse HEAD^ >/dev/null 2>&1 && git show HEAD^:issues.json > /tmp/prev.json 2>/dev/null; then
+            OLD_ID=$(python3 -c "import json;print(json.load(open('/tmp/prev.json'))['issues'][0]['id'])" 2>/dev/null || echo "")
+          fi
+          echo "new_id=$NEW_ID" >> "$GITHUB_OUTPUT"
+          if [ "$NEW_ID" = "$OLD_ID" ]; then
+            echo "send=false" >> "$GITHUB_OUTPUT"
+            echo "issues[0].id unchanged ($NEW_ID) — skip notification"
+          else
+            echo "send=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send FCM push
+        if: steps.check.outputs.send == 'true'
+        env:
+          FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+        run: |
+          pip install --quiet google-auth requests
+          python3 - <<'PY'
+          import json, os, requests
+          from google.oauth2 import service_account
+          from google.auth.transport.requests import Request
+
+          sa = json.loads(os.environ["FCM_SERVICE_ACCOUNT"])
+          creds = service_account.Credentials.from_service_account_info(
+              sa, scopes=["https://www.googleapis.com/auth/firebase.messaging"])
+          creds.refresh(Request())
+
+          issue = json.load(open("issues.json"))["issues"][0]
+          stories = issue.get("stories", [])
+          n = len(stories)
+          date = issue.get("date", "")
+          try:
+              datestr = f"{int(date[5:7])}月{int(date[8:10])}日"
+          except Exception:
+              datestr = "今日"
+          title = f"{datestr}の最新号を配信しました"
+          first = stories[0]["title"] if stories else ""
+          body = first + (f" ほか計{n}本" if n > 1 else "")
+
+          msg = {"message": {
+              "topic": "new-issue",
+              "notification": {"title": title, "body": body},
+              "apns": {"payload": {"aps": {"sound": "default"}}},
+          }}
+          r = requests.post(
+              f"https://fcm.googleapis.com/v1/projects/{sa['project_id']}/messages:send",
+              headers={"Authorization": f"Bearer {creds.token}"},
+              json=msg, timeout=30)
+          print(r.status_code, r.text[:300])
+          r.raise_for_status()
+          PY
