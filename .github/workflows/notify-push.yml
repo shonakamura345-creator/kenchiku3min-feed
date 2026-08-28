@@ -4,7 +4,12 @@ on:
   push:
     branches: [main]
     paths: ["issues.json"]
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "号IDが同じでも強制的に通知を送る"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -13,9 +18,13 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
       - name: Check for new issue
         id: check
@@ -26,11 +35,12 @@ jobs:
             OLD_ID=$(python3 -c "import json;print(json.load(open('/tmp/prev.json'))['issues'][0]['id'])" 2>/dev/null || echo "")
           fi
           echo "new_id=$NEW_ID" >> "$GITHUB_OUTPUT"
-          if [ "$NEW_ID" = "$OLD_ID" ]; then
+          if [ "$NEW_ID" = "$OLD_ID" ] && [ "${{ inputs.force }}" != "true" ]; then
             echo "send=false" >> "$GITHUB_OUTPUT"
             echo "issues[0].id unchanged ($NEW_ID) — skip notification"
           else
             echo "send=true" >> "$GITHUB_OUTPUT"
+            echo "will notify for $NEW_ID"
           fi
 
       - name: Send FCM push
@@ -38,16 +48,31 @@ jobs:
         env:
           FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
         run: |
-          pip install --quiet google-auth requests
+          set -euo pipefail
+          if [ -z "${FCM_SERVICE_ACCOUNT:-}" ]; then
+            echo "::error::secret FCM_SERVICE_ACCOUNT が空です。Settings > Secrets and variables > Actions に登録してください。"
+            exit 1
+          fi
+          python3 -m pip install --quiet --disable-pip-version-check google-auth requests
           python3 - <<'PY'
-          import json, os, requests
+          import json, os, sys, requests
           from google.oauth2 import service_account
           from google.auth.transport.requests import Request
 
-          sa = json.loads(os.environ["FCM_SERVICE_ACCOUNT"])
+          try:
+              sa = json.loads(os.environ["FCM_SERVICE_ACCOUNT"])
+          except json.JSONDecodeError as e:
+              print(f"::error::secret FCM_SERVICE_ACCOUNT が JSON として読めません: {e}")
+              sys.exit(1)
+
           creds = service_account.Credentials.from_service_account_info(
               sa, scopes=["https://www.googleapis.com/auth/firebase.messaging"])
-          creds.refresh(Request())
+          try:
+              creds.refresh(Request())
+          except Exception as e:
+              print("::error::サービスアカウントの認証に失敗しました。Firebase 側で鍵が削除・ローテーションされた可能性が高いので、"
+                    "新しいキーで secret FCM_SERVICE_ACCOUNT を更新してください: " + str(e))
+              sys.exit(1)
 
           issue = json.load(open("issues.json"))["issues"][0]
           stories = issue.get("stories", [])
@@ -71,5 +96,8 @@ jobs:
               headers={"Authorization": f"Bearer {creds.token}"},
               json=msg, timeout=30)
           print(r.status_code, r.text[:300])
-          r.raise_for_status()
+          if not r.ok:
+              print(f"::error::FCM 送信に失敗しました (HTTP {r.status_code}): {r.text[:300]}")
+              sys.exit(1)
+          print(f"::notice::プッシュ通知を送信しました: {title} / {body}")
           PY
