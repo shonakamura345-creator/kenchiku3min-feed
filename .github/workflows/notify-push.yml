@@ -10,6 +10,10 @@ on:
         description: "号IDが同じでも強制的に通知を送る"
         type: boolean
         default: false
+      dry_run:
+        description: "検証のみ（認証と本文チェックだけ行い、実際には配信しない）"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -47,6 +51,7 @@ jobs:
         if: steps.check.outputs.send == 'true'
         env:
           FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+          DRY_RUN: ${{ inputs.dry_run }}
         run: |
           set -euo pipefail
           if [ -z "${FCM_SERVICE_ACCOUNT:-}" ]; then
@@ -58,6 +63,8 @@ jobs:
           import json, os, sys, requests
           from google.oauth2 import service_account
           from google.auth.transport.requests import Request
+
+          dry_run = os.environ.get("DRY_RUN") == "true"
 
           try:
               sa = json.loads(os.environ["FCM_SERVICE_ACCOUNT"])
@@ -73,6 +80,7 @@ jobs:
               print("::error::サービスアカウントの認証に失敗しました。Firebase 側で鍵が削除・ローテーションされた可能性が高いので、"
                     "新しいキーで secret FCM_SERVICE_ACCOUNT を更新してください: " + str(e))
               sys.exit(1)
+          print("認証OK: " + sa["client_email"])
 
           issue = json.load(open("issues.json"))["issues"][0]
           stories = issue.get("stories", [])
@@ -91,6 +99,9 @@ jobs:
               "notification": {"title": title, "body": body},
               "apns": {"payload": {"aps": {"sound": "default"}}},
           }}
+          if dry_run:
+              msg["validate_only"] = True
+
           r = requests.post(
               f"https://fcm.googleapis.com/v1/projects/{sa['project_id']}/messages:send",
               headers={"Authorization": f"Bearer {creds.token}"},
@@ -99,5 +110,8 @@ jobs:
           if not r.ok:
               print(f"::error::FCM 送信に失敗しました (HTTP {r.status_code}): {r.text[:300]}")
               sys.exit(1)
-          print(f"::notice::プッシュ通知を送信しました: {title} / {body}")
+          if dry_run:
+              print(f"::notice::検証のみ成功（配信していません）: {title} / {body}")
+          else:
+              print(f"::notice::プッシュ通知を送信しました: {title} / {body}")
           PY
