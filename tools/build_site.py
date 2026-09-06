@@ -32,9 +32,9 @@ a{color:#EA580C}
 .wrap{max-width:680px;margin:0 auto;padding:20px 18px 64px}
 header.site{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:6px 0 18px}
 header.site .brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink)}
-header.site .badge{background:var(--ink);color:#fff;border-radius:8px;padding:2px 8px;font-weight:800;font-size:.8rem;letter-spacing:.02em}
+header.site .badge{background:var(--ink);color:#fff;border-radius:8px;padding:2px 8px;font-weight:800;font-size:.8rem;letter-spacing:.02em;white-space:nowrap}
 header.site .badge b{background:var(--orange);border-radius:5px;padding:0 5px;margin-left:4px}
-header.site .name{font-weight:800;font-size:1.05rem}
+header.site .name{font-weight:800;font-size:1rem;white-space:nowrap}
 .cta{display:inline-block;background:var(--orange);color:#fff;text-decoration:none;font-weight:700;border-radius:999px;padding:8px 16px;font-size:.9rem;white-space:nowrap}
 .cta.small{padding:6px 12px;font-size:.82rem}
 .issue-head{margin:4px 0 18px}
