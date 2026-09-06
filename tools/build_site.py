@@ -5,7 +5,8 @@
   index.html            … 最新号＋バックナンバー一覧（サイトのトップ）
   i/<YYYY-MM-DD>/index.html … 号ごとのページ（アプリの共有リンク先。記事は #s1 #s2 #s3 でアンカー）
 
-GitHub Actions（.github/workflows/build-site.yml）が issues.json の更新のたびに実行してコミットする。
+毎朝の号生成ルーチン（クラウド常設セッション）が issues.json 更新後に実行し、生成物を同じコミットに含める。
+（GitHub Actions化はトークンのworkflow権限がなく2026-09-06時点では見送り）
 手元で試すときは  python3 tools/build_site.py  をリポジトリ直下で実行。
 """
 from __future__ import annotations
