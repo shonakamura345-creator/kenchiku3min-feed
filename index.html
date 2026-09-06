@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>建築3分ニュース | 毎朝3分で読める建築ニュース</title>
+<meta name="description" content="建築業界のニュースを毎朝3本、Sho建築士AIの解説付きで。iPhoneアプリ「建築3分ニュース」のWeb版バックナンバー。">
+<link rel="canonical" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="建築3分ニュース">
+<meta property="og:title" content="建築3分ニュース | 毎朝3分で読める建築ニュース">
+<meta property="og:description" content="建築業界のニュースを毎朝3本、Sho建築士AIの解説付きで。iPhoneアプリ「建築3分ニュース」のWeb版バックナンバー。">
+<meta property="og:url" content="https://shonakamura345-creator.github.io/kenchiku3min-feed/">
+<meta property="og:image" content="https://shonakamura345-creator.github.io/kenchiku3min-feed/assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="建築3分ニュース | 毎朝3分で読める建築ニュース">
+<meta name="twitter:description" content="建築業界のニュースを毎朝3本、Sho建築士AIの解説付きで。iPhoneアプリ「建築3分ニュース」のWeb版バックナンバー。">
+<meta name="twitter:image" content="https://shonakamura345-creator.github.io/kenchiku3min-feed/assets/og.jpg">
+<meta name="apple-itunes-app" content="app-id=6800172328">
+<link rel="icon" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/assets/favicon.png">
+<link rel="apple-touch-icon" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/assets/apple-touch-icon.png">
+<style>
+:root{--paper:#FAF9F5;--ink:#2D2A26;--orange:#F97316;--orange-bg:#FFF7ED;--line:rgba(45,42,38,.10);--sub:rgba(45,42,38,.58);--blue:#3B82F6}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;line-height:1.85;font-size:16px}
+a{color:#EA580C}
+.wrap{max-width:680px;margin:0 auto;padding:20px 18px 64px}
+header.site{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:6px 0 18px}
+header.site .brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink)}
+header.site .badge{background:var(--ink);color:#fff;border-radius:8px;padding:2px 8px;font-weight:800;font-size:.8rem;letter-spacing:.02em}
+header.site .badge b{background:var(--orange);border-radius:5px;padding:0 5px;margin-left:4px}
+header.site .name{font-weight:800;font-size:1.05rem}
+.cta{display:inline-block;background:var(--orange);color:#fff;text-decoration:none;font-weight:700;border-radius:999px;padding:8px 16px;font-size:.9rem;white-space:nowrap}
+.cta.small{padding:6px 12px;font-size:.82rem}
+.issue-head{margin:4px 0 18px}
+.issue-head .kicker{font-size:.72rem;letter-spacing:.18em;color:var(--sub);font-weight:700;text-transform:uppercase}
+.issue-head h1{font-size:1.6rem;line-height:1.35;margin:4px 0 6px;font-weight:800}
+.issue-head .meta{color:var(--sub);font-size:.9rem}
+.toc{background:#fff;border:1px solid var(--line);border-radius:18px;padding:14px 16px;margin:0 0 22px}
+.toc .kicker{font-size:.7rem;letter-spacing:.18em;color:var(--sub);font-weight:700;margin-bottom:6px}
+.toc ol{margin:0;padding-left:0;list-style:none}
+.toc li{display:flex;gap:10px;padding:8px 0;border-top:1px solid var(--line);align-items:flex-start}
+.toc li:first-child{border-top:0}
+.toc .num{flex:0 0 26px;height:26px;border-radius:50%;background:var(--orange);color:#fff;font-weight:800;font-size:.8rem;display:flex;align-items:center;justify-content:center;margin-top:3px}
+.toc li:nth-child(2) .num{background:var(--blue)}
+.toc li:nth-child(3) .num{background:#10B981}
+.toc a{color:var(--ink);text-decoration:none;font-weight:700;line-height:1.5}
+article{background:#fff;border:1px solid var(--line);border-radius:22px;padding:22px 20px;margin:0 0 22px;scroll-margin-top:12px}
+article .src{font-size:.72rem;letter-spacing:.16em;color:var(--sub);font-weight:700;text-transform:uppercase}
+article h2{font-size:1.35rem;line-height:1.4;margin:6px 0 8px;font-weight:800}
+article .summary{color:var(--sub);margin:0 0 14px;font-size:.95rem}
+article p{margin:0 0 14px}
+.sec-label{font-size:.72rem;letter-spacing:.16em;color:var(--sub);font-weight:700;margin:18px 0 6px;text-transform:uppercase}
+.briefing{margin:0 0 6px;padding-left:1.2em}
+.briefing li{margin:0 0 6px;font-size:.95rem}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 4px}
+.chips a{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:4px 12px;font-size:.82rem;text-decoration:none;color:var(--ink);background:var(--paper)}
+.chips a::before{content:"↗ ";color:var(--sub)}
+.commentary{background:var(--orange-bg);border-left:5px solid var(--orange);border-radius:16px;padding:16px 18px;margin:18px 0 0}
+.commentary .label{color:var(--orange);font-weight:800;font-size:.85rem;margin-bottom:6px}
+.commentary p{margin:0;font-size:.97rem}
+.sho{background:#fff;border:1px solid var(--line);border-left:5px solid var(--orange);border-radius:16px;padding:16px 18px;margin:12px 0 0}
+.sho .label{font-weight:800;font-size:.85rem;margin-bottom:6px}
+.sho .label b{background:var(--orange);color:#fff;border-radius:999px;padding:1px 8px;font-size:.7rem;margin-left:6px}
+.hojosen{margin:14px 0 0}
+.hojosen .item{background:var(--paper);border-radius:14px;padding:12px 14px;margin:0 0 8px}
+.hojosen .item b{display:block;margin-bottom:2px}
+.hojosen .item p{margin:0;font-size:.93rem}
+.rel{display:inline-block;margin-top:14px;font-size:.75rem;color:var(--sub);border:1px solid var(--line);border-radius:999px;padding:2px 10px}
+.appbox{background:var(--ink);color:#fff;border-radius:22px;padding:22px 20px;margin:8px 0 22px;text-align:center}
+.appbox p{margin:0 0 12px;font-size:.95rem;opacity:.9}
+.appbox .cta{background:var(--orange)}
+.list a.row{display:block;background:#fff;border:1px solid var(--line);border-radius:18px;padding:14px 16px;margin:0 0 10px;text-decoration:none;color:var(--ink)}
+.list .date{font-weight:800;font-size:.95rem}
+.list .date span{color:var(--sub);font-weight:600;font-size:.8rem;margin-left:8px}
+.list ul{margin:6px 0 0;padding-left:1.2em;font-size:.9rem;color:rgba(45,42,38,.8)}
+.list li{margin:2px 0}
+nav.pn{display:flex;justify-content:space-between;gap:12px;margin:0 0 18px;font-size:.9rem}
+nav.pn a{text-decoration:none;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:999px;padding:6px 14px}
+footer{color:var(--sub);font-size:.8rem;margin-top:28px;line-height:1.7}
+footer a{color:var(--sub)}
+@media (prefers-color-scheme: dark){
+  :root{--paper:#1C1A18;--ink:#F5F2EE;--orange-bg:#3A2A1A;--line:rgba(245,242,238,.12);--sub:rgba(245,242,238,.6)}
+  article,.toc,.list a.row,nav.pn a,.sho{background:#262320}
+  .hojosen .item,.chips a{background:#1C1A18}
+  a{color:#FDBA74}
+}
+</style>
+</head>
+<body><div class="wrap">
+<header class="site">
+  <a class="brand" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/"><span class="badge">建築<b>NEWS</b></span><span class="name">建築3分ニュース</span></a>
+  <a class="cta small" href="https://apps.apple.com/jp/app/id6800172328">アプリで読む</a>
+</header>
+
+<div class="issue-head"><div class="kicker">Latest issue</div><h1><a href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-09-06/" style="color:inherit;text-decoration:none">9月6日（日）号</a></h1></div>
+<div class="toc"><div class="kicker">IN THIS ISSUE</div><ol>
+<li><span class="num">1</span><a href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-09-06/#s1">ルーカス美術館が完成写真を公開、MAD設計の曲面建築が9月22日ロサンゼルスに開館</a></li>
+<li><span class="num">2</span><a href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-09-06/#s2">大阪IR「MGM大阪」の施設計画が判明、27階建てビルにカジノやホテル・劇場を集約</a></li>
+<li><span class="num">3</span><a href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-09-06/#s3">山本理顕設計の横須賀美術館が再オープン、約10カ月の改修終え記念コレクション展</a></li>
+</ol></div>
+<div class="appbox"><p>毎朝6時すぎに新しい号が届きます。<br>通知・保存・Podcastはアプリで。</p><a class="cta" href="https://apps.apple.com/jp/app/id6800172328">App Storeで「建築3分ニュース」を入手</a></div>
+<div class="sec-label">Daily archive</div><div class="list">
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-09-06/"><div class="date">9月6日（日）<span>2026-09-06</span></div><ul>
+<li>ルーカス美術館が完成写真を公開、MAD設計の曲面建築が9月22日ロサンゼルスに開館</li>
+<li>大阪IR「MGM大阪」の施設計画が判明、27階建てビルにカジノやホテル・劇場を集約</li>
+<li>山本理顕設計の横須賀美術館が再オープン、約10カ月の改修終え記念コレクション展</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-09-05/"><div class="date">9月5日（土）<span>2026-09-05</span></div><ul>
+<li>丸亀市民会館「THEATRE MAdo」があす開館、うちわの骨モチーフの1301席大ホール</li>
+<li>熊本地震後初の仮設住宅できょう入居開始、国交省は復興まちづくり支援チームを設置</li>
+<li>内閣府がPPP/PFI事業の優良事例を表彰、愛知国際アリーナなど6件を選定</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-09-04/"><div class="date">9月4日（金）<span>2026-09-04</span></div><ul>
+<li>丹下健三「船の体育館」の解体工事が一時中断へ、訴訟受け1カ月間の耐震実測調査</li>
+<li>横浜の園芸博が出展概要を初公表、万博「大屋根リング」の木材は60mタワーに</li>
+<li>大阪・平野駅徒歩2分で物流施設が着工、商業施設と一体の駅前複合開発 奥村組など</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-09-03/"><div class="date">9月3日（木）<span>2026-09-03</span></div><ul>
+<li>一級建築士「学科試験」の合格発表、合格率26.2%は現行の出題形式で過去最高</li>
+<li>JR松山駅前の「にぎわい施設」、事業協力者に三井不動産・JR四国・伊織を選定</li>
+<li>日本建築学会大会が9月8日に広島で開幕、約7000題の研究発表 テーマは「Play, Play, Play」</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-09-02/"><div class="date">9月2日（水）<span>2026-09-02</span></div><ul>
+<li>改正建築士法が成立、在学中の1級建築士受験が解禁へ 2級からの実務も2年に短縮</li>
+<li>防衛省が旧日鉄呉製鉄所の跡地約130ヘクタールを取得、複合防衛拠点の整備へ</li>
+<li>防災の日、政府が南海トラフ地震想定の総合防災訓練 大阪では「880万人訓練」も</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-09-01/"><div class="date">9月1日（火）<span>2026-09-01</span></div><ul>
+<li>7月の新設住宅着工は前年比8.2%増、持家・貸家・分譲がそろってプラスに 国交省発表</li>
+<li>民間工事の「4週8休以上」が約4割に上昇、公共工事中心の企業とはなお開き 国交省調査</li>
+<li>セサル・ペリ最後の設計「ローラ・モラ文化センター」が母国アルゼンチンに完成</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-31/"><div class="date">8月31日（月）<span>2026-08-31</span></div><ul>
+<li>福井県に一時「レベル5大雨特別警報」、記録的大雨で22河川が氾濫し住宅や病院に浸水</li>
+<li>熊本地震後初の建設型仮設住宅が氷川町で完成、9月5日から入居開始へ</li>
+<li>大林組が環境設計基盤「ArchiPALETTE」を開発、ビル風の解析を約500倍高速化</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-30/"><div class="date">8月30日（日）<span>2026-08-30</span></div><ul>
+<li>国交省の来年度予算要求は8.8兆円で44%増、新設よりインフラの「予防保全」に重点</li>
+<li>塚本由晴ディレクションの企画展「方丈記に学ぶ」開幕、9平米の小さな建築を再考</li>
+<li>キオクシアとサンディスクが国内5兆円投資、岩手・北上に新製造棟「K3棟」建設へ</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-29/"><div class="date">8月29日（土）<span>2026-08-29</span></div><ul>
+<li>大田区の学びの多様化学校「みらい学園」基本設計まとまる、曲線テラスの3階建て</li>
+<li>南海電鉄の泉ケ丘駅前再開発、商業棟が9月上旬着工 泉北ニュータウンの玄関口が更新</li>
+<li>鹿島建設が大空間向けの置換空調「SURF」を開発、床から2メートルだけ冷やす</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-28/"><div class="date">8月28日（金）<span>2026-08-28</span></div><ul>
+<li>川崎・扇島の製鉄所跡地に大規模冷凍冷蔵物流拠点、11棟・延べ37万平米へ</li>
+<li>大手町ゲートビルディング竣工、日本橋川に人道橋「仲通り散歩橋」が誕生</li>
+<li>山本理顕設計の横須賀美術館、約10カ月の改修を終え9月5日に再オープン</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-27/"><div class="date">8月27日（水）<span>2026-08-27</span></div><ul>
+<li>ネパール北部で大規模鉄砲水、55人死亡・家屋60軒流失 氷河湖決壊か</li>
+<li>羽田空港第1ターミナル、開業以来初の大規模拡張 木造ハイブリッドの北側サテライト公開</li>
+<li>大成建設ら、360度カメラ搭載ドローンで管路点検「T-pipe vision 360」開発</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-26/"><div class="date">8月26日（水）<span>2026-08-26</span></div><ul>
+<li>東京駅前・八重洲二丁目中地区再開発、施設名称「YAESU CORE」に決定</li>
+<li>「建設DX展[大阪]」開幕、自律運転建機や建設ロボットなど約80社出展</li>
+<li>非常に強い台風18号、8月26日未明に沖縄本島最接近し住宅倒壊級の暴風</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-25/"><div class="date">8月25日（火）<span>2026-08-25</span></div><ul>
+<li>JR宇都宮駅西口に地上20階「アトラスタワー宇都宮」完成、9月開業へ</li>
+<li>福岡・新天町商店街、天神ビッグバン最大級の再開発で基本設計完了</li>
+<li>住宅ローン「フラット35」金利、8月に3.290%で過去最高を更新</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-24/"><div class="date">8月24日（月）<span>2026-08-24</span></div><ul>
+<li>東京都、旧耐震のマンション3700棟に5年計画で個別訪問開始</li>
+<li>令和8年8月千葉豪雨、住宅の応急修理受付開始と外房線全線運転再開</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-23/"><div class="date">8月23日（日）<span>2026-08-23</span></div><ul>
+<li>令和8年8月千葉豪雨、浸水被害の半数超がハザードマップ想定区域外で発生</li>
+<li>大阪・関西万博の竹中工務店背任事件、別工事でも水増し請求の疑い</li>
+<li>銀座・阿部養清堂ビル竣工、老舗画廊と時計ブランド旗艦店が同居</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-22/"><div class="date">8月22日（土）<span>2026-08-22</span></div><ul>
+<li>東京・湯島三丁目地区再開発、地上40階延べ11万平米で31年度着工へ</li>
+<li>サムテック、スマホ撮影で20秒判定のAI橋梁点検サービス開始</li>
+<li>住宅ローン固定金利、13カ月連続最高値 フラット35は年3.290%に</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-21/"><div class="date">8月21日（金）<span>2026-08-21</span></div><ul>
+<li>大林組とAGC、解体現場の窓ガラスを国内初の水平リサイクルへ</li>
+<li>熊本地震で被災の甲佐町、初の建設型仮設住宅に着手 10月入居へ</li>
+<li>厚労省、残業「月45時間以内」への一律行政指導を9月から緩和</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-20/"><div class="date">8月20日（木）<span>2026-08-20</span></div><ul>
+<li>竹中工務店の元所長、大阪・関西万博工事費水増しの背任容疑で逮捕</li>
+<li>熊本地震で損傷の八代市庁舎、専門家「崩壊のおそれなし」使用継続</li>
+<li>清水建設と東京科学大学、既存建物再生へ建築生産の共同研究拠点を新設</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-19/"><div class="date">8月19日（水）<span>2026-08-19</span></div><ul>
+<li>タミヤホーム、空き家を地域公園に再生する「PARK TAMIYA」始動</li>
+<li>フラット35、8月の最低金利3.290%に上昇し現行制度で過去最高</li>
+<li>夜行列車の世界観まとう「R Hotel Nagoya Station」名古屋駅前に開業</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-18/"><div class="date">8月18日（火）<span>2026-08-18</span></div><ul>
+<li>三井不動産「三井リンクラボ東陽町1」竣工、化学系対応のラボ&amp;オフィス</li>
+<li>エトワール海渡の旧問屋ビル、馬喰町にアート拠点「偶然はない。」今秋開業</li>
+<li>RC造建物の耐用年数評価で「100年超」が3分の2に、日本建築センター調査</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-17/"><div class="date">8月17日（月）<span>2026-08-17</span></div><ul>
+<li>新宿駅前に「明治安田新宿ビル」竣工、23階建てに中外製薬入居へ</li>
+<li>中野駅西側に南北通路・橋上駅舎誕生、12月6日正午に供用開始</li>
+<li>大林組、CO2吸収コンクリートを福島の中間貯蔵施設工事に初適用</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-16/"><div class="date">8月16日（日）<span>2026-08-16</span></div><ul>
+<li>銀座「阿部養清堂ビル」竣工、老舗画廊とジャガー・ルクルト日本旗艦店が8月17日開業</li>
+<li>三菱UFJ銀行など短期プライムレート引き上げ、住宅ローン変動金利に波及へ</li>
+<li>2026年京都モダン建築祭、参加建築約150件で10月31日開幕</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-15/"><div class="date">8月15日（土）<span>2026-08-15</span></div><ul>
+<li>博多駅前に藤本壮介氏監修の都市公園「明治公園」が開園、福岡市初のPark-PFI活用</li>
+<li>隈研吾氏監修「軽井沢ワイナリー」第1期オープン、発地に新アート建築</li>
+<li>オリエンタル白石が台湾企業とプレキャストコンクリート合弁会社設立へ</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-14/"><div class="date">8月14日（金）<span>2026-08-14</span></div><ul>
+<li>熊本地震の被災地・氷川町で熊本県内初の2階建て仮設住宅が着工、10月入居へ</li>
+<li>永山祐子氏設計「THE GRANDUO GAKUGEIDAIGAKU」学芸大学に誕生</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-13/"><div class="date">8月13日（木）<span>2026-08-13</span></div><ul>
+<li>熊本地震の被災地・八代市で木造仮設住宅18戸が着工、10月入居へ</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-12/"><div class="date">8月12日（水）<span>2026-08-12</span></div><ul>
+<li>安藤忠雄設計「TIME&#x27;S」に国内初の建築ツーリズム拠点「京都建築センター」誕生</li>
+<li>築地市場跡地再開発「築地まちづくり」、超高層棟など1期工事は32年度完成へ</li>
+<li>ライフデザイン・カバヤ、CLTハイブリッド構法の3階建て新商品「SEKI」発売</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-11/"><div class="date">8月11日（火）<span>2026-08-11</span></div><ul>
+<li>隈研吾氏監修「軽井沢ワイナリー」第1期が発地エリアに8月オープン</li>
+<li>大成建設、雨水だけで運用する「ゼロウオータービル」福島県田村市に完成</li>
+<li>京都市営地下鉄・四条駅が今秋リニューアル、地下に新商業エリア誕生</li>
+</ul></a>
+<a class="row" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/i/2026-08-10/"><div class="date">8月10日（月）<span>2026-08-10</span></div><ul>
+<li>OMA重松象平氏監修、7層吹き抜けの「天神ビジネスセンターII」福岡に開業</li>
+<li>建築士法改正へ、在学中の1級建築士試験受験を解禁する方針を国交省が公表</li>
+<li>熊本地震、RC建築の層崩壊と老朽木造住宅の倒壊傾向を学会が分析</li>
+</ul></a>
+</div>
+
+<footer>
+  <p>「建築3分ニュース」は、毎朝3分で読める建築ニュースのiPhoneアプリです。記事は出典を要約・再構成したもので、詳細は各出典をご覧ください。解説は「Sho建築士AI」が生成しています。</p>
+  <p><a href="https://apps.apple.com/jp/app/id6800172328">App Store</a> ・ <a href="https://kenchiku3min.web.app/">サポート</a> ・ <a href="https://kenchiku3min.web.app/privacy.html">プライバシーポリシー</a><br>© 2026 Sho Nakamura / 株式会社ATAP Works</p>
+</footer>
+</div></body></html>
