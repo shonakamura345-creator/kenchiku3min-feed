@@ -21,6 +21,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 BASE_URL = "https://shonakamura345-creator.github.io/kenchiku3min-feed"
 APP_STORE_URL = "https://apps.apple.com/jp/app/id6800172328"
+LINE_URL = "https://line.me/R/ti/p/@860krbpe"
 SITE_NAME = "建築3分ニュース"
 OG_IMAGE = f"{BASE_URL}/assets/og.jpg"
 
@@ -76,6 +77,8 @@ article p{margin:0 0 14px}
 .appbox{background:var(--ink);color:#fff;border-radius:22px;padding:22px 20px;margin:8px 0 22px;text-align:center}
 .appbox p{margin:0 0 12px;font-size:.95rem;opacity:.9}
 .appbox .cta{background:var(--orange)}
+.appbox .cta.line{background:#06C755;margin-top:10px}
+.appbox .btns{display:flex;flex-direction:column;align-items:center;gap:2px}
 .list a.row{display:block;background:#fff;border:1px solid var(--line);border-radius:18px;padding:14px 16px;margin:0 0 10px;text-decoration:none;color:var(--ink)}
 .list .date{font-weight:800;font-size:.95rem}
 .list .date span{color:var(--sub);font-weight:600;font-size:.8rem;margin-left:8px}
@@ -147,7 +150,7 @@ def head(title: str, desc: str, url: str, extra_css: str = "") -> str:
 FOOTER = f"""
 <footer>
   <p>「{SITE_NAME}」は、毎朝3分で読める建築ニュースのiPhoneアプリです。記事は出典を要約・再構成したもので、詳細は各出典をご覧ください。解説は「Sho建築士AI」が生成しています。</p>
-  <p><a href="{APP_STORE_URL}">App Store</a> ・ <a href="https://kenchiku3min.web.app/">サポート</a> ・ <a href="https://kenchiku3min.web.app/privacy.html">プライバシーポリシー</a><br>© 2026 Sho Nakamura / 株式会社ATAP Works</p>
+  <p><a href="{APP_STORE_URL}">App Store</a> ・ <a href="{LINE_URL}">公式LINE</a> ・ <a href="https://kenchiku3min.web.app/">サポート</a> ・ <a href="https://kenchiku3min.web.app/privacy.html">プライバシーポリシー</a><br>© 2026 Sho Nakamura / 株式会社ATAP Works</p>
 </footer>
 </div></body></html>
 """
@@ -229,7 +232,8 @@ def render_issue(issue: dict, prev_issue: dict | None, next_issue: dict | None) 
 
     out.append(
         f'<div class="appbox"><p>毎朝6時すぎに新しい号が届きます。<br>通知・バックナンバー・Podcastはアプリで。</p>'
-        f'<a class="cta" href="{APP_STORE_URL}">App Storeで「{SITE_NAME}」を入手</a></div>'
+        f'<div class="btns"><a class="cta" href="{APP_STORE_URL}">App Storeで「{SITE_NAME}」を入手</a>'
+        f'<a class="cta line" href="{LINE_URL}">Sho建築士の公式LINEに登録（ツアー・登壇の告知）</a></div></div>'
     )
     nav = []
     nav.append(f'<a href="{issue_url(prev_issue["date"])}">← {jp_date(prev_issue["date"])}号</a>' if prev_issue else "<span></span>")
@@ -256,7 +260,8 @@ def render_index(issues: list[dict]) -> str:
         out.append("</ol></div>")
     out.append(
         f'<div class="appbox"><p>毎朝6時すぎに新しい号が届きます。<br>通知・保存・Podcastはアプリで。</p>'
-        f'<a class="cta" href="{APP_STORE_URL}">App Storeで「{SITE_NAME}」を入手</a></div>'
+        f'<div class="btns"><a class="cta" href="{APP_STORE_URL}">App Storeで「{SITE_NAME}」を入手</a>'
+        f'<a class="cta line" href="{LINE_URL}">Sho建築士の公式LINEに登録（ツアー・登壇の告知）</a></div></div>'
     )
     out.append('<div class="sec-label">Daily archive</div><div class="list">')
     for iss in issues:
