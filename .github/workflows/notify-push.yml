@@ -47,6 +47,20 @@ jobs:
             echo "will notify for $NEW_ID"
           fi
 
+      - name: Wait for GitHub Pages to serve the new issue
+        if: steps.check.outputs.send == 'true' && inputs.dry_run != true
+        env:
+          NEW_ID: ${{ steps.check.outputs.new_id }}
+        run: |
+          URL="https://shonakamura345-creator.github.io/kenchiku3min-feed/issues.json"
+          for i in $(seq 1 40); do
+            ID=$(curl -fsS "$URL?nocache=$(date +%s%N)" | python3 -c "import json,sys;print(json.load(sys.stdin)['issues'][0]['id'])" || echo "")
+            if [ "$ID" = "$NEW_ID" ]; then echo "Pages反映を確認（${i}回目）"; break; fi
+            sleep 15
+          done
+          # CDNは max-age=600 で古いJSONを最大10分持つ。v1.4未満のアプリはキャッシュを避けないので待つ
+          sleep 600
+
       - name: Send FCM push
         if: steps.check.outputs.send == 'true'
         env:
