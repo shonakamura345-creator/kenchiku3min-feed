@@ -32,29 +32,58 @@ jobs:
 
       - name: Check for new issue
         id: check
+        env:
+          FORCE: ${{ inputs.force }}
+          BEFORE: ${{ github.event.before }}
         run: |
-          NEW_ID=$(python3 -c "import json;print(json.load(open('issues.json'))['issues'][0]['id'])")
-          OLD_ID=""
-          if git rev-parse HEAD^ >/dev/null 2>&1 && git show HEAD^:issues.json > /tmp/prev.json 2>/dev/null; then
-            OLD_ID=$(python3 -c "import json;print(json.load(open('/tmp/prev.json'))['issues'][0]['id'])" 2>/dev/null || echo "")
+          # 比べる相手は push 前のコミット（1回のpushに複数コミットがあっても取りこぼさない）。無ければ HEAD^
+          PREV=""
+          if [ -n "${BEFORE:-}" ] && [ "$BEFORE" != "0000000000000000000000000000000000000000" ]; then
+            git fetch --no-tags --depth=1 origin "$BEFORE" >/dev/null 2>&1 && PREV="$BEFORE"
           fi
-          echo "new_id=$NEW_ID" >> "$GITHUB_OUTPUT"
-          if [ "$NEW_ID" = "$OLD_ID" ] && [ "${{ inputs.force }}" != "true" ]; then
-            echo "send=false" >> "$GITHUB_OUTPUT"
-            echo "issues[0].id unchanged ($NEW_ID) — skip notification"
-          else
-            echo "send=true" >> "$GITHUB_OUTPUT"
-            echo "will notify for $NEW_ID"
-          fi
+          if [ -z "$PREV" ] && git rev-parse HEAD^ >/dev/null 2>&1; then PREV="HEAD^"; fi
+          if [ -n "$PREV" ]; then git show "$PREV:issues.json" > /tmp/prev.json 2>/dev/null || rm -f /tmp/prev.json; fi
+          python3 - <<'PY'
+          import json, os
+
+          def latest(path):
+              try:
+                  return json.load(open(path))["issues"][0]
+              except Exception:
+                  return None
+
+          def has_en(issue):
+              # 英語の通知は、最新号の全記事に en.title があるときだけ
+              stories = (issue or {}).get("stories") or []
+              return bool(stories) and all(isinstance(s.get("en"), dict) and s["en"].get("title") for s in stories)
+
+          new = latest("issues.json")
+          old = latest("/tmp/prev.json") if os.path.exists("/tmp/prev.json") else None
+          force = os.environ.get("FORCE") == "true"
+          new_id = new["id"]
+          is_new_issue = old is None or old.get("id") != new_id
+
+          send_ja = is_new_issue or force
+          # 英語：新しい号に最初から en がある／同じ号にあとから en が付いた（毎朝は日本語→英語の順に2回pushする）
+          send_en = has_en(new) and (is_new_issue or force or not has_en(old))
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"new_id={new_id}\n")
+              f.write(f"send={'true' if send_ja else 'false'}\n")
+              f.write(f"send_en={'true' if send_en else 'false'}\n")
+          print(f"{new_id}: 日本語={'送る' if send_ja else 'skip（号IDが同じ）'} / 英語={'送る' if send_en else 'skip'}")
+          PY
 
       - name: Wait for GitHub Pages to serve the new issue
-        if: steps.check.outputs.send == 'true' && inputs.dry_run != true
+        if: (steps.check.outputs.send == 'true' || steps.check.outputs.send_en == 'true') && inputs.dry_run != true
         env:
           NEW_ID: ${{ steps.check.outputs.new_id }}
+          NEED_EN: ${{ steps.check.outputs.send_en }}
         run: |
           URL="https://shonakamura345-creator.github.io/kenchiku3min-feed/issues.json"
           for i in $(seq 1 40); do
-            ID=$(curl -fsS "$URL?nocache=$(date +%s%N)" | python3 -c "import json,sys;print(json.load(sys.stdin)['issues'][0]['id'])" || echo "")
+            # 英語を送るときは「号ID＋1本目のen」まで載ったら反映とみなす
+            ID=$(curl -fsS "$URL?nocache=$(date +%s%N)" | python3 -c "import json,sys,os;i=json.load(sys.stdin)['issues'][0];ok=os.environ.get('NEED_EN')!='true' or isinstance(i['stories'][0].get('en'),dict);print(i['id'] if ok else '')" || echo "")
             if [ "$ID" = "$NEW_ID" ]; then echo "Pages反映を確認（${i}回目）"; break; fi
             sleep 15
           done
@@ -128,4 +157,66 @@ jobs:
               print(f"::notice::検証のみ成功（配信していません）: {title} / {body}")
           else:
               print(f"::notice::プッシュ通知を送信しました: {title} / {body}")
+          PY
+
+      - name: Send FCM push (English)
+        if: ${{ !cancelled() && steps.check.outputs.send_en == 'true' }}
+        env:
+          FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          set -euo pipefail
+          if [ -z "${FCM_SERVICE_ACCOUNT:-}" ]; then
+            echo "::error::secret FCM_SERVICE_ACCOUNT が空です。Settings > Secrets and variables > Actions に登録してください。"
+            exit 1
+          fi
+          python3 -m pip install --quiet --disable-pip-version-check google-auth requests
+          python3 - <<'PY'
+          import datetime, json, os, sys, requests
+          from google.oauth2 import service_account
+          from google.auth.transport.requests import Request
+
+          dry_run = os.environ.get("DRY_RUN") == "true"
+          sa = json.loads(os.environ["FCM_SERVICE_ACCOUNT"])
+          creds = service_account.Credentials.from_service_account_info(
+              sa, scopes=["https://www.googleapis.com/auth/firebase.messaging"])
+          try:
+              creds.refresh(Request())
+          except Exception as e:
+              print("::error::サービスアカウントの認証に失敗しました（英語の通知）: " + str(e))
+              sys.exit(1)
+
+          issue = json.load(open("issues.json"))["issues"][0]
+          stories = issue.get("stories", [])
+          n = len(stories)
+          try:
+              d = datetime.date.fromisoformat(issue.get("date", ""))
+              datestr = d.strftime("%b ") + str(d.day)
+          except Exception:
+              datestr = "today"
+          title = f"Today's issue is out \u2014 {datestr}"
+          first = stories[0]["en"]["title"]
+          body = first + (f" + {n - 1} more" if n > 1 else "")
+
+          msg = {"message": {
+              "topic": "new-issue-en",
+              "notification": {"title": title, "body": body},
+              "data": {"issueId": issue["id"], "storyIndex": "0", "kind": "issue"},
+              "apns": {"payload": {"aps": {"sound": "default"}}},
+          }}
+          if dry_run:
+              msg["validate_only"] = True
+
+          r = requests.post(
+              f"https://fcm.googleapis.com/v1/projects/{sa['project_id']}/messages:send",
+              headers={"Authorization": f"Bearer {creds.token}"},
+              json=msg, timeout=30)
+          print(r.status_code, r.text[:300])
+          if not r.ok:
+              print(f"::error::英語の通知の送信に失敗しました (HTTP {r.status_code}): {r.text[:300]}")
+              sys.exit(1)
+          if dry_run:
+              print(f"::notice::英語の通知：検証のみ成功（配信していません）: {title} / {body}")
+          else:
+              print(f"::notice::英語の通知を new-issue-en に送信しました: {title} / {body}")
           PY
