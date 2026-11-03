@@ -1,6 +1,149 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-04",
+      "date": "2026-11-04",
+      "weekday": "水",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-04-s1",
+          "number": 1,
+          "title": "松本の古い建物19会場にアート 「マツモト建築芸術祭」第2期が開幕、浅間温泉も初参加",
+          "summary": "長野県松本市の歴史ある建物を会場にした「マツモト建築芸術祭2026 ADVANCE」の第2期が11月3日に開幕。18組が19会場で展示します。",
+          "body": [
+            "長野県松本市で、市内の歴史ある建物を会場にアート作品を展示する「マツモト建築芸術祭2026 ADVANCE」の第2期が、11月3日に開幕しました。会期は12月13日までで、国内外の18組のアーティストが、市内18施設・19会場で19の展覧会を開きます。参加作家には、李禹煥さん、チームラボ、ジュリアン・オピーさんらが名を連ねています。",
+            "今回は会場を「城下町」「旧六九商店街」「浅間温泉」「西」の4エリアに広げ、浅間温泉が初めて加わりました。浅間温泉エリアでは、大正8（1919）年に建てられた私設図書館「松門文庫」、かつて芸妓が稽古をした旧浅間温泉芸苑組合、老舗旅館の大浴場を改修したブックホテル「松本本箱」、空き家になった旧土産物店の4施設が会場になります。",
+            "第2期は、まちを歩いて会場を巡る周遊型の形式で、建築と作品の関係に焦点を当てます。"
+          ],
+          "commentary": "大浴場だった場所に、本が並んでいます。浅間温泉の「松本本箱」は、老舗旅館のお風呂を改修したブックホテルです。今回の芸術祭は、こういう「もとは別の用途だった建物」を会場に選んでいるのが面白いところなんです。美術館の展示室は、作品だけに目が向くよう、わざと白くて何もない箱につくられています。でも芸妓さんの稽古場や土産物店は違います。床の板の色や天井の低さ、窓から入る光に、その建物が過ごしてきた時間が残っている。そこに作品を置くと、作品を見ているつもりで、いつの間にか建物のほうも見ているんですよね。空き家になった旧土産物店が会場に入っているのも大事な点です。人が入る理由ができれば、閉じていた建物の中をもう一度見てもらえます。大正8年に建った松門文庫も、会場の一つです。",
+          "briefing": [
+            "旧六九商店街エリアでは、atelier m4 今町スタジオ、旧油三洋裁店、旧高松屋商店の3施設が会場になります。かつての洋裁店や商店の建物が、そのまま展示空間として使われます。",
+            "これまでの回は中心市街地を軸に開かれてきましたが、今回は温泉街まで会場を広げました。開場時間や休みの日は会場ごとに異なるため、訪れる前に公式サイトで確認するよう呼びかけられています。",
+            "今年は2期構成で、第1期は松本市立博物館を舞台に、複数の映像作品を同じ空間に並べる形式でした。芸術祭は「東アジア文化都市2026松本」のメインプログラムの一つに位置づけられています。"
+          ],
+          "sources": [
+            {
+              "name": "マツモト建築芸術祭（公式）",
+              "url": "https://maaf.jp/area-map/venue_2026_14"
+            },
+            {
+              "name": "美術手帖",
+              "url": "https://bijutsutecho.com/magazine/news/exhibition/33119"
+            },
+            {
+              "name": "市民タイムスWEB",
+              "url": "https://www.shimintimes.co.jp/news/2026/10/post-15470/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "見る祭と使う祭",
+              "body": "近年は京都モダン建築祭やイケフェス大阪のように、ふだん入れない建物を公開する「建築祭」が全国で増えています。マツモト建築芸術祭は、建物を公開するだけでなく、そこにアート作品を置いて見せる点が特徴です。建物そのものを見せる催しと、建物を舞台として使う催しの両方が広がっているといえます。"
+            },
+            {
+              "title": "空き家に人を入れる",
+              "body": "芸術祭の会場に空き店舗や空き家を使う取り組みは、各地の芸術祭で行われてきました。期間限定でも人が出入りすることで、建物の状態が確かめられ、その後の使い道を考えるきっかけにもなります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "マツモト建築芸術祭（公式）",
+          "sourceURL": "https://maaf.jp/area-map/venue_2026_14",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-04-s2",
+          "number": 2,
+          "title": "千代田区、再開発マンションに「5年間の転売禁止」を要請 個別の事業者へは初めて",
+          "summary": "東京都千代田区が10月27日、再開発で建つ新築分譲マンションに引き渡し後5年間の転売禁止を設けるよう、三菱地所レジデンスなどに要請しました。",
+          "body": [
+            "東京都千代田区は10月27日、区内の再開発で計画されている新築分譲マンションについて、引き渡し後5年間は転売を禁止する特約を設けるよう、三菱地所レジデンスなどに要請しました。同じ名義で複数の住戸を買うことの禁止も求めています。投機目的の購入を抑え、価格の高騰を和らげる狙いです。",
+            "対象は、市街地再開発事業などで容積率の緩和や補助金を受けて建てられる分譲マンションに限られ、純粋な民間開発の物件は含みません。区は2025年7月に、大手デベロッパーの業界団体である不動産協会へ同様の要請をしていましたが、個別の事業者に求めるのは今回が初めてです。"
+          ],
+          "commentary": "5年。新築マンションを買ってから、売ってはいけない期間として区が求めた長さです。民間どうしの売買に、なぜ区が口を出すのか。カギは「再開発」という条件にあります。再開発では、広場や歩道をつくってまちに貢献する代わりに、建物をふつうより大きく建ててよいことがあるんです。敷地の広さに対して、どれだけの床を積み上げてよいかという上限、つまり容積率を引き上げる仕組みです。補助金という税金が入ることもあります。まちのために特別に認めた床が、すぐ転売されて値上がりの材料になる。区が対象を再開発の物件に絞ったのは、そこを問題にしているからだと読めます。一方で、転勤や家族の事情で数年のうちに手放したい人もいるはずですよね。公共の手が入った住まいは、誰のためのものなんでしょうね。",
+          "briefing": [
+            "区が2025年7月に不動産協会へ要請した後、協会側は投機的な購入への対策を打ち出していました。今回の個別要請は、業界団体への呼びかけから一歩踏み込んだ形です。",
+            "要請は法律による規制ではなく、売買契約に特約を入れるよう事業者に求めるものです。純粋な民間開発のマンションは対象に含まれていません。"
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOCC272K50X21C26A0000000/"
+            },
+            {
+              "name": "東京新聞",
+              "url": "https://www.tokyo-np.co.jp/article/524317"
+            },
+            {
+              "name": "毎日新聞（Yahoo!ニュース）",
+              "url": "https://news.yahoo.co.jp/articles/f9e870fa68c9db040c7c2a10ddfa75570a0bceba"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "容積率の緩和",
+              "body": "再開発では、公開空地や道路の整備など公共への貢献と引き換えに、通常より大きな容積率が認められることがあります。都心の超高層マンションの多くは、こうした仕組みで生まれた床でできています。その床の使われ方に自治体が条件をつけようとしているのが今回の要請です。"
+            },
+            {
+              "title": "1億円を超えた平均",
+              "body": "首都圏の新築マンションは、2026年4〜9月の平均価格が初めて1億円を超え、1億1494万円になりました（10月21日号でお伝えしました）。価格の高騰に投資目的の購入が影響しているとの見方があり、自治体が対策に乗り出す背景になっています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "日本経済新聞",
+          "sourceURL": "https://www.nikkei.com/article/DGXZQOCC272K50X21C26A0000000/",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-04-s3",
+          "number": 3,
+          "title": "防災庁が11月2日に発足 初代担当相が「最低3日、できれば1週間分」の備蓄を緊急要請",
+          "summary": "災害対応の司令塔となる防災庁が11月2日に発足。初代担当相の細野豪志氏は、水や食料を最低3日分、できれば1週間分備えるよう国民に要請しました。",
+          "body": [
+            "災害対応の司令塔となる「防災庁」が11月2日に発足しました。首相をトップとし、細野豪志氏が初代の担当相を務めます。省庁を横断して防災・災害対応を取りまとめる組織で、各省庁への勧告権も持ちます。",
+            "細野担当相は発足初日に「緊急要請」を出し、国民に水や食料、携帯トイレを最低3日分、できれば1週間分備蓄するよう呼びかけました。あわせて自治体や各省庁にも防災対策の強化を求め、年内をめどに対応の状況を確認するとしています。"
+          ],
+          "commentary": "最低3日、できれば1週間。この備蓄の呼びかけは、実は「家にいられること」が前提なんです。避難所に行かずに自宅で過ごす在宅避難は、建物が無事で、中が安全であって初めて成り立ちます。水は1人1日3リットルが目安とされています。4人家族で1週間なら84リットル、2リットルのペットボトルで42本です。これをどこに置くかは、立派な住まいの設計の問題なんですよね。もう一つは家具です。揺れで倒れた本棚が廊下をふさぐと、建物が無事でも外に出られなくなります。備蓄は、家の耐震と家具の置き方とセットで考える話だと思うんです。今度水を買い足すときは、玄関や廊下ではなく、崩れても通り道をふさがない場所に置いてみてください。",
+          "briefing": [
+            "発足日の11月2日は、政府が閣議決定で定めました。細野氏は復興相も務めています。",
+            "細野氏は発足前の10月13日の記者会見で、11月2日の発足時に各省庁へ要請を出す考えを示し、勧告権は要請が十分に実現されない場合の次の段階の手段だと説明していました。",
+            "備蓄の対象として挙げられた携帯トイレは、断水で水洗トイレが使えなくなったときのためのものです。水や食料と並べて呼びかけられた点が、今回の要請の特徴です。"
+          ],
+          "sources": [
+            {
+              "name": "内閣府（公式）",
+              "url": "https://www.cao.go.jp/minister/2609_g_hosono/kaiken/20261013kaiken.html"
+            },
+            {
+              "name": "時事ドットコム",
+              "url": "https://www.jiji.com/jc/article?k=2026110200085&g=pol"
+            },
+            {
+              "name": "テレビ朝日系（ANN）",
+              "url": "https://news.yahoo.co.jp/articles/93128b47cf00aeec0bcc77f1293fdc6f1701738e"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "在宅避難と耐震",
+              "body": "大きな地震のあと、避難所の混雑や生活環境の問題から、自宅が安全なら自宅で過ごす「在宅避難」が勧められるようになっています。その前提になるのが建物の耐震性で、1981年に導入された新耐震基準が一つの目安とされます。備蓄の呼びかけは、住まいの安全性と切り離せません。"
+            },
+            {
+              "title": "調整役から司令塔へ",
+              "body": "これまで国の防災は、内閣府の防災担当が各省庁の調整役を担ってきました。防災庁は首相をトップに置き、勧告権を持つことで、より強い司令塔を目指します。熊本地震からの復旧が続くなかでの発足になりました。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "内閣府（公式）",
+          "sourceURL": "https://www.cao.go.jp/minister/2609_g_hosono/kaiken/20261013kaiken.html",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-03",
       "date": "2026-11-03",
       "weekday": "火",
@@ -6382,227 +6525,6 @@
               {
                 "title": "The spread of Park-PFI",
                 "body": "Since a 2017 amendment to Japan's Urban Parks Act created a public tender system for installing and managing park facilities, known as Park-PFI, the approach of putting private revenue-generating facilities in parks to cover development and maintenance costs has spread nationwide. In parks next to historic sites, limits on scenery and building height are strict, so balancing profitability with heritage becomes the key question in choosing an operator."
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-05",
-      "date": "2026-10-05",
-      "weekday": "月",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-05-s1",
-          "number": 1,
-          "title": "続報：熊本地震で県内初の2階建て仮設住宅に入居開始 氷川町、浸水想定区域で垂直避難にも対応",
-          "summary": "熊本県が氷川町に整備した県内初の2階建て仮設住宅「新村仮設団地」で10月4日に入居が開始。用地不足に対応し、同じ面積で平屋の約1.5倍の戸数を確保します。",
-          "body": [
-            "2026年熊本地震で被災した熊本県氷川町で、県内で初めての2階建ての建設型仮設住宅「新村仮設団地」への入居が10月4日に始まりました。熊本日日新聞によると、軽量鉄骨造2階建てで13戸、34人が入居します。9月5日号でお伝えした同町の吉本仮設団地など、これまでの仮設はすべて平屋でした。",
-            "2階建てにした理由は用地の不足です。町内には平らな建設用地が少なく、NHKによると2階建てにすることで同じ面積の土地に平屋の約1.5倍の戸数を確保できます。この用地は浸水想定区域内にあり、大雨の際には事前避難が求められる場所ですが、万一の浸水時には2階へ垂直避難できる構成でもあります。",
-            "熊本県は建設型仮設住宅を全体で700戸整備する計画で、このうち88戸を2階建てとし、八代市でも整備が進んでいます。県はこのほか、仕事の都合で自宅を離れにくい被災者向けに、自宅敷地内にコンテナハウスなどを置く仮設住宅も案内しており、仮設の形が多様化しています。"
-          ],
-          "commentary": "仮設住宅が2階建てになりました。たったそれだけ、と思うかもしれません。でも建設型の仮設は、法律上は「応急」の建物です。早く建てて、原則2年で撤去する前提なので、平屋のプレハブを並べるのが長年の標準でした。今回それを2階建てにした理由は、土地がないから。平らな土地が少ない町では、同じ面積で1.5倍の戸数を確保できる差が、入居を待つ家族の数に直結します。もう一つ、僕が注目しているのは、この用地が浸水想定区域の中にあることです。地震の仮設なのに、次に来るのは大雨かもしれない。2階があれば、垂直避難ができます。放送でも、坂茂さんの紙の間仕切りの話をしましたが、災害のときの建築は「早さ」と「安全」と「数」を同時に求められます。平屋を並べるだけが答えではなくなった、ということだと思います。熊本県が計画する仮設は700戸。そのうち2階建ては88戸です。",
-          "briefing": [
-            "新村仮設団地は氷川町宮原に整備された町内4か所目の仮設団地。先行する3団地の計62戸はすべて平屋で、今回の13戸が県内初の2階建て（熊本日日新聞）",
-            "熊本県は8月13日に2階建て仮設の建設に着手。県全体の建設型仮設計画700戸のうち88戸が2階建てで、八代市でも整備中（NHK）",
-            "熊本市は10月1日から南区の仮設団地3か所・計14戸の入居者を追加募集し、入居開始は10月17日の予定。甲佐町でも平屋7棟20戸の仮設が10月上旬の入居開始を目指す"
-          ],
-          "sources": [
-            {
-              "name": "熊本県（公式）",
-              "url": "https://www.pref.kumamoto.jp/soshiki/117/275490.html"
-            },
-            {
-              "name": "熊本日日新聞",
-              "url": "https://kumanichi.com/articles/2041424"
-            },
-            {
-              "name": "NHK",
-              "url": "https://news.web.nhk/newsweb/na/nd-20260930de53425"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "建設型と借り上げ型",
-              "body": "応急仮設住宅には、プレハブなどを建てる建設型と、民間の空き賃貸住宅を自治体が借り上げる「みなし仮設」があります。災害救助法では供与期間を原則2年とし、建設型は用地の確保が常に課題で、2016年の熊本地震や2024年の能登半島地震でも用地不足から入居までの時間差が生じました。"
-            },
-            {
-              "title": "仮設住宅の多様化",
-              "body": "能登半島地震では木造の長屋型や、将来は公営住宅に転用できる「ふるさと回帰型」の仮設が導入され、2階建ての仮設も一部で採用されました。撤去前提の平屋から、土地条件や将来の活用を考えた形へと、仮設住宅の設計は災害ごとに更新されています。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "熊本県（公式）",
-          "sourceURL": "https://www.pref.kumamoto.jp/soshiki/117/275490.html",
-          "shoComment": "",
-          "en": {
-            "title": "Update: Kumamoto's first two-story temporary housing opens after quake, allowing vertical flood evacuation",
-            "summary": "On Oct 4, residents began moving into the Shinmura temporary housing complex in the town of Hikawa, the first two-story temporary housing built in Kumamoto Prefecture. Built in response to a shortage of land, it fits about 1.5 times as many units as single-story housing on the same area.",
-            "body": [
-              "In Hikawa, a town in Kumamoto Prefecture on the southern island of Kyushu that was hit by the 2026 Kumamoto earthquake, residents began moving on Oct 4 into the Shinmura temporary housing complex, the prefecture's first two-story purpose-built temporary housing. According to the Kumamoto Nichinichi Shimbun, the light-gauge steel, two-story buildings have 13 units, housing 34 people. All of the temporary housing built so far, including the town's Yoshimoto complex we reported on Sept 5, has been single-story.",
-              "The reason for going two-story was a lack of land. There is little flat land for building in the town, and according to NHK, going two-story allows about 1.5 times as many units as single-story housing on the same amount of land. The site is in a zone mapped as at risk of flooding, where residents are asked to evacuate in advance during heavy rain, but the layout also lets residents evacuate vertically to the second floor if flooding does occur.",
-              "Kumamoto Prefecture plans to build 700 purpose-built temporary housing units in all, 88 of them two-story, and construction is also under way in the city of Yatsushiro. The prefecture is also offering another form of temporary housing for disaster victims who find it hard to leave home because of work, placing container houses or similar units on their own property. Temporary housing is taking on more varied forms."
-            ],
-            "commentary": "Temporary housing has gone two-story. You might think, is that all? But purpose-built temporary housing is legally an “emergency” building. It's meant to go up fast and, in principle, come down after two years, so rows of single-story prefabs have been the standard for a long time. The reason for going two-story this time is that there's no land. In a town with little flat land, the difference of fitting 1.5 times as many units on the same area translates directly into the number of families waiting to move in. Another thing I'm paying attention to is that this site is inside a zone at risk of flooding. It's temporary housing for an earthquake, but the next thing to hit might be heavy rain. With a second floor, residents can evacuate vertically. I've also talked on my show about architect Shigeru Ban's paper partitions for evacuation shelters: architecture in a disaster has to deliver speed, safety and numbers all at once. I think this means lining up single-story units is no longer the only answer. Kumamoto Prefecture plans 700 temporary units. Of those, 88 are two-story.",
-            "briefing": [
-              "The Shinmura complex in Hikawa's Miyahara area is the town's fourth temporary housing complex. The 62 units in the three earlier complexes are all single-story, and these 13 units are the first two-story ones in the prefecture (Kumamoto Nichinichi Shimbun)",
-              "Kumamoto Prefecture began building the two-story units on Aug 13. Of the 700 purpose-built temporary units planned across the prefecture, 88 are two-story, and more are being built in Yatsushiro (NHK)",
-              "From Oct 1, the city of Kumamoto has been seeking additional residents for 14 units at three temporary complexes in its Minami Ward, with move-in planned for Oct 17. In the town of Kosa, 20 units in seven single-story buildings are aiming for move-in to begin in early October"
-            ],
-            "hojosen": [
-              {
-                "title": "Built versus leased",
-                "body": "Emergency temporary housing comes in two types: purpose-built units such as prefabs, and “deemed temporary housing,” in which local governments rent vacant private apartments. Under the Disaster Relief Act, housing is provided for two years in principle. Securing land is a constant problem for purpose-built housing, and land shortages delayed move-ins after both the 2016 Kumamoto earthquake and the 2024 Noto Peninsula earthquake."
-              },
-              {
-                "title": "Temporary housing diversifies",
-                "body": "After the Noto Peninsula earthquake, wooden row-house units and a “hometown return” type that can later be converted into public housing were introduced, and two-story temporary housing was also used in some places. Temporary housing design is being updated with each disaster, moving from single-story units meant to be removed toward forms shaped by site conditions and future use."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-05-s2",
-          "number": 2,
-          "title": "きょう10月5日は「世界建築の日」 UIAが掲げた今年のテーマは「住まいは人権。建てよう」",
-          "summary": "国際建築家連合（UIA）が定める「世界建築の日」は10月の第1月曜日で、今年は10月5日。テーマは「住まいは人権。建てよう」で、住宅危機への関与を求めます。",
-          "body": [
-            "きょう10月5日は、国際建築家連合（UIA）が定める「世界建築の日」です。1985年にUIAが創設し、国連の「世界ハビタットデー」と同じ10月の第1月曜日に毎年開かれています。2026年のテーマは「Housing is a Human Right. Build It.（住まいは人権。建てよう）」で、UIAは当日にオンラインのウェビナーも予定しています。",
-            "UIAは、住宅危機が世界の都市と地域社会が直面する最も差し迫った課題の一つだとし、適切な住まいへのアクセスを基本的な権利として認めるべきだと訴えています。建築家には設計の実務にとどまらず、住宅政策や住宅の手の届きやすさの議論に加わること、包摂的な住宅モデルの開発や既存建物の再利用など、現実的で持続可能な手法を求めています。",
-            "国連の世界ハビタットデーの今年のテーマも「すべての人に適切な住まいを」で、両者が足並みをそろえた形です。日本では住宅の数そのものは足りている一方、10月1日号でお伝えしたように持家の着工は伸び悩み、金利と建築費の上昇が住まいの選択を狭めています。"
-          ],
-          "commentary": "「住まいは人権」と言われると、日本では少し遠い話に聞こえるかもしれません。路上で暮らす人が多い国の話だろう、と。でも僕は、日本には日本の住宅問題があると思っています。きょうの放送でも話したんですが、取り壊される住宅の平均築年数は、日本が32年、アメリカが67年、イギリスが81年です。日本の家は、ローンを払い終わるころに壊される。つまり資産として残らない家を、個人が一生かけて買っている。UIAのメッセージには「既存の建物を再利用せよ」という一節があります。これ、日本にこそ刺さる言葉だと思うんです。32年で壊す前提をやめて、80年使える家をつくり、直して住み継ぐ。それができれば、次の世代は家を「買う」のではなく「受け取る」ことができます。住まいを権利として守るというのは、新しく建て続けることだけじゃない。皆さんの家は、何年もつ前提で建てられたものでしょうか。",
-          "briefing": [
-            "世界建築の日は1985年にUIAが創設。1996年からは国連の世界ハビタットデー（10月第1月曜日）と同じ日に開催されており、毎年テーマを決めて各国の建築家団体がイベントを行う",
-            "UIAのメッセージは「住宅は贅沢品ではなく権利」「建築家は設計の枠を超え、住宅政策や手の届きやすさの議論に関与せよ」「包摂的な住宅モデルの開発と既存ストックの再利用」の3点が柱（UIA公式）",
-            "2026年の世界ハビタットデーのテーマは「Adequate Housing for All（すべての人に適切な住まいを）」。国連ハビタットも同日に世界建築の日の催しを案内している"
-          ],
-          "sources": [
-            {
-              "name": "国際建築家連合 UIA（公式）",
-              "url": "https://www.uia-architectes.org/en/news/world-architecture-day-2026-housing-is-a-human-right-build-it/"
-            },
-            {
-              "name": "World Architecture Community",
-              "url": "https://worldarchitecture.org/architecture-news/egzng/uia-to-hold-world-architecture-day-webinar-on-5-october.html"
-            },
-            {
-              "name": "国連ハビタット",
-              "url": "https://unhabitat.org/events/world-architecture-day-1"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "日本の住宅寿命",
-              "body": "国土交通省の推計では、取り壊された住宅の平均築後年数は日本が約32年、米国が約67年、英国が約81年とされ、日本は際立って短い。1980年代以前の住宅性能の低さや、中古住宅の評価が築20年前後でほぼゼロになる取引慣行が背景にあり、既存住宅の流通促進が長年の政策課題です。"
-            },
-            {
-              "title": "UIAと日本",
-              "body": "国際建築家連合（UIA）は1948年設立の建築家団体の国際組織で、日本からは日本建築家協会（JIA）などが加盟しています。2011年には東京でUIA世界大会が開かれ、3年ごとの大会ではプリツカー賞と並ぶUIAゴールドメダルも授与されます。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "国際建築家連合 UIA（公式）",
-          "sourceURL": "https://www.uia-architectes.org/en/news/world-architecture-day-2026-housing-is-a-human-right-build-it/",
-          "shoComment": "",
-          "en": {
-            "title": "Today, Oct 5, is World Architecture Day, with the theme “Housing is a Human Right. Build It.”",
-            "summary": "World Architecture Day, set by the International Union of Architects (UIA), falls on the first Monday of October, which is Oct 5 this year. Under the 2026 theme, “Housing is a Human Right. Build It.” the UIA is calling on architects to get involved in the housing crisis.",
-            "body": [
-              "Today, Oct 5, is World Architecture Day, established by the International Union of Architects (UIA), the global federation of architects' organizations. The UIA created the day in 1985, and it is held every year on the first Monday of October, the same day as the United Nations' World Habitat Day. The theme for 2026 is “Housing is a Human Right. Build It.” The UIA has also scheduled an online webinar for the day.",
-              "The UIA describes the housing crisis as one of the most pressing challenges facing cities and communities around the world and argues that access to adequate housing should be recognized as a basic right. It calls on architects to go beyond design work and join debates on housing policy and affordability, and to pursue practical, sustainable approaches such as developing inclusive housing models and reusing existing buildings.",
-              "This year's theme for the UN's World Habitat Day is “Adequate Housing for All,” so the two are in step. In Japan, there is no shortage of housing in sheer numbers, but as we reported on Oct 1, starts of owner-occupied homes are sluggish, and rising interest rates and construction costs are narrowing people's housing choices."
-            ],
-            "commentary": "When someone says “housing is a human right,” it may sound a bit distant in Japan. Something for countries where lots of people live on the street, you might think. But I believe Japan has its own housing problem. As I said on today's show, the average age of homes when they're demolished is 32 years in Japan, 67 in the United States and 81 in the United Kingdom. Japanese houses get torn down around the time the mortgage is paid off. In other words, people spend their whole lives buying homes that don't last as assets. The UIA's message includes a line about reusing existing buildings. I think that's a message Japan especially needs to hear. Stop assuming we'll tear houses down after 32 years, build homes that can be used for 80, and keep repairing them so the next people can live in them. If we can do that, the next generation won't have to “buy” a home. They can “receive” one. Protecting housing as a right isn't only about continuing to build new things. How many years was your home built to last?",
-            "briefing": [
-              "The UIA created World Architecture Day in 1985. Since 1996 it has been held on the same day as the UN's World Habitat Day (the first Monday of October), with a theme set each year and architects' organizations in many countries holding events",
-              "The UIA's message rests on three points: housing is a right, not a luxury; architects should go beyond design and take part in debates on housing policy and affordability; and inclusive housing models should be developed and the existing building stock reused (UIA)",
-              "The theme of World Habitat Day 2026 is “Adequate Housing for All.” UN-Habitat is also promoting World Architecture Day events on the same day"
-            ],
-            "hojosen": [
-              {
-                "title": "How long Japanese homes last",
-                "body": "According to estimates by the Ministry of Land, Infrastructure, Transport and Tourism, the average age of demolished homes is about 32 years in Japan, about 67 in the US and about 81 in the UK, making Japan's strikingly short. Behind this are the low performance of homes built before the 1980s and a market practice in which a used house's value drops to almost zero at around 20 years old. Encouraging sales of existing homes has long been a policy goal."
-              },
-              {
-                "title": "The UIA and Japan",
-                "body": "The International Union of Architects (UIA), founded in 1948, is the international body of architects' organizations, and its members from Japan include the Japan Institute of Architects (JIA). The UIA World Congress was held in Tokyo in 2011, and the congress, held every three years, also awards the UIA Gold Medal, which is ranked alongside the Pritzker Prize."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-05-s3",
-          "number": 3,
-          "title": "三井不動産がロンドン「大英図書館」の再開発に着工 2300億円は日本企業の欧州投資で最大",
-          "summary": "三井不動産が英ロンドンで「大英図書館再開発事業」に着工。投資額約2300億円は日本企業の欧州不動産投資で最大で、設計はRSHP、2032年竣工を目指します。",
-          "body": [
-            "三井不動産は、英ロンドンのキングスクロス地区で進める「（仮称）大英図書館再開発事業」に9月17日に着工し、21日には日本式の地鎮祭を含む着工式を開きました。読売新聞によると投資額は11億ポンド（約2300億円）で、日本企業の欧州での不動産投資として過去最大です。竣工は2032年を見込みます。",
-            "計画は大英図書館の敷地の一部に、SRC造地上11階・地下1階、延べ面積約104万平方フィート（約9万6000平方メートル）の複合ビルを建てるものです。図書館部分には約10万平方フィートの新しい公共空間を設け、展示ギャラリーや学習センター、イベントスペースを既存の図書館とつなぎます。上層階はオフィスとラボで、英国が強みを持つライフサイエンス分野の企業や研究機関の入居を想定しています。",
-            "設計はポンピドゥー・センターやロンドンのリーデンホール・ビルで知られるRSHP、構造・設備はアラップ、開発マネジメントはスタンホープ、施工マネジメントはメイスが担当します。英メディアによると、新ビルにはアラン・チューリング研究所の本部も入る予定です。"
-          ],
-          "commentary": "大英図書館といえば、赤れんがの外壁と、入口前の広場に立つニュートンの像を思い浮かべる人も多いと思います。1990年代に完成した、英国で最も新しい世代の国立建築の一つです。その隣に、日本のデベロッパーが2300億円をかけてビルを建てる。しかも中身は図書館の拡張だけでなく、上はラボとオフィス。図書館の床は全体の1割ほどで、残りは生命科学の企業に貸す計画です。ここが面白いところで、公共の文化施設を増やす費用を、民間のオフィス賃料で賄う仕組みなんです。日本でも、庁舎や図書館の建て替えにホテルやオフィスを重ねて事業を成り立たせる例が増えましたよね。ロンドンでそれを日本企業がやる。設計は英国を代表するRSHPで、既存の図書館との関係をどう取るかが見どころになります。完成は2032年。ロンドンに行く機会があったら、キングスクロス駅を出て図書館の脇をのぞいてみてください。6年かけて、国立図書館の隣に何が建つのか。その工事の始まりが、今です。",
-          "briefing": [
-            "事業主体は英国三井不動産の全額出資会社と大英図書館の共同で、三井不動産は2025年3月に参画を発表。同社にとって英国初のライフサイエンス向けラボ＆オフィス開発（三井不動産）",
-            "規模はSRC造地上11階・地下1階、延べ約104万平方フィート（約2万9200坪）。図書館部分は約10万平方フィート（約2800坪）の公共空間を新設し、既存施設と接続する（PR TIMES）",
-            "英BDによると、既存の大英図書館は1990年代完成のグレードI指定建築。新築部分の図書館床は1割未満で、残りはライフサイエンス系テナント向けオフィスとアラン・チューリング研究所の新本部に充てる"
-          ],
-          "sources": [
-            {
-              "name": "三井不動産（公式・PR TIMES）",
-              "url": "https://prtimes.jp/main/html/rd/p/000001143.000051782.html"
-            },
-            {
-              "name": "BUILT（ITmedia）",
-              "url": "https://built.itmedia.co.jp/bt/articles/2609/30/news113.html"
-            },
-            {
-              "name": "読売新聞オンライン（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/0f989e224d12c241840e37c5caea84abfef1a5e2"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "日本の不動産会社の海外展開",
-              "body": "三井不動産や三菱地所、森ビルなどは2010年代からロンドンやニューヨークで大型開発を手がけてきました。国内の人口減少を見据えて海外の賃貸資産を増やす流れで、ロンドンでは三井不動産がBBCテレビジョンセンター跡地の再開発にも参画しています。"
-            },
-            {
-              "title": "公共施設と民間開発の合築",
-              "body": "図書館や庁舎などの公共施設を、民間のオフィスや住宅と一体で建てて事業費を賄う手法は日本でも広がっています。公共側は新しい施設を得て、民間側は一等地の開発権を得る構図で、文化施設の質を保てるかどうかは設計と契約の組み方にかかっています。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "三井不動産（公式・PR TIMES）",
-          "sourceURL": "https://prtimes.jp/main/html/rd/p/000001143.000051782.html",
-          "shoComment": "",
-          "en": {
-            "title": "Mitsui Fudosan breaks ground on London's British Library redevelopment, a record for Japan in Europe",
-            "summary": "Mitsui Fudosan has broken ground on the British Library redevelopment in London. At about ¥230 billion, it is the largest European property investment ever made by a Japanese company. The building is designed by RSHP and is due to be completed in 2032.",
-            "body": [
-              "Mitsui Fudosan, one of Japan's largest real estate developers, broke ground on Sept 17 on the British Library Redevelopment Project (working name) in London's King's Cross district, and on Sept 21 held a groundbreaking ceremony that included a Japanese-style jichinsai, a Shinto ritual to purify a site before construction. According to the Yomiuri Shimbun, the investment is £1.1 billion (about ¥230 billion), the largest ever European property investment by a Japanese company. Completion is expected in 2032.",
-              "The plan is to build a mixed-use building on part of the British Library's site, in steel-reinforced concrete (SRC), with 11 stories above ground and one below and a total floor area of about 96,000 m² (about 1.04 million sq ft). The library portion will add about 9,300 m² (100,000 sq ft) of new public space, connecting exhibition galleries, a learning center and event space with the existing library. The upper floors will be offices and labs, aimed at companies and research institutions in the life sciences, a field in which the UK is strong.",
-              "The design is by RSHP, known for the Pompidou Center in Paris and London's Leadenhall Building, with Arup on structural and building services engineering, Stanhope as development manager and Mace as construction manager. According to British media, the new building will also house the headquarters of the Alan Turing Institute."
-            ],
-            "commentary": "When people think of the British Library, many picture its red-brick walls and the statue of Newton in the plaza in front of the entrance. Completed in the 1990s, it's one of the newest generation of national buildings in the UK. Right next to it, a Japanese developer is putting up a building for ¥230 billion. And it's not just a library expansion: the upper floors are labs and offices. The library space is only about a tenth of the total, and the rest will be leased to life sciences companies. Here's the interesting part. It's a setup in which the cost of adding a public cultural facility is covered by private office rents. In Japan, too, there are more and more cases where city halls or libraries are rebuilt with hotels or offices stacked on top to make the numbers work, right? Now a Japanese company is doing that in London. The design is by RSHP, one of Britain's leading firms, and how the new building relates to the existing library will be the thing to watch. It's due to be finished in 2032. If you get the chance to go to London, step out of King's Cross Station and take a look beside the library. What will rise next to a national library over the next six years? The construction that answers that question starts now.",
-            "briefing": [
-              "The project is being carried out jointly by a wholly owned subsidiary of Mitsui Fudosan UK and the British Library, and Mitsui Fudosan announced its participation in March 2025. It is the company's first lab and office development for the life sciences in the UK (Mitsui Fudosan)",
-              "The building will be SRC, with 11 stories above ground and one below and a total floor area of about 96,000 m² (about 1.04 million sq ft). The library portion adds about 9,300 m² (100,000 sq ft) of new public space connected to the existing building (PR TIMES)",
-              "According to the UK's Building Design (BD), the existing British Library, completed in the 1990s, is a Grade I listed building, the top tier of heritage protection in England. Less than a tenth of the new building's floor space will be for the library, with the rest going to offices for life sciences tenants and the new headquarters of the Alan Turing Institute"
-            ],
-            "hojosen": [
-              {
-                "title": "Japanese developers abroad",
-                "body": "Mitsui Fudosan, Mitsubishi Estate, Mori Building and others have taken on large developments in London and New York since the 2010s. It's part of a move to build up rental assets overseas with Japan's shrinking population in mind, and in London, Mitsui Fudosan is also involved in redeveloping the BBC's former television center site."
-              },
-              {
-                "title": "Public facilities in private projects",
-                "body": "Building public facilities such as libraries and city halls together with private offices or housing, so that the private side helps cover the cost, is also spreading in Japan. The public side gets a new facility and the private side gets the right to develop a prime site, and whether the cultural facility keeps its quality depends on how the design and contracts are put together."
               }
             ]
           }
