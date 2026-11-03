@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "マツモト建築芸術祭（公式）",
           "sourceURL": "https://maaf.jp/area-map/venue_2026_14",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Matsumoto Architecture Art Festival opens its second phase across 19 old buildings, now including a hot spring town",
+            "summary": "The second phase of the Matsumoto Architecture Art Festival 2026 ADVANCE, which places art in historic buildings in Matsumoto, Nagano Prefecture, opened on November 3. Eighteen artists and groups are showing work at 19 venues.",
+            "body": [
+              "The second phase of the Matsumoto Architecture Art Festival 2026 ADVANCE opened on November 3 in Matsumoto, a castle town in Nagano Prefecture in the mountains of central Japan. The festival shows artworks inside the city's historic buildings. Running until December 13, it brings together 18 artists and groups from Japan and abroad, who are presenting 19 exhibitions at 19 venues in 18 buildings across the city. Participants include Lee Ufan, teamLab and Julian Opie.",
+              "This time the festival has spread into four areas: the castle town, the former Rokku shopping street, Asama Onsen and the west of the city. Asama Onsen, a hot spring town on the edge of Matsumoto, is taking part for the first time. Its four venues are a private library built in 1919, the former hall where geisha once practiced their arts, Matsumoto Honbako, a book hotel created by converting the large communal bath of a long-established inn, and a former souvenir shop that had been sitting empty.",
+              "The second phase is a walking format in which visitors tour the venues around the city, with a focus on the relationship between the buildings and the works."
+            ],
+            "commentary": "Where there used to be a big communal bath, there are now shelves of books. Matsumoto Honbako in Asama Onsen is a book hotel made by converting the bathhouse of a long-established inn. What makes this festival interesting is that it picks buildings like this, ones that were originally made for something else. A museum gallery is deliberately built as a plain white box, so your eyes go only to the art. But a geisha practice hall or a souvenir shop is different. The color of the floorboards, the low ceilings, the light coming through the windows all hold the time the building has lived through. Put a work of art in there, and while you think you're looking at the art, at some point you start looking at the building too, right? It also matters that the empty former souvenir shop is one of the venues. Once people have a reason to step inside, a building that had been shut gets seen again. The private library built in 1919 is one of the venues too.",
+            "briefing": [
+              "In the former Rokku shopping street area, the venues are three buildings: atelier m4 Imamachi Studio, a former dressmaker's shop and a former store. Old shop buildings are being used as exhibition spaces just as they are.",
+              "Past editions centered on the downtown area, but this time the venues extend all the way to the hot spring town. Opening hours and closing days differ from venue to venue, so visitors are asked to check the official website before going.",
+              "This year the festival has two phases. The first phase, held at the Matsumoto City Museum, placed several video works together in the same space. The festival is one of the main programs of Culture City of East Asia 2026 Matsumoto, a yearly program in which Japan, China and South Korea each name a city to host cultural events."
+            ],
+            "hojosen": [
+              {
+                "title": "Festivals to see, festivals to use",
+                "body": "In recent years, architecture festivals that open up buildings normally closed to the public, such as the Kyoto Modern Architecture Festival and Ikefes Osaka (the Living Architecture Museum Festival Osaka), have been multiplying across Japan. The Matsumoto festival stands out because it doesn't just open the buildings; it places artworks inside them. Both kinds of events, those that show the buildings themselves and those that use buildings as a stage, are spreading."
+              },
+              {
+                "title": "Bringing people into empty buildings",
+                "body": "Art festivals in many parts of Japan have used empty shops and vacant houses as venues. Even for a limited period, having people come and go lets the condition of a building be checked, and can prompt thinking about what to do with it next."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-04-s2",
@@ -95,7 +120,30 @@
           "reliability": "高",
           "sourceName": "日本経済新聞",
           "sourceURL": "https://www.nikkei.com/article/DGXZQOCC272K50X21C26A0000000/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Tokyo's Chiyoda Ward asks developers to ban resale of redevelopment condos for five years",
+            "summary": "On October 27, Chiyoda Ward in central Tokyo asked Mitsubishi Estate Residence and other developers to add a clause banning resale for five years after handover to new condominiums planned in its redevelopment projects. It is the first time the ward has made such a request to individual companies.",
+            "body": [
+              "Chiyoda Ward, the district at the heart of Tokyo that includes the Imperial Palace and the Marunouchi business area, on October 27 asked Mitsubishi Estate Residence and other developers to include a special clause banning resale for five years after handover in the contracts for new condominiums planned in the ward's redevelopment projects. It also asked them to ban buyers from purchasing multiple units under the same name. The aim is to curb speculative buying and ease soaring prices.",
+              "The request covers only condominiums built through urban redevelopment projects and similar schemes that receive a floor-area bonus or subsidies. Purely private developments are not included. In July 2025, the ward made a similar request to the Real Estate Companies Association of Japan, the industry group for major developers, but this is the first time it has made the request to individual companies."
+            ],
+            "commentary": "Five years. That is how long the ward wants buyers of new condos to wait before they can sell. Why would a ward get involved in a sale between private parties? The key is the condition that these are redevelopment projects. In a redevelopment, a building is sometimes allowed to be bigger than usual in exchange for contributing to the city, for example by creating a plaza or a sidewalk. It works by raising the floor area ratio, the cap on how much floor space you can stack up relative to the size of the site. Subsidies, which means tax money, can also be involved. So floor space that was specially allowed for the good of the city gets resold right away and becomes fuel for rising prices. The ward limiting the request to redevelopment properties suggests that this is what it sees as the problem. On the other hand, there must be people who need to sell within a few years because of a job transfer or family circumstances, right? A home that public measures helped build: who is it really for?",
+            "briefing": [
+              "After the ward's request to the Real Estate Companies Association of Japan in July 2025, the association came up with measures against speculative purchases. This new request to individual companies goes a step further than a call to an industry group.",
+              "The request is not a legal regulation. It asks developers to put a special clause in their sales contracts. Condominiums from purely private developments are not covered."
+            ],
+            "hojosen": [
+              {
+                "title": "The floor-area bonus",
+                "body": "In a redevelopment, a larger floor area ratio than usual is sometimes allowed in exchange for contributions to the public, such as open public space or new roads. Many of the high-rise condominiums in central Tokyo are made of floor space created this way. This request is the local government trying to attach conditions to how that floor space is used."
+              },
+              {
+                "title": "An average above ¥100 million",
+                "body": "The average price of a new condominium in the Tokyo metropolitan area topped ¥100 million for the first time in April to September 2026, reaching ¥114.94 million, as we reported on Oct 21. Some see investment purchases as a factor behind the price surge, and that is part of why local governments are stepping in."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-04-s3",
@@ -139,7 +187,31 @@
           "reliability": "高",
           "sourceName": "内閣府（公式）",
           "sourceURL": "https://www.cao.go.jp/minister/2609_g_hosono/kaiken/20261013kaiken.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Japan launches its new Disaster Management Agency, and its first minister urges households to stock up",
+            "summary": "Japan's Disaster Management Agency, the new command center for disaster response, launched on November 2. Its first minister, Goshi Hosono, asked the public to stock at least three days', and ideally a week's, worth of water and food.",
+            "body": [
+              "Japan's Disaster Management Agency, set up to act as the country's command center for disaster response, launched on November 2. It is headed by the prime minister, and Goshi Hosono serves as its first minister. The agency coordinates disaster prevention and response across government ministries and has the power to issue recommendations to them.",
+              "On the agency's first day, Hosono issued an emergency request asking the public to stockpile water, food and portable toilets for at least three days, and ideally for a week. He also asked local governments and ministries to strengthen their disaster measures, and said the government would check on their progress by the end of the year."
+            ],
+            "commentary": "At least three days, ideally a week. Here's the thing: this call to stock up assumes that you can stay in your home. Sheltering at home instead of going to an evacuation center only works if the building survives and it's safe inside. The usual guideline for water is 3 liters per person per day. For a family of four for a week, that's 84 liters, or 42 two-liter bottles. Where you put all that is a real question of home design, isn't it? The other issue is furniture. If a bookcase falls in the shaking and blocks the hallway, you can't get out even if the building is fine. I think stockpiling is something to think about together with your home's earthquake resistance and how your furniture is arranged. Next time you buy more water, try storing it somewhere other than the entryway or the hallway, where it won't block your way out even if it topples.",
+            "briefing": [
+              "The launch date of November 2 was set by a Cabinet decision. Hosono also serves as Minister for Reconstruction, the post that oversees recovery from major disasters.",
+              "At a press conference on October 13, before the launch, Hosono said he intended to issue requests to the ministries when the agency launched on November 2. He explained that the power to issue recommendations is the next step to use if requests are not fully carried out.",
+              "The portable toilets on the list are for when water outages make flush toilets unusable. Listing them alongside water and food is a distinctive feature of this request."
+            ],
+            "hojosen": [
+              {
+                "title": "Sheltering at home and seismic safety",
+                "body": "After major earthquakes, sheltering at home if it is safe has come to be recommended, because evacuation centers get crowded and living conditions there are hard. That depends on the building's earthquake resistance, and the 1981 seismic code, the line that separates older and newer buildings in Japan, is one benchmark. A call to stockpile can't be separated from how safe your home is."
+              },
+              {
+                "title": "From coordinator to command center",
+                "body": "Until now, the disaster management office of the Cabinet Office coordinated the national government's disaster work across ministries. The new agency, with the prime minister at its head and the power to issue recommendations, aims to be a stronger command center. It launched while recovery from this year's Kumamoto earthquake is still under way."
+              }
+            ]
+          }
         }
       ]
     },
