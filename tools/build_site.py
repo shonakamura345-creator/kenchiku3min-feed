@@ -4,6 +4,8 @@
 出力:
   index.html            … 最新号＋バックナンバー一覧（サイトのトップ）
   i/<YYYY-MM-DD>/index.html … 号ごとのページ（アプリの共有リンク先。記事は #s1 #s2 #s3 でアンカー）
+  en/index.html         … 英語版のトップ（記事に en がある号だけ）
+  en/i/<YYYY-MM-DD>/index.html … 英語版の号ページ（英語の画面からの共有リンク先。OGPも英語）
 
 毎朝の号生成ルーチン（クラウド常設セッション）が issues.json 更新後に実行し、生成物を同じコミットに含める。
 （GitHub Actions化はトークンのworkflow権限がなく2026-09-06時点では見送り）
@@ -24,6 +26,13 @@ APP_STORE_URL = "https://apps.apple.com/jp/app/id6800172328"
 LINE_URL = "https://line.me/R/ti/p/@860krbpe"
 SITE_NAME = "建築3分ニュース"
 OG_IMAGE = f"{BASE_URL}/assets/og.jpg"
+# 英語版（v1.5〜）
+APP_STORE_URL_EN = "https://apps.apple.com/app/id6800172328"
+SITE_NAME_EN = "Kenchiku 3min"
+TAGLINE_EN = "Japan's architecture news in 3 minutes"
+RELIABILITY_EN = {"高": "High", "中": "Medium", "低": "Low"}
+MONTHS_EN = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+WEEKDAYS_EN = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 
 CSS = """
 :root{--paper:#FAF9F5;--ink:#2D2A26;--orange:#F97316;--orange-bg:#FFF7ED;--line:rgba(45,42,38,.10);--sub:rgba(45,42,38,.58);--blue:#3B82F6}
@@ -37,6 +46,8 @@ header.site .brand{display:flex;align-items:center;gap:10px;text-decoration:none
 header.site .badge{background:var(--ink);color:#fff;border-radius:8px;padding:2px 8px;font-weight:800;font-size:.8rem;letter-spacing:.02em;white-space:nowrap}
 header.site .badge b{background:var(--orange);border-radius:5px;padding:0 5px;margin-left:4px}
 header.site .name{font-weight:800;font-size:1rem;white-space:nowrap}
+header.site .right{display:flex;align-items:center;gap:10px}
+header.site .lang{font-size:.82rem;color:var(--sub);text-decoration:none;white-space:nowrap}
 .cta{display:inline-block;background:var(--orange);color:#fff;text-decoration:none;font-weight:700;border-radius:999px;padding:8px 16px;font-size:.9rem;white-space:nowrap}
 .cta.small{padding:6px 12px;font-size:.82rem}
 .issue-head{margin:4px 0 18px}
@@ -113,7 +124,33 @@ def issue_url(date: str) -> str:
     return f"{BASE_URL}/i/{date}/"
 
 
-def head(title: str, desc: str, url: str, extra_css: str = "") -> str:
+def en_issue_url(date: str) -> str:
+    return f"{BASE_URL}/en/i/{date}/"
+
+
+def en_date(date: str, with_weekday: bool = False, with_year: bool = False) -> str:
+    import datetime as _dt
+    d = _dt.date.fromisoformat(date)
+    s = f"{MONTHS_EN[d.month - 1]} {d.day}"
+    if with_year:
+        s += f", {d.year}"
+    if with_weekday:
+        s = f"{WEEKDAYS_EN[d.weekday()]}, {s}"
+    return s
+
+
+def has_en(issue: dict) -> bool:
+    return any(isinstance(s.get("en"), dict) for s in issue.get("stories") or [])
+
+
+def alternates(ja_url: str, en_url: str | None) -> str:
+    if not en_url:
+        return ""
+    return (f'<link rel="alternate" hreflang="ja" href="{esc(ja_url)}">\n'
+            f'<link rel="alternate" hreflang="en" href="{esc(en_url)}">\n')
+
+
+def head(title: str, desc: str, url: str, extra_css: str = "", alt: str = "", lang_link: str = "") -> str:
     return f"""<!doctype html>
 <html lang="ja">
 <head>
@@ -122,7 +159,7 @@ def head(title: str, desc: str, url: str, extra_css: str = "") -> str:
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{esc(url)}">
-<meta property="og:type" content="article">
+{alt}<meta property="og:type" content="article">
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
@@ -142,7 +179,7 @@ def head(title: str, desc: str, url: str, extra_css: str = "") -> str:
 <body><div class="wrap">
 <header class="site">
   <a class="brand" href="{BASE_URL}/"><span class="badge">建築<b>NEWS</b></span><span class="name">{SITE_NAME}</span></a>
-  <a class="cta small" href="{APP_STORE_URL}">アプリで読む</a>
+  {f'<span class="right">{lang_link}<a class="cta small" href="{APP_STORE_URL}">アプリで読む</a></span>' if lang_link else f'<a class="cta small" href="{APP_STORE_URL}">アプリで読む</a>'}
 </header>
 """
 
@@ -215,8 +252,10 @@ def render_issue(issue: dict, prev_issue: dict | None, next_issue: dict | None) 
     title = f"{jp_date(date)}号「{first_title}」ほか{max(len(stories) - 1, 0)}本 | {SITE_NAME}" if stories else f"{jp_date(date)}号 | {SITE_NAME}"
     desc = " / ".join(s.get("title", "") for s in stories)[:180]
     url = issue_url(date)
+    en_url = en_issue_url(date) if has_en(issue) else None
 
-    out = [head(title, desc, url)]
+    out = [head(title, desc, url, alt=alternates(url, en_url),
+                lang_link=f'<a class="lang" href="{en_url}" hreflang="en">English</a>' if en_url else "")]
     out.append(
         f'<div class="issue-head"><div class="kicker">Architecture news in 3 minutes</div>'
         f"<h1>{jp_date(date, wd)}号</h1>"
@@ -247,7 +286,9 @@ def render_index(issues: list[dict]) -> str:
     latest = issues[0] if issues else None
     title = f"{SITE_NAME} | 毎朝3分で読める建築ニュース"
     desc = "建築業界のニュースを毎朝3本、Sho建築士AIの解説付きで。iPhoneアプリ「建築3分ニュース」のWeb版バックナンバー。"
-    out = [head(title, desc, f"{BASE_URL}/")]
+    en_top = f"{BASE_URL}/en/" if any(has_en(i) for i in issues) else None
+    out = [head(title, desc, f"{BASE_URL}/", alt=alternates(f"{BASE_URL}/", en_top),
+                lang_link=f'<a class="lang" href="{en_top}" hreflang="en">English</a>' if en_top else "")]
     if latest:
         stories = latest.get("stories") or []
         out.append(
@@ -272,6 +313,186 @@ def render_index(issues: list[dict]) -> str:
     out.append("</div>")
     out.append(FOOTER)
     return "\n".join(out)
+
+
+# ---------------------------------------------------------------- 英語版（/en/）
+
+def head_en(title: str, desc: str, url: str, ja_url: str) -> str:
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{esc(title)}</title>
+<meta name="description" content="{esc(desc)}">
+<link rel="canonical" href="{esc(url)}">
+{alternates(ja_url, url)}<meta property="og:type" content="article">
+<meta property="og:site_name" content="{SITE_NAME_EN}">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="{esc(title)}">
+<meta property="og:description" content="{esc(desc)}">
+<meta property="og:url" content="{esc(url)}">
+<meta property="og:image" content="{OG_IMAGE}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{esc(title)}">
+<meta name="twitter:description" content="{esc(desc)}">
+<meta name="twitter:image" content="{OG_IMAGE}">
+<meta name="apple-itunes-app" content="app-id=6800172328">
+<link rel="icon" href="{BASE_URL}/assets/favicon.png">
+<link rel="apple-touch-icon" href="{BASE_URL}/assets/apple-touch-icon.png">
+<style>{CSS}body{{line-height:1.7}}</style>
+</head>
+<body><div class="wrap">
+<header class="site">
+  <a class="brand" href="{BASE_URL}/en/"><span class="badge">建築<b>NEWS</b></span><span class="name">{SITE_NAME_EN}</span></a>
+  <span class="right"><a class="lang" href="{esc(ja_url)}" hreflang="ja" lang="ja">日本語</a><a class="cta small" href="{APP_STORE_URL_EN}">Get the app</a></span>
+</header>
+"""
+
+
+FOOTER_EN = f"""
+<footer>
+  <p>{SITE_NAME_EN} is a daily app with three short stories on architecture and construction in Japan, each with commentary from an architect's point of view. Stories are summaries of the linked sources, most of which are in Japanese. The commentary is generated by "Sho Architect AI".</p>
+  <p><a href="{APP_STORE_URL_EN}">App Store</a> · <a href="https://kenchiku3min.web.app/">Support</a> · <a href="https://kenchiku3min.web.app/privacy.html">Privacy policy</a><br>© 2026 Sho Nakamura / ATAP Works Inc.</p>
+</footer>
+</div></body></html>
+"""
+
+
+def story_en(story: dict) -> dict:
+    """英語の欄が無い記事は日本語のまま（アプリと同じ扱い）。"""
+    en = story.get("en") if isinstance(story.get("en"), dict) else None
+    if not en:
+        return {"_ja": True, **story}
+    return {**en, "_ja": False}
+
+
+def render_story_en(story: dict) -> str:
+    n = story.get("number", 0)
+    st = story_en(story)
+    lang = ' lang="ja"' if st["_ja"] else ""
+    parts = [f'<article id="s{n}"{lang}>']
+    parts.append(f'<div class="src">{esc(story.get("sourceName", ""))}</div>')
+    parts.append(f"<h2>{esc(st.get('title', ''))}</h2>")
+    if st.get("summary"):
+        parts.append(f'<p class="summary">{esc(st["summary"])}</p>')
+    for p in st.get("body") or []:
+        parts.append(f"<p>{esc(p)}</p>")
+
+    briefing = st.get("briefing") or []
+    if briefing:
+        parts.append('<div class="sec-label">Briefing</div><ul class="briefing">')
+        parts.extend(f"<li>{esc(b)}</li>" for b in briefing)
+        parts.append("</ul>")
+
+    sources = story.get("sources") or []
+    if not sources and story.get("sourceURL"):
+        sources = [{"name": story.get("sourceName", "Source"), "url": story["sourceURL"]}]
+    if sources:
+        parts.append('<div class="sec-label">Sources</div><div class="chips">')
+        for s in sources:
+            parts.append(f'<a href="{esc(s.get("url", ""))}" target="_blank" rel="noopener">{esc(s.get("name", ""))}</a>')
+        parts.append("</div>")
+
+    if st.get("commentary"):
+        parts.append(
+            '<div class="commentary"><div class="label">💡 Commentary by Sho Architect AI</div>'
+            f'<p>{esc(st["commentary"])}</p></div>'
+        )
+    sho = (story.get("shoComment") or "").strip()
+    if sho:
+        parts.append(
+            '<div class="sho"><div class="label">Sho&#39;s comment (in Japanese)<b>Human</b></div>'
+            f'<p lang="ja">{esc(sho)}</p></div>'
+        )
+
+    hojosen = st.get("hojosen") or []
+    if hojosen:
+        parts.append('<div class="sec-label">Background</div><div class="hojosen">')
+        for h in hojosen:
+            parts.append(f'<div class="item"><b>{esc(h.get("title", ""))}</b><p>{esc(h.get("body", ""))}</p></div>')
+        parts.append("</div>")
+
+    rel = story.get("reliability")
+    if rel:
+        parts.append(f'<span class="rel">Reliability of this AI summary: {esc(RELIABILITY_EN.get(rel, rel))}</span>')
+    parts.append("</article>")
+    return "\n".join(parts)
+
+
+APPBOX_EN = (
+    f'<div class="appbox"><p>A new issue arrives every morning, Japan time.<br>Notifications, back issues and bookmarks are in the app.</p>'
+    f'<div class="btns"><a class="cta" href="{APP_STORE_URL_EN}">Get {SITE_NAME_EN} on the App Store</a></div></div>'
+)
+
+
+def render_issue_en(issue: dict, prev_issue: dict | None, next_issue: dict | None) -> str:
+    date = issue["date"]
+    stories = issue.get("stories") or []
+    titles = [story_en(s).get("title", "") for s in stories]
+    more = max(len(stories) - 1, 0)
+    title = (f'{en_date(date)}: "{titles[0]}"' + (f" and {more} more" if more else "") + f" – {SITE_NAME_EN}") if stories else f"{en_date(date)} – {SITE_NAME_EN}"
+    desc = " / ".join(titles)[:200]
+    url = en_issue_url(date)
+
+    out = [head_en(title, desc, url, issue_url(date))]
+    out.append(
+        f'<div class="issue-head"><div class="kicker">{TAGLINE_EN}</div>'
+        f"<h1>{en_date(date, with_weekday=True, with_year=True)}</h1>"
+        f'<div class="meta">{len(stories)} stories · Key points ~{issue.get("readingMinutesSummary", 3)} min / Full read ~{issue.get("readingMinutesFull", 10)} min</div></div>'
+    )
+    out.append('<div class="toc"><div class="kicker">IN THIS ISSUE</div><ol>')
+    for s, t in zip(stories, titles):
+        out.append(f'<li><span class="num">{s.get("number", "")}</span><a href="#s{s.get("number", "")}">{esc(t)}</a></li>')
+    out.append("</ol></div>")
+
+    for s in stories:
+        out.append(render_story_en(s))
+
+    out.append(APPBOX_EN)
+    nav = []
+    nav.append(f'<a href="{en_issue_url(prev_issue["date"])}">← {en_date(prev_issue["date"])}</a>' if prev_issue else "<span></span>")
+    nav.append(f'<a href="{en_issue_url(next_issue["date"])}">{en_date(next_issue["date"])} →</a>' if next_issue else f'<a href="{BASE_URL}/en/">All issues</a>')
+    out.append(f'<nav class="pn">{nav[0]}{nav[1]}</nav>')
+    out.append(FOOTER_EN)
+    return "\n".join(out)
+
+
+def render_index_en(issues: list[dict]) -> str:
+    latest = issues[0] if issues else None
+    title = f"{SITE_NAME_EN} | {TAGLINE_EN}"
+    desc = "Three stories on architecture and construction in Japan every morning, with an architect's commentary. Back issues of the Kenchiku 3min app."
+    out = [head_en(title, desc, f"{BASE_URL}/en/", f"{BASE_URL}/")]
+    if latest:
+        stories = latest.get("stories") or []
+        out.append(
+            f'<div class="issue-head"><div class="kicker">Latest issue</div>'
+            f'<h1><a href="{en_issue_url(latest["date"])}" style="color:inherit;text-decoration:none">{en_date(latest["date"], with_weekday=True, with_year=True)}</a></h1></div>'
+        )
+        out.append('<div class="toc"><div class="kicker">IN THIS ISSUE</div><ol>')
+        for s in stories:
+            out.append(f'<li><span class="num">{s.get("number", "")}</span><a href="{en_issue_url(latest["date"])}#s{s.get("number", "")}">{esc(story_en(s).get("title", ""))}</a></li>')
+        out.append("</ol></div>")
+    out.append(APPBOX_EN)
+    out.append('<div class="sec-label">Daily archive</div><div class="list">')
+    for iss in issues:
+        out.append(f'<a class="row" href="{en_issue_url(iss["date"])}"><div class="date">{en_date(iss["date"], with_weekday=True)}<span>{esc(iss["date"])}</span></div><ul>')
+        for s in iss.get("stories") or []:
+            out.append(f"<li>{esc(story_en(s).get('title', ''))}</li>")
+        out.append("</ul></a>")
+    out.append("</div>")
+    out.append(FOOTER_EN)
+    return "\n".join(out)
+
+
+def write_if_changed(path: Path, text: str) -> int:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    if not path.exists() or path.read_text(encoding="utf-8") != text:
+        path.write_text(text, encoding="utf-8")
+        return 1
+    return 0
 
 
 def main() -> int:
@@ -299,8 +520,18 @@ def main() -> int:
         ipath.write_text(index, encoding="utf-8")
         written += 1
 
+    # 英語版：記事に en がある号だけ。号ページの前後リンクも英語のある号どうしでつなぐ
+    en_issues = [i for i in issues if has_en(i)]
+    for idx, issue in enumerate(en_issues):
+        newer = en_issues[idx - 1] if idx > 0 else None
+        older = en_issues[idx + 1] if idx + 1 < len(en_issues) else None
+        written += write_if_changed(ROOT / "en" / "i" / issue["date"] / "index.html",
+                                    render_issue_en(issue, prev_issue=older, next_issue=newer))
+    if en_issues:
+        written += write_if_changed(ROOT / "en" / "index.html", render_index_en(en_issues))
+
     # 保持は直近30号なので、それより古い号のページは消さずに残す（過去の共有リンクを生かす）
-    print(f"生成完了: {len(issues)}号 / 更新ファイル {written}")
+    print(f"生成完了: {len(issues)}号（英語 {len(en_issues)}号） / 更新ファイル {written}")
     return 0
 
 
