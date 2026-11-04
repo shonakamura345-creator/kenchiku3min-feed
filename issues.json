@@ -1,6 +1,151 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-05",
+      "date": "2026-11-05",
+      "weekday": "木",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-05-s1",
+          "number": 1,
+          "title": "川崎市の担当部長を官製談合の疑いで逮捕 塗装・防水工事の非公表価格を業界団体に漏らしたか",
+          "summary": "川崎市発注の塗装・防水工事の入札で、非公表の工事価格を業界団体側に漏らした疑いで、神奈川県警が11月4日に市の担当部長を逮捕しました。",
+          "body": [
+            "神奈川県警は11月4日、川崎市が発注した塗装・防水工事の入札をめぐり、非公表の「工事価格」を業者側に漏らしたとして、市まちづくり局の担当部長（59）を官製談合防止法違反（入札妨害）などの疑いで逮捕しました。県警は認否を明らかにしていません。",
+            "逮捕容疑は、2024年ごろに行われた市内2施設の工事の一般競争入札で、業界団体「川崎塗装業協会」の事務局長に工事価格を伝え、共謀して協会に加盟する2社に落札させた疑いです。部長は当時、同局の施設整備部長でした。事務局長は市の元幹部で、県警は、事務局長が聞き出した工事価格をもとに最低制限価格を割り出し、業者側に伝わっていたとみています。",
+            "県警は協会の事務所や川崎市役所を家宅捜索しました。市のOBも関わって同じような不正が繰り返されていた疑いがあるとみて、関係者から話を聴くなどして実態の解明を進めています。"
+          ],
+          "commentary": "最低制限価格は、公共工事の入札にある「これより安いと失格」というラインです。安すぎる値段で落札されると、手抜きや下請けへのしわ寄せが起きやすい。それを防ぐための仕組みなんです。ただ、このラインは発注者が見積もった工事価格をもとに計算されます。だから工事価格さえ分かれば、ラインのぎりぎり上に札を入れられる。テストの合格点を前もって知っているようなもので、くじ引きに近い競争が、そうではなくなってしまいます。皆さんが払っている税金で建てる施設の値段が、こうして決まっていたとしたら、穏やかではいられないですよね。今回、疑いの中心にいるのは市の元幹部が事務局長を務める業界団体でした。発注する側と受ける側に、元同僚どうしのつながりが残っている。これは川崎だけの話ではなく、全国の自治体が抱える構造だと思います。容疑の段階なので、事実関係はこれからの捜査を待つ必要があります。価格を守る仕組みと人のつながりをどう切り分けるか、各地の発注者も問われていると思います。",
+          "briefing": [
+            "報道によると、対象になったのは市内2施設の塗装・防水工事で、いずれも一般競争入札でした。工事価格は、市が単価をもとに積算した見積額で、入札前には公表されていません。",
+            "事務局長は2009年に市を定年退職した元幹部と報じられています。県警は、協会内で落札する業者を決める仕切り役がいたとみています。",
+            "同じ11月4日には、静岡県発注の工事をめぐり逮捕された県職員と土木建設会社の役員ら3人を、静岡地検が官製談合防止法違反の罪などで起訴したことも報じられました。"
+          ],
+          "sources": [
+            {
+              "name": "NHK",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261104de70263"
+            },
+            {
+              "name": "東京新聞",
+              "url": "https://www.tokyo-np.co.jp/article/526039"
+            },
+            {
+              "name": "時事ドットコム",
+              "url": "https://www.jiji.com/jc/article?k=2026110400783&g=soc"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "価格を伏せる理由",
+              "body": "多くの自治体では、予定価格や最低制限価格を事前に公表するかどうかを独自に決めています。事前に公表すると価格を探る働きかけは減る一方、公表額に札が集中してくじ引きになりやすいという指摘もあります。非公表にすれば、今度は価格を知る職員への働きかけが起きうるため、どちらにも弱点があります。"
+            },
+            {
+              "title": "民間でも続く談合",
+              "body": "10月にはマンション大規模修繕工事をめぐり、公正取引委員会が42社の談合を認定し、国交省が発注の適正化に向けた検討を始めています。公共・民間を問わず、発注者が価格を見極める力をどう持つかが、建設業界の共通の課題になっています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "NHK",
+          "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261104de70263",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-05-s2",
+          "number": 2,
+          "title": "ららぽーとTOKYO-BAY北館Ⅱ期が着工 中央広場を約3倍に広げ、28年夏に全面開業へ",
+          "summary": "千葉・船橋の「ららぽーとTOKYO-BAY」で北館建て替えのⅡ期工事が始まりました。2028年夏の開業で、施設全体は約600店舗になります。",
+          "body": [
+            "三井不動産は11月4日、千葉県船橋市の「三井ショッピングパーク ららぽーとTOKYO-BAY」で進める北館の建て替え計画について、Ⅱ期エリアの建築工事に着手したと発表しました。開業は2028年夏の予定で、これで建て替えが完了し、施設が全面開業します。",
+            "ららぽーとTOKYO-BAYは1981年に開業した、ららぽーとの1号店です。北館の建て替えは2期に分けて進めており、Ⅰ期エリアは2025年10月に96店舗で開業しました。Ⅱ期エリアの店舗数は建て替え前の約150店舗から約200店舗に増え、施設全体では約600店舗の規模になる見込みです。",
+            "Ⅱ期では、これまでの中央広場を約3倍の広さに広げ、スポーツやエンターテインメントのイベントに使える屋内型の「スタジアムコート」を整備します。"
+          ],
+          "commentary": "45年。ららぽーとTOKYO-BAYが、1号店として船橋に開業してからの時間です。大型の商業施設を建て替えるとき、一番難しいのは「営業しながら」という条件なんです。全部閉めて一気に建て替えれば工事は楽ですが、その間お客さんもお店も離れてしまいます。だから敷地を区切って、半分ずつ建て替える。引っ越しで、住みながら部屋を一つずつ片づけていくのに似ています。Ⅰ期が開業して1年で、今度はⅡ期に取りかかる順番です。もう一つ注目したいのが、中央広場を約3倍にする「スタジアムコート」です。皆さんも、ネットで買い物が済む時代に、わざわざ足を運ぶ理由は、店の数より「そこで何が起きているか」に移ってきていると感じませんか。店舗面積を増やすだけでなく、人が集まって見る場所に面積を割いているのは、その表れだと思います。今度大きなショッピングモールに行ったら、吹き抜けや広場が建物のどこにあって、どれくらいの広さか見てみてください。",
+          "briefing": [
+            "北館全体の店舗面積は、建て替え前の約4万5000m2から約6万200m2に広がる計画です。",
+            "全面開業の具体的な日付はまだ示されておらず、「2028年夏」の予定とされています。"
+          ],
+          "sources": [
+            {
+              "name": "三井不動産（公式・PR TIMES）",
+              "url": "https://prtimes.jp/main/html/rd/p/000001165.000051782.html"
+            },
+            {
+              "name": "トラベル Watch",
+              "url": "https://travel.watch.impress.co.jp/docs/news/2153521.html"
+            },
+            {
+              "name": "繊研新聞",
+              "url": "https://senken.co.jp/posts/mitsuifudosan-261104"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "モールも建て替え期",
+              "body": "1980年代から90年代に郊外で開業した大型商業施設は、建物や設備の更新時期を迎えています。閉館して解体するか、営業を続けながら段階的に建て替えるか、各地で判断が分かれています。"
+            },
+            {
+              "title": "「体験」に面積を",
+              "body": "近年の商業施設では、イベント広場や遊び場、スポーツ施設など、物を売らない場所の面積を広げる例が増えています。来館の動機をつくり、滞在時間を延ばす狙いがあります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "三井不動産（公式・PR TIMES）",
+          "sourceURL": "https://prtimes.jp/main/html/rd/p/000001165.000051782.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-05-s3",
+          "number": 3,
+          "title": "仙台市泉区役所の新庁舎が竣工 地下鉄泉中央駅と直結、民間が建てて市が買い取る方式",
+          "summary": "仙台市泉区役所の建て替えで、地上6階・地下2階の新庁舎が完成し、11月2日に竣工式が開かれました。2027年1月に開庁する予定です。",
+          "body": [
+            "仙台市が進める泉区役所の建て替え事業で、新しい庁舎が完成し、11月2日に竣工式が開かれました。新庁舎は地上6階・地下2階建てで、地下鉄南北線の泉中央駅と直結します。開庁は2027年1月の予定です。",
+            "事業は三菱地所が担い、2024年12月に着工しました。民間の事業者が新庁舎を建て、完成後に市が買い取る方式を採っています。",
+            "今後は旧庁舎を解体し、その跡に駐車場や区民広場などを整備します。敷地の一部では民間施設の開発も計画されており、街区全体の完成は2029年度の予定です。"
+          ],
+          "commentary": "区役所に行く日は、たいてい用事が決まっています。住民票、転入の手続き、子どもの手当。皆さんも、手続きのためだけに雨の中を歩いた経験、ありませんか。だから駅から濡れずに行けることは、思っている以上に効くんです。泉区の新庁舎は、地下鉄の泉中央駅と直結します。今回の建て替えで面白いのは、民間が建てて、完成したものを市が買う方式を選んでいる点です。自治体が自分で設計者と施工者を別々に選ぶやり方だと、入札が不調になると何か月も遅れることがあります。民間に任せれば、設計から工事まで一つの流れで進められる。2024年12月の着工から、ほぼ予定どおりの完成でした。もちろん、市がどこまで中身に注文をつけられるかは、契約の書き方しだいです。旧庁舎を壊したあとには、区民広場が整備されます。街区がすべて完成するのは、2029年度です。",
+          "briefing": [
+            "三菱地所が2024年12月に出した着工時の発表では、竣工は2026年10月末を予定していました。報道によると、工事はほぼその予定どおりに完了しています。",
+            "開庁の時期について、報道では「1月中旬から使い始める」「1月末に開庁」と伝え方に幅があり、具体的な日付は市の発表を待つ必要があります。",
+            "旧庁舎の解体は、新庁舎の開庁後の2月から始まると報じられています。"
+          ],
+          "sources": [
+            {
+              "name": "khb東日本放送",
+              "url": "https://www.khb-tv.co.jp/news/17016452"
+            },
+            {
+              "name": "日刊建設工業新聞",
+              "url": "https://www.decn.co.jp/?p=189039"
+            },
+            {
+              "name": "三菱地所（公式）",
+              "url": "https://www.mec.co.jp/news/detail/2024/12/19_mec241219_izumi"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "庁舎入札の不調",
+              "body": "建設費の高騰で、自治体の庁舎建設では入札の不調が相次いでいます。10月には那須塩原市が新庁舎で3度目の入札公告を出し、岸和田市は設計施工一括の発注が不調となって分離発注に切り替えました。発注の方式選びが、庁舎計画の成否を左右する場面が増えています。"
+            },
+            {
+              "title": "庁舎を街の核に",
+              "body": "静岡市が清水庁舎を民間の複合ビルに入居させる方針を示すなど、庁舎を単独の建物ではなく、民間の開発と組み合わせて街づくりの拠点にする動きが各地で広がっています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "khb東日本放送",
+          "sourceURL": "https://www.khb-tv.co.jp/news/17016452",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-04",
       "date": "2026-11-04",
       "weekday": "水",
@@ -6376,227 +6521,6 @@
               {
                 "title": "Bilbao and architecture",
                 "body": "Bilbao is synonymous with the “Bilbao effect,” its shift from industrial city to tourist destination after the Guggenheim Museum, designed by Frank Gehry, opened in 1997. Foster also designed the city's metro stations (1995), so this museum extension is a case of the same architect returning to the heart of the city 30 years later."
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-06",
-      "date": "2026-10-06",
-      "weekday": "火",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-06-s1",
-          "number": 1,
-          "title": "広島駅北口に1万人アリーナ構想 民間が建てて市に寄付する方式で2031年度開業へ",
-          "summary": "広島駅新幹線口近くの旧JR西日本広島支社跡地に1万人規模の新アリーナを建てる計画案が示されました。年232日稼働・160万人集客を目標に2031年度開業へ。",
-          "body": [
-            "広島市東区二葉の里の旧JR西日本広島支社跡地に、約1万人規模の新アリーナを整備する構想が具体化しました。10月1日に開かれた官民協議会に、用地を持つJR西日本が事業計画案を提示。広島テレビによると、バスケットボールを主用途にライブ・コンサート、MICE、式典などを受け入れる多機能アリーナで、年間232日の稼働と160万人の集客を目標に掲げ、開業目標は2031年度です。",
-            "日本経済新聞によると、整備は民間が建設し、運営を担うことを条件に施設を行政へ寄付する「負担付き寄付」の手法を軸に検討することが確認されました。事業主体はJR西日本とプロバスケットボールの広島ドラゴンフライズが中心で、想定事業費は300億円を超える可能性があると報じられています。",
-            "広島テレビは、広島駅とアリーナの2階部分を直結させる案も示されたと伝えています。新幹線口から徒歩数分の立地で、駅から屋外に出ずに観客席へ向かえる動線が実現すれば、全国のアリーナでも珍しい駅一体型の施設になります。候補地では旧支社ビルに仮囲いが設けられ、解体に向けた準備が進んでいます。"
-          ],
-          "commentary": "放送でも国立競技場の話をしたんですが、あのスタジアムで音楽ライブの音が悪いと言われる一番の理由は、屋根の真ん中が空いていて音が上に抜けることです。アリーナは最初から屋根で囲う建物なので、その問題がない。だから1万人クラスのライブ興行は、スタジアムではなくアリーナに集まります。広島の計画で僕が注目しているのは、年間232日という稼働日数の目標です。バスケの本拠地だけなら、ホームゲームは30試合ほど。残りの200日をコンサートや展示会で埋める前提で、建物の形が決まります。もう一つは、駅と2階で直結する案です。国立競技場に行ったとき、帰りに階段で何分も待ちました。駅直結なら、1万人が出口に殺到する時間を建物の設計で短くできます。ただ、アリーナは民間が建てて市に寄付する方式。所有は市、運営は民間。30年後に建物を直すお金は、誰が持つことになるんでしょうね。",
-          "briefing": [
-            "協議会には広島県、広島市、JR西日本、広島ドラゴンフライズなどが出席。主用途はバスケットボールのほか各種スポーツ、ライブ・コンサート、MICE、式典、イベント（広島テレビ・再都市化）",
-            "候補地は広島市東区二葉の里3丁目で、JR広島駅新幹線口から徒歩数分。2026年9月時点で旧JR西日本広島支社ビルに仮囲いが設置されている（AB広島）",
-            "広島県内では広島ドラゴンフライズの本拠地が広島サンプラザ（5000人規模）で、1万人規模のアリーナは県内初となる。日経によると官民協議会は2026年夏から構想を検討してきた"
-          ],
-          "sources": [
-            {
-              "name": "日本経済新聞",
-              "url": "https://www.nikkei.com/article/DGXZQOCC020AM0S6A001C2000000/"
-            },
-            {
-              "name": "広島テレビ（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/fa533742867562311a3b702583edbeef1d09420b"
-            },
-            {
-              "name": "再都市化",
-              "url": "https://saitoshika-west.com/blog-entry-10449.html"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "負担付き寄付とは",
-              "body": "民間が自己資金で公共施設を建設し、一定の条件（運営を担うなど）を付けて自治体に寄付する手法です。自治体は建設費を負担せずに施設を得られ、民間は長期の運営権を得ます。愛知の新アリーナや各地の球場で類似の官民分担が採用され、議会の議決が必要になります。"
-            },
-            {
-              "title": "アリーナ建設ラッシュ",
-              "body": "Bリーグが2026年からトップリーグの基準に5000人以上の収容と新アリーナを求めたことで、全国で1万人前後のアリーナ計画が相次いでいます。神戸のGLION ARENA、長崎、佐賀などが先行し、ライブ興行の需要と合わせて「スポーツ＋音楽」で稼働日数を稼ぐモデルが主流です。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "日本経済新聞",
-          "sourceURL": "https://www.nikkei.com/article/DGXZQOCC020AM0S6A001C2000000/",
-          "shoComment": "",
-          "en": {
-            "title": "Hiroshima plans a 10,000-capacity arena by its station, to be built privately and given to the city",
-            "summary": "A plan has been presented for a new arena for about 10,000 people on the former JR West Hiroshima branch office site near the Shinkansen exit of Hiroshima Station. It targets 232 days of use and 1.6 million visitors a year, with opening planned for fiscal 2031.",
-            "body": [
-              "A plan for a new arena with a capacity of about 10,000 has taken shape on the former site of West Japan Railway Company's (JR West) Hiroshima branch office, in the Futabanosato area of Higashi Ward in Hiroshima, western Japan. At a public-private council meeting on Oct 1, JR West, which owns the land, presented a draft business plan. According to Hiroshima Television, it would be a multipurpose arena used mainly for basketball, also hosting live concerts, MICE events (meetings, incentive travel, conferences and exhibitions) and ceremonies. It aims for 232 days of use and 1.6 million visitors a year, with opening targeted for fiscal 2031 (Japan's fiscal year starts in April).",
-              "According to the Nikkei, the council confirmed that it will mainly study a “conditional donation” approach, in which the private sector builds the facility and donates it to the government on the condition that it runs the venue. The project would be led mainly by JR West and the Hiroshima Dragonflies, a professional basketball team, and the cost has been reported as possibly exceeding ¥30 billion.",
-              "Hiroshima Television also reported that a plan was presented to connect Hiroshima Station and the arena directly at the second-floor level. The site is a few minutes' walk from the station's Shinkansen (bullet train) exit, and if fans can get from the station to their seats without going outdoors, it would be a station-integrated venue rare among arenas in Japan. At the site, construction fencing has gone up around the old branch office building as preparations for demolition move ahead."
-            ],
-            "commentary": "I talked about Japan National Stadium on my show too. The main reason people say live music sounds bad there is that the center of the roof is open, so the sound escapes upward. An arena is enclosed by a roof from the start, so it doesn't have that problem. That's why concerts for 10,000 people end up in arenas, not stadiums. What I'm watching in the Hiroshima plan is the target of 232 days of use a year. If it were only a basketball home court, there would be about 30 home games. The shape of the building is decided on the assumption that the other 200 days get filled with concerts and exhibitions. The other point is the plan to connect directly to the station on the second floor. When I went to the National Stadium, I waited on the stairs for several minutes on the way home. With a direct station link, the building's design itself can shorten the time 10,000 people spend crowding toward the exits. But the arena will be built by the private sector and donated to the city. The city owns it, the private sector runs it. Thirty years from now, who will end up paying to repair the building?",
-            "briefing": [
-              "The council includes Hiroshima Prefecture, the City of Hiroshima, JR West and the Hiroshima Dragonflies, among others. Planned uses are basketball, other sports, live concerts, MICE, ceremonies and events (Hiroshima Television, Saitoshika)",
-              "The candidate site is in Futabanosato 3-chome, Higashi Ward, Hiroshima, a few minutes' walk from the Shinkansen exit of JR Hiroshima Station. As of September 2026, construction fencing had gone up around the former JR West Hiroshima branch office building (AB Hiroshima)",
-              "In Hiroshima Prefecture, the Dragonflies' home is Hiroshima Sun Plaza, which holds about 5,000, and an arena for 10,000 would be the first in the prefecture. According to the Nikkei, the public-private council has been studying the idea since summer 2026"
-            ],
-            "hojosen": [
-              {
-                "title": "What a conditional donation is",
-                "body": "In this approach, a private party builds a public facility with its own money and donates it to the local government with certain conditions attached, such as running it. The local government gets the facility without paying for construction, and the private side gets long-term operating rights. Similar public-private splits have been used for a new arena in Aichi Prefecture and for ballparks around Japan, and the arrangement requires a vote by the local assembly."
-              },
-              {
-                "title": "Japan's arena building boom",
-                "body": "Since the B.League, Japan's professional basketball league, made 5,000-plus seats and new arenas part of its criteria for the top division from 2026, plans for arenas of around 10,000 seats have been popping up across the country. Kobe's GLION ARENA, Nagasaki and Saga have led the way, and the dominant model combines sports and music to fill as many days of use as possible."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-06-s2",
-          "number": 2,
-          "title": "マンション大規模修繕の談合で公取委が42社を認定 国交省は発注適正化の検討会を設置",
-          "summary": "公正取引委員会が関東のマンション大規模修繕工事171件で設計コンサル2社と施工40社の談合を認定。国交省は発注適正化の検討会を設け、19日に初会合を開きます。",
-          "body": [
-            "公正取引委員会は9月28日、関東1都6県のマンション管理組合が設計コンサルタントに委託して発注した大規模修繕工事171件について、設計コンサル2社と施工会社40社の計42社が受注調整で競争を制限したと認定しました。38社に排除措置命令を出し、施工会社37社には総額16億3788万円の課徴金納付を命じました。マンションの修繕工事で公取委が独占禁止法違反を認定して処分したのは初めてです。",
-            "これを受けて国土交通省は29日、「マンション大規模修繕工事の発注等の適正化に関する検討会」を設置すると発表しました。NHKによると座長は神戸芸術工科大学学長の松村秀一氏で、初会合は10月19日に開きます。管理組合が設計コンサルを通じて施工会社を選ぶ現在の発注の仕組みを点検し、適正化の方策を検討します。",
-            "大規模修繕は12〜15年ごとに外壁や屋上防水、給排水管などを一斉に直す工事で、1棟あたり数億円規模になることも珍しくありません。費用は住民が積み立てた修繕積立金から支払われるため、受注調整があれば住民の負担に直結します。"
-          ],
-          "commentary": "マンションの大規模修繕って、12年から15年に一度、足場を全部かけて外壁と屋上を直す工事です。住んでいる人からすると「管理組合が決めたこと」なので、中身はよく見えないですよね。今回の構図は、こうです。管理組合は工事の素人なので、設計コンサルタントに頼んで仕様書を作り、施工会社を選んでもらう。そのコンサルが施工会社と組んで、どこが取るかを先に決めていた。つまり、住民の味方のはずの立場が、反対側にいたわけです。僕が建築士として一番重く見るのは、ここです。設計と監理は本来、工事をする側から独立しているから価値がある。病院で言えば、診断する医者と薬を売る会社が同じでは困るのと一緒なんです。国交省の検討会では、コンサルの中立性をどう担保するか、見積もりの比較をどう透明にするかが論点になるはずです。課徴金の総額は16億3788万円。元は、住民が毎月払ってきた修繕積立金です。",
-          "briefing": [
-            "排除措置命令の対象は38社、課徴金納付命令は施工会社37社。設計コンサルはリノシスコーポレーションと翔設計の2社で、いずれも排除措置命令の対象（公正取引委員会）",
-            "検討会の第1回は10月19日15時〜17時に中央合同庁舎2号館で開催し、オンライン併用。座長は松村秀一・神戸芸術工科大学学長（国交省・NHK）",
-            "国交省は2021年と2024年にマンション大規模修繕工事の実態調査を公表し、戸あたり工事費の分布を示して管理組合が見積もりの妥当性を判断する目安としている"
-          ],
-          "sources": [
-            {
-              "name": "国土交通省（公式）",
-              "url": "https://www.mlit.go.jp/report/press/house03_hh_000280.html"
-            },
-            {
-              "name": "公正取引委員会（公式）",
-              "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260928_daiyon.manshon.html"
-            },
-            {
-              "name": "NHK",
-              "url": "https://news.web.nhk/newsweb/na/nd-20260929de53049"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "設計監理方式と責任施工方式",
-              "body": "大規模修繕の発注には、設計コンサルが仕様書を作って施工会社を競わせる「設計監理方式」と、施工会社が調査から工事まで一括で担う「責任施工方式」があります。設計監理方式は第三者の目が入る利点がある一方、コンサルの中立性が崩れると競争が機能しなくなる弱点が今回明らかになりました。"
-            },
-            {
-              "title": "修繕積立金の不足",
-              "body": "国交省の調査では、修繕積立金が計画に対して不足しているマンションが3割以上あるとされます。資材費と人件費の高騰で工事費が上がる中、割高な発注は積立金の枯渇を早め、修繕の先送りや建物の劣化につながるため、発注の適正化は住民の資産を守る問題でもあります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "国土交通省（公式）",
-          "sourceURL": "https://www.mlit.go.jp/report/press/house03_hh_000280.html",
-          "shoComment": "",
-          "en": {
-            "title": "Japan's antitrust watchdog finds 42 firms rigged condo repair bids; ministry sets up review panel",
-            "summary": "Japan's Fair Trade Commission found that two design consultants and 40 contractors rigged 171 large-scale condominium repair projects in the Kanto region around Tokyo. The construction ministry has set up a panel on fairer ordering, which first meets on Oct 19.",
-            "body": [
-              "On Sept 28, the Japan Fair Trade Commission (JFTC) found that 42 companies, two design consultants and 40 contractors, restricted competition by coordinating who would win 171 large-scale repair projects. The work was ordered through design consultants by condominium owners' management associations in Tokyo and the six surrounding prefectures of the Kanto region. The JFTC issued cease-and-desist orders to 38 companies and ordered 37 contractors to pay surcharges totaling ¥1,637.88 million. It is the first time the JFTC has found a violation of the Antimonopoly Act and penalized companies over condominium repair work.",
-              "In response, the Ministry of Land, Infrastructure, Transport and Tourism (MLIT) announced on Sept 29 that it will set up a study group on making the ordering of large-scale condominium repair work fairer. According to NHK, the group will be chaired by Shuichi Matsumura, president of Kobe Design University, and will hold its first meeting on Oct 19. It will review the current system, in which management associations choose contractors through design consultants, and consider ways to make it fairer.",
-              "Large-scale repairs are carried out every 12 to 15 years, fixing exterior walls, roof waterproofing, and water supply and drain pipes all at once, and it is not unusual for them to cost hundreds of millions of yen per building. The cost is paid from repair reserve funds that residents have built up, so any bid-rigging hits residents' wallets directly."
-            ],
-            "commentary": "A large-scale condo repair is the job that comes around once every 12 to 15 years, when scaffolding goes up over the whole building and the exterior walls and roof get fixed. For the people living there, it's something “the management association decided,” so it's hard to see what's going on inside, right? Here's how this case worked. Management associations are amateurs when it comes to construction, so they hire a design consultant to write the specifications and pick a contractor. Those consultants teamed up with the contractors and decided in advance who would win. In other words, the party that was supposed to be on the residents' side was on the other side. As an architect, this is the part I take most seriously. Design and supervision are valuable precisely because they are independent from the people doing the construction. It's like a hospital: you don't want the doctor making the diagnosis and the company selling the drugs to be one and the same. At MLIT's study group, the issues should be how to guarantee consultants' neutrality and how to make comparing estimates more transparent. The surcharges total ¥1,637.88 million. That money started out as the repair reserves residents have paid in every month.",
-            "briefing": [
-              "Cease-and-desist orders went to 38 companies, and surcharge payment orders to 37 contractors. The two design consultants, Rinoshisu Corporation and Sho Sekkei, were both among those given cease-and-desist orders (JFTC)",
-              "The study group's first meeting runs from 3 to 5 p.m. on Oct 19 at the Central Government Building No. 2 in Tokyo, with online participation also available. The chair is Shuichi Matsumura, president of Kobe Design University (MLIT, NHK)",
-              "MLIT published surveys of large-scale condominium repair work in 2021 and 2024, showing the distribution of construction costs per unit as a benchmark for management associations judging whether estimates are reasonable"
-            ],
-            "hojosen": [
-              {
-                "title": "Two ways to order repairs",
-                "body": "Large-scale repairs are ordered in one of two main ways. In the design-supervision method, a design consultant writes the specifications and has contractors compete; in the contractor-led method, one contractor handles everything from the survey to the construction. The design-supervision method has the advantage of bringing in a third party, but this case exposed its weak point: if the consultant stops being neutral, competition stops working."
-              },
-              {
-                "title": "Underfunded repair reserves",
-                "body": "According to an MLIT survey, more than 30% of condominiums have repair reserves that fall short of their plans. With material and labor costs rising and pushing up construction costs, overpriced contracts drain reserves faster, leading to postponed repairs and deteriorating buildings. Fair ordering is also about protecting residents' assets."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-06-s3",
-          "number": 3,
-          "title": "平城宮跡の県営公園約9haを30年の官民運営へ 奈良県がPFI公募、2031年供用",
-          "summary": "奈良県が平城宮跡歴史公園の県営公園区域約9haを整備・運営する事業者の公募を開始。民設民営の飲食・宿泊施設と横断歩道橋を設け、2031年4月の供用を目指します。",
-          "body": [
-            "奈良県は10月1日、「平城宮跡歴史公園県営公園区域整備運営事業」の公募型プロポーザルを公告しました。日刊建設工業新聞によると、対象は県営公園区域のうち朱雀大路西側地区の約3.1ヘクタール、東側地区の約0.7ヘクタール、平城宮跡南側地区の約5ヘクタールで、事業期間は約32年。期間中に県が支払うサービス対価の参考価格は約85億円（税込み）です。",
-            "東側地区と南側地区には、事業者の提案による民設民営の便益施設を新設します。再都市化によると、飲食・物販・宿泊・体験施設などで建築面積は最大約1万2500平方メートル。民間が建設し保有・運営するBOO方式のPFIを採り、園路や広場、横断歩道橋などの公共施設は県が整備費を負担します。運営期間は30年で、2029年4月の着工、2031年4月の供用を見込みます。",
-            "平城宮跡は8世紀の都・平城京の中心で、特別史跡として国営公園が大極殿や朱雀門を復元してきました。県営区域はその南側に広がる玄関口にあたり、近鉄奈良線をはさんで史跡と市街地をつなぐ位置にあります。"
-          ],
-          "commentary": "平城宮跡を歩いたことがある人は、あの広さに驚いたと思います。東西1.3キロ、南北1キロの草原に、朱雀門と大極殿が復元されて立っている。史跡そのものは国営公園で、建物を建てることはほぼできません。今回の県営区域は、その南の入口側です。ここに飲食や宿泊の施設を、民間が自分のお金で建てて30年運営する。県が払うのは園路や広場、歩道橋の分だけという仕組みです。史跡の隣に宿泊施設と聞くと身構えますが、僕はむしろ、ここでしか成立しない設計の課題だと思っています。1300年前の都の軸線である朱雀大路に、どんな高さで、どんな屋根で向き合うのか。横断歩道橋を架けるのは、史跡を電車の線路と道路が横切っている現実があるからです。公募は始まったばかりで、事業者の提案が出るのはこれからです。朱雀門の前に建つ建物を、設計者がどう描くのか。気長に見ていきたいです。",
-          "briefing": [
-            "県営公園区域は朱雀大路西側地区（約3.1ha）、東側地区（市道を除く約0.7ha）、平城宮跡南側地区（約5ha）の計約9ha。民設民営施設は東側と南側に設ける（日刊建設工業新聞）",
-            "事業者はSPC（特別目的会社）を設立して運営にあたる想定で、2029年4月着工・2031年4月供用、運営期間30年。県は2026年度中に事業者の募集・選定を進める（奈良県・再都市化）",
-            "国営平城宮跡歴史公園は第一次大極殿（2010年復元）や朱雀門（1998年復元）、復元遣唐使船を公開中。県営区域は近鉄大和西大寺駅と新大宮駅の中間に位置し、線路を挟んで史跡の南側に当たる"
-          ],
-          "sources": [
-            {
-              "name": "奈良県（公式）",
-              "url": "https://www.pref.nara.lg.jp/n153/p034027.html"
-            },
-            {
-              "name": "日刊建設工業新聞",
-              "url": "https://www.decn.co.jp/?p=188118"
-            },
-            {
-              "name": "再都市化",
-              "url": "https://saitoshika-west.com/blog-entry-10336.html"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "国営と県営の二重構造",
-              "body": "平城宮跡歴史公園は、史跡の中心部を国土交通省が国営公園として整備し、その周辺の玄関口を奈良県が県営公園として整備する二層構造です。国営区域は文化財保護の制約が厳しく、来訪者向けの飲食や宿泊などの機能は県営区域が担う分担になっています。"
-            },
-            {
-              "title": "公園PFIの広がり",
-              "body": "都市公園法の改正で2017年に公募設置管理制度（Park-PFI）が創設されて以降、公園内に民間の収益施設を設けて整備費や管理費を賄う手法が全国に広がりました。史跡に隣接する公園では景観や高さの制約が強く、収益性と文化財との調和をどう両立するかが事業者選定の焦点になります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "奈良県（公式）",
-          "sourceURL": "https://www.pref.nara.lg.jp/n153/p034027.html",
-          "shoComment": "",
-          "en": {
-            "title": "Nara seeks private partner to run 9-hectare park at the Heijo Palace site for 30 years",
-            "summary": "Nara Prefecture has opened a call for an operator to develop and run the roughly 9-hectare (22 acres) prefectural section of the Heijo Palace Site Historical Park. Privately built and run dining and lodging facilities and a pedestrian bridge are planned, with opening targeted for April 2031.",
-            "body": [
-              "Nara Prefecture published a call for proposals on Oct 1 for a project to develop and operate the prefectural park area of the Heijo Palace Site Historical Park. According to the Nikkan Kensetsu Kogyo Shimbun, the project covers about 3.1 hectares (7.7 acres) west of Suzaku Avenue, about 0.7 hectares (1.7 acres) on the east side, and about 5 hectares (12 acres) south of the palace site, over a project period of about 32 years. The reference price for the service fees the prefecture will pay over that period is about ¥8.5 billion including tax.",
-              "In the east and south areas, new amenity facilities will be built and run by the private sector based on the operator's proposals. According to Saitoshika, these could include restaurants, shops, lodging and hands-on experience facilities, with a building footprint of up to about 12,500 m² (135,000 sq ft). The project uses a build-own-operate (BOO) private finance initiative (PFI), in which the private side builds, owns and runs the facilities, while the prefecture pays for public facilities such as paths, plazas and a pedestrian bridge. The operating period is 30 years, with construction expected to start in April 2029 and the park to open in April 2031.",
-              "The Heijo Palace site was the heart of Heijo-kyo, Japan's capital in the 8th century, in what is now the city of Nara. It is a Special Historic Site, the highest grade of historic site designation in Japan, and the national government park there has reconstructed buildings such as the Daigokuden (Imperial Audience Hall) and the Suzakumon gate. The prefectural area is the gateway spreading out to the south, linking the historic site and the city across the Kintetsu Nara Line, a private railway."
-            ],
-            "commentary": "If you've ever walked around the Heijo Palace site, I bet you were surprised by how big it is. It's a grassy field 1.3 km (0.8 miles) east to west and 1 km (0.6 miles) north to south, with the reconstructed Suzakumon gate and Daigokuden hall standing on it. The historic site itself is a national government park, and you can hardly build anything there. The prefectural area this time is on its southern entrance side. Here, private companies will build restaurants and lodging with their own money and run them for 30 years. The prefecture pays only for the paths, plazas and pedestrian bridge. Hearing “lodging next to a historic site” might make you tense up, but I actually see it as a design challenge that could only exist here. How tall, and under what kind of roof, should a building face Suzaku Avenue, the axis of a capital from 1,300 years ago? The pedestrian bridge is there because, in reality, train tracks and roads cut across the historic site. The call for proposals has only just started, and the operators' proposals are still to come. How will designers draw the buildings that stand in front of the Suzakumon gate? I'll be watching patiently.",
-            "briefing": [
-              "The prefectural park area totals about 9 hectares (22 acres): west of Suzaku Avenue (about 3.1 ha), the east side (about 0.7 ha, excluding a city road) and south of the palace site (about 5 ha). Privately built and run facilities will go in the east and south areas (Nikkan Kensetsu Kogyo Shimbun)",
-              "The operator is expected to set up a special purpose company (SPC) to run the project, with construction starting in April 2029, opening in April 2031 and a 30-year operating period. The prefecture will recruit and select the operator during fiscal 2026 (Nara Prefecture, Saitoshika)",
-              "The national Heijo Palace Site Historical Park displays the First Daigokuden (reconstructed in 2010), the Suzakumon gate (reconstructed in 1998) and a replica of a ship that carried Japan's envoys to Tang-dynasty China. The prefectural area sits midway between Kintetsu's Yamato-Saidaiji and Shin-Omiya stations, south of the historic site across the tracks"
-            ],
-            "hojosen": [
-              {
-                "title": "A national and prefectural split",
-                "body": "The Heijo Palace Site Historical Park has two layers: the core of the historic site is developed by the Ministry of Land, Infrastructure, Transport and Tourism as a national government park, while Nara Prefecture develops the gateway areas around it as a prefectural park. Heritage protection rules are strict in the national area, so visitor functions such as dining and lodging are handled by the prefectural area."
-              },
-              {
-                "title": "The spread of Park-PFI",
-                "body": "Since a 2017 amendment to Japan's Urban Parks Act created a public tender system for installing and managing park facilities, known as Park-PFI, the approach of putting private revenue-generating facilities in parks to cover development and maintenance costs has spread nationwide. In parks next to historic sites, limits on scenery and building height are strict, so balancing profitability with heritage becomes the key question in choosing an operator."
               }
             ]
           }
