@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "NHK",
           "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261104de70263",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Kawasaki city official arrested on suspicion of leaking confidential bid prices for painting and waterproofing work",
+            "summary": "Kanagawa Prefectural Police arrested a senior official of Kawasaki, a city between Tokyo and Yokohama, on November 4 on suspicion of leaking undisclosed construction prices to an industry group ahead of bids for city painting and waterproofing jobs.",
+            "body": [
+              "On November 4, Kanagawa Prefectural Police arrested a senior manager (59) in the urban development bureau of Kawasaki, a large city between Tokyo and Yokohama, on suspicion of violating the Act on Elimination and Prevention of Involvement in Bid Rigging (obstruction of bidding), a law aimed at public officials who help rig public tenders. He is suspected of leaking the city's undisclosed \"construction price\" to contractors ahead of tenders for painting and waterproofing work ordered by the city. Police have not said whether he admits the allegations.",
+              "According to the allegations, around 2024, in open competitive tenders for work at two city facilities, he passed the construction prices to the secretary-general of the Kawasaki Painting Contractors Association, an industry group, and conspired so that two member companies would win the contracts. At the time, he was head of the bureau's facilities department. The secretary-general is a former senior city official. Police believe the secretary-general used the prices he obtained to work out the minimum acceptable bid, and that this figure was then passed on to the contractors.",
+              "Police searched the association's office and Kawasaki City Hall. Suspecting that similar wrongdoing, also involving former city employees, had been repeated, they are questioning people involved to establish the full picture."
+            ],
+            "commentary": "The minimum acceptable bid is the line in a public tender that says, \"bid below this and you're disqualified.\" If a job is won at a price that's too low, cutting corners and squeezing subcontractors become more likely. The system exists to prevent that. But that line is calculated from the construction price the client estimates. So if you know the construction price, you can put in a bid just above the line. It's like knowing the passing score of a test in advance, and a competition that should be close to a lottery stops being one. If the price of a facility built with your tax money was being decided this way, you couldn't stay calm about it, right? In this case, at the center of the allegations is an industry group whose secretary-general is a former senior city official. Ties between former colleagues remain on both the side that orders work and the side that receives it. I think this is not just a Kawasaki problem but a structure that local governments across Japan share. These are still allegations, so the facts will have to wait for the investigation. How to separate the system that protects prices from personal connections is a question I think clients everywhere are being asked.",
+            "briefing": [
+              "According to reports, the jobs in question were painting and waterproofing work at two city facilities, both put out to open competitive tender. The construction price is the city's estimate, calculated from unit costs, and is not made public before the tender.",
+              "The secretary-general is reported to be a former senior official who retired from the city at the mandatory age in 2009. Police believe someone in the association acted as a coordinator who decided which company would win.",
+              "Also on November 4, it was reported that the Shizuoka District Public Prosecutors Office had indicted three people, including a Shizuoka prefectural employee and an executive of a civil engineering company, who had been arrested over work ordered by the prefecture, on charges including violating the same anti-bid-rigging law."
+            ],
+            "hojosen": [
+              {
+                "title": "Why prices are kept secret",
+                "body": "Many local governments in Japan decide for themselves whether to publish the ceiling price or the minimum acceptable bid before a tender. Publishing them in advance reduces attempts to find out the price, but critics point out that bids then cluster at the published figure and the tender turns into a lottery. Keeping them secret means officials who know the price can become targets instead, so both approaches have weak points."
+              },
+              {
+                "title": "Rigging in private work too",
+                "body": "In October, Japan's Fair Trade Commission found that 42 companies had rigged bids for large-scale repair work on condominiums, and the Ministry of Land, Infrastructure, Transport and Tourism (MLIT) began looking at ways to make ordering fairer. In both public and private work, how clients develop the ability to judge prices has become a shared challenge for the construction industry."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-05-s2",
@@ -96,7 +121,31 @@
           "reliability": "高",
           "sourceName": "三井不動産（公式・PR TIMES）",
           "sourceURL": "https://prtimes.jp/main/html/rd/p/000001165.000051782.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "LaLaport TOKYO-BAY near Tokyo starts phase two of its north wing rebuild, with a full reopening set for summer 2028",
+            "summary": "Construction has begun on the second phase of the north wing rebuild at LaLaport TOKYO-BAY, a shopping mall in Funabashi just east of Tokyo. It opens in summer 2028, bringing the whole mall to about 600 stores.",
+            "body": [
+              "Mitsui Fudosan announced on November 4 that it has started construction on the phase two area of its north wing rebuild at Mitsui Shopping Park LaLaport TOKYO-BAY in Funabashi, Chiba Prefecture, a suburb just east of Tokyo. The opening is planned for summer 2028, which will complete the rebuild and mark the mall's full reopening.",
+              "LaLaport TOKYO-BAY opened in 1981 as the first LaLaport, now a large chain of shopping malls. The north wing is being rebuilt in two phases, and the phase one area opened with 96 stores in October 2025. The phase two area will grow from about 150 stores before the rebuild to about 200, bringing the whole mall to about 600 stores.",
+              "In phase two, the former central plaza will be expanded to about three times its size, creating an indoor \"stadium court\" that can host sports and entertainment events."
+            ],
+            "commentary": "45 years. That's how long it has been since LaLaport TOKYO-BAY opened in Funabashi as the chain's first mall. When you rebuild a big shopping mall, the hardest condition is doing it while staying open. Closing everything and rebuilding in one go makes construction easier, but in the meantime both shoppers and stores drift away. So you divide the site and rebuild it half at a time. It's like moving house while still living there, clearing one room at a time. Phase one opened a year ago, and now it's phase two's turn. The other thing I want to point out is the \"stadium court\" that makes the central plaza about three times bigger. Now that you can do your shopping online, don't you feel the reason to actually go somewhere has shifted from the number of stores to what's happening there? Rather than just adding store space, they're giving floor area to a place where people gather and watch. I think that's a sign of it. Next time you're at a big shopping mall, look at where the atriums and plazas are in the building and how big they are.",
+            "briefing": [
+              "The north wing's total store area is planned to grow from about 45,000 m² (484,000 sq ft) before the rebuild to about 60,200 m² (648,000 sq ft).",
+              "No specific date has been given for the full reopening yet; it is planned for \"summer 2028.\""
+            ],
+            "hojosen": [
+              {
+                "title": "Malls reach rebuilding age",
+                "body": "Many large suburban shopping centers that opened in Japan in the 1980s and 1990s have reached the point where their buildings and equipment need renewal. Across the country, owners are split between closing and demolishing, or rebuilding in stages while staying open."
+              },
+              {
+                "title": "Space for experiences",
+                "body": "Recent shopping centers increasingly devote more floor area to places that don't sell anything, such as event plazas, play areas and sports facilities. The aim is to give people a reason to come and to make them stay longer."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-05-s3",
@@ -141,7 +190,32 @@
           "reliability": "高",
           "sourceName": "khb東日本放送",
           "sourceURL": "https://www.khb-tv.co.jp/news/17016452",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Sendai's new Izumi Ward Office is completed, linked to a subway station and built by a developer for the city to buy",
+            "summary": "In Sendai, the largest city in Japan's Tohoku region, the new six-story, two-basement Izumi Ward Office has been completed, with a ceremony held on November 2. It is scheduled to open in January 2027.",
+            "body": [
+              "The new building for the Izumi Ward Office in Sendai, the largest city in the Tohoku region of northeastern Japan, has been completed, and a completion ceremony was held on November 2. A ward office is the local branch of city hall where residents handle everyday paperwork. The new building has six floors above ground and two basement levels, and connects directly to Izumi-Chuo Station on the Sendai Subway Namboku Line. It is scheduled to open in January 2027.",
+              "The project is run by Mitsubishi Estate, and construction began in December 2024. Under the arrangement, the private developer builds the new office and the city buys it once it is finished.",
+              "Next, the old building will be demolished, and parking and a public plaza for residents will be built in its place. Private development is also planned on part of the site, and the whole block is scheduled for completion in fiscal 2029."
+            ],
+            "commentary": "When you go to a ward office, it's usually for something specific: a residence certificate, registering a move, a child allowance. Haven't you ever walked through the rain just to do some paperwork? That's why being able to get there from the station without getting wet matters more than you'd think. The new Izumi Ward Office connects directly to Izumi-Chuo subway station. What's interesting about this rebuild is that the city chose a method where a private company builds it and the city buys the finished building. When a local government picks the designer and the contractor separately, as it usually does, a failed tender can cause delays of months. Hand it to the private sector, and design through construction can move as one process. From the start of construction in December 2024, it was finished almost exactly on schedule. Of course, how much the city can dictate what goes inside depends on how the contract is written. Once the old office is torn down, a public plaza for residents will be built. The whole block will be finished in fiscal 2029.",
+            "briefing": [
+              "When Mitsubishi Estate announced the start of construction in December 2024, completion was planned for the end of October 2026. According to reports, the work was finished almost exactly on that schedule.",
+              "Reports differ on the opening, with some saying the office will start being used in mid-January and others saying it opens at the end of January, so the exact date will need to come from the city.",
+              "Demolition of the old building is reported to begin in February, after the new office opens."
+            ],
+            "hojosen": [
+              {
+                "title": "Failed tenders for city halls",
+                "body": "With construction costs rising, failed tenders for local government office buildings have been piling up in Japan. In October, Nasushiobara issued a tender notice for its new city hall for the third time, and Kishiwada switched to ordering design and construction separately after its design-build tender failed. The choice of procurement method is increasingly deciding whether a government building project succeeds."
+              },
+              {
+                "title": "Offices at the heart of towns",
+                "body": "Shizuoka City has proposed moving its Shimizu branch office into a private mixed-use building, and similar moves are spreading across Japan to combine government offices with private development so they serve as hubs for the town, rather than standing as separate buildings."
+              }
+            ]
+          }
         }
       ]
     },
