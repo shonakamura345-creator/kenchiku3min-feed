@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>建築3分ニュース</title>
+<meta name="description" content="毎朝3分で読める建築ニュースのアプリ。iPhoneはApp Storeへ、それ以外はブラウザで今日の号を読めます。">
+<meta property="og:title" content="建築3分ニュース">
+<meta property="og:description" content="毎朝3分で読める建築ニュースのアプリ">
+<meta property="og:image" content="https://shonakamura345-creator.github.io/kenchiku3min-feed/assets/og.jpg">
+<meta name="apple-itunes-app" content="app-id=6800172328">
+<link rel="icon" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/assets/favicon.png">
+<style>
+body{margin:0;background:#FAF9F5;color:#2D2A26;font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;line-height:1.8}
+.wrap{max-width:480px;margin:0 auto;padding:48px 20px;text-align:center}
+img{width:96px;height:96px;border-radius:22px}
+h1{font-size:1.4rem;margin:16px 0 4px}
+p{color:rgba(45,42,38,.65);margin:0 0 24px}
+a.btn{display:block;background:#F97316;color:#fff;text-decoration:none;font-weight:700;border-radius:999px;padding:14px;margin:12px 0}
+a.sub{background:#fff;color:#2D2A26;border:1px solid rgba(45,42,38,.15)}
+</style>
+<script>
+// LINEのメニューから来た人の振り分け：iPhone・iPadはApp Storeへそのまま飛ばす
+// （Android版はPlayストア公開後にここへ足す）
+(function(){
+  var ua = navigator.userAgent;
+  var ios = /iPhone|iPad|iPod/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  if (ios) location.replace('https://apps.apple.com/jp/app/id6800172328');
+})();
+</script>
+</head>
+<body><div class="wrap">
+<img src="https://shonakamura345-creator.github.io/kenchiku3min-feed/assets/apple-touch-icon.png" alt="">
+<h1>建築3分ニュース</h1>
+<p>毎朝6時、建築のニュースを3本。<br>Sho建築士AIの解説つき。</p>
+<a class="btn" href="https://apps.apple.com/jp/app/id6800172328">iPhoneアプリ（App Store）</a>
+<a class="btn sub" href="https://shonakamura345-creator.github.io/kenchiku3min-feed/">ブラウザで今日の号を読む</a>
+<p style="font-size:.85rem;margin-top:20px">Android版は準備中です</p>
+</div></body></html>
