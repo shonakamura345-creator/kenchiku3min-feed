@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "国土交通省（公式）",
           "sourceURL": "https://www.mlit.go.jp/jutakukentiku/house/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Update: Japan moves to let upkeep raise the value of used homes, as MLIT sets up a working group on maintenance records",
+            "summary": "On November 5, Japan's construction and housing ministry announced the first meeting of a working group that will discuss how to evaluate the inspections and repairs owners put into their homes, with an eye to changing how used homes are priced.",
+            "body": [
+              "On November 5, the Ministry of Land, Infrastructure, Transport and Tourism (MLIT), which oversees building and housing policy in Japan, announced that it will hold the first meeting of a working group on evaluating how well homes have been maintained and on assessing the performance of existing homes. The group will discuss how to rate the inspections and repairs that owners have carried out, and how to evaluate the performance of homes that are already built.",
+              "The working group sits under the Study Group on Systems for the Maintenance and Circulation of Housing, which we reported on Oct 11. Other working groups under that study group cover housing history records and protection against defects and for consumers. The housing records group held its first meeting on October 28.",
+              "According to the Nikkei, Japan's main business daily, MLIT is considering letting homes that have received proper regular inspections and repairs qualify for better terms on things like fire insurance and mortgage contracts. It is also said to be looking at a system that would let buyers and lenders check a home's maintenance history when it is sold."
+            ],
+            "commentary": "A wooden house that's 25 years old is worth almost nothing as a building, no matter how carefully it's been lived in. That's how used homes have long been viewed in Japanese real estate deals. You can repaint the roof or fill cracks in the outside walls early, and on the appraisal sheet the building's age still wins. In car terms, it's like a car that's been taken in for inspection every year being bought back for the same price as one that's never been checked, right? What this working group is tackling is how to turn that upkeep into numbers. I think the key is records. When was it fixed, where, and by whom? If that isn't written down, buyers can't see it, no matter how much care went in. Put the other way, once there's a yardstick for evaluating upkeep, owners get one more reason to fix their homes. Who should keep those inspection records, where, and for how many years, I wonder?",
+            "briefing": [
+              "The parent study group, the Study Group on Systems for the Maintenance and Circulation of Housing, held its first meeting in October and is reported to plan its final recommendations for March 2027. The recommendations are meant to feed into laws and policy.",
+              "Under the study group are three working groups: this one on maintenance and existing-home evaluation, one on housing history records, and one on the defect warranty system and consumer protection. The defect warranty system requires builders to secure money, through insurance or deposits, to repair defects in new homes.",
+              "MLIT also drew up guidelines in 2014 to improve how the buildings of used detached houses are valued. They split a building into the foundation and structure on one side and the interior, exterior and equipment on the other, and treated the foundation and structure as keeping value for at least about 50 to 60 years if properly maintained."
+            ],
+            "hojosen": [
+              {
+                "title": "Zero value at 20 years",
+                "body": "In Japan's used-home market, the building on a wooden detached house has long been treated as worth zero after about 20 to 25 years, regardless of its actual condition. The government's 2014 guidelines tried to change that, but they are said to be only partly established in the market. The current discussion extends that effort by adding a home's record of upkeep to the yardstick."
+              },
+              {
+                "title": "Pushed by new-home prices",
+                "body": "Prices of new homes keep rising, with the average price of a new condominium in the Tokyo area topping ¥100 million. As new homes slip out of reach, properly valuing and selling existing homes is drawing attention as a way to widen people's housing options."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-06-s2",
@@ -97,7 +122,32 @@
           "reliability": "高",
           "sourceName": "愛知県（公式）",
           "sourceURL": "https://www.pref.aichi.jp/press-release/nextgeneration-airmobility/soramichi2026-pt7.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Aichi Prefecture unveils its first plan for a flying-car port, at Prefectural Nagoya Airport by fiscal 2028",
+            "summary": "On November 2, Aichi Prefecture in central Japan released a basic plan for a dedicated takeoff and landing site for flying cars at Prefectural Nagoya Airport. It will reuse an existing building as a hangar and aims to open within fiscal 2028.",
+            "body": [
+              "On November 2, Aichi Prefecture, whose capital is Nagoya, released a basic plan to build a takeoff and landing site for electric vertical takeoff and landing aircraft, known in Japan as flying cars, at Prefectural Nagoya Airport in the town of Toyoyama. It will be the prefecture's first dedicated site for them. The plan was reported at a prefectural project meeting held the same day.",
+              "Under the plan, an existing prefectural flight research center inside the airport will be used as a hangar for the aircraft, and two parking areas for aircraft will be built. Chargers will be installed by the companies that operate the flights. The prefecture plans to finish detailed design by March 2027, start work on power receiving and transforming equipment and other facilities in fiscal 2027, and open the site within fiscal 2028. Japan's fiscal year runs from April to March.",
+              "Once complete, the site is expected to be used by private companies for demonstration flights and sightseeing flights, with commercial service as a future goal. The prefecture notes, however, that when the site can actually be used will also depend on progress in developing the aircraft and in obtaining national safety certification."
+            ],
+            "commentary": "No new runway, and no big terminal building either. The heart of this plan is reusing a building that already exists. A prefectural research facility inside the airport becomes the hangar, and two spots are made for parking aircraft. The operators bring their own chargers. It's a plan that keeps new construction to a minimum. On the ground, a flying-car port is like a bus stop, a garage and a gas station rolled into one. Since there's no runway, it's more compact than you might think, isn't it? But when the aircraft will actually be able to fly still depends on national certification. So I think the decision not to build anything big first, and to start with an existing airport and facility, makes sense. Rows of boarding points in front of train stations and on building rooftops come later. The target for opening is within fiscal 2028.",
+            "briefing": [
+              "In March 2026, Japan's Ministry of Economy, Trade and Industry and the Ministry of Land, Infrastructure, Transport and Tourism revised their roadmap for the air mobility revolution and stated that commercial flying-car service would start between 2027 and 2028. Aichi's plan is timed to match that national target.",
+              "As of January 2026, Aichi had already positioned Prefectural Nagoya Airport as a base to lead the real-world rollout and said it would install charging facilities and more around fiscal 2028. The new plan gives that idea concrete contents and a schedule.",
+              "Earlier prefectural studies also listed the areas around the Aichi Expo memorial park, Nagoya Castle and the Port of Nagoya as candidate bases for sightseeing flights and point-to-point travel."
+            ],
+            "hojosen": [
+              {
+                "title": "Subsidies in Osaka",
+                "body": "Osaka Prefecture runs a subsidy program for private companies that build bases such as dedicated flying-car takeoff and landing sites. While Aichi is building its own site using a prefectural facility, Osaka supports private construction, so local governments are taking different routes."
+              },
+              {
+                "title": "Starting from airports",
+                "body": "Safety certification for flying cars and rules for operating them are still being worked out, so when and how much they will fly is not yet settled. That is why many places are choosing airports, which already have air traffic control and safety management in place, as their first bases."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-06-s3",
@@ -142,7 +192,32 @@
           "reliability": "中",
           "sourceName": "Architectural Record（公式）",
           "sourceURL": "https://www.architecturalrecord.com/articles/18526-records-2026-building-of-the-year-arquipeo-by-estudio-gustavo-utrabo",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Architectural Record names Sao Paulo office complex Arquipeo its 2026 Building of the Year",
+            "summary": "The US architecture magazine Architectural Record has chosen Arquipeo, an office complex in Sao Paulo, Brazil, as its 2026 Building of the Year. The building sits in a flood-prone industrial district.",
+            "body": [
+              "The US architecture magazine Architectural Record announced the winners of its 2026 Record Awards and gave its top honor, Building of the Year, to Arquipeo, an office complex in Sao Paulo, Brazil. The winners were honored in New York on November 4.",
+              "Arquipeo was designed by the Brazilian firm Estudio Gustavo Utrabo. It first won the Office and Workplace category and was then picked from among the category winners as the overall top building.",
+              "The building stands in Vila Leopoldina, a flood-prone industrial district. It is five stories tall and mainly concrete. It is wrapped in a screen of perforated steel, and a staggered grid of columns creates connected pathways, courtyards and terraces. It was developed by Brookfield Properties and opened in October 2024."
+            ],
+            "commentary": "When you think of an office building, you probably picture a tall glass tower, don't you? Arquipeo is the opposite. It's only five stories and spreads out wide. The column grid is deliberately staggered, and the gaps become pathways, courtyards and terraces. I think it feels less like walking through a building and more like cutting through the alleys of a small town. The other interesting thing is the location. It stands in a former factory district that floods easily. In Japan, too, it's not unusual for old factory sites along the bay or rivers to turn into offices and condominiums. On land prone to flooding, how do you use the floors closest to the ground? How do you create a new place to work while keeping the memory of an industrial area? A low office building in Sao Paulo is trying to answer the same questions Japan's redevelopment faces, ahead of us. I think that's the kind of era we're in.",
+            "briefing": [
+              "The winners were honored in New York alongside the magazine's annual Innovation Conference.",
+              "Arquipeo is a built-to-suit development, meaning it was built to a tenant's requirements. The Green Building Council Brasil describes it as a building that symbolizes corporate architecture in Vila Leopoldina and the district's shift from an industrial area to an urban one.",
+              "The architect, Gustavo Utrabo, is known for the Children Village (Aldeia Infantil), a boarding school in central Brazil. The school received the RIBA International Prize from the Royal Institute of British Architects in 2018."
+            ],
+            "hojosen": [
+              {
+                "title": "Densifying a factory district",
+                "body": "Vila Leopoldina was originally a district full of factories, and under an urban development program led by the City of Sao Paulo, its buildings are getting taller and denser. Arquipeo is an example of choosing a low, wide building within that trend."
+              },
+              {
+                "title": "A Brazilian lineage",
+                "body": "Brazil produced architects such as Oscar Niemeyer and Paulo Mendes da Rocha, who used concrete boldly. Arquipeo's mainly concrete construction connects to that local building culture."
+              }
+            ]
+          }
         }
       ]
     },
