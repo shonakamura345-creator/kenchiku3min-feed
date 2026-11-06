@@ -1,6 +1,99 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-07",
+      "date": "2026-11-07",
+      "weekday": "土",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 9,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-07-s1",
+          "number": 1,
+          "title": "津田沼パルコ跡地に高さ160mのタワマン 習志野市・船橋市が「特定街区」の都市計画素案",
+          "summary": "津田沼駅北口のパルコ跡地で、習志野市と船橋市が都市計画の素案をまとめました。高さは40mと160mの2街区で、27年度の決定をめざします。",
+          "body": [
+            "千葉県のJR津田沼駅北口にあった「津田沼パルコ」の跡地について、習志野市と船橋市が、再開発のための都市計画の素案をまとめました。敷地を二つの街区に分け、建物の高さの上限をA街区は40メートル、B街区は160メートルとする内容です。",
+            "報道によると、パルコA館の跡地にあたるA街区には6階建ての商業・オフィスビルを、B街区には低い階に商業施設が入る40階程度のタワーマンションを建てる計画です。敷地は二つの市にまたがっているため、両市が足並みをそろえて都市計画の手続きを進め、2027年度中の決定をめざします。",
+            "パルコの閉店後、A館跡地では三井不動産レジデンシャルが10月1日、本格的な開発までの間の暫定活用として駅前広場「ATOCHI」を開いています。今回の素案は、その先の街の姿を初めて数字で示したものです。"
+          ],
+          "commentary": "駅の南と北に、同じくらいの高さの塔が向き合うことになりそうです。北口のB街区の上限は160メートル。南口に建つ超高層マンション「津田沼 ザ・タワー」と、ほぼ同じ高さです。今回使われる「特定街区」は、少し変わった仕組みなんです。ふつう建物の大きさは、用途地域ごとに決まった容積率、つまり敷地の広さに対して床をどれだけ積めるかの上限で縛られます。特定街区では、その街区だけの専用ルールを都市計画で決めて、高さや容積を個別に設定します。洋服で言えば、既製服のサイズ表ではなく、その体に合わせて仕立てるオーダーメイドに近いんですよね。今回は、A街区を低く抑え、B街区を高くする組み合わせです。低いビルの側とタワーが立つ側を、はっきり分けた配分になっています。もう一つ珍しいのは、敷地が船橋市と習志野市の境をまたいでいることです。一つの建物のために、二つの市が同じ都市計画を同時に決める。決定の目標は、2027年度中です。",
+          "briefing": [
+            "報道によると、両市のスケジュールでは、早ければ2028年度にA街区の新築工事に着手し、2031年度の完成を想定しているとされています。B街区の着工時期は、検索で確認できた範囲では示されていません。",
+            "B街区の高さ160メートルは、駅の南口にある超高層マンション「津田沼 ザ・タワー」とほぼ同じ高さだと報じられています。駅の南北に、同じくらいの高さの塔が向き合う形になります。",
+            "A館跡地の駅前広場「ATOCHI」は、三井不動産レジデンシャルが将来の開発までの期間を暫定活用する取り組みとして、2026年10月1日に開業しました。"
+          ],
+          "sources": [
+            {
+              "name": "建設通信新聞",
+              "url": "https://www.kensetsunews.com/sokuho/1305097"
+            },
+            {
+              "name": "日本建設新聞社",
+              "url": "https://www.jcpress.co.jp/wp01/?p=40745"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "特定街区とは",
+              "body": "特定街区は、街区単位で高さや容積率、壁面の位置などを都市計画で個別に定める制度です。その代わりに、広場や歩道などの空地を確保することが求められるのが一般的です。東京の西新宿の超高層ビル群などでも使われてきた、歴史の長い仕組みです。"
+            },
+            {
+              "title": "津田沼の駅前競争",
+              "body": "津田沼駅の周辺は、かつて大型の商業施設が集まり、激しく客を取り合ったことで知られます。百貨店や専門店の撤退が進んだ後、南口でも再開発の計画が動いており、駅の両側で「商業の街」から「住む街」への組み替えが進んでいます。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "建設通信新聞",
+          "sourceURL": "https://www.kensetsunews.com/sokuho/1305097",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-07-s2",
+          "number": 2,
+          "title": "亀戸駅北口で約1.8haの再開発へ 地権者が準備組合を設立、NTT都市開発が事業協力",
+          "summary": "JR亀戸駅の北側、明治通りと商店街に接する約1.8haで再開発の準備組合が発足。古い建物の密集や浸水のリスクといった課題の解消をめざします。",
+          "body": [
+            "東京都江東区のJR総武線・東武亀戸線の亀戸駅北口で、市街地再開発に向けた「亀戸五丁目地区市街地再開発準備組合」が設立されました。NTT都市開発が11月5日に発表したもので、設立は9月13日。準備組合は事業協力者として同社を選んでいます。",
+            "検討しているのは、駅の北側で明治通りと亀戸中央通り商店街に接する、亀戸五丁目内の約1.8ヘクタールです。この地区には、古い建物が密集し、道が狭く、水害時に浸水するおそれがあるといった防災上の課題があるとされています。区域は今後の協議で変わる可能性があります。",
+            "今後は準備組合とNTT都市開発が中心になり、土地や建物の権利を持つ人たちの意向を確かめて合意をつくりながら、都市計画や建物の計画、事業計画を検討します。建物の規模や完成時期は、まだ示されていません。"
+          ],
+          "commentary": "駅前の古い店も住まいも、一度たたんで大きな一つの建物に引っ越す。市街地再開発は、ざっくり言えばそういう仕組みなんです。土地や建物の権利を、完成後の新しいビルの床と交換します。だから地区の全員の暮らしと商売に関わる。亀戸五丁目では、地権者108者のうち約6割が準備組合の設立に賛同しました。法律上、本格的な組合をつくるには、土地の所有者などのそれぞれ3分の2以上の同意が必要になります。今回の地区が抱える課題の一つは、浸水のリスクです。江東区は低い土地が広がるエリアで、道が狭く古い建物が並ぶ街区は、水が出たときに逃げにくく、助けにも入りにくい。建て替えで解決できることは多いと思います。一方で、亀戸中央通り商店街に面した、通りに店が並ぶにぎわいも、この街の財産です。防災のための大きな建物と、商店街の路面のにぎわい。その両方をどこまで残せるんでしょうね。",
+          "briefing": [
+            "地権者たちは2023年11月から勉強会を重ね、2024年12月には有志の地権者が「亀戸北口まちづくり発起人会」を組織しました。準備組合の設立にあたっては、地権者108者のうち約6割から賛同を得たとされています。",
+            "準備組合は、正式な再開発組合の前段階にあたる任意の組織です。今後、都市計画の決定や組合の設立認可などの手続きを経て、事業が本格的に動き出します。",
+            "発表はNTT都市開発（NTTアーバンソリューションズグループ）によるもので、事業協力者は、計画づくりや権利者との調整などで準備組合を支える役割を担います。"
+          ],
+          "sources": [
+            {
+              "name": "NTT都市開発（公式）",
+              "url": "https://www.nttud.co.jp/news/detail/id/n28053.html"
+            },
+            {
+              "name": "Impress Watch",
+              "url": "https://www.watch.impress.co.jp/docs/news/2154318.html"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "低い土地と防災",
+              "body": "江東区を含む東京の東部には、地面の高さが満潮時の海面より低い、いわゆる海抜ゼロメートル地帯が広がっています。大きな水害への備えとして、建物を高くしたり、上の階に避難できる場所を設けたりする再開発は、この地域で防災の手段と位置づけられてきました。"
+            },
+            {
+              "title": "準備組合から完成まで",
+              "body": "市街地再開発は、準備組合の発足から都市計画の決定、組合の設立、権利の変換、着工、完成まで、10年を超えることも珍しくありません。初期の段階では、区域や建物の規模が協議の中で変わっていくのが一般的です。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "NTT都市開発（公式）",
+          "sourceURL": "https://www.nttud.co.jp/news/detail/id/n28053.html",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-06",
       "date": "2026-11-06",
       "weekday": "金",
@@ -6374,227 +6467,6 @@
               {
                 "title": "Renewing rural stations",
                 "body": "Many wooden and reinforced concrete station buildings put up shortly after World War II remain on rural lines, and they are aging just as ridership is falling. Railway companies are keeping maintenance costs down by making station buildings smaller and simpler, and 3D printing is being tried as one of those options."
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-08",
-      "date": "2026-10-08",
-      "weekday": "木",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-08-s1",
-          "number": 1,
-          "title": "改正建築士法の施行日が2027年4月1日に決定 設計・監理契約は面積を問わず書面が義務に",
-          "summary": "国交省は10月6日、改正建築士法の契約部分を2027年4月1日に施行する政令の閣議決定を発表。面積を問わず全ての設計・工事監理契約が書面義務の対象になります。",
-          "body": [
-            "国土交通省は10月6日、建築士法の一部を改正する法律（令和8年法律第74号）の施行に伴う関係政令が閣議決定されたと発表しました。BuildApp Newsによると、閣議決定された政令は2本で、1本は改正法のうち契約に関する規定を2027年4月1日から施行すると定めるもの、もう1本は建築士法施行令を改める運用上の整備です。施行されるのは、建築士事務所が行う全ての設計・工事監理の受託契約の書面化と、報酬の算定根拠を示す見積書を作成する努力義務です。",
-            "現行制度では、書面による契約の相互交付が義務づけられているのは延べ面積300平方メートル超の新築などに限られ、それ以下は「望ましい」とされてきました。改正法は7月24日に参院で可決・成立し、7月31日に公布されています。契約・見積書に関する部分は公布から1年以内、在学中の建築士試験受験など資格要件の部分は3年以内に政令で定める日から施行する建て付けで、今回は前者の日付が決まった形です。",
-            "受験要件の緩和や二級・木造建築士の実務経験短縮など、資格制度の施行日は今回の政令には含まれておらず、別途定められる見通しです。施行まで約半年。小規模な住宅やリフォームの設計を受ける事務所も、契約書と見積書の運用を見直す期間に入ります。"
-          ],
-          "commentary": "書面契約の全面義務化は、僕たち建築士事務所の仕事のやり方そのものに関わる話です。300平方メートル以下の住宅や店舗では、いまも口頭と図面だけで設計が始まるケースが珍しくありません。設計料がいくらで、どこまでの業務を含むのかが曖昧なまま進み、最後にもめる。これを法律で止めに来たのが今回の改正です。見積書の作成は努力義務にとどまりますが、「報酬の算定根拠を示す」という考え方が条文に入った意味は小さくないと思います。僕自身、小さな店舗の内装改修でも概算見積に項目ごとの内訳と根拠を付けて出すようにしていますが、根拠を書くと自分の業務範囲も自然と整理されます。皆さんの事務所では、設計契約を書面にするまでにどれくらいの手間がかかっていますか。施行は2027年4月1日。契約書と見積書の雛形を整える時間は、あと半年です。",
-          "briefing": [
-            "10月6日、改正建築士法（令和8年法律第74号）の施行に伴う関係政令を閣議決定",
-            "契約に関する規定の施行日は2027年4月1日。全ての設計・工事監理契約が書面義務の対象に",
-            "見積書の作成は努力義務。受験資格など資格制度の施行日は別途政令で定める見通し"
-          ],
-          "sources": [
-            {
-              "name": "国土交通省（公式）",
-              "url": "https://www.mlit.go.jp/pressrelease.html"
-            },
-            {
-              "name": "BuildApp News",
-              "url": "https://news.build-app.jp/article/43063/"
-            },
-            {
-              "name": "日刊建設工業新聞",
-              "url": "https://www.decn.co.jp/?p=184647"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "書面契約の義務（現行）",
-              "body": "2015年施行の改正建築士法で、延べ面積300平方メートル超の建築物の新築などに関する設計・工事監理契約は、必要事項を記した書面を当事者が相互に交付することが義務づけられました。300平方メートル以下は法律上の義務がなく、書面による契約が「望まれる」扱いでした。"
-            },
-            {
-              "title": "今回の改正法の二段階施行",
-              "body": "令和8年の改正建築士法は、契約・見積書に関する部分を公布から1年以内、在学中受験の解禁など資格要件に関する部分を公布から3年以内に、それぞれ政令で定める日から施行する構成です。公布は2026年7月31日でした。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "国土交通省（公式）",
-          "sourceURL": "https://www.mlit.go.jp/pressrelease.html",
-          "shoComment": "",
-          "en": {
-            "title": "Japan sets April 1, 2027 for written contracts on all architectural design work, whatever the size",
-            "summary": "Japan's construction ministry announced on Oct 6 that the cabinet approved an ordinance putting the contract provisions of the revised Kenchikushi Act into force on April 1, 2027. From then on, every design and construction supervision contract must be in writing, regardless of floor area.",
-            "body": [
-              "The Ministry of Land, Infrastructure, Transport and Tourism (MLIT) announced on Oct 6 that the cabinet had approved the government ordinances needed to bring into force the Act Partially Amending the Kenchikushi Act (Act No. 74 of 2026). The Kenchikushi Act is the law that licenses architects in Japan and regulates their offices. According to BuildApp News, the cabinet approved two ordinances. One puts the revised law's provisions on contracts into force on April 1, 2027, and the other makes operational updates to the Act's enforcement order. The provisions taking effect require architect offices to put every contract for design and construction supervision (the architect's job of checking that construction matches the drawings) in writing, and add a best-effort obligation to prepare estimates that show how fees are calculated.",
-              "Under the current system, the mutual exchange of written contracts is mandatory only for projects such as new buildings with a total floor area of more than 300 m² (3,200 sq ft). Below that, written contracts have merely been described as desirable. The revised law passed the House of Councillors, the upper house of Japan's parliament, on July 24 and was promulgated on July 31. It was structured so that the parts on contracts and estimates take effect on a date set by ordinance within one year of promulgation, and the parts on license requirements, such as allowing students to take the kenchikushi exam while still in school, within three years. This ordinance sets the date for the former.",
-              "The ordinances do not cover the start dates for the licensing changes, such as relaxed exam eligibility and shorter practical experience requirements for second-class and wooden-building (mokuzo) kenchikushi, which are expected to be set separately. With about half a year until the rules take effect, offices that design small houses and renovations are entering a period of reviewing how they handle contracts and estimates."
-            ],
-            "commentary": "Making written contracts mandatory across the board touches the very way we run architect offices. For houses and shops of 300 m² (3,200 sq ft) or less, it's still not unusual for a design job to start with nothing more than a conversation and some drawings. The design fee and the scope of work stay vague, and it all ends in a dispute. This revision is the law stepping in to stop that. Preparing an estimate is only a best-effort obligation, but I don't think it's a small thing that the idea of showing how a fee is calculated is now written into the law. Even for small shop interior renovations, I attach an itemized breakdown with the reasoning behind each item to my rough estimates. When you write down the reasoning, your own scope of work naturally gets sorted out too. At your office, how much effort does it take to get a design contract down in writing? The rules take effect on April 1, 2027. You have half a year to get your contract and estimate templates in order.",
-            "briefing": [
-              "On Oct 6 the cabinet approved the government ordinances for bringing the revised Kenchikushi Act (Act No. 74 of 2026) into force",
-              "The contract provisions take effect on April 1, 2027. Every design and construction supervision contract will have to be in writing",
-              "Preparing estimates is a best-effort obligation. Start dates for the licensing changes, such as exam eligibility, are expected to be set by a separate ordinance"
-            ],
-            "hojosen": [
-              {
-                "title": "Written contracts under current rules",
-                "body": "The revised Kenchikushi Act that took effect in 2015 required the parties to design and construction supervision contracts for projects such as new buildings with a total floor area of more than 300 m² (3,200 sq ft) to exchange written documents setting out the required terms. For 300 m² (3,200 sq ft) or less there was no legal obligation, and written contracts were only encouraged."
-              },
-              {
-                "title": "A revision in two stages",
-                "body": "The 2026 revision of the Kenchikushi Act takes effect in two parts, each on a date set by ordinance. The parts on contracts and estimates come within one year of promulgation, and the parts on license requirements, such as opening the exam to students still in school, within three years. The law was promulgated on July 31, 2026."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-08-s2",
-          "number": 2,
-          "title": "中野サンプラザ再整備計画の改定が3カ月延期 2027年5月へ、34年度完成目標は維持",
-          "summary": "中野区は白紙になった中野サンプラザ再開発の方針となる再整備事業計画の改定を2027年2月から5月に延期。有識者会議などの意見を受け、検討に時間が要るとしました。",
-          "body": [
-            "東京都中野区は10月5日、事業費の高騰で再開発計画が白紙になった「中野サンプラザ」について、再開発の方針となる「再整備事業計画」の改定時期を2027年2月から同年5月に3カ月遅らせると発表しました。朝日新聞によると、9月18日に初会合を開いた有識者会議や区議会からの意見を受け、検討に時間が必要と判断したものです。10月6日の区議会建設委員会でも区が同じ方針を説明しました。",
-            "区は8月に改定に向けた骨子をまとめ、新施設に入る住宅は1100戸程度を上限の目安とすること、ホールは3000人規模を基本とすること、一部敷地に定期借地権を活用することなどを示していました。当初の流れでは10月に素案、2027年2月に改定という予定でした。",
-            "区は建て替えについて2030年度着工、2034年度完成を目指しています。朝日新聞によると、区幹部は「数カ月の遅れなので工期自体にそこまでの影響はないはず」としていますが、東京新聞は、2034年度完成目標への影響について区が明言していないと伝えています。"
-          ],
-          "commentary": "中野サンプラザの再開発は、建設費の高騰で2025年に計画が白紙になった象徴的な案件です。今回の3カ月延期そのものは小さな話ですが、僕が注目しているのは骨子に入った「定期借地権」と「ホール3000人規模」の2点です。土地を売って建物を建てる方式ではなく、区が土地を貸して地代を受け取る。事業者から見れば初期の土地代が要らない分、工事費の高騰に耐えやすくなります。一方でホールは、以前検討されていた最大5000人から3000人規模が基本になりました。建設費が上がると、まず削られるのは収益を生みにくい公共的な部分です。計画を練り直すというのは、何を残して何を小さくするかを決め直す作業でもあります。皆さんは、中野の新しい顔に何が残ってほしいですか。2034年度の完成目標に向けて、2027年5月の改定計画が次の節目になります。",
-          "briefing": [
-            "中野区が10月5日、再整備事業計画の改定を2027年2月から5月に3カ月延期すると発表",
-            "8月の骨子は住宅1100戸程度を上限の目安、ホール3000人規模を基本、定期借地権の活用を明記",
-            "2030年度着工・2034年度完成の目標は維持。工期への影響は区幹部が「限定的」との見方"
-          ],
-          "sources": [
-            {
-              "name": "朝日新聞（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/a653afa2ec5bc3a87231892731079a91b7d5d2e0"
-            },
-            {
-              "name": "東京新聞",
-              "url": "https://www.tokyo-np.co.jp/article/520038"
-            },
-            {
-              "name": "日経クロステック",
-              "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02758/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "計画白紙までの経緯",
-              "body": "中野サンプラザは2023年に閉館。野村不動産などによる再開発は建設費の高騰で事業費が大きく膨らみ、2024年に認可申請が取り下げられ、2025年に計画が白紙となりました。区は2026年3月、既存建物の改修・再利用を否定し、2030年度着工・2034年度完成という新しい目標を示しています。"
-            },
-            {
-              "title": "定期借地権",
-              "body": "土地の所有者が期間を定めて土地を貸し、借り手がその上に建物を建てる仕組み。区が土地を売らずに地代収入を得る一方、事業者は土地取得費を抑えられます。期間満了後の建物の扱いは契約で定めます。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "朝日新聞（Yahoo!ニュース）",
-          "sourceURL": "https://news.yahoo.co.jp/articles/a653afa2ec5bc3a87231892731079a91b7d5d2e0",
-          "shoComment": "",
-          "en": {
-            "title": "Tokyo's Nakano Ward delays the Nakano Sun Plaza rebuilding plan by three months to May 2027",
-            "summary": "Nakano Ward has pushed back the revision of its redevelopment plan for Nakano Sun Plaza, whose earlier scheme was scrapped, from February to May 2027. The ward said it needs more time after hearing from an expert panel and others.",
-            "body": [
-              "Tokyo's Nakano Ward announced on Oct 5 that it will delay by three months, from February to May 2027, the revision of its redevelopment project plan for Nakano Sun Plaza, the landmark concert hall complex next to Nakano Station. The plan sets the direction for the site's redevelopment, after the earlier scheme was scrapped because of soaring project costs. According to the Asahi Shimbun, the ward decided it needed more time to deliberate after hearing from an expert panel that first met on Sep 18 and from the ward assembly. The ward gave the same explanation at the ward assembly's construction committee on Oct 6.",
-              "In August the ward put together an outline for the revision. It set about 1,100 homes as a rough upper limit for housing in the new complex, took a hall for about 3,000 people as the baseline, and proposed using a fixed-term land lease on part of the site. Under the original timeline, a draft was due in October and the revision in February 2027.",
-              "The ward is aiming to start construction in fiscal 2030 and finish in fiscal 2034 (Japan's fiscal year runs from April to March). According to the Asahi Shimbun, a senior ward official said, \"It's a delay of a few months, so it shouldn't have much effect on the construction schedule itself.\" The Tokyo Shimbun, however, reported that the ward has not said clearly whether the fiscal 2034 completion target will be affected."
-            ],
-            "commentary": "The Nakano Sun Plaza redevelopment became a symbol of rising construction costs when its plan was scrapped in 2025. The three-month delay itself is a small thing. What I'm watching are two points in the outline: the fixed-term land lease and the hall for about 3,000 people. Instead of selling the land and building on it, the ward leases the land and collects ground rent. For a developer, not having to pay for the land up front makes it easier to absorb rising construction costs. The hall, meanwhile, has gone from a maximum of 5,000 people in earlier studies to a baseline of about 3,000. When construction costs go up, the first things to get cut are the public parts that don't make much money. Reworking a plan also means deciding all over again what to keep and what to shrink. What would you want to survive in the new face of Nakano? On the way to the fiscal 2034 completion target, the revised plan in May 2027 is the next milestone.",
-            "briefing": [
-              "On Oct 5, Nakano Ward announced a three-month delay in revising the redevelopment project plan, from February to May 2027",
-              "The August outline set about 1,100 homes as a rough upper limit for housing, took a hall for about 3,000 people as the baseline and called for using a fixed-term land lease",
-              "The targets of starting construction in fiscal 2030 and finishing in fiscal 2034 remain. A senior ward official expects only a limited impact on the construction schedule"
-            ],
-            "hojosen": [
-              {
-                "title": "How the plan was scrapped",
-                "body": "Nakano Sun Plaza closed in 2023. The redevelopment led by Nomura Real Estate Development and others saw its project cost balloon as construction costs soared, the application for approval was withdrawn in 2024, and the plan was scrapped in 2025. In March 2026 the ward ruled out renovating and reusing the existing building and set new targets of starting construction in fiscal 2030 and finishing in fiscal 2034."
-              },
-              {
-                "title": "Fixed-term land leases",
-                "body": "A system in which a landowner leases land for a set period and the tenant builds on it. The ward earns ground rent without selling the land, while the developer keeps land acquisition costs down. What happens to the building when the lease ends is set out in the contract."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-08-s3",
-          "number": 3,
-          "title": "神戸・三宮のサンセンタープラザ3棟建て替え コーディネーターにRIA選定 権利者約400人",
-          "summary": "三宮の商業ビル3棟の区分所有者らでつくる再開発協議会が、建て替え検討を支援するコーディネート業務の委託先にアール・アイ・エーを選定。事業手法や時期は未定です。",
-          "body": [
-            "神戸・三宮センター街の「さんプラザ」「センタープラザ」「センタープラザ西館」の3棟の建て替えに向け、区分所有者らでつくる「サンセンタープラザ地区再開発協議会」が、公募していた再開発コーディネート業務の委託先にアール・アイ・エー（RIA）を選定しました。日刊建設工業新聞と建設通信新聞が10月6日に報じました。業務は建て替え整備に向けた検討と協議会の運営支援で、委託期間は2027年3月31日まで。再開発準備組合の設立に向けた合意形成の支援も担います。",
-            "3棟はさんプラザが1970年、センタープラザが1975年、センタープラザ西館が1978年の竣工で、いずれも築半世紀前後。神戸新聞によると区分所有者は約400人で、神戸市も区分所有者の一人として協議会に加わっています。協議会は2026年7月24日に発足し、2021年の「あり方検討会」、2024年の「建て替え研究会」を経て、建て替えの実現可能性を具体的に検討する段階に入りました。",
-            "再開発の事業手法やスケジュールは未定で、協議会は数年かけて基本計画案をまとめる見通しです。建て替えが正式に決まったわけではなく、まずは事業の枠組みと既存の権利の扱いを固めることが当面の目的になります。"
-          ],
-          "commentary": "三宮センター街の3棟は、神戸の人なら誰でも知っている商業ビルです。難しいのは、建物の古さではなく権利の数。区分所有者が約400人いて、しかもその一人が神戸市という構図です。マンションの建て替えなら住戸の数だけ合意が要りますが、商業ビルの場合は店の売上や立地の価値が一区画ごとに違うので、同じ面積でも「等価」の考え方が揃いません。コーディネーターの役割は、設計を描くことより先に、この400の事情を一つの事業の枠に収める道筋を作ることです。2026年4月に施行された改正区分所有法では、所在不明の区分所有者を決議の分母から外す仕組みが入りましたが、合意形成の本体はやはり人の話し合いです。皆さんの街にも、半世紀前の区分所有ビルはありませんか。今回の委託期間は2027年3月末まで。その時点で事業手法の骨格がどこまで見えているか、まずそこを見ておくといいと思います。",
-          "briefing": [
-            "三宮の商業ビル3棟の再開発協議会がコーディネート業務の委託先にアール・アイ・エーを選定",
-            "3棟は1970〜78年竣工、区分所有者は約400人。神戸市も区分所有者として参加",
-            "委託期間は2027年3月末まで。事業手法・スケジュールは未定で、建て替えは正式決定前"
-          ],
-          "sources": [
-            {
-              "name": "日刊建設工業新聞",
-              "url": "https://www.decn.co.jp/?p=188176"
-            },
-            {
-              "name": "建設通信新聞",
-              "url": "https://www.kensetsunews.com/archives/1293163"
-            },
-            {
-              "name": "神戸新聞NEXT",
-              "url": "https://www.kobe-np.co.jp/news/society/202607/0020630261.shtml"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "再開発コーディネーター",
-              "body": "市街地再開発の初期段階で、権利者の意向把握、事業手法の検討、準備組合の設立支援などを担うコンサルタント。設計者や施工者とは役割が異なり、合意形成と事業の枠組みづくりが主な仕事です。RIAは再開発計画を数多く手がける設計・コンサルタント会社です。"
-            },
-            {
-              "title": "改正区分所有法（2026年4月施行）",
-              "body": "所在不明の区分所有者を裁判所の決定を経て決議の分母から除外できる制度が新設されたほか、耐震性不足など一定の事由があるマンション等では建て替え決議の要件が緩和されました。商業ビルも区分所有建物であれば同法の対象です。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "日刊建設工業新聞",
-          "sourceURL": "https://www.decn.co.jp/?p=188176",
-          "shoComment": "",
-          "en": {
-            "title": "About 400 owners of three aging buildings in Kobe's Sannomiya pick RIA to coordinate a rebuild",
-            "summary": "A redevelopment council formed by the unit owners of three commercial buildings in Sannomiya, central Kobe, has chosen RIA to provide coordination services as it studies rebuilding. The method and timing are still undecided.",
-            "body": [
-              "The Sun Center Plaza District Redevelopment Council, made up of the unit owners of three buildings on Sannomiya Center Gai, a covered shopping street in Sannomiya, the main downtown of the port city of Kobe, has chosen RIA for the redevelopment coordination contract it had put out to public tender. The buildings are San Plaza, Center Plaza and Center Plaza West, and the goal is to rebuild them. The construction trade papers Nikkan Kensetsu Kogyo Shimbun and Kensetsu Tsushin Shimbun reported the selection on Oct 6. The work covers studies toward rebuilding and support for running the council, and the contract runs until March 31, 2027. RIA will also help build consensus toward setting up a redevelopment preparatory association.",
-              "San Plaza was completed in 1970, Center Plaza in 1975 and Center Plaza West in 1978, so all three are around half a century old. According to the Kobe Shimbun, there are about 400 unit owners, people who each own a section of a building much like condominium owners, and the City of Kobe is also one of them and sits on the council. The council was launched on July 24, 2026, following a study group on the buildings' future in 2021 and a rebuilding research group in 2024, and has now reached the stage of looking concretely at whether a rebuild is feasible.",
-              "The redevelopment method and schedule have not been decided, and the council is expected to spend several years putting together a draft basic plan. Rebuilding has not been formally decided. For now, the main goal is to settle the project framework and how existing property rights will be handled."
-            ],
-            "commentary": "Anyone from Kobe knows these three commercial buildings on Sannomiya Center Gai. The hard part isn't how old they are. It's how many rights are involved. There are about 400 unit owners, and one of them is the City of Kobe. When a condominium is rebuilt, you need agreement from as many owners as there are units. But in a commercial building, each section's sales and location value are different, so even two spaces of the same size don't line up on what counts as equal. A coordinator's job, before drawing any design, is to map out a way to fit those 400 different situations into a single project. The revised Act on Building Unit Ownership, which took effect in April 2026, added a way to remove owners who can't be located from the count used for votes. Still, the real work of reaching consensus is people talking to each other. Is there a half-century-old building with many owners in your town too? This contract runs until the end of March 2027. I think the first thing to watch is how much of the project's framework is visible by then.",
-            "briefing": [
-              "The redevelopment council for three commercial buildings in Sannomiya selected RIA for its coordination contract",
-              "The three buildings were completed between 1970 and 1978 and have about 400 unit owners. The City of Kobe takes part as one of the owners",
-              "The contract runs until the end of March 2027. The project method and schedule are undecided, and rebuilding has not yet been formally decided"
-            ],
-            "hojosen": [
-              {
-                "title": "Redevelopment coordinators",
-                "body": "A consultant who, in the early stages of an urban redevelopment, gauges what the property owners want, studies how the project could be carried out, and helps set up a preparatory association. The role is different from the architect's or the builder's: the main work is building consensus and shaping the project framework. RIA is a design and consulting firm that has worked on many redevelopment plans."
-              },
-              {
-                "title": "The revised Unit Ownership Act (April 2026)",
-                "body": "The revision created a system that lets owners who cannot be located be removed, with a court's approval, from the count used for votes. It also eased the requirements for votes to rebuild condominiums and similar buildings in certain cases, such as insufficient earthquake resistance. Commercial buildings are also covered by the law if they are divided into separately owned units."
               }
             ]
           }
