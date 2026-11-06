@@ -48,7 +48,32 @@
           "reliability": "高",
           "sourceName": "建設通信新聞",
           "sourceURL": "https://www.kensetsunews.com/sokuho/1305097",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Two cities near Tokyo draft rules for a 160 m tower on the former Tsudanuma PARCO site",
+            "summary": "Narashino and Funabashi, two cities in Chiba Prefecture east of Tokyo, have drafted a city plan for the former PARCO department store site at Tsudanuma Station. It splits the site into two blocks with height limits of 40 m (130 ft) and 160 m (525 ft), and aims for a final decision in fiscal 2027.",
+            "body": [
+              "Narashino and Funabashi, neighboring cities in Chiba Prefecture east of Tokyo, have drawn up a draft city plan for redeveloping the site of the former Tsudanuma PARCO, a shopping complex at the north exit of JR Tsudanuma Station. The draft divides the land into two blocks and caps building heights at 40 m (130 ft) for Block A and 160 m (525 ft) for Block B.",
+              "According to reports, Block A, on the site of the former PARCO Building A, would get a six-story commercial and office building. Block B would get a tower of about 40 stories, with shops on the lower floors and condominiums above. Because the land straddles the border between the two cities, they will run the city planning procedures together and aim to finalize the plan during fiscal 2027 (April 2027 to March 2028).",
+              "Since PARCO closed, Mitsui Fudosan Residential opened ATOCHI, a plaza in front of the station, on the former Building A site on October 1 as a temporary use until full-scale development begins. The draft is the first time the future of the site has been set out in numbers."
+            ],
+            "commentary": "It looks like the south and north sides of the station will end up with towers of about the same height facing each other. The upper limit for Block B on the north side is 160 m. That's almost the same height as Tsudanuma The Tower, the high-rise condominium on the south side. The system being used here, the special urban block, is a bit unusual. Normally, the size of a building is capped by the floor area ratio (FAR) set for each zoning district, meaning the limit on how much floor space you can stack up relative to the size of the lot. In a special urban block, the city plan sets rules just for that block, fixing its height and floor area one by one. In clothing terms, it's less like picking from a ready-to-wear size chart and more like a made-to-measure suit, right? Here, Block A is kept low and Block B goes high. The plan draws a clear line between the low-rise side and the side where the tower stands. One more unusual point is that the site straddles the border between Funabashi and Narashino. Two cities deciding the same city plan at the same time, for one building. The target for the decision is fiscal 2027.",
+            "briefing": [
+              "According to reports, the two cities' schedule assumes construction of the Block A building could start as early as fiscal 2028, with completion in fiscal 2031. A start date for Block B was not given in what we could confirm.",
+              "Block B's 160 m (525 ft) height is reported to be almost the same as Tsudanuma The Tower, a high-rise condominium at the station's south exit. Towers of similar height would face each other across the station.",
+              "ATOCHI, the plaza on the former Building A site, opened on October 1, 2026, as a project by Mitsui Fudosan Residential to make temporary use of the land until future development."
+            ],
+            "hojosen": [
+              {
+                "title": "What a special urban block is",
+                "body": "A special urban block is a Japanese city planning tool that sets height, floor area ratio, wall positions and similar rules individually for a single block. In return, the developer is generally required to provide open space such as plazas and sidewalks. It is a long-standing system that has also been used for places like the skyscraper district of West Shinjuku in Tokyo."
+              },
+              {
+                "title": "Tsudanuma's retail battles",
+                "body": "The area around Tsudanuma Station was once known for its many large shopping complexes competing hard for customers. After department stores and specialty stores pulled out, redevelopment plans have also moved forward on the south side, and both sides of the station are shifting from a shopping district to a place to live."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-07-s2",
@@ -89,7 +114,32 @@
           "reliability": "高",
           "sourceName": "NTT都市開発（公式）",
           "sourceURL": "https://www.nttud.co.jp/news/detail/id/n28053.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Landowners at Tokyo's Kameido Station launch a 1.8-hectare redevelopment group with NTT Urban Development",
+            "summary": "A redevelopment preparation association has formed on about 1.8 hectares (4.4 acres) north of JR Kameido Station in eastern Tokyo, next to Meiji-dori avenue and a shopping street. It aims to address crowded old buildings and flood risk.",
+            "body": [
+              "A preparation association for an urban redevelopment project, a Japanese scheme in which landowners pool their plots to build a larger complex, has been set up at the north exit of Kameido Station in Tokyo's Koto Ward, served by the JR Sobu Line and the Tobu Kameido Line. NTT Urban Development announced on November 5 that the Kameido 5-chome District Urban Redevelopment Preparation Association was formed on September 13 and has chosen the company as its project partner.",
+              "The area under study is about 1.8 hectares (4.4 acres) in Kameido 5-chome, north of the station and bordering Meiji-dori avenue and the Kameido Chuo-dori shopping street. The district is said to face disaster-prevention problems, including densely packed old buildings, narrow streets and a risk of flooding. The boundaries may change through future discussions.",
+              "Going forward, the association and NTT Urban Development will take the lead in confirming the wishes of people who hold rights to land and buildings and building agreement among them, while working on the city plan, the building plan and the project plan. The size of the buildings and the completion date have not yet been announced."
+            ],
+            "commentary": "The old shops and homes in front of the station all close up once and move into one big building. Put simply, that's how an urban redevelopment project works. Rights to land and buildings are exchanged for floor space in the new building once it's done. So it touches the life and business of everyone in the district. In Kameido 5-chome, about 60% of the 108 landowners backed setting up the preparation association. Under the law, forming a full redevelopment association requires the consent of at least two-thirds of each group, such as landowners. One of the problems this district faces is flood risk. Koto Ward is an area of low-lying land, and blocks with narrow streets lined with old buildings are hard to escape from when water rises, and hard for rescuers to get into. I think rebuilding can solve a lot of that. On the other hand, the bustle of shops lining the street along the Kameido Chuo-dori shopping street is also one of this neighborhood's assets. Big buildings for disaster prevention, and the street-level life of a shopping street. How much of both can be kept, I wonder?",
+            "briefing": [
+              "The landowners have held study sessions since November 2023, and in December 2024 a group of volunteer landowners formed the Kameido North Exit Community Development Founders' Group. About 60% of the 108 landowners are said to have supported setting up the preparation association.",
+              "A preparation association is a voluntary body that comes before a formal redevelopment association. The project will get fully underway after procedures such as a city planning decision and approval to form the association.",
+              "The announcement came from NTT Urban Development (part of the NTT Urban Solutions group). A project partner supports the preparation association with tasks such as drawing up plans and coordinating with rights holders."
+            ],
+            "hojosen": [
+              {
+                "title": "Low ground and disaster risk",
+                "body": "Eastern Tokyo, including Koto Ward, has wide areas of so-called zero-meter land, where the ground is lower than sea level at high tide. Redevelopments that raise buildings or add places where people can take refuge on upper floors have been treated as a disaster-prevention measure in this area."
+              },
+              {
+                "title": "From association to completion",
+                "body": "An urban redevelopment project often takes more than 10 years, from forming a preparation association through the city planning decision, setting up the association, converting rights, starting construction and completion. In the early stages, it is common for the boundaries and building size to change through discussions."
+              }
+            ]
+          }
         }
       ]
     },
