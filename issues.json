@@ -48,7 +48,32 @@
           "reliability": "高",
           "sourceName": "TBS NEWS DIG（Yahoo!ニュース）",
           "sourceURL": "https://news.yahoo.co.jp/articles/f379a7ceb30f8805be09e009576320a379f87263",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Tokyo condo site worker dies after falling onto power lines, cutting power to about 3,000 buildings",
+            "summary": "On the morning of Nov 7, a 57-year-old worker fell at a condominium construction site in Jujo-Nakahara, in Tokyo's Kita Ward, and was found caught on power lines. He was later confirmed dead. The surrounding area briefly lost power.",
+            "body": [
+              "At around 9:30 a.m. on November 7, emergency services received a call saying that “a person who fell from a height is caught on top of a utility pole” in front of a condominium under construction in Jujo-Nakahara, a residential neighborhood in Tokyo's Kita Ward. The person was a 57-year-old man who had been working at the site. He was rescued but then confirmed dead.",
+              "According to news reports, the man became caught on power lines as he fell, and about 3,000 buildings in the area temporarily lost power. Reports also say a young child who was near the site was taken to the hospital.",
+              "The Tokyo Metropolitan Police Department is investigating how the man fell and what safety measures were in place at the site."
+            ],
+            "commentary": "For tradespeople working on the outside of a building, the most familiar danger is falling. Falls are the most common cause of fatal accidents on construction sites. That's why sites have layer after layer of protection. Guardrails on the scaffolding. A full-body harness that ties the worker to the scaffold. Mesh sheeting wrapped around the outside of the scaffold. Even so, accidents have not gone to zero. In this case, the man fell all the way onto power lines outside the building. There's one more group worth thinking about: the people outside the site. When you walk past a construction site, have you ever noticed what's above your head? The protective ledge that juts out at an angle partway up the scaffold, called an “asagao” (morning glory) in Japan, works like an umbrella held over the heads of people on the sidewalk. Construction safety is a system built to protect both the people doing the work and the people passing by. As for what happened this time, I want to wait quietly for the police investigation.",
+            "briefing": [
+              "The call came in at around 9:30 a.m. on November 7, from in front of the condominium under construction in Jujo-Nakahara, Kita Ward. Reports say the caller described “a person who fell from a height” caught on top of a utility pole.",
+              "Several outlets report that about 3,000 buildings in the area briefly lost power because the man was caught on the power lines.",
+              "Reports say a child near the site was taken to the hospital, but accounts differ on how badly the child was hurt and what struck them."
+            ],
+            "hojosen": [
+              {
+                "title": "Fall protection rules",
+                "body": "Japanese law requires measures such as scaffold guardrails and safety harnesses for work at heights of 2 m (6.6 ft) or more. Since 2019, full-body harnesses that also support the shoulders and thighs have been the standard, replacing belts worn only around the waist. Even so, falls remain the leading cause of fatal accidents in Japan's construction industry."
+              },
+              {
+                "title": "Urban sites and power lines",
+                "body": "On condominium projects inside residential neighborhoods, the building is often close to utility poles and power lines. When work happens near power lines, measures such as asking the power company to fit protective covers on the lines are taken. Site safety does not stop at the edge of the lot."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-08-s2",
@@ -93,7 +118,32 @@
           "reliability": "高",
           "sourceName": "国土交通省（公式）",
           "sourceURL": "https://www.mlit.go.jp/report/press/house05_hh_001153.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "All design and supervision contracts by Japanese architects must be in writing from April 2027",
+            "summary": "Under the revised Kenchikushi Act, Japan's architect licensing law, every contract for design or construction supervision must be in writing starting April 1, 2027. The government set the date by cabinet order in October.",
+            "body": [
+              "A provision of the revised Kenchikushi Act, the law that governs Japan's licensed architects, will require every contract in which an architect takes on design or construction supervision work to be in writing. It takes effect on April 1, 2027. The cabinet approved the government orders setting the effective date on October 6, and they were promulgated on October 9.",
+              "Until now, written contracts were mandatory only for design and supervision of buildings with a total floor area above 300 m² (3,200 sq ft). After the change, every design and supervision contract by an architect is covered, whatever the size of the building. Taking on the design of a small house on a verbal agreement or a few emails will no longer be allowed.",
+              "From the same date, architecture firms will also have a duty to make an effort, though not a strict obligation, to prepare a written estimate that shows how their fee was calculated when they enter a contract. The revised act was passed in July, and its other provisions, including the review of who can sit the architect exam, will each take effect on separately set dates."
+            ],
+            "commentary": "Say someone asks you to design a single two-story wooden house. Until now, taking that job without a contract didn't break the law. Below 300 m² (3,200 sq ft) of total floor area, exchanging written contracts wasn't required. And 300 m² (3,200 sq ft) is roughly enough to fit almost any ordinary detached house. In other words, the most common job of all, designing a home, sat outside the rule. What goes wrong without paperwork? Say, how many times will the architect redraw the plans? Once construction starts, how often will the architect come to check the site? The client and the architect can end up picturing a different scope, right? Money is the same. This time, an effort to show the basis for the fee in the estimate has been added too. It's a way to make visible, on paper, what the design fee actually pays for. If you're planning to build a house, when you hire someone to design it, check whether the contract spells out what they'll actually do for you.",
+            "briefing": [
+              "The cabinet approved two orders: one setting the effective date for part of the revised Kenchikushi Act (Act No. 74 of 2026) and one putting in place the rules needed to enforce it. The Ministry of Land, Infrastructure, Transport and Tourism (MLIT) announced the decision on October 6.",
+              "Alongside the effort duty on estimates, clients who commission design work will also be expected to make an effort to sign contracts at a fair fee.",
+              "The architect's duty to explain the key terms of the work before signing never had a building-size threshold, and it continues as a separate rule from this expansion of written contracts."
+            ],
+            "hojosen": [
+              {
+                "title": "Where the size threshold came from",
+                "body": "Written design and supervision contracts became mandatory in a revision of the Kenchikushi Act that took effect in 2015, covering buildings over 300 m² (3,200 sq ft) of total floor area. At the time, the line was drawn out of concern that requiring contracts for even small buildings would be too heavy a burden. This revision removes that line."
+              },
+              {
+                "title": "What else the revision does",
+                "body": "The revised Kenchikushi Act passed in July also allows university students to take the first-class kenchikushi exam, Japan's top architect license, while still enrolled, and shortens the work experience needed for second-class license holders to take the first-class exam. An MLIT subcommittee is still discussing the exam changes, which are moving on a separate schedule from the contract rules."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-08-s3",
@@ -138,7 +188,32 @@
           "reliability": "高",
           "sourceName": "大林組（公式）",
           "sourceURL": "https://www.obayashi.co.jp/news/detail/news20261105_1.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Obayashi and Tohoku University open a joint lab for rugged physical AI in construction",
+            "summary": "On Nov 1, general contractor Obayashi and Tohoku University set up a research base at the university for tough physical AI that drives robots and machines. It will run until the end of October 2031.",
+            "body": [
+              "Obayashi Corporation, one of Japan's largest general contractors, and Tohoku University, a national university in Sendai in northeastern Japan, set up the Obayashi x Tohoku University Next-Generation Construction Technology Co-Creation Laboratory on November 1. It sits inside the university's Tough Cyber-Physical AI Research Center and uses the university's co-creation lab program, which lets companies place research bases on campus.",
+              "The focus is what they call tough physical AI. Physical AI is AI that is built into robots and machines and moves in the real world, rather than producing text or images on a screen. According to news reports, the aim is to respond to the construction industry's labor shortage and to frequent natural disasters, and the results will be tested on Obayashi's sites on the way to practical use.",
+              "Experts from a wide range of fields will take part, including physical AI, civil engineering and architecture, human-robot collaboration, 3D concrete printing, urban planning, law and ethics, and disaster science and recovery. The lab is set up for five years, until the end of October 2031."
+            ],
+            "commentary": "A robot in a factory and a robot on a construction site. They may both be robots, but their surroundings could not be more different. In a factory, the floor is flat and parts always arrive at the same spot. A construction site changes shape every day. Where there was a floor yesterday, there's a hole today. When it rains, the ground turns to mud, and the place where materials are stacked changes from day to day. At home, it would be like running a robot vacuum in a room where the furniture gets rearranged every morning. I read the word “tough” in the lab's name as a goal: machines that keep working in rough conditions like that, and at disaster sites too. The other thing that stands out is that law and ethics are on the list of fields. When a heavy machine makes its own decisions and moves near people, who is responsible if there's an accident? We've reached the stage where the rules have to be written as fast as the technology. Five years from now, I wonder how close we'll be to seeing robots on every site as a normal sight.",
+            "briefing": [
+              "Tohoku University's co-creation lab program is an industry-academia scheme in which a company sets up a research base inside the university and works with university researchers on research, development and training.",
+              "The lab's stated goals are to carry out research and development of tough physical AI, train highly skilled people and create new technologies, all as one effort.",
+              "Energy is also among the participating fields. Specific research themes and the size of the budget have not been made public, as far as could be confirmed in searches."
+            ],
+            "hojosen": [
+              {
+                "title": "Contractors and site robots",
+                "body": "Japan's major general contractors are competing to use robots on site as they face labor shortages. In October 2026, Shimizu Corporation announced an investment in a US humanoid robot startup. Obayashi itself has built 3dpod, a building made with a 3D printer that meets Japan's Building Standards Act."
+              },
+              {
+                "title": "Why Tohoku University",
+                "body": "As a university in the region hit by the 2011 Great East Japan Earthquake, Tohoku University has put particular weight on disaster science and recovery research. Disaster science and recovery being among the lab's fields follows from that. Machines that can work in place of people at disaster sites are as important a theme for construction companies as everyday building work."
+              }
+            ]
+          }
         }
       ]
     },
@@ -6455,7 +6530,12 @@
         "issue-2026-11-04",
         "issue-2026-11-03",
         "issue-2026-11-02"
-      ]
+      ],
+      "en": {
+        "title": "This week in Japanese architecture",
+        "dateRangeText": "Nov 2 – Nov 8",
+        "heroTitle": "The week the Sannomaru Shozokan museum at the Imperial Palace fully reopened, Japan's new Disaster Management Agency launched, and every architect's design and supervision contract was set to require writing from April 2027. Plus the Matsumoto architecture and art festival, Chiyoda Ward's resale-ban request, the rebuilding of Lalaport TOKYO-BAY, a 160 m (520 ft) plan on the former Tsudanuma Parco site, and a fatal fall at a construction site in Kita Ward"
+      }
     },
     {
       "id": "feature-2026-w44",
