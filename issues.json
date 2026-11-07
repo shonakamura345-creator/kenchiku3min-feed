@@ -1,6 +1,148 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-08",
+      "date": "2026-11-08",
+      "weekday": "日",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-08-s1",
+          "number": 1,
+          "title": "東京・北区のマンション建設現場で作業員が転落し死亡 電線に引っかかり約3000軒が停電",
+          "summary": "7日朝、東京都北区十条仲原のマンション建設現場で57歳の男性作業員が転落し、電線に引っかかった状態で見つかり死亡しました。周辺が一時停電しました。",
+          "body": [
+            "11月7日午前9時半ごろ、東京都北区十条仲原の建設中のマンションの前で、「電柱の上に、高所から転落した人が引っかかっている」と119番通報がありました。引っかかっていたのは、この現場で作業していた57歳の男性で、救助されたあと、死亡が確認されました。",
+            "報道によると、男性は転落した際に電線に引っかかり、その影響で周辺のおよそ3000軒が一時停電しました。また、現場の近くにいた幼い子どもが病院に運ばれたと報じられています。",
+            "警視庁が、男性が転落した経緯や、現場の安全対策の状況などを調べています。"
+          ],
+          "commentary": "建物の外側で作業する職人さんにとって、いちばん身近な危険が「落ちること」なんです。建設現場で亡くなる事故の中で、もっとも多いのが墜落・転落です。だから現場には、何重もの備えがあります。足場に手すりを付ける。体をベルトで足場につなぐ「フルハーネス型」の安全帯を使う。足場の外側をメッシュのシートで覆う。それでも、事故はゼロになっていません。今回は、建物の外にある電線にまで落ちています。もう一つ見ておきたいのは、現場の外にいる人です。現場の横を歩くとき、頭の上に何があるか意識したことはあるでしょうか。足場の途中から斜めに張り出す「朝顔」と呼ばれる防護棚は、歩道を歩く人の頭上に差しかける傘のようなものです。工事の安全は、作業する人と、そのそばを通る人の両方を守る仕組みでできています。今回、何が起きたのか。警視庁の調べを、静かに待ちたいと思います。",
+          "briefing": [
+            "通報があったのは11月7日午前9時半ごろで、場所は北区十条仲原の建設中のマンションの前です。通報の内容は「電柱の上に、高所から転落した人が引っかかっている」というものだったと報じられています。",
+            "男性が電線に引っかかったことで、周辺のおよそ3000軒が一時停電したと、複数の報道が伝えています。",
+            "現場の近くにいた子どもが病院に運ばれたと報じられていますが、けがの程度や、何が当たったのかについては報道によって内容が分かれています。"
+          ],
+          "sources": [
+            {
+              "name": "TBS NEWS DIG（Yahoo!ニュース）",
+              "url": "https://news.yahoo.co.jp/articles/f379a7ceb30f8805be09e009576320a379f87263"
+            },
+            {
+              "name": "日テレNEWS（Infoseekニュース）",
+              "url": "https://news.infoseek.co.jp/article/ntv_2026110708897178/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "墜落・転落対策",
+              "body": "高さ2メートル以上の場所での作業では、足場の手すりや安全帯の使用などが法令で求められています。2019年からは、腰に巻くだけのベルト型に代わり、肩や太ももも支える「フルハーネス型」の安全帯の使用が原則となりました。それでも、墜落・転落は建設業の死亡事故の最大の原因であり続けています。"
+            },
+            {
+              "title": "都心の現場と電線",
+              "body": "住宅地の中のマンション工事では、建物と電柱・電線の距離が近いことが少なくありません。電線の近くで作業する場合、電力会社に電線へ防護カバーを付けてもらうなどの対策が取られます。現場の安全は、敷地の内側だけで完結しないということです。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "TBS NEWS DIG（Yahoo!ニュース）",
+          "sourceURL": "https://news.yahoo.co.jp/articles/f379a7ceb30f8805be09e009576320a379f87263",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-08-s2",
+          "number": 2,
+          "title": "建築士の設計・監理契約、27年4月から全て書面に 改正建築士法の施行日が決定",
+          "summary": "改正建築士法のうち、設計・工事監理の契約をすべて書面にする規定などが、2027年4月1日に施行されます。政府が10月に政令を決めました。",
+          "body": [
+            "建築士が設計や工事監理を引き受けるときの契約について、すべて書面で結ぶことを義務づける改正建築士法の規定が、2027年4月1日から施行されることになりました。施行日を定める政令などが10月6日に閣議決定され、10月9日に公布されました。",
+            "これまで書面での契約が義務づけられていたのは、延べ面積が300平方メートルを超える建築物の設計・工事監理の契約だけでした。改正後は、建物の大きさに関係なく、建築士が行うすべての設計・工事監理の契約が対象になります。小さな住宅の設計を口約束やメールのやり取りだけで引き受ける、といった進め方はできなくなります。",
+            "あわせて、建築士事務所が契約を結ぼうとするときに、報酬の算定の根拠を明らかにした見積書を作るよう努める「努力義務」も、同じ日から始まります。改正建築士法は7月に成立しており、建築士試験の受験資格の見直しなど、ほかの規定はそれぞれ別に施行日が決まります。"
+          ],
+          "commentary": "木造2階建ての家を一軒、設計してほしい。そう頼まれたとき、これまでは契約書がなくても法律違反にはなりませんでした。延べ面積が300平方メートル以下なら、書面の取り交わしは義務ではなかったからです。300平方メートルは、ふつうの戸建て住宅ならだいたい収まってしまう広さです。つまり、いちばん件数の多い「家の設計」が、ルールの外側にあったんです。書面がないと何が困るか。たとえば、図面を何回まで描き直してもらえるのか。工事が始まってから、建築士が現場をどこまで見に来てくれるのか。頼んだ側と引き受けた側で、思っていた範囲が違うことがあるじゃないですか。お金の話も同じです。今回は見積書に「報酬の算定根拠」を示すよう努めることも加わりました。設計料が何に払われているのかを、紙の上で見えるようにする仕組みです。家を建てる予定がある皆さんは、設計を頼むときに、契約書に「どこまでやってもらえるか」が書いてあるかを確かめてみてください。",
+          "briefing": [
+            "今回閣議決定されたのは、改正建築士法（令和8年法律第74号）の一部の施行期日を定める政令と、施行に必要な規定を整える政令の2本です。国土交通省が10月6日に発表しました。",
+            "見積書の努力義務とあわせて、設計などを頼む発注者の側にも、適正な委託代金で契約を結ぶよう努める責務が設けられます。",
+            "建築士が行う重要事項の説明は、もともと建物の大きさによる要件がなく、今回の書面化の拡大とは別の制度として続きます。"
+          ],
+          "sources": [
+            {
+              "name": "国土交通省（公式）",
+              "url": "https://www.mlit.go.jp/report/press/house05_hh_001153.html"
+            },
+            {
+              "name": "BuildApp News",
+              "url": "https://news.build-app.jp/article/43063/"
+            },
+            {
+              "name": "静岡県建築士事務所協会（日事連の案内）",
+              "url": "https://www.shijikyo.or.jp/japan-association-of-architectural-firms/10761/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "300m2ラインの由来",
+              "body": "設計・監理契約の書面化は、2015年施行の建築士法改正で、延べ面積300平方メートル超の建築物を対象に義務づけられました。当時は、小規模な建物まで一律に義務づけると負担が大きいとの考えから線が引かれました。今回の改正で、その線がなくなります。"
+            },
+            {
+              "title": "同じ改正法の中身",
+              "body": "7月に成立した改正建築士法には、大学在学中の一級建築士試験の受験を可能にすることや、二級建築士から一級を受けるときの実務経験を短くすることも盛り込まれています。試験制度の見直しは国土交通省の小委員会で議論が続いており、契約ルールとは別のスケジュールで進みます。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "国土交通省（公式）",
+          "sourceURL": "https://www.mlit.go.jp/report/press/house05_hh_001153.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-08-s3",
+          "number": 3,
+          "title": "大林組と東北大学が「次世代建設技術共創研究所」 災害にも強い「フィジカルAI」を5年で",
+          "summary": "大林組と東北大学が11月1日、AIでロボットなどを動かす「タフ・フィジカルAI」の研究拠点を東北大学内に設けました。期間は2031年10月末までです。",
+          "body": [
+            "大手ゼネコンの大林組と東北大学は11月1日、「大林組×東北大学 次世代建設技術共創研究所」を設置しました。場所は東北大学のタフ・サイバーフィジカルAI研究センターの中で、企業が大学の中に研究拠点を置く東北大学の「共創研究所」制度を使っています。",
+            "研究の中心は「タフ・フィジカルAI」です。フィジカルAIは、画面の中で文章や画像を作るAIではなく、ロボットや機械に組み込まれて現実の世界で体を動かすAIのことです。報道によると、建設業の担い手不足と、自然災害の多発に対応することがねらいで、研究の成果は大林組の現場で確かめながら実用化をめざします。",
+            "研究所には、フィジカルAIのほか、土木・建築、ヒトとロボットの協調、3Dコンクリートプリンター、まちづくり、法律・倫理、災害科学・復興など、幅広い分野の専門家が加わります。設置期間は2031年10月末までの5年間です。"
+          ],
+          "commentary": "工場のロボットと、建設現場のロボット。同じロボットでも、置かれる環境がまるで違うんです。工場では、床は平らで、部品はいつも同じ場所に流れてきます。建設現場は毎日形が変わります。きのうまで床だった場所に、きょうは穴が開いている。雨が降れば地面はぬかるみ、資材の置き場所も日によって変わる。家の中で言えば、毎朝家具の配置が変わる部屋で、掃除ロボットを走らせるようなものです。今回の研究所が名前に「タフ」と付けているのは、そういう荒っぽい環境や、災害の現場でも止まらずに動くことを目標にしているからだと読めます。もう一つ目を引くのが、参加分野に「法律・倫理」が入っていることです。人のそばで重い機械が自分で判断して動くとき、事故の責任は誰が負うのか。技術と同じ速さで、ルールも作らないといけない段階に来ているということです。現場にロボットが当たり前にいる光景は、5年後にどこまで近づいているでしょうね。",
+          "briefing": [
+            "東北大学の「共創研究所」制度は、企業が大学の中に研究拠点を設け、大学の研究者と共同で研究開発や人材育成を進める産学連携の仕組みです。",
+            "研究所の目的として、タフ・フィジカルAI技術の研究開発、高度な人材の育成、新しい技術の創出を一体で進めることが掲げられています。",
+            "参加する分野には、エネルギーも含まれています。研究の具体的なテーマや予算の規模は、検索で確認できた範囲では公表されていません。"
+          ],
+          "sources": [
+            {
+              "name": "大林組（公式）",
+              "url": "https://www.obayashi.co.jp/news/detail/news20261105_1.html"
+            },
+            {
+              "name": "日本経済新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOCC061Q40W6A101C2000000/"
+            },
+            {
+              "name": "デジタル建設ニュース",
+              "url": "https://digital-construction.jp/news/4180"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "ゼネコンと現場ロボ",
+              "body": "大手ゼネコン各社は、人手不足を背景に現場でのロボット活用を競っています。2026年10月には清水建設が米国のヒト型ロボットの新興企業への出資を発表しました。大林組自身も、3Dプリンターで建築基準法に基づく建物「3dpod」を建てた実績があります。"
+            },
+            {
+              "title": "なぜ東北大学か",
+              "body": "東北大学は東日本大震災の被災地にある大学として、災害科学や復興の研究に力を入れてきました。今回の研究所の分野に「災害科学・復興」が入っているのも、その流れの上にあります。災害現場で人の代わりに動ける機械は、建設会社にとって平時の工事と同じくらい重要なテーマです。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "大林組（公式）",
+          "sourceURL": "https://www.obayashi.co.jp/news/detail/news20261105_1.html",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-07",
       "date": "2026-11-07",
       "weekday": "土",
@@ -6297,234 +6439,24 @@
           }
         }
       ]
-    },
-    {
-      "id": "issue-2026-10-09",
-      "date": "2026-10-09",
-      "weekday": "金",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-09-s1",
-          "number": 1,
-          "title": "「東京ミッドタウン日本橋」が竣工 高さ約284mの52階建て、グランドオープンは27年内",
-          "summary": "三井不動産と野村不動産は10月8日、再開発「東京ミッドタウン日本橋」が9月30日に竣工したと発表。設計は日建設計、施工は清水建設JV。開業は2027年内です。",
-          "body": [
-            "三井不動産と野村不動産は10月8日、東京・日本橋一丁目中地区第一種市街地再開発事業の全体街区「東京ミッドタウン日本橋」が9月30日に竣工したと発表しました。中核となるC街区のタワーは地上52階・地下5階、高さ約284メートルで、日本橋駅に直結します。設計・監理は日建設計、施工は清水建設を代表とする共同企業体が担当しました。日本橋川周辺の再開発一帯「日本橋リバーウォーク」の第1弾プロジェクトと位置づけられています。",
-            "タワーの39〜47階にはヒルトン最上位ブランドのホテル「ウォルドーフ・アストリア東京日本橋」（197室）、48〜51階には賃貸住宅「ウォルドーフ・アストリア・レジデンス東京日本橋」（71戸）が入ります。5〜7階には約1600人を収容できるMICE施設、低層部と地下には約100区画・約2万平方メートルの商業ゾーンが配置されます。",
-            "竣工は建物の完成を指し、グランドオープンは2027年内の予定です。D街区の既存ビル「日本橋一丁目三井ビルディング」の改修完了をもって街区全体が完成する計画で、既存の「COREDO日本橋」は商業ゾーンの一部として改称・リニューアルされます。"
-          ],
-          "commentary": "「竣工」と「開業」が1年以上ずれるのはなぜか、気になった人もいると思います。竣工は建物の本体が完成して、検査を終えて建築主に引き渡される日のことです。その時点でホテルの客室も店舗の内装もまだ空っぽ。ここからテナントごとの内装工事、ホテルの什器や設備の搬入、スタッフの訓練が始まります。284メートルのビルを建てるのに約5年、建物を「使える状態」にするのにさらに1年というのが、この規模の複合ビルの時間感覚なんです。僕が注目しているのは、日本橋川との関係です。このエリアでは首都高の地下化が進んでいて、川の上を走る高架がなくなった後の日本橋が、この再開発の「正面」になる計画です。ビルの高さより、足元の川沿いがどう使われるかで評価が決まる建物だと思います。52階建てのタワーが日本橋に1棟増えた、という話ではなく、川を表に戻す街づくりの1棟目。そういう見方で、2027年の開業を待ちたいです。",
-          "briefing": [
-            "C街区タワーの延べ面積は約37万4800平方メートル。高さ約284mは国内4位・東京都内2位の高さとされる",
-            "街区はA〜Dの4街区構成。商業ゾーンは約100区画・約2万平方メートルで、物販・飲食が出店予定",
-            "同日発表の「日本橋一丁目エネルギーセンター」（三井不動産とTEPCOエナジーパートナー）も9月30日に竣工し、10月1日から街区全体に電気・熱を供給。CO2排出量約25%削減を見込む",
-            "街区名称「東京ミッドタウン日本橋」は2026年4月21日に決定。六本木・日比谷・八重洲に続く4つ目の「ミッドタウン」"
-          ],
-          "sources": [
-            {
-              "name": "三井不動産（公式・PR TIMES）",
-              "url": "https://prtimes.jp/main/html/rd/p/000001150.000051782.html"
-            },
-            {
-              "name": "Impress Watch",
-              "url": "https://www.watch.impress.co.jp/docs/news/2146690.html"
-            },
-            {
-              "name": "流通ニュース",
-              "url": "https://www.ryutsuu.biz/store/s100872.html"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "日本橋リバーウォーク",
-              "body": "三井不動産などが日本橋川沿いで進める複数の再開発を束ねたエリア名称。首都高速の日本橋区間の地下化と合わせ、川沿いに歩行者空間や親水空間をつくる構想で、東京ミッドタウン日本橋はその第1弾にあたります。"
-            },
-            {
-              "title": "竣工から開業までの1年",
-              "body": "大型複合ビルでは、建物本体の竣工後にテナントの内装工事（B工事・C工事）やホテルの開業準備が続くため、竣工から半年〜1年以上あけてグランドオープンするのが一般的です。東京ミッドタウン八重洲も2022年8月竣工、2023年3月開業でした。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "三井不動産（公式・PR TIMES）",
-          "sourceURL": "https://prtimes.jp/main/html/rd/p/000001150.000051782.html",
-          "shoComment": "",
-          "en": {
-            "title": "Tokyo Midtown Nihonbashi, a 52-story, 284 m (930 ft) tower, is completed ahead of a 2027 opening",
-            "summary": "Mitsui Fudosan and Nomura Real Estate Development announced on Oct 8 that Tokyo Midtown Nihonbashi, a redevelopment in Tokyo's historic Nihonbashi district, was completed on Sep 30. Nikken Sekkei designed it, a Shimizu-led joint venture built it, and the grand opening is set for 2027.",
-            "body": [
-              "Mitsui Fudosan and Nomura Real Estate Development announced on Oct 8 that Tokyo Midtown Nihonbashi, the full development of the Nihonbashi 1-chome Central District Type 1 Urban Redevelopment Project, was completed on Sep 30. Nihonbashi is a historic commercial district near Tokyo Station, named after the old bridge at its center. The centerpiece, the tower on Block C, rises 52 stories above ground with five basement levels and stands about 284 m (930 ft) tall, with a direct connection to Nihonbashi Station. Nikken Sekkei handled design and supervision, and a joint venture led by Shimizu Corporation built it. The project is positioned as the first phase of Nihonbashi Riverwalk, the name for the cluster of redevelopments along the Nihonbashi River.",
-              "Floors 39 to 47 of the tower will house the Waldorf Astoria Tokyo Nihonbashi (197 rooms), from Hilton's top-tier brand, and floors 48 to 51 will hold the Waldorf Astoria Residences Tokyo Nihonbashi, with 71 rental apartments. Floors 5 to 7 will contain a MICE facility (for meetings, incentive travel, conferences and exhibitions) that can hold about 1,600 people. The lower floors and basement will have a retail zone of about 100 shops covering about 20,000 m² (215,000 sq ft).",
-              "Completion means the building itself is finished; the grand opening is planned for sometime in 2027. The district as a whole will be complete once renovation of the existing Nihonbashi 1-chome Mitsui Building on Block D is finished, and the existing COREDO Nihonbashi shopping center will be renamed and renovated as part of the retail zone."
-            ],
-            "commentary": "Some of you may be wondering why completion and opening are more than a year apart. Completion is the day the building itself is finished, passes its inspections and is handed over to the owner. At that point the hotel rooms and the shops are still empty shells. Only then do the tenants' interior fit-outs begin, along with moving in the hotel's furniture and equipment and training the staff. About five years to build a 284 m tower, then another year to make it usable: that's the sense of time for a mixed-use building of this size. What I'm watching is its relationship with the Nihonbashi River. In this area, the elevated Metropolitan Expressway that runs above the river is being moved underground, and once that overpass is gone, the plan is for the riverside to become the front of this redevelopment. I think this building will be judged less by its height than by how the riverside at its feet gets used. This isn't just one more 52-story tower in Nihonbashi. It's the first building in a plan to turn the city back to face its river. That's how I'd like to look at it as we wait for the 2027 opening.",
-            "briefing": [
-              "The Block C tower has a total floor area of about 374,800 m² (4.03 million sq ft). Its height of about 284 m is said to rank fourth in Japan and second in Tokyo",
-              "The development is made up of four blocks, A through D. The retail zone covers about 100 shops and about 20,000 m² (215,000 sq ft), with stores and restaurants planned",
-              "The Nihonbashi 1-chome Energy Center (Mitsui Fudosan and TEPCO Energy Partner), announced the same day, was also completed on Sep 30 and began supplying electricity and heat to the whole district on Oct 1. It is expected to cut CO2 emissions by about 25%",
-              "The name Tokyo Midtown Nihonbashi was chosen on Apr 21, 2026. It is the fourth Midtown, after Roppongi, Hibiya and Yaesu"
-            ],
-            "hojosen": [
-              {
-                "title": "Nihonbashi Riverwalk",
-                "body": "Nihonbashi Riverwalk is the area name that groups several redevelopments Mitsui Fudosan and others are carrying out along the Nihonbashi River. Together with moving the Nihonbashi section of the Metropolitan Expressway underground, the plan aims to create walkways and waterfront spaces along the river. Tokyo Midtown Nihonbashi is its first phase."
-              },
-              {
-                "title": "The year between completion and opening",
-                "body": "In large mixed-use buildings, tenant fit-out work (known in Japan as B-work and C-work) and hotel opening preparations continue after the building itself is completed. A gap of six months to more than a year before the grand opening is typical. Tokyo Midtown Yaesu, for example, was completed in August 2022 and opened in March 2023."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-09-s2",
-          "number": 2,
-          "title": "札幌市が中島公園隣接の新MICE施設 基本計画案を公表 事業費597億円、33年度供用へ",
-          "summary": "札幌市は10月6日、南10条西3丁目に建てる新MICE施設の基本計画案を公表。延べ約3万8400㎡、事業費597億円で2033年度の供用開始を目指します。",
-          "body": [
-            "札幌市は10月6日、地下鉄南北線・中島公園駅に隣接する「（仮称）新MICE施設」の整備基本計画案を公表しました。建設地は南10条西3丁目で、建物は地下1階・地上5階建て、延べ面積は約3万8400平方メートル。概算整備事業費は税込み約597億円で、内訳は建物整備費約492億円、土地取得費約105億円です。2025年9月に示した整備方針の592億円から5億円増えました。",
-            "施設には約2000平方メートルのメインホール、約3200平方メートルの多目的ホール、15室の会議室を設け、3000〜5000人規模の学会を単館で開催できる機能を持たせます。周辺ホテルと連携すれば5000〜1万人規模にも対応する方針です。地下1階で中島公園駅と直結する計画です。",
-            "事業方式は、民間が建設して市に引き渡すBT方式と、運営権を民間に売却するコンセッション方式の組み合わせで、事業期間は15〜20年を想定。2028年度に事業者を選定し、2029年度基本設計、2031年度着工、2033年度の竣工・供用開始を目指します。北海道新聞によると、別に計上される中島公園駅の改良費を加えると実質的な事業費は600億円を超える見通しで、市議会からは注文や懸念も相次ぎました。"
-          ],
-          "commentary": "597億円を延べ面積で割ると、1平方メートルあたり約155万円。北海道新聞がそう計算していました。ホールや会議場は柱のない大きな空間が要るので、オフィスやマンションより単価が高くなるのは自然なんですが、それでも建設費の上がり方を実感する数字です。10月6日号でお伝えした広島のアリーナ構想は「民間が建てて市に寄付し、運営も民間」という形でした。札幌の新MICEは、民間が建てた建物を市がお金を払って買い取り、運営する権利だけを民間に売る形です。どちらも「所有は市、運営は民間」ですが、建設費を最初に誰が負担するかが違います。札幌は市が払う。だから市議会で議論になるわけです。学会や国際会議を呼ぶ施設は、稼働率が読みにくい一方で、周辺のホテルや飲食にお金が落ちる。市の試算では経済波及効果が年563億円とのことですが、建物に600億円を投じる判断を、皆さんはどう見ますか。",
-          "briefing": [
-            "スケジュールは2026年度に基本計画策定、2028年度に事業者選定と土地売買契約、2029年度基本設計、2030年度実施設計、2031年度着工、2033年度竣工",
-            "中島公園駅との接続などの駅改良費（整備方針では24億円）は597億円に含まれていない",
-            "STVニュース北海道によると、市は経済波及効果を年間563億円と試算",
-            "基本計画案は市議会の委員会に報告された段階。市は2026年度中の基本計画策定を予定"
-          ],
-          "sources": [
-            {
-              "name": "NHK",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261006de55373"
-            },
-            {
-              "name": "北海道新聞",
-              "url": "https://www.hokkaido-np.co.jp/article/1384775/"
-            },
-            {
-              "name": "MICE TIMES ONLINE",
-              "url": "https://micetimes.jp/sapporo-new-mice-venue-news/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "BT方式とコンセッション",
-              "body": "BT（Build-Transfer）は民間事業者が施設を建設し、完成後に所有権を自治体へ移す方式。コンセッションは、自治体が所有する施設の運営権を民間に売却し、民間が料金収入で運営する方式です。札幌の新MICEは両者を組み合わせ、建設は民間のノウハウを使いつつ、建物は市が持つ形をとります。"
-            },
-            {
-              "title": "札幌のMICE計画の経緯",
-              "body": "札幌市は2018年にも中島公園周辺で新MICE施設の基本計画をまとめていましたが、その後計画は見直され、2025年9月に改めて整備方針（事業費592億円）を公表。今回の基本計画案はそれを具体化したものです。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "NHK",
-          "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261006de55373",
-          "shoComment": "",
-          "en": {
-            "title": "Sapporo unveils a ¥59.7 billion convention center plan next to Nakajima Park, opening in fiscal 2033",
-            "summary": "On Oct 6, the City of Sapporo released a draft basic plan for a new convention center in its Minami 10-jo Nishi 3-chome area. The building would have about 38,400 m² (413,000 sq ft) of floor area and cost ¥59.7 billion, with opening targeted for fiscal 2033.",
-            "body": [
-              "The City of Sapporo, the largest city on Japan's northern island of Hokkaido, released on Oct 6 a draft basic plan for its New MICE Facility (a working name), a convention center for meetings, incentive travel, conferences and exhibitions. The site, at Minami 10-jo Nishi 3-chome, is next to Nakajima-koen Station on the Namboku subway line. The building would have one basement level and five stories above ground, with a total floor area of about 38,400 m² (413,000 sq ft). The rough project cost is about ¥59.7 billion including tax, made up of about ¥49.2 billion for the building and about ¥10.5 billion for land. That is ¥500 million more than the ¥59.2 billion in the development policy the city presented in September 2025.",
-              "The facility would have a main hall of about 2,000 m² (21,500 sq ft), a multipurpose hall of about 3,200 m² (34,400 sq ft) and 15 meeting rooms, allowing it to host academic conferences of 3,000 to 5,000 people on its own. Working with nearby hotels, the city aims to handle events of 5,000 to 10,000 people. The plan calls for a direct connection to Nakajima-koen Station on the first basement level.",
-              "The project would combine a build-transfer (BT) approach, in which a private company builds the facility and hands it over to the city, with a concession, in which the city sells the right to run it to a private operator. The project period is expected to be 15 to 20 years. The city aims to select an operator in fiscal 2028 (Japan's fiscal year runs from April to March), carry out basic design in fiscal 2029, start construction in fiscal 2031, and complete and open the building in fiscal 2033. According to the Hokkaido Shimbun, adding the separately budgeted cost of improving Nakajima-koen Station would push the effective project cost above ¥60 billion, and city council members raised a series of requests and concerns."
-            ],
-            "commentary": "Divide ¥59.7 billion by the total floor area and you get about ¥1.55 million per square meter. That's the calculation the Hokkaido Shimbun ran. Halls and conference spaces need large column-free rooms, so it's natural for the unit cost to be higher than for offices or condos. Even so, it's a number that makes you feel how much construction costs have risen. The Hiroshima arena plan we covered on Oct 6 worked like this: a private company builds it, donates it to the city, and a private company runs it. Sapporo's new convention center works differently. The city pays to buy a building that a private company builds, then sells only the right to operate it. Both end up with the city owning and the private sector operating. What's different is who pays for construction up front. In Sapporo, the city pays. That's why it's being debated in the city council. A facility built to attract academic and international conferences has hard-to-predict occupancy, but it brings money into nearby hotels and restaurants. The city estimates the economic ripple effect at ¥56.3 billion a year. How do you see the decision to put ¥60 billion into a building?",
-            "briefing": [
-              "The schedule: basic plan finalized in fiscal 2026, operator selection and land purchase contract in fiscal 2028, basic design in fiscal 2029, detailed design in fiscal 2030, construction start in fiscal 2031 and completion in fiscal 2033",
-              "Station improvement costs, such as the connection to Nakajima-koen Station (¥2.4 billion in the development policy), are not included in the ¥59.7 billion",
-              "According to STV News Hokkaido, the city estimates the economic ripple effect at ¥56.3 billion a year",
-              "The draft basic plan has so far been reported to a city council committee. The city plans to finalize the basic plan within fiscal 2026"
-            ],
-            "hojosen": [
-              {
-                "title": "BT and concessions",
-                "body": "In a BT (build-transfer) scheme, a private company builds a facility and transfers ownership to the local government once it is finished. In a concession, a local government sells the right to run a facility it owns to a private company, which operates it on fee revenue. Sapporo's new convention center combines the two, drawing on private-sector know-how for construction while the city keeps ownership of the building."
-              },
-              {
-                "title": "How Sapporo's convention plan got here",
-                "body": "Sapporo drew up a basic plan for a new convention center around Nakajima Park back in 2018, but the plan was later reconsidered. In September 2025 the city released a fresh development policy (with a project cost of ¥59.2 billion), and the new draft basic plan fleshes it out."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-09-s3",
-          "number": 3,
-          "title": "JR東日本初の3Dプリンター駅舎 釜石線・小佐野駅を建て替え、現地で直接造形は駅舎で日本初",
-          "summary": "JR東日本は築78年の釜石線小佐野駅（岩手県釜石市）を建設用3Dプリンターで建て替え。現場で直接造形する方式は駅舎で日本初。2027年3月利用開始予定です。",
-          "body": [
-            "JR東日本は9月30日、釜石線・小佐野駅（岩手県釜石市）の駅舎を建設用3Dプリンターを活用して建て替えると発表しました。現在の駅舎は築78年で老朽化が進んでいます。新駅舎は鉄筋コンクリート造の平屋建てで、延べ床面積は約7.5平方メートル。工事は10月に着手し、2027年3月の利用開始を予定しています。日経クロステックによると、施工は3Dプリンター建築を手がける會澤高圧コンクリートが担当します。",
-            "建設用3Dプリンターによる駅舎はJR西日本の紀勢本線・初島駅（和歌山県）が2025年7月に世界で初めて供用を始めていますが、JR東日本管内では今回が初めてです。小佐野駅では建設現場に3Dプリンターを設置し、その場で直接造形する方法をとり、これは駅舎として日本初とされています。",
-            "新駅舎のデザインコンセプトは「山から海へ流れる風のみち」。駅が釜石の山間部と海辺をつなぐ位置にあることにちなんだものです。JR東日本は今回の工事を通じて、3Dプリンターによるデザイン性の向上や施工品質の安定化、省人化といった新しい施工方法の可能性を検証するとしています。"
-          ],
-          "commentary": "延べ床面積7.5平方メートル。畳でいえば4畳半ほどの小さな建物です。でも、僕はこの「小ささ」にこそ意味があると思っています。地方の小さな駅は、乗降客が少なくても駅舎を直さないわけにはいかない。ところが職人さんの手配や型枠の製作を考えると、小さい建物ほど1平方メートルあたりのコストは割高になりがちです。3Dプリンターは、型枠を組まずにコンクリートを層状に積み上げていくので、小さくて形の自由な建物ほど向いているんです。初島駅との違いは、部材を工場で作って運ぶのではなく、現場にプリンターを持ち込んで直接造形する点。運搬の制約から解放されるかわりに、現場の気温や湿度でコンクリートの固まり方が変わるので、品質を安定させる技術が試されます。皆さんの最寄り駅の駅舎は、築何年か知っていますか。JR東日本が検証するのは、デザイン性、品質の安定、省人化の3つ。新駅舎の利用開始は2027年3月です。",
-          "briefing": [
-            "小佐野駅は釜石線（花巻〜釜石）の駅で、現駅舎は築78年",
-            "JR西日本の初島駅は2025年7月22日に利用開始した世界初の3Dプリンター駅舎。JR東日本の小佐野駅はそれに続く国内2例目の3Dプリンター駅舎となる",
-            "JR東日本は3Dプリンターを使った駅のベンチ（災害対応型トイレ兼用）を會澤高圧コンクリートと製作した実績がある"
-          ],
-          "sources": [
-            {
-              "name": "鉄道コム",
-              "url": "https://www.tetsudo.com/news/4223/"
-            },
-            {
-              "name": "鉄道プレスネット",
-              "url": "https://news.railway-pressnet.com/archives/91964"
-            },
-            {
-              "name": "建設通信新聞",
-              "url": "https://www.kensetsunews.com/web-kan/927043"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "建設用3Dプリンター",
-              "body": "セメント系の材料をノズルから押し出し、層状に積み重ねて壁などを造形する技術。型枠が不要で曲面がつくりやすく、省人化につながる一方、現行の建築基準法では構造部材として使う際の扱いが整理途上で、小規模な建物や非構造部材から実用化が進んでいます。"
-            },
-            {
-              "title": "ローカル駅舎の更新",
-              "body": "地方路線では戦後すぐに建てられた木造・RC造の駅舎が多く残り、老朽化と利用者減少が同時に進んでいます。鉄道各社は駅舎の小型化や簡易化で維持費を抑えており、3Dプリンターはその選択肢の一つとして試されています。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "鉄道コム",
-          "sourceURL": "https://www.tetsudo.com/news/4223/",
-          "shoComment": "",
-          "en": {
-            "title": "JR East plans its first 3D-printed station, printed on site at Kosano Station in Iwate",
-            "summary": "JR East will rebuild the 78-year-old Kosano Station on the Kamaishi Line in Kamaishi, Iwate Prefecture, with a construction 3D printer. Printing directly on site is a first for a station building in Japan. The new station is set to open in March 2027.",
-            "body": [
-              "East Japan Railway Company (JR East) announced on Sep 30 that it will use a construction 3D printer to rebuild the station building at Kosano Station on the Kamaishi Line, in Kamaishi, a city in Iwate Prefecture in northeastern Japan. The current building is 78 years old and has deteriorated. The new one will be a single-story reinforced concrete structure with a total floor area of about 7.5 m² (81 sq ft). Work starts in October, and the station is scheduled to open in March 2027. According to Nikkei Xtech, Aizawa Koatsu Concrete, a company that builds with 3D printers, is carrying out the construction.",
-              "The world's first 3D-printed station building, Hatsushima Station on JR West's Kisei Main Line in Wakayama Prefecture, went into service in July 2025, but this is the first in JR East's territory. At Kosano Station, the printer will be set up on the construction site and the structure printed right there, which is said to be a first for a station building in Japan.",
-              "The design concept for the new station is \"a path for the wind flowing from the mountains to the sea,\" a nod to the station's location linking Kamaishi's mountain areas with its coast. JR East says it will use the project to test what this new construction method can offer, including better design, more consistent build quality and fewer workers on site."
-            ],
-            "commentary": "A total floor area of 7.5 m² (81 sq ft). That's about four and a half tatami mats, the size of a classic small Japanese room. But I think the smallness is exactly what makes this meaningful. At small rural stations, even if few passengers use them, the railway can't just leave the building alone. Yet once you factor in arranging skilled workers and making formwork, the smaller the building, the higher the cost per square meter tends to be. A 3D printer builds up concrete in layers without any formwork, so it suits small, freely shaped buildings best. The difference from Hatsushima Station is that the parts aren't made in a factory and shipped in. Instead, the printer is brought to the site and prints the structure in place. That frees the project from transport limits, but on site, temperature and humidity change how the concrete sets, so the technology for keeping quality consistent gets put to the test. Do you know how old the building at your nearest station is? JR East will be testing three things: design, consistent quality and labor savings. The new station opens in March 2027.",
-            "briefing": [
-              "Kosano Station is on the Kamaishi Line (Hanamaki to Kamaishi), and its current building is 78 years old",
-              "JR West's Hatsushima Station, which opened on July 22, 2025, was the world's first 3D-printed station building. JR East's Kosano Station will be the second 3D-printed station building in Japan",
-              "JR East has previously worked with Aizawa Koatsu Concrete to make a 3D-printed station bench that doubles as an emergency toilet for disasters"
-            ],
-            "hojosen": [
-              {
-                "title": "Construction 3D printers",
-                "body": "A technology that pushes cement-based material out of a nozzle and stacks it in layers to form walls and other elements. It needs no formwork, makes curves easy and reduces labor. However, under Japan's current Building Standards Act, the rules for using printed elements as structural members are still being worked out, so practical use is spreading first in small buildings and non-structural elements."
-              },
-              {
-                "title": "Renewing rural stations",
-                "body": "Many wooden and reinforced concrete station buildings put up shortly after World War II remain on rural lines, and they are aging just as ridership is falling. Railway companies are keeping maintenance costs down by making station buildings smaller and simpler, and 3D printing is being tried as one of those options."
-              }
-            ]
-          }
-        }
-      ]
     }
   ],
   "weeklyFeatures": [
+    {
+      "id": "feature-2026-w45",
+      "title": "今週の建築ニュースまとめ",
+      "dateRangeText": "11/02-11/08",
+      "heroTitle": "皇居三の丸尚蔵館が全面開館し、防災庁が発足し、建築士の設計・監理契約が2027年4月からすべて書面になると決まった一週間 マツモト建築芸術祭、千代田区の転売禁止要請、ららぽーとTOKYO-BAYの建て替え、津田沼パルコ跡地の160m計画、そして北区の建設現場の転落事故",
+      "issueIds": [
+        "issue-2026-11-08",
+        "issue-2026-11-07",
+        "issue-2026-11-06",
+        "issue-2026-11-05",
+        "issue-2026-11-04",
+        "issue-2026-11-03",
+        "issue-2026-11-02"
+      ]
+    },
     {
       "id": "feature-2026-w44",
       "title": "今週の建築ニュースまとめ",
