@@ -1,6 +1,147 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-09",
+      "date": "2026-11-09",
+      "weekday": "月",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-09-s1",
+          "number": 1,
+          "title": "坂茂さんの能登支援をたどる企画展が金沢建築館で開幕 紙管の間仕切りから仮設住宅まで",
+          "summary": "建築家・坂茂さんの奥能登での災害支援を紹介する企画展が、11月7日に金沢市の谷口吉郎・吉生記念金沢建築館で始まりました。",
+          "body": [
+            "金沢市の谷口吉郎・吉生記念金沢建築館で11月7日、第14回企画展「坂 茂と奥能登 災害支援の歩み」が始まりました。会期は2027年5月9日までです。能登半島地震から間もなく3年になるのに合わせ、母方のルーツが金沢にある建築家・坂茂さんの活動を取り上げます。",
+            "展示の中心は、坂さんと、坂さんが代表を務めるNPO法人ボランタリー・アーキテクツ・ネットワーク（VAN）が奥能登で続けてきた支援です。避難所で使われた紙管の間仕切り、木材を重ねた構造材を使い長く住み続けられる仮設住宅、輪島塗などの伝統産業を支える仮設の工房、瓦や古材を再利用した復興の建物などが紹介されます。",
+            "会場では、1994年のルワンダ難民の支援から、阪神・淡路大震災、東日本大震災、ウクライナでの活動までもふり返ります。これまでの歩みと並べることで、奥能登の復興で建築が果たす役割を考える構成になっています。"
+          ],
+          "commentary": "避難所の体育館に、紙の筒で組んだ枠が並び、布が下がる。坂茂さんと聞いて、この光景を思い浮かべる人は多いですよね。紙管は、トイレットペーパーやラップの芯と同じ筒状の紙です。軽くて、誰でも組み立てられて、使い終わればリサイクルできる。体育館の床に、プライバシーという壁をすぐ立てられる素材なんです。今回の展示で注目したいのは、その先まで並んでいることです。避難所の間仕切り、仮設住宅、伝統産業の仮設工房。人が避難して、住んで、仕事を取り戻すまで、建築が順番に関わる流れが一つの会場で見えます。以前坂さんを紹介したときにも、「建築は誰のためにあるのか」という話をしました。建築は命や暮らしを支えているのに、その実感を持ちにくい仕事でもあるんです。建築が人を直接助ける場面を、半年かけて見られる。そういう展示なんだと思います。",
+          "briefing": [
+            "金沢建築館は金沢市寺町5丁目にあり、開館時間は9時30分から17時（入館は16時30分まで）です。月曜日が休館日で、祝日の場合は翌平日が休みになります。",
+            "館は10月19日から11月6日まで展示替えのため休館しており、今回の企画展はその明けに始まりました。会期は半年あまりと長めに取られています。",
+            "坂さんの事務所は能登半島地震の後、珠洲市の見附島の近くに建つ木造2階建ての仮設集合住宅を設計しました。仮設として使った後は、災害公営住宅に転用する予定とされていました。"
+          ],
+          "sources": [
+            {
+              "name": "谷口吉郎・吉生記念 金沢建築館（公式）",
+              "url": "https://www.kanazawa-museum.jp/architecture/"
+            },
+            {
+              "name": "ABC0120（展覧会情報）",
+              "url": "https://abc0120.net/2026/10/22/232091/"
+            },
+            {
+              "name": "日経クロステック",
+              "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02149/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "仮設から恒久へ",
+              "body": "能登半島地震の後、坂さんの事務所が珠洲市で設計した木造の仮設住宅は、仮設として使い終えた後に災害公営住宅へ転用する前提で計画されました。プレハブの仮設住宅は数年で撤去されるのが一般的で、建て直しの手間と費用が二重にかかります。最初から長く使える建物にしておく考え方は、被災地の住まいづくりの選択肢として注目されています。"
+            },
+            {
+              "title": "紙管の始まり",
+              "body": "坂さんが紙管を建築に使い始めたのは1980年代で、予算の限られた展示の会場構成で木の代わりに試したのがきっかけとされます。その後、難民キャンプや国内外の被災地の支援に広がり、2014年のプリツカー賞受賞では、こうした社会的な活動も評価されました。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "谷口吉郎・吉生記念 金沢建築館（公式）",
+          "sourceURL": "https://www.kanazawa-museum.jp/architecture/",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-09-s2",
+          "number": 2,
+          "title": "建設人材の不足に政府横断のタスクフォース AI・半導体工場の建設を支える政策を年内に",
+          "summary": "工場やデータセンターの建設を担う人手の不足を受け、政府が省庁横断のタスクフォースを立ち上げました。年内に政策パッケージをまとめます。",
+          "body": [
+            "政府は10月30日、「建設分野の人材確保等に向けたタスクフォース」の初会合を開きました。議長は尾﨑正直官房副長官で、内閣官房の日本成長戦略本部事務局、厚生労働省、経済産業省、国土交通省が参加します。高市首相が10月1日の日本成長戦略会議で、建設分野の人手不足に向けた政府横断の検討体制づくりと、年末までの政策パッケージ策定を指示していました。",
+            "背景にあるのは、AIや半導体など17の戦略分野で見込まれる工場やデータセンターの建設需要です。発注する側からは、建設の担い手が足りないことで費用が膨らみ、工期も延びて、投資の妨げになっているという声が出ています。初会合では、経済産業省が発注者側の、国土交通省が受注者側の課題を説明しました。",
+            "検討の柱は、いま動いている工事を着実に進めるための施策、建設人材を育てる施策、業務の効率化の3つです。個別のプロジェクトの相談に応じる体制づくりに加え、学び直しの支援や教育訓練給付の対象拡充、建設業退職金共済制度の見直しなどを盛り込んだパッケージを年内にまとめる方針です。"
+          ],
+          "commentary": "半導体工場の建設現場には、毎日たくさんの職人さんが通います。今回のタスクフォースは、その「人」が足りないことを、国の成長戦略の問題として扱い始めたということなんです。特に効いてくるのが設備工事です。電気、空調、給排水。建物を人の体にたとえると、骨組みが骨格なら、設備は血管や神経にあたります。半導体工場やデータセンターは、この血管と神経がとびきり太くて複雑な建物なんですよね。政府の資料でも、工種ごとに見ると設備工事で人手のひっ迫を訴える声が多いとされています。気になるのは、こうした大型の工場に人が集まると、街のマンションや学校、病院の工事はどうなるのかということです。担い手の数は急には増えません。限られた人を、どの工事に、どんな順番で振り向けるのか。それを決めるのは、市場なのか、国なのか。年末のパッケージは、そこにどこまで踏み込むんでしょうね。",
+          "briefing": [
+            "タスクフォースは、戦略分野や社会インフラ関連分野の人材の育成・確保を進める関係府省庁連絡会議の下に置かれ、その設置は10月16日の連絡会議で決まっていました。",
+            "初会合の政府資料では、建築工事の現況を工種別に比べると、設備工事で「ややひっ迫・ひっ迫」と答える割合が高いと示されました。半導体工場やデータセンターの工事では、設備工事会社（サブコン）の供給力が限られているとの声が多いとしています。",
+            "パッケージに入る項目の候補として、変形労働時間制の活用や、AIやデジタル技術による業務の効率化も挙がっています。"
+          ],
+          "sources": [
+            {
+              "name": "内閣官房（初会合資料・公式）",
+              "url": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kensetsu/dai1/shiryou3.pdf"
+            },
+            {
+              "name": "日本工業経済新聞",
+              "url": "https://www.nikoukei.co.jp/news/detail/564131"
+            },
+            {
+              "name": "日刊建設工業新聞",
+              "url": "https://www.decn.co.jp/?p=188956"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "国交省の議論と2本立て",
+              "body": "建設業の担い手をめぐっては、国土交通省の建設業ビジョンの検討会でも、技能者の月給制への転換などが議論されています。こちらは業界全体の働き方を変える中長期の話で、今回のタスクフォースは、目の前の大型投資を止めないための政府横断の対応という位置づけです。"
+            },
+            {
+              "title": "工事を引き受けない現場",
+              "body": "都市部では、工事費の高騰や人手不足で施工者が決まらず、再開発の着工が遅れる例が相次いでいます。大型工場の建設需要が重なると、限られた職人や設備会社の取り合いがさらに強まる可能性があります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "内閣官房（初会合資料・公式）",
+          "sourceURL": "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kensetsu/dai1/shiryou3.pdf",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-09-s3",
+          "number": 3,
+          "title": "ドイツ・エッセンの旧百貨店が中央図書館に MVRDVが6フロアを「街の居間」に改修",
+          "summary": "ドイツ西部エッセンで、かつての百貨店の建物を改修した中央図書館が10月24日に開館しました。設計はオランダのMVRDVなどです。",
+          "body": [
+            "ドイツ西部の都市エッセンで10月24日、新しい中央図書館が開館しました。場所は中心部のケネディ広場に面した「ベッカーハウス」と呼ばれる元百貨店の建物で、地上6階のすべてのフロアを図書館に改修しました。内装の設計はオランダの設計事務所MVRDVとincludiが担当し、地元のマイヤー・アーキテクテンが協力しました。",
+            "設計の考え方の土台にあるのは、社会学者レイ・オルデンバーグが唱えた「サードプレイス」です。家でも職場でもない、誰もが気軽に立ち寄れる居場所という意味で、図書館を街の居間のような場所にすることを目指しています。本棚を積み木のように使って広いフロアを区切り、利用者ごとに過ごし方の違うゾーンをつくっています。"
+          ],
+          "commentary": "閉店した百貨店を、壊さずに図書館にする。エッセンの新しい図書館は、建物の外側を残して中身だけ入れ替えています。実は百貨店の建物は、図書館と相性がいいんです。広いフロアが何層も重なり、大勢が上り下りする前提でエスカレーターや階段が通っている。しかも駅前や中心街の、いちばん人が集まる場所に建っているじゃないですか。いわば、人が集まるための箱が最初から用意されているわけです。今回の設計では、その広いフロアを本棚で区切って、静かに読む場所とにぎやかに過ごす場所を分けています。日本でも地方都市の百貨店が閉店し、大きな空きビルが駅前や中心街に残る例が増えています。壊して建て直すか、中身を入れ替えて使い続けるか。その選択肢の一つが、ドイツの街の真ん中で、6フロアぶんの本棚になりました。",
+          "briefing": [
+            "図書館の延べ面積は、報道では約1万平方メートル、MVRDVの公式ページでは約1万1000平方メートルとされており、資料によって数字に幅があります。",
+            "ベッカーハウスには2017年まで書店のマイヤーシェが入っており、本と縁の深い建物でもあります。",
+            "図書館はこれまで駅の近くにありましたが、今回の開館で中心部のケネディ広場に移りました。"
+          ],
+          "sources": [
+            {
+              "name": "MVRDV（公式）",
+              "url": "https://www.mvrdv.com/projects/1022/essen-central-library"
+            },
+            {
+              "name": "Dezeen",
+              "url": "https://www.dezeen.com/2026/10/27/mvrdv-essen-central-library/"
+            },
+            {
+              "name": "アーキテクチャーフォト",
+              "url": "https://architecturephoto.net/259670/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "百貨店跡の使い道",
+              "body": "日本では地方都市を中心に百貨店の閉店が続き、中心市街地に大きな空きビルが残る例が目立っています。解体して再開発する例が多い一方、行政の窓口や図書館、学びの場などを入れて使い続ける例も出ています。床が広く、人の流れを前提にした建物は、公共施設への転用と相性がよいとされます。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "MVRDV（公式）",
+          "sourceURL": "https://www.mvrdv.com/projects/1022/essen-central-library",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-08",
       "date": "2026-11-08",
       "weekday": "日",
@@ -6284,231 +6425,6 @@
               {
                 "title": "From draft plan to groundbreaking",
                 "body": "An association-led urban redevelopment project in Japan goes through a set sequence: urban planning decision, approval of the association, approval of the rights conversion plan, then demolition and construction. Each stage requires landowner consent, and it is not unusual for two to three years to pass from the urban planning decision to groundbreaking, or more than 10 years counting from the formation of the preparatory association."
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-10",
-      "date": "2026-10-10",
-      "weekday": "土",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-10-s1",
-          "number": 1,
-          "title": "続報：福岡・天神のパルコ街区再開発 総事業費1658億円の事業計画案 2027年3月着工へ",
-          "summary": "新天町商店街商業協同組合などが天神二丁目南ブロック駅前東街区の事業計画案を策定。総事業費1658億円で、2027年3月着工・2031年12月完成を目指します。",
-          "body": [
-            "福岡市・天神の「天神二丁目南ブロック駅前東街区第一種市街地再開発事業」について、新天町商店街商業協同組合、新天町商店街公社、西日本鉄道、三菱UFJ信託銀行、三井住友銀行が事業計画案をまとめたと建設通信新聞が10月9日に報じました。対象面積は約1.5ヘクタール、総事業費は1658億200万円。2027年3月の着工、2031年12月の完成を目指し、事業期間は2034年3月までを予定しています。特定業務代行者は竹中工務店です。",
-            "9月14日号でお伝えした福岡市の公表では、再開発ビルは地下4階・地上22階建て、延べ約14万1000平方メートル、高さ約110メートルで、概算整備費は約1230億円でした。今回の事業計画案では延べ面積が14万1471平方メートルと示され、総事業費の内訳は本体工事費1175億1100万円、調査設計計画費51億1900万円、メルヘン地下通路整備費86億1900万円、土地整備費98億4700万円などです。地下2階から地上7階が商業、8階以上がオフィスとハイグレードホテルの構成です。",
-            "福岡市は9月の市議会で、東街区の設計・整備費を2025年度試算の約1000億円から約1230億円に増額したと報告していました。隣接する西街区（新天町側）は敷地約5900平方メートル・延べ約8万8000平方メートルで、2027年春ごろの解体着手、2030年代の完成を予定しています。"
-          ],
-          "commentary": "1658億円のうち、建物本体の工事費は1175億円。残りの約480億円が、設計や調査、地下通路、土地の整備といった「建物以外」の費用です。再開発というと高層ビルの姿ばかり目に入りますが、お金の内訳を見ると、通路や権利の整理に使う分がこれだけ大きいんです。注目したいのは「メルヘン地下通路」に86億円が計上されていること。天神地下街と西鉄福岡駅、パルコをつなぐ地下の動線は、地上のビルと同じくらい街の使い勝手を決めます。もうひとつ、1年前の試算は約1000億円、9月の市の報告で1230億円、今回の事業計画案で総額1658億円。数字の範囲が違うので単純比較はできませんが、建設費の上がり方を追う材料としては十分です。この規模の再開発は、組合、鉄道会社、信託銀行が一つの事業者になって進めます。商店街の店主さんたちが共同事業者として1658億円の計画を背負う。皆さんは、自分の街の商店街がこの判断を迫られたら、どう考えますか。",
-          "briefing": [
-            "事業者は新天町商店街商業協同組合、新天町商店街公社、三菱UFJ信託銀行、西日本鉄道、三井住友銀行。パルコ街区側の事業者にはパルコ、J.フロント都市開発も名を連ねる",
-            "再開発ビルの用途構成は地下2階〜地上7階が商業施設、8階以上がオフィスとハイグレードホテル",
-            "天神ビッグバンは福岡市が2015年に始めた都心再開発施策。航空法の高さ制限67mに対し、明治通り西側は約115mまで緩和されている",
-            "西街区（新天町側）は2027年春ごろに解体着手、2030年代の完成予定"
-          ],
-          "sources": [
-            {
-              "name": "建設通信新聞",
-              "url": "https://www.kensetsunews.com/archives/1294926"
-            },
-            {
-              "name": "日刊建設工業新聞",
-              "url": "https://www.decn.co.jp/?p=187509"
-            },
-            {
-              "name": "fukuoka leap up",
-              "url": "https://fukuoka-leapup.jp/biz/202601.71428"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "特定業務代行者",
-              "body": "市街地再開発組合などが、工事の施工や資金調達の一部を含む業務をまとめて委ねる民間事業者。ゼネコンが担うことが多く、組合側の事業リスクを引き受ける代わりに施工を担当します。竹中工務店は天神エリアで複数の再開発に関わっています。"
-            },
-            {
-              "title": "天神ビッグバンの期限",
-              "body": "福岡市の天神ビッグバンは国家戦略特区の規制緩和を使った建て替え促進策で、容積率や高さ制限の特例を受けるには竣工期限（当初2024年末、現在は2026年末に延長）があります。駅前東街区は2031年完成予定のため、特例の扱いは別の枠組みで整理される見通しです。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "建設通信新聞",
-          "sourceURL": "https://www.kensetsunews.com/archives/1294926",
-          "shoComment": "",
-          "en": {
-            "title": "Update: Fukuoka's Tenjin Parco block redevelopment plan puts total cost at ¥165.8 billion",
-            "summary": "A group led by the Shintencho shopping arcade has drawn up the project plan for a redevelopment in Tenjin, downtown Fukuoka. Total cost is ¥165.8 billion, with construction set to start in March 2027 and finish in December 2031.",
-            "body": [
-              "A project plan has been drawn up for the Tenjin 2-chome South Block Station-Front East District Type 1 Urban Redevelopment Project in Tenjin, the main downtown and shopping district of Fukuoka, the largest city on the southern island of Kyushu. The construction trade paper Kensetsu Tsushin Shimbun reported on Oct 9 that the plan was put together by the Shintencho Shopping Arcade Commercial Cooperative, the Shintencho Shopping Arcade Corporation, Nishi-Nippon Railroad (Nishitetsu), Mitsubishi UFJ Trust and Banking, and Sumitomo Mitsui Banking Corporation. The site covers about 1.5 hectares (3.7 acres), and the total project cost is ¥165.802 billion. Construction is to start in March 2027 and finish in December 2031, with the project period running through March 2034. Takenaka Corporation is the specified agent contractor, the builder that takes on part of the project on the landowners' behalf.",
-              "As we reported on Sep 14, the City of Fukuoka had announced a redevelopment building with four basement levels and 22 stories above ground, about 141,000 m² (1.52 million sq ft) of total floor area, a height of about 110 m (360 ft), and a rough construction cost of about ¥123 billion. The new project plan gives the total floor area as 141,471 m² (1.52 million sq ft). The total cost breaks down into ¥117.511 billion for the building itself, ¥5.119 billion for surveys, design and planning, ¥8.619 billion for the Meruhen underground passage, and ¥9.847 billion for land preparation, among other items. Retail will occupy the second basement level through the seventh floor, with offices and a high-end hotel on the eighth floor and above.",
-              "At the September session of the city council, Fukuoka reported that the design and construction cost for the East District had risen from about ¥100 billion in its fiscal 2025 estimate to about ¥123 billion. The neighboring West District, on the Shintencho side, has a site of about 5,900 m² (64,000 sq ft) and about 88,000 m² (950,000 sq ft) of total floor area. Demolition there is expected to begin around spring 2027, with completion sometime in the 2030s."
-            ],
-            "commentary": "Of the ¥165.8 billion, the building itself accounts for ¥117.5 billion. The other roughly ¥48 billion goes to things that aren't the building: design, surveys, the underground passage and land preparation. When people hear redevelopment, they tend to picture the tower. But look at the breakdown and you see how much goes to passageways and to sorting out property rights. What caught my eye is the ¥8.6 billion set aside for the Meruhen underground passage. The underground routes linking the Tenjin Underground Shopping Mall, Nishitetsu Fukuoka Station and Parco shape how usable the area is just as much as the building above ground does. One more thing. A year ago the estimate was about ¥100 billion, the city's September report said ¥123 billion, and this project plan puts the total at ¥165.8 billion. Those numbers cover different things, so you can't compare them directly, but they're plenty to track how fast construction costs are rising. A redevelopment this size is carried out by a cooperative, a railway company and trust banks acting together as one developer. The shop owners of a shopping arcade are shouldering a ¥165.8 billion plan as co-developers. If the shopping street in your own town had to make this call, how would you think it through?",
-            "briefing": [
-              "The developers are the Shintencho Shopping Arcade Commercial Cooperative, the Shintencho Shopping Arcade Corporation, Mitsubishi UFJ Trust and Banking, Nishi-Nippon Railroad and Sumitomo Mitsui Banking Corporation. Parco and J.Front Urban Development are also listed among the developers on the Parco block side",
-              "In the redevelopment building, retail will fill the second basement level through the seventh floor, with offices and a high-end hotel on the eighth floor and above",
-              "Tenjin Big Bang is an urban redevelopment policy the City of Fukuoka launched in 2015. The aviation law caps building heights at 67 m (220 ft) because of the nearby airport, but on the west side of Meiji-dori avenue the cap has been relaxed to about 115 m (380 ft)",
-              "In the West District, on the Shintencho side, demolition is expected to begin around spring 2027, with completion sometime in the 2030s"
-            ],
-            "hojosen": [
-              {
-                "title": "Specified agent contractors",
-                "body": "A specified agent contractor (tokutei gyomu daikosha) is a private company that an urban redevelopment association hands a bundle of work to, including construction and part of the financing. The role usually goes to a general contractor, which takes on some of the association's project risk in exchange for building the project. Takenaka Corporation is involved in several redevelopments in the Tenjin area."
-              },
-              {
-                "title": "The Tenjin Big Bang deadline",
-                "body": "Fukuoka's Tenjin Big Bang uses the deregulation available in a National Strategic Special Zone to encourage rebuilding. To qualify for exceptions on floor area ratio (FAR) and height limits, buildings must be completed by a deadline, originally the end of 2024 and now extended to the end of 2026. Because the Station-Front East District is due to be finished in 2031, its exceptions are expected to be handled under a separate framework."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-10-s2",
-          "number": 2,
-          "title": "プリツカー賞の建築家・山本理顕氏が横浜市長選に立候補 「住む権利の保障」を掲げ18日投開票",
-          "summary": "2024年プリツカー賞受賞の建築家・山本理顕氏（81）が横浜市長選に無所属で立候補。住む権利の保障や「地域社会圏」構想を掲げます。投開票は10月18日です。",
-          "body": [
-            "建築家の山本理顕氏（81）が、10月4日に告示された横浜市長選挙に無所属で立候補しました。山本氏は横須賀美術館や公立はこだて未来大学などを手がけ、2024年に「建築界のノーベル賞」と呼ばれるプリツカー賞を受賞しています。今回の市長選は、職員へのパワハラ問題で前市長が8月に辞職したことに伴うもので、前市長を含む7人が立候補しました。投開票は10月18日です。",
-            "タウンニュースによると、山本氏は届け出後の会見で「安全で快適な住宅に住む権利の保障」を主張。一つの町内会を「地域社会圏」と位置づけ、子どもや高齢者の支援、行政窓口、カフェなどを集めた町内会サロンの設置、公共交通網の充実、観光収入の増加、老朽化した市営住宅の整備などを掲げました。日経クロステックも「快適に住める権利」の保護を訴えていると伝えています。",
-            "「地域社会圏」は、山本氏が建築家として長年提唱してきた考え方です。一つの住宅に一つの家族が閉じて住む「一住宅一家族」の仕組みを見直し、数百人規模の集まりで住まいと仕事、生活サービスを共有する住まい方を提案してきました。建築家が自身の理論を自治体の政策として掲げる形になります。"
-          ],
-          "commentary": "建築家が市長選に出る。候補者7人のうちの一人として、事実として受け止めたいと思います。僕がここで触れたいのは勝ち負けではなく、公約の中身が建築の理論そのものだという点です。「地域社会圏」は、山本さんが2010年代から本や展覧会で語ってきた構想で、要するに「家族単位で閉じた住宅を、もう少し開いて、ご近所の数百人で支え合う」という考え方です。たとえば玄関脇に小さな店や仕事場を持てる住宅、1階がみんなの居間になる集合住宅。これは設計の話であると同時に、町内会や行政窓口をどこに置くかという政策の話でもあります。建築家は普段、設計した建物の中でしかこの構想を試せません。それを市の制度側から試そうとするのが今回の立候補です。皆さんは、住まいの「開き方」を行政が決めることに、どんな可能性と心配を感じますか。横浜市長選の投開票は10月18日です。",
-          "briefing": [
-            "山本氏は1945年生まれ。1973年に山本理顕設計工場を設立。代表作に横須賀美術館、埼玉県立大学、公立はこだて未来大学など。横浜国立大学大学院でも教授を務めた",
-            "公約には、市内全住宅の耐震診断・地盤調査や、市民が無料で使えるミニバス・ミニタクシー網の構想、観光収入を約5000億円から1兆円へ拡大する目標も含まれる（公式サイト・選挙公報による）",
-            "市長選は前市長の8月27日の辞職表明を受けて実施。告示10月4日、期日前投票は10月5日〜17日、投開票10月18日"
-          ],
-          "sources": [
-            {
-              "name": "タウンニュース",
-              "url": "https://www.townnews.co.jp/0113/2026/10/05/855870.html"
-            },
-            {
-              "name": "日経クロステック",
-              "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02945/"
-            },
-            {
-              "name": "日本経済新聞",
-              "url": "https://www.nikkei.com/article/DGXZQOCC041E10U6A001C2000000/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "地域社会圏",
-              "body": "山本理顕氏が提唱する住まいの構想。戦後の住宅政策が前提にしてきた「一住宅一家族」を見直し、500人程度の集まりを単位に、住宅の一部を開いて小さな店や仕事場、共用の居間を持ち、生活のサービスを分け合う考え方です。2010年代に書籍や展覧会で発表され、建築界で議論を呼びました。"
-            },
-            {
-              "title": "プリツカー賞と日本人",
-              "body": "プリツカー賞は1979年創設の国際建築賞。日本からは丹下健三、槇文彦、安藤忠雄、妹島和世と西沢立衛、伊東豊雄、坂茂、磯崎新らが受賞しており、2024年の山本理顕氏で日本人受賞者は9組目です。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "タウンニュース",
-          "sourceURL": "https://www.townnews.co.jp/0113/2026/10/05/855870.html",
-          "shoComment": "",
-          "en": {
-            "title": "Pritzker-winning architect Riken Yamamoto runs for mayor of Yokohama on a right to housing",
-            "summary": "Riken Yamamoto, 81, the architect who won the 2024 Pritzker Prize, is running as an independent for mayor of Yokohama. His platform centers on a right to decent housing and his Local Community Area concept. Voting is on Oct 18.",
-            "body": [
-              "Architect Riken Yamamoto, 81, has entered the Yokohama mayoral election as an independent. The official campaign began on Oct 4. Yamamoto designed the Yokosuka Museum of Art and Future University Hakodate, among other works, and in 2024 he won the Pritzker Prize, often called the Nobel Prize of architecture. The election was triggered by the previous mayor's resignation in August over a power harassment controversy involving city employees. Seven candidates are running, including the former mayor. Voting takes place on Oct 18.",
-              "According to the local paper Town News, Yamamoto said at a press conference after filing his candidacy that he would guarantee the right to live in safe, comfortable housing. He proposes treating each neighborhood association, the residents' groups found in neighborhoods across Japan, as a Local Community Area. His platform includes neighborhood association salons that bring together support for children and older people, government service counters and cafes, along with a stronger public transit network, more tourism revenue and upgrades to aging municipal housing. Nikkei Xtech also reported that he is calling for protection of the right to live comfortably.",
-              "The Local Community Area (chiiki shakai ken) is an idea Yamamoto has promoted for many years as an architect. It rethinks the one-house-one-family model, in which each household lives closed off in its own home, and proposes groups of a few hundred people sharing housing, work and everyday services. With this campaign, an architect is putting his own theory forward as city policy."
-            ],
-            "commentary": "An architect is running for mayor. He's one of seven candidates, and I want to take that simply as a fact. What I want to talk about here isn't whether he wins or loses. It's that his platform is, at its core, architectural theory. The Local Community Area is a concept Yamamoto has been laying out in books and exhibitions since the 2010s. In short, it says: take homes that are closed around a single family, open them up a little, and let a few hundred neighbors support one another. Think of a house with a small shop or workspace next to the front door, or an apartment building whose ground floor works as everyone's living room. That's a design question, and at the same time a policy question about where neighborhood associations and government counters should go. Normally an architect can only test an idea like this inside the buildings he designs. This candidacy is an attempt to test it from the side of the city's own systems. What possibilities, and what worries, do you see in a city government deciding how our homes should open up? Voting in the Yokohama mayoral election is on Oct 18.",
-            "briefing": [
-              "Yamamoto was born in 1945 and founded his office, Riken Yamamoto & Field Shop, in 1973. His major works include the Yokosuka Museum of Art, Saitama Prefectural University and Future University Hakodate. He has also taught as a professor at the graduate school of Yokohama National University",
-              "His pledges also include seismic assessments and ground surveys for every home in the city, a network of minibuses and mini-taxis that residents can ride for free, and a goal of growing tourism revenue from about ¥500 billion to ¥1 trillion (according to his official website and the election bulletin)",
-              "The election follows the previous mayor's announcement on Aug 27 that he would resign. The campaign officially opened on Oct 4, early voting runs Oct 5 to 17, and voting day is Oct 18"
-            ],
-            "hojosen": [
-              {
-                "title": "The Local Community Area",
-                "body": "A housing concept proposed by Riken Yamamoto. It questions the one-house-one-family model that postwar Japanese housing policy took for granted. Instead, it takes a group of about 500 people as the basic unit, opens part of each home for a small shop, a workspace or a shared living room, and lets residents share everyday services. Yamamoto presented it in books and exhibitions in the 2010s, and it sparked debate in the architecture world."
-              },
-              {
-                "title": "Japan and the Pritzker Prize",
-                "body": "The Pritzker Prize is an international architecture award founded in 1979. Japanese winners include Kenzo Tange, Fumihiko Maki, Tadao Ando, Kazuyo Sejima and Ryue Nishizawa, Toyo Ito, Shigeru Ban and Arata Isozaki. With Riken Yamamoto in 2024, Japan has produced nine winners (counting Sejima and Nishizawa as one)."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-10-s3",
-          "number": 3,
-          "title": "続報：一級建築士の設計製図試験はあす10月11日 法令集持ち込み元年、学科合格7619人",
-          "summary": "令和8年一級建築士「設計製図の試験」があす10月11日に実施。課題は「ホテル」、試験時間は6時間30分。今年から法令集を持ち込めます。合格発表は12月23日。",
-          "body": [
-            "令和8年の一級建築士試験「設計製図の試験」が、あす10月11日（日）に全国で行われます。9月24日号でお伝えしたとおり、今年の課題は「ホテル」。試験は11時から17時30分までの6時間30分で、その前の10時35分から注意事項の説明があります。合格発表は12月23日の予定です。",
-            "今年は製図試験に法令集を持ち込める最初の年です。建築技術教育普及センターの受験要領によると、使用できる法令集は2冊までで、付随する追録や訂正表は追加できます。学科の法規と同様、書き込みやインデックスには条件があり、当日の確認対象になります。",
-            "今年の学科試験は受験者2万9094人に対し合格者7619人、合格率26.2%で、前年の16.5%から大きく上がりました。総合資格学院によると、現在の出題形式になった平成21年以降で最も高い合格率です。製図試験には学科合格者のほか、過去2年以内の学科合格による受験者も加わります。"
-          ],
-          "commentary": "あす、全国の試験会場で数千人が同じ「ホテル」を6時間半で描きます。放送でも話したんですが、僕は二級も一級も一発で受かりました。緊張は学科のほうが強くて、製図のときは受かる気ではいたけれど、挑戦者であるという気持ちだけは忘れずに臨んだ記憶があります。今年は法令集を手元に置ける初めての年。安心材料であると同時に、「確認しなかった」が通らなくなる年でもあります。条文が手元にあるのに見落とせば、知識不足ではなく手順の問題になります。だから僕が勧めるのは、法令集を開く場面をあらかじめ3つくらいに決めておくこと。エスキスの最初、プラン確定前、作図後のチェック。この3回以外は本を閉じる。そのほうが6時間半の配分が崩れません。もう一つ、放送で言ったことをここでも。合格率35%前後の試験に、人生を賭けないでください。受かっても落ちても、建築の仕事は続きます。あす受ける皆さんは、今夜のうちに法令集の付箋と製図道具をもう一度だけ確認して、早めに寝てください。",
-          "briefing": [
-            "製図試験の時間割は10時35分〜11時が注意事項の説明（25分）、11時〜17時30分が本試験（6時間30分）",
-            "学科試験の合格基準点は総得点94点。合格者の64.7%を20代が占めた（総合資格学院の分析による）",
-            "学科合格者は翌年・翌々年の製図試験も受けられる。製図試験は学科合格1回につき3回まで受験できる",
-            "製図試験の合格発表は12月23日（水）予定。合格すると建築士免許の登録手続きに進める"
-          ],
-          "sources": [
-            {
-              "name": "建築技術教育普及センター（公式）",
-              "url": "https://www.jaeic.or.jp/.assets/jyukenyoryo-1k-2026.pdf"
-            },
-            {
-              "name": "総合資格学院",
-              "url": "https://www.shikaku.co.jp/course/1k/info/gakka-eligibility/"
-            },
-            {
-              "name": "建築士の塾 by archicom",
-              "url": "https://www.archicom.co.jp/1qssiken.htm"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "学科の合格率が上がった背景",
-              "body": "令和8年の学科試験は合格率26.2%で、前年比9.7ポイント上昇しました。合格基準点は当初の目安「概ね90点」から94点に上方補正されましたが、それでも合格者は7619人と近年で最多です。製図試験の受験者が増える分、相対評価の製図ではランク分けの競争が例年より厳しくなるという見方もあります。"
-            },
-            {
-              "title": "製図試験の採点",
-              "body": "設計製図の試験はランクI〜IVの4段階で評価され、ランクIのみ合格です。法規違反や要求室の欠落など致命的なミスはランクIVとなり、図面の出来にかかわらず不合格になります。法令集の持ち込みで、法規関連のミスの扱いが変わるかどうかが今年の注目点です。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "建築技術教育普及センター（公式）",
-          "sourceURL": "https://www.jaeic.or.jp/.assets/jyukenyoryo-1k-2026.pdf",
-          "shoComment": "",
-          "en": {
-            "title": "Update: Design exam for Japan's top architect license is tomorrow, the first with code books allowed",
-            "summary": "The 2026 design drafting exam for the first-class kenchikushi license, Japan's top architect license, takes place tomorrow, Oct 11. This year's brief is a hotel, the exam lasts 6 hours 30 minutes, and candidates may bring code books for the first time. Results come out Dec 23.",
-            "body": [
-              "The 2026 design drafting exam for the first-class kenchikushi license, Japan's top architect license, which covers buildings of any size, will be held nationwide tomorrow, Sunday, Oct 11. It is the second stage of the licensing exam, after a written test, and candidates must produce a full building design on paper within the time limit. As we reported on Sep 24, this year's brief is a hotel. The exam runs from 11:00 to 17:30, a total of 6 hours 30 minutes, preceded by an explanation of the rules starting at 10:35. Results are scheduled for Dec 23.",
-              "This is the first year candidates can bring code books, compilations of building laws and regulations, into the drafting exam. According to the exam guidelines from the Japan Architectural Education and Information Center (JAEIC), the body that runs the exam, candidates may use up to two code books, and may add the supplements and errata sheets that come with them. As in the building regulations section of the written exam, there are rules on handwritten notes and index tabs, and books will be checked on the day.",
-              "This year 29,094 people took the written exam and 7,619 passed, a pass rate of 26.2%, sharply up from 16.5% the year before. According to Sogo Shikaku Gakuin, a major exam-prep school, that is the highest pass rate since the exam took its current format in 2009. Besides this year's written-exam passers, the drafting exam also includes candidates who passed the written exam within the past two years."
-            ],
-            "commentary": "Tomorrow, several thousand people at exam sites across Japan will each draw the same hotel in six and a half hours. I mentioned this on my show, but I passed both the second-class and first-class exams on my first try. I was more nervous about the written exam. Going into the drafting exam I fully expected to pass, but I made a point of never forgetting that I was the challenger. This is the first year you can keep a code book at your desk. That's reassuring, but it also means \"I didn't check\" no longer works as an excuse. If the provision is right there and you still miss it, that's not a gap in knowledge. It's a problem with your process. So here's what I recommend: decide in advance on about three moments when you'll open the book. At the start of your esquisse, the rough planning sketch. Before you lock in the plan. And during your check after drawing. Outside those three, keep it closed. That way your six and a half hours won't fall apart. And one more thing I said on the show, which I'll repeat here. Don't bet your life on an exam with a pass rate of around 35%. Pass or fail, your work in architecture goes on. If you're sitting the exam tomorrow, check your code book tabs and drafting tools one last time tonight, and get to bed early.",
-            "briefing": [
-              "The drafting exam schedule: 10:35 to 11:00 is an explanation of the rules (25 minutes), and 11:00 to 17:30 is the exam itself (6 hours 30 minutes)",
-              "The pass mark for the written exam was 94 points in total. People in their 20s made up 64.7% of those who passed (according to an analysis by Sogo Shikaku Gakuin)",
-              "Those who pass the written exam can also take the drafting exam in the following two years. Each written-exam pass allows up to three attempts at the drafting exam",
-              "Drafting exam results are scheduled for Wednesday, Dec 23. Those who pass can go on to register for their kenchikushi license"
-            ],
-            "hojosen": [
-              {
-                "title": "Why the written pass rate jumped",
-                "body": "The 2026 written exam had a pass rate of 26.2%, up 9.7 percentage points from the year before. The pass mark was adjusted upward from the initial guideline of roughly 90 points to 94, yet 7,619 people still passed, the most in recent years. With more candidates sitting the drafting exam, which is graded on a relative basis, some expect competition for the top grade to be tougher than usual."
-              },
-              {
-                "title": "How the drafting exam is graded",
-                "body": "The design drafting exam is graded on four ranks, I to IV, and only Rank I passes. Fatal mistakes such as a building code violation or a missing required room put a candidate in Rank IV, a fail no matter how good the drawings are. One thing to watch this year is whether allowing code books changes how code-related mistakes are treated."
               }
             ]
           }
