@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "tenki.jp（日本気象協会）",
           "sourceURL": "https://tenki.jp/forecaster/deskpart/2026/11/08/41241.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Strongest quake in Aichi in about 30 years brings down part of a gym ceiling in Chita",
+            "summary": "An earthquake early on November 8 registered upper 5 on Japan's 7-level intensity scale in Chita, Aichi Prefecture, near Nagoya. Part of the ceiling in the city's municipal gymnasium came down, and at least 15 buildings in the prefecture were damaged.",
+            "body": [
+              "At about 1:04 a.m. on November 8, an earthquake centered in western Shizuoka Prefecture shook central Japan, and the city of Chita in neighboring Aichi Prefecture, south of Nagoya, recorded an intensity of upper 5 on the Japan Meteorological Agency's (JMA) seismic intensity scale, which runs from 0 to 7. According to the JMA, the quake had a magnitude of 5.7 and a depth of about 40 km (25 miles). It was the first upper-5 reading in Aichi since March 1997, about 30 years ago.",
+              "Buildings were damaged too. Part of the ceiling in Chita's municipal gymnasium came down. In Toyota, which recorded lower 5, the top of a shrine's torii gate split in two, and a large showroom window at a car dealership shattered. At least 15 buildings, including houses and public facilities, were damaged, and at least 19 people in Aichi were reported injured.",
+              "The quake struck inside the area where a future Nankai Trough megaquake, the large offshore earthquake Japan has long prepared for, is expected to originate. But the JMA said this quake occurred in a different way and is unlikely to be related. It still advised caution about shaking of similar strength for about a week, and Aichi Prefecture has called on residents to stay alert for aftershocks."
+            ],
+            "commentary": "A building's \"skeleton\" and its ceiling are actually two different things. The columns and beams are the bones that hold the building up. The ceiling is basically a big panel hung from those bones with metal fittings. Even if the bones are fine, the hanging panel can shift or come loose when things shake. What happened at Chita's municipal gym was exactly that: part of this ceiling came away. Gym ceilings are really high when you look up, aren't they? They're wide too, so the weight and the height of anything that falls are nothing like a ceiling at home. In the 2011 Great East Japan Earthquake, suspended ceilings fell in gyms and halls in many places. In response, since April 2014, suspended ceilings more than 6 m (20 ft) up and larger than 200 m² (2,150 sq ft) have been required to have measures that keep them from falling. A gym is the kind of building that becomes an evacuation shelter after an earthquake. That's exactly why you have to look not only at the skeleton but at what's over people's heads. We don't yet know how this particular ceiling was built. But the more a building is one people will walk into after a quake, the more you need to look up and check the ceiling. I think that's the basic rule of disaster preparedness for gyms.",
+            "briefing": [
+              "According to the JMA, lower 5 was recorded in Seto, Handa, Kariya, Toyota, Tokai, Miyoshi, Togo and Shinshiro. Nagoya recorded an intensity of 4.",
+              "Reported injury counts vary, and some outlets put the total at 25 across Aichi, Shizuoka and Nagano prefectures. All figures were compiled right after the quake and may change.",
+              "The JMA identified the epicenter as western Shizuoka Prefecture. The quake occurred inside the projected Nankai Trough source area, but the JMA said there is no need for excessive fear."
+            ],
+            "hojosen": [
+              {
+                "title": "Rules for large suspended ceilings",
+                "body": "Ceilings at gyms and airport terminals had also fallen in earlier quakes, such as the 2001 Geiyo earthquake and the 2003 Tokachi-oki earthquake. After the Great East Japan Earthquake, the Building Standards Act's enforcement order was revised, and since April 2014 suspended ceilings more than 6 m (20 ft) high and over 200 m² (2,150 sq ft) have been classed as \"specified ceilings.\" They must take measures such as adding hanger bolts, using diagonal members to limit swaying, and leaving a gap between the ceiling and the surrounding walls."
+              },
+              {
+                "title": "Damage beyond the bones",
+                "body": "People tend to picture collapsed buildings when they think of earthquake damage, but at around upper 5, damage to parts other than the structural frame, known as nonstructural elements, stands out: ceilings, glass, exterior tiles. This time, too, the damage came outside the frame, in glass, a torii gate and a ceiling. Because these parts can fall and hit people, they are a common cause of injuries."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-10-s2",
@@ -97,7 +122,32 @@
           "reliability": "高",
           "sourceName": "NHK",
           "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261102de69753",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Takaoka presents seven options for its city hall, from ¥25.6 billion rebuild to ¥3.6 billion retrofit",
+            "summary": "Takaoka, a city in Toyama Prefecture on the Sea of Japan coast, showed its city council seven options for its aging city hall. The cost gap between a full rebuild and a seismic retrofit is more than sevenfold.",
+            "body": [
+              "On November 2, the city of Takaoka in Toyama Prefecture presented seven options for its city hall to a special council committee that reviews the future of public facilities. The list lays out a wide range of choices for what to do with the aging building, from rebuilding to renovating.",
+              "The seven options include a full rebuild on the current site, a partial rebuild that moves some functions elsewhere, a move to the former Daiei supermarket site south of the station, base isolation, which installs devices under the building to absorb shaking, and a seismic retrofit that strengthens columns and walls. The renovation options are combined with work to extend the building's life and with flood protection. The most expensive is a full rebuild at about ¥25.6 billion, and the cheapest is the seismic retrofit at about ¥3.6 billion.",
+              "The city acknowledged that the rebuild option comes at a steep price. The options were originally due to be presented at an October committee meeting but were held back, and the city and the council gave conflicting accounts of why. The city plans to survey residents for their views, but said it would not include the comparison table of the options with the survey, prompting a string of questions from council members."
+            ],
+            "commentary": "¥25.6 billion versus ¥3.6 billion. For the same city hall, there's a gap of more than seven times. That gap comes down to how far you go. A seismic retrofit adds reinforcement to the existing columns and walls so the building can hold its ground in a quake. Base isolation puts rubber devices under the building so the shaking itself doesn't travel up as much. In furniture terms, a seismic retrofit is bolting a bookcase to the wall, and base isolation is laying a mat on the floor that lets the shaking slip away. Both are much cheaper than rebuilding, and faster. But the building itself doesn't get any younger. In a few decades, the same problem comes back. A rebuild, on the other hand, is expensive, but it settles the question for the next several decades in one go. Which is right depends on the building's condition, the city's wallet, and how the people who come there use it. With seven options lined up, there's finally something to compare. How much of that comparison table will residents get to see before they choose? I wonder who really gets to decide.",
+            "briefing": [
+              "Local news outlets in the Hokuriku region sum up the seven options as a rebuild, a partial rebuild (partial move), a move (partly to a simple building), base isolation, a seismic retrofit, and a combination of base isolation and seismic retrofit. The renovation options also add life-extension work and flood protection.",
+              "The former Daiei site is south of Takaoka Station, and the move option assumes part of it would be built as a simple, low-cost office building.",
+              "At the same committee meeting, the deputy mayor said renovating the city's aging gymnasium should come first. The question is not only the city hall but the priority among all of the city's public facilities."
+            ],
+            "hojosen": [
+              {
+                "title": "City hall plans in flux nationwide",
+                "body": "Rising construction costs are forcing city hall rebuilding plans across Japan to be revisited. In Kumamoto, the estimated cost of a new city hall has grown to as much as ¥123 billion, and it is one of the issues in the mayoral election to be held on November 15. In Nasushiobara, Tochigi Prefecture, bidding for a new city hall kept failing and has been put out for a third time, and Kishiwada in Osaka Prefecture switched from hiring one firm for design and construction together to contracting them separately."
+              },
+              {
+                "title": "Renovation buys time",
+                "body": "A seismic retrofit or base isolation can cut cost and construction time sharply compared with a rebuild, but the aging equipment and interiors, and the limited life of the building itself, remain. Some municipalities therefore choose to buy time: they secure safety for now with a renovation, and use that time to work out the money and the site for a rebuild."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-10-s3",
@@ -142,7 +192,32 @@
           "reliability": "高",
           "sourceName": "大林組（公式）",
           "sourceURL": "https://www.obayashi.co.jp/news/detail/news20261106_1.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Obayashi and Nippon Safety set up a system to reuse wooden construction hoardings across sites",
+            "summary": "Obayashi Corporation, one of Japan's five largest general contractors, has started collecting and repairing its wooden site hoardings so they can be used again at other construction sites. It runs the system with an equipment rental company.",
+            "body": [
+              "On November 6, Obayashi Corporation announced that, together with construction equipment rental firm Nippon Safety, it has started collecting the wooden hoardings it developed once they are no longer needed, inspecting and repairing them, and reusing them at other construction sites. Hoardings are the temporary fences that surround a site during construction.",
+              "Until now, wooden hoardings have generally reached the end of their life when the job at each site is finished. Reusing them requires storage space, a next site to send them to, quality checks and repairs. The two companies have built a system that runs collection, inspection and repair, storage, and resupply to the next site as one operation, and have also set out repair methods and criteria for judging whether a panel can be reused.",
+              "Obayashi handles technical development and the review of performance and quality, while Nippon Safety handles supply to sites, collection, repair, storage, and management of inventory and timing of reuse. The system will also be applied to the wooden panels used on the exterior of Obayashi Morisora Mirai, the pavilion Obayashi is exhibiting at the 2027 International Horticultural Expo (GREEN x EXPO 2027) in Yokohama."
+            ],
+            "commentary": "When you walk past a construction site, you see a long white steel fence, right? That's a hoarding. When the work is done, it's taken down and carried off to the next site. Steel hoardings were always the kind of material you rent and reuse. Wooden hoardings, on the other hand, look softer and blend into the streetscape. But wood gets damaged by rain and sun, and it warps and cracks. That's why it tended to be used up at a single site. What matters here is that they settled the logistics for treating wood as a reusable material, right down to repair methods and the criteria for deciding whether a panel can be reused. Just as beer crates go back and forth between stores and breweries in Japan, wooden panels will go back and forth between sites and the warehouse. It's unglamorous, but if construction is going to use more wood, this unglamorous system is essential. Next time you see a site with a wooden hoarding, look at the edges and surfaces of the panels for marks left from a previous site.",
+            "briefing": [
+              "Obayashi's wooden hoarding panels can be mounted on the same base frame as ordinary steel hoardings, so they go up and come down the same way steel ones do.",
+              "The two companies will also share information such as how the panels have been used and when they will move to the next site. It turns management that used to stay within a single site into management that spans several sites.",
+              "Obayashi says it aims to expand the system nationwide, not only to sites it builds itself."
+            ],
+            "hojosen": [
+              {
+                "title": "Recycling temporary materials",
+                "body": "In 2025, Obayashi and Nippon Safety also ran a trial that turned waste plastic corrugated board from construction sites into site fencing. How to reduce and reuse materials used only during construction, not just in the finished building, has become one part of general contractors' decarbonization efforts."
+              },
+              {
+                "title": "Wood use on the rise",
+                "body": "General contractors are also pushing ahead with timber high-rises. Work is underway on Mitsui Fudosan's 18-story, 84 m (276 ft) timber office building in Tokyo's Nihonbashi district. The more wood construction uses, the more important systems for sourcing and reusing timber, including for temporary works, become."
+              }
+            ]
+          }
         }
       ]
     },
