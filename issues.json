@@ -48,7 +48,32 @@
           "reliability": "高",
           "sourceName": "東京新聞（共同通信）",
           "sourceURL": "https://www.tokyo-np.co.jp/article/527141",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Japan sets a new 100 mm-an-hour standard for urban flooding in low-lying residential areas",
+            "summary": "Japan's infrastructure ministry has published a policy on pluvial flooding, when rain overwhelms city drains. Low-lying spots in residential areas will get a new standard that assumes rainfall of about 100 mm (3.9 in) an hour.",
+            "body": [
+              "On November 10, the Ministry of Land, Infrastructure, Transport and Tourism (MLIT) published a policy to reduce damage from what Japan calls naisui hanran, or inland flooding: rain that the sewers and drainage channels cannot carry away, so it spills into the streets. The move follows a string of cases, including heavy rain in Chiba Prefecture, east of Tokyo, in August, in which cars were submerged and water flooded homes above floor level.",
+              "Under current national guidelines for local governments, ordinary districts that need flood measures are encouraged to build drainage that can handle about 50 mm (2.0 in) of rain an hour, and areas where key city functions are concentrated about 60 to 70 mm (2.4 to 2.8 in) an hour. The new policy adds a standard that assumes rainfall of about 100 mm (3.9 in) an hour for high-risk spots where water collects, such as hollows in residential neighborhoods. Local governments will be asked to identify those spots and build facilities that drain or store rainwater.",
+              "The ministry will also urge local governments to quickly prepare and publish inland flood inundation maps, which show where such flooding would occur and how deep it would be. The national government will check whether the rainfall intensity and duration assumed in those maps are appropriate, and reflect the results in its guide for making them."
+            ],
+            "commentary": "Even in the same heavy rain, water overflows in two different ways. There's water that comes over a river levee, and there's rain that falls on the city and can't drain away fast enough. The second kind is inland flooding. Picture the drain in your bathroom. When the shower runs harder than the drain can swallow, water starts pooling on the floor, right? The same thing happens across a city. Today's drainage in many districts assumes about 50 mm of rain an hour. The new policy raises that assumption to about 100 mm, twice as much, in places like hollows where water gathers. Looking at it from the building side, the spots to watch are basements and half-basements. An underground parking garage, an electrical room below ground, an entrance that sits lower than the street: like a hollow, each one is where the water ends up. Living far from a river doesn't mean you're safe from inland flooding. Next time you open the hazard map for your area, check whether there's a separate inland flooding map alongside the river flood map.",
+            "briefing": [
+              "Infrastructure minister Ibayashi announced the policy at a press conference. For funding, the ministry plans to use national resilience budgets on top of its regular budget to help local governments pay for the work.",
+              "In late October, media reported that the ministry was considering pushing for stronger drainage to prepare for downpours of around 100 mm an hour. With this announcement, that direction has become official policy.",
+              "The measures cover both hardware, such as drainage and storage facilities, and software, such as better communication of flood risk."
+            ],
+            "hojosen": [
+              {
+                "title": "River maps and rain maps",
+                "body": "Japanese hazard maps come in separate versions: one shows flooding from rivers overflowing, and another shows inland flooding from rainwater pooling in the city. A place that is not shaded on the river flood map can still be expected to flood on the inland map. The new policy urges local governments to prepare and publish the inland maps quickly."
+              },
+              {
+                "title": "Flood risk and choosing a home",
+                "body": "Since August 2020, Japanese real estate agents have been required to show where a property sits on the flood hazard map during the mandatory explanation of key terms before a sale or lease is signed. As inland flooding maps are filled in, it will become easier to check that risk too, not just river flooding, when choosing a home."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-11-s2",
@@ -93,7 +118,32 @@
           "reliability": "高",
           "sourceName": "国土交通省（公式）",
           "sourceURL": "https://www.mlit.go.jp/policy/shingikai/content/002044711.pdf",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Update: Japan proposes letting candidates pass the architect exam one subject at a time",
+            "summary": "Japan's infrastructure ministry has drafted a revision of the first-class kenchikushi exam, the country's top architect license. The written exam would judge each subject separately, and subjects already passed would be exempt for a set period.",
+            "body": [
+              "The Ministry of Land, Infrastructure, Transport and Tourism (MLIT) has drawn up a draft outlining how it plans to revise the exam for first-class kenchikushi, Japan's top architect license, which covers buildings of any size. The draft follows discussions in a subcommittee of the Central Architects Examination Board, as we reported on Oct 21. Because the amended Architects Act will let students take the exam while still at university, the central aim is to lighten the burden on candidates.",
+              "For the written exam, the ministry will consider judging pass or fail for each subject and exempting candidates from subjects they have passed for a certain period. Today, candidates must clear both a total score threshold and a minimum score in every subject, so falling short in a single subject means failing. Even now, someone who passes the written exam is exempt from it up to three times within five years, counting the year they passed, and the ministry also plans to review that period to fit candidates' circumstances.",
+              "For the design and drafting exam, the ministry will consider disclosing in advance what leads to disqualification or point deductions, to make grading more transparent, and avoiding questions based on unusual building types or conditions. For students, the draft proposes allowing them to sit the exam in their fourth year, on condition that they are expected to graduate and have completed the required designated courses by the end of their third year."
+            ],
+            "commentary": "If you miss the minimum score in even one subject, you sit every subject again the next year. That's how the written exam works today: all or nothing. The subject-by-subject passing system in the draft lets you keep the subjects you've passed. In game terms, it's like being able to save after each stage, right? On my podcast and on note, I've said that to keep studying, you need the feeling that you're moving forward. I set myself a goal of scoring 90% on the weekly review tests at my exam prep school, and built up small wins that way. Subject-by-subject passing builds that feeling into the system itself. Students in particular will be studying alongside their classes and assignments. Getting every subject over the line in the same year is a heavy load. The proposal to publish the drafting exam's disqualification and deduction rules in advance is about the same thing: showing candidates what they need to avoid. The finer details of the new exam are due to be settled around summer 2027.",
+            "briefing": [
+              "The changes are expected to apply from the fiscal 2029 exam, when students become eligible. Some will be introduced earlier, from the fiscal 2027 exam, and the details are to be finalized by around summer 2027.",
+              "Computer-based testing (CBT) and drafting exams using CAD or BIM were positioned as issues for future consideration.",
+              "According to media reports, the revision also responds to concerns among educators about a hollowing-out of university education, with students so busy preparing for the exam that their studies suffer."
+            ],
+            "hojosen": [
+              {
+                "title": "Subject passes elsewhere",
+                "body": "Passing an exam one subject at a time is not unusual. In Japan's certified tax accountant exam, subjects you pass stay valid, and many people collect the required subjects over several years while working. The first-stage exam for Japan's certified SME management consultants also lets candidates carry passed subjects forward for a set period."
+              },
+              {
+                "title": "How the exemption works now",
+                "body": "Today, someone who passes the written exam but fails the drafting exam can retry the drafting exam a set number of times without retaking the written part. Under the rules in place since 2020, the exemption covers up to three attempts within five years, counting the year of passing. The draft would break that single block of the written exam down into individual subjects."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-11-s3",
@@ -133,7 +183,27 @@
           "reliability": "高",
           "sourceName": "星野リゾート（公式）",
           "sourceURL": "https://prtimes.jp/main/html/rd/p/000002694.000033064.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Hoshino Resorts to open a 78-room hotel on spare land at the Takamatsu velodrome in 2028",
+            "summary": "Takamatsu, a city on Shikoku, has picked Hoshino Resorts to run a hotel on surplus land at its keirin velodrome, which is being redeveloped. The four-story, 78-room hotel breaks ground on November 16.",
+            "body": [
+              "At a regular press conference on November 6, Takamatsu Mayor Hideto Onishi announced that Hoshino Resorts, one of Japan's best-known hotel operators, will run a hotel to be built on surplus land as part of the redevelopment of the Takamatsu keirin velodrome. Keirin is Japan's track cycling race, on which betting is legal. It is Hoshino Resorts' first property in Kagawa Prefecture, and its second on the island of Shikoku after OMO7 Kochi by Hoshino Resorts.",
+              "The hotel is planned as a four-story building with 78 rooms. Chari-Loto will develop the land and facilities, and Hoshino Resorts will operate the hotel under contract. A groundbreaking ceremony is set for November 16, with the aim of opening in fall 2028. The hotel's brand and other details will be announced once they are decided.",
+              "Besides the hotel, the surplus land will get a plaza modeled on a cycling track, restaurants, a hot bath facility and dome-shaped play equipment. The city has been redeveloping the velodrome since fiscal 2024 because its facilities had aged, and aims to build its town planning around the bicycle."
+            ],
+            "commentary": "A velodrome on a day with no races is a quiet place: a banked track shaped like a mortar bowl and a huge empty parking lot, right? These venues were originally built big, to take in crowds of spectators. Today more people buy their betting tickets online, and the stands are rarely full. In Takamatsu's redevelopment, that leftover land goes to private operators and becomes a hotel, a plaza and a hot bath facility. The idea is to make it a place people come to even when there's no racing. From a design point of view, the interesting part is the size: 78 rooms. Not a big resort hotel, but a smaller four-story inn. Seen together with the plaza and the play equipment, it's close to the picture of an inn sitting in the corner of a town park. Kids play on a plaza shaped like a cycling track, and right next to them, hotel guests eat breakfast. When a velodrome changes from a place to watch races into a place to spend the weekend, what would you want to do there?",
+            "briefing": [
+              "At the press conference, Mayor Onishi described Hoshino Resorts as “distinctive and newsworthy” and said he had high hopes, adding that the city would cooperate on revitalizing the area and promoting tourism.",
+              "Hoshino Resorts has announced that it and Chari-Loto, which handles the development, decided to start construction of the new hotel on the surplus land. The groundbreaking ceremony is on November 16, leaving about two years of construction before the opening."
+            ],
+            "hojosen": [
+              {
+                "title": "Betting venues at a turning point",
+                "body": "Japan's public betting venues, such as keirin velodromes and boat racing stadiums, have seen fewer visitors as online betting spread, leaving them with oversized stands and parking lots. In various places, operators are using rebuilding work to bring shops or parks onto the vacant land and turn the sites into places where people gather even on days without races."
+              }
+            ]
+          }
         }
       ]
     },
