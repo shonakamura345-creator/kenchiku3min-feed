@@ -1,6 +1,143 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-11",
+      "date": "2026-11-11",
+      "weekday": "水",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-11-s1",
+          "number": 1,
+          "title": "内水氾濫に「1時間100ミリ」の新基準 国交省が住宅地のくぼ地などで対策強化へ",
+          "summary": "雨水が街にあふれる「内水氾濫」で国交省が対応方針を公表。住宅地のくぼ地などで1時間100ミリ規模を想定した新基準を設けます。",
+          "body": [
+            "国土交通省は11月10日、雨水が下水道や水路で流しきれずに市街地にあふれる「内水氾濫」について、被害を減らすための対応方針を公表しました。8月に千葉県で起きた豪雨など、各地で車の水没や床上浸水といった被害が相次いだことを受けたものです。",
+            "現在、国は自治体向けの指針で、浸水対策が必要な一般の地区は1時間50ミリ程度、都市の機能が集まるエリアは1時間60〜70ミリ程度の雨に耐えられるよう、排水設備の整備を促しています。今回の方針では、住宅地のくぼ地のように水が集まりやすい危険な場所について、1時間100ミリ規模の雨を想定した新しい基準を設けます。自治体に危険な場所を洗い出してもらい、雨水を流したりためたりする施設の整備を求めます。",
+            "あわせて、内水氾濫でどこがどのくらい浸水するかを示す「内水浸水想定区域図」を、自治体が速やかに作って公表するよう促します。国も、区域図の前提となる雨の強さや降り続く時間が妥当かどうかを検証し、作成の手引きに反映させるとしています。"
+          ],
+          "commentary": "同じ大雨でも、水のあふれ方には2種類あるんです。川の堤防を越えてくる水と、街に降った雨が流れきれずにたまる水。後者が内水氾濫です。お風呂の排水口を思い浮かべてください。シャワーの勢いが排水口の吸い込みを上回ると、床に水がたまっていきますよね。街でも同じことが起きます。いまの排水設備は、多くの地区で1時間50ミリ程度の雨が前提です。今回の方針は、水が集まりやすいくぼ地などで、その2倍にあたる100ミリ規模まで想定を引き上げるものです。建物の側から見て気をつけたいのは、地下や半地下です。地下の駐車場や電気室、道路より低い玄関は、くぼ地と同じで水の行き先になります。川から離れているから安心、とは言い切れないのが内水なんです。今度、自分の街のハザードマップを開いたら、川の洪水の地図とは別に、内水の地図が用意されているか確かめてみてください。",
+          "briefing": [
+            "方針は井林国交相が記者会見で示しました。財源については、通常の予算に加えて国土強靱化の予算も活用し、自治体を財政面で支援する考えです。",
+            "10月下旬には、国交省が100ミリ級の豪雨に備えて排水整備の強化を促す方向で検討していることが報じられていました。今回の公表で、その方向性が正式な方針になりました。",
+            "対策は、排水・貯留施設の整備というハード面と、浸水リスクの情報発信の強化というソフト面の両方で進めるとしています。"
+          ],
+          "sources": [
+            {
+              "name": "東京新聞（共同通信）",
+              "url": "https://www.tokyo-np.co.jp/article/527141"
+            },
+            {
+              "name": "テレビ朝日系ANN（Yahoo!ニュース）",
+              "url": "https://news.yahoo.co.jp/articles/b5bc53ac4ea904ea191ed5165dd9855bca97d76b"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "洪水と内水の地図",
+              "body": "ハザードマップには、川の氾濫による浸水を示す洪水の地図と、街にあふれた雨水による浸水を示す内水の地図があり、別々に作られています。洪水の地図で色が付いていない場所でも、内水では浸水が想定されていることがあります。今回の方針は、この内水の地図を速やかに作って公表するよう自治体に促すものです。"
+            },
+            {
+              "title": "住まい選びと浸水",
+              "body": "2020年8月からは、不動産の売買や賃貸の契約前に行う重要事項説明で、水害ハザードマップ上の物件の位置を示すことが義務づけられています。内水の地図の整備が進めば、家を選ぶ段階で、川の洪水だけでなく内水のリスクも確かめやすくなります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "東京新聞（共同通信）",
+          "sourceURL": "https://www.tokyo-np.co.jp/article/527141",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-11-s2",
+          "number": 2,
+          "title": "続報：1級建築士の学科に「科目合格」案 国交省が素案、在学中受験の負担を軽く",
+          "summary": "国交省が一級建築士試験の見直し素案をまとめました。学科は科目ごとに合否を判断し、合格した科目を一定期間免除する仕組みを検討します。",
+          "body": [
+            "国土交通省は、一級建築士試験の見直しの方向性について素案をまとめました。10月21日号でお伝えした、中央建築士審査会の小委員会での議論を受けたものです。改正建築士法で大学在学中から受験できるようになることを踏まえ、受験する人の負担を軽くすることを柱にしています。",
+            "学科試験では、科目ごとに合否を判断し、合格した科目は一定期間、試験を免除する仕組みの導入を検討します。いまの学科試験は、総得点と科目ごとの得点の両方で基準を満たす必要があり、一つの科目でも基準に届かなければ不合格です。現行でも学科に合格すれば、合格した年を含む5年間のうち最大3回は学科が免除されますが、この期間のあり方も受験者の実情に合わせて見直す方針です。",
+            "設計製図試験では、失格や減点となる事項をあらかじめ開示して透明性を高めることや、特殊な用途や条件での出題を避けることを検討します。在学中受験については、卒業見込みであることに加え、3年生までに受験に必要な指定科目を修めていることなどを条件に、4年生で受けられるようにする案が示されています。"
+          ],
+          "commentary": "一つの科目でも基準点に届かなければ、翌年はまた全科目を受け直す。いまの学科試験は、そういう一発勝負なんです。素案が検討する「科目合格」は、受かった科目を手元に残せる仕組みです。ゲームでいえば、ステージごとにセーブできるようになる感じですよね。僕は放送やnoteで、勉強を続けるには「前に進んでいる実感」が欠かせないと話してきました。僕自身、資格学校の毎週の確認テストで9割を取ることを目標にして、小さな成功を積み上げていたんです。科目合格は、その実感を制度の側で用意する仕組みだと思います。特に学生は、授業や課題と並行して勉強することになります。全科目を同じ年にそろえるのは、かなりの負担です。製図試験の失格・減点事項を先に示す案も、何を避ければいいのかを受験者に見えるようにする話です。新しい試験の細かい形が固まるのは、2027年の夏ごろです。",
+          "briefing": [
+            "見直しの内容は、在学中受験が可能になる2029年度の試験から反映される見通しです。一部は2027年度の試験から先に取り入れる考えで、詳細は2027年夏ごろまでに固めるとしています。",
+            "コンピューターで解答するCBT方式や、CAD・BIMを使った製図試験は、将来の検討課題と位置づけられました。",
+            "報道によると、見直しの背景には、学生が受験準備に追われて大学の学びがおろそかになる「大学の空洞化」を心配する教育現場への配慮もあります。"
+          ],
+          "sources": [
+            {
+              "name": "国土交通省（公式）",
+              "url": "https://www.mlit.go.jp/policy/shingikai/content/002044711.pdf"
+            },
+            {
+              "name": "日刊建設工業新聞",
+              "url": "https://www.decn.co.jp/?p=189240"
+            },
+            {
+              "name": "建設通信新聞",
+              "url": "https://www.kensetsunews.com/sokuho/1305861"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "科目合格の先例",
+              "body": "資格試験の科目合格制は珍しくありません。税理士試験は合格した科目がその後も有効で、働きながら数年かけて必要な科目をそろえる人が多い試験です。中小企業診断士の1次試験にも、合格した科目を一定期間持ち越せる仕組みがあります。"
+            },
+            {
+              "title": "学科免除のいま",
+              "body": "現在も、学科試験に合格した人は、製図試験に落ちても一定の回数は学科を受けずに製図に挑めます。2020年からの制度で、免除は合格した年を含む5年間のうち最大3回です。素案は、この学科ひとまとまりの免除を、科目単位に細かくする方向です。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "国土交通省（公式）",
+          "sourceURL": "https://www.mlit.go.jp/policy/shingikai/content/002044711.pdf",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-11-s3",
+          "number": 3,
+          "title": "高松競輪場の余剰地に星野リゾートのホテル 香川県初進出、78室で2028年秋開業へ",
+          "summary": "高松市の競輪場再整備で、余剰地に建つホテルの運営者が星野リゾートに決まりました。地上4階・78室で、11月16日に起工式です。",
+          "body": [
+            "高松市の大西秀人市長は11月6日の定例記者会見で、高松競輪場の再整備にあわせて余剰地に建てるホテルの運営事業者が、星野リゾートに決まったと発表しました。星野リゾートが香川県に進出するのは初めてで、四国では「OMO7高知 by 星野リゾート」に続く2軒目になります。",
+            "ホテルは地上4階建てで、客室は78室の予定です。余剰地と施設はチャリ・ロトが整備し、星野リゾートが運営を受託します。11月16日に余剰地の起工式を行い、2028年秋の開業をめざします。ホテルのブランド名や施設の詳細は、決まりしだい発表するとしています。",
+            "余剰地にはホテルのほか、自転車のコースをモチーフにした広場や飲食店、温浴施設、ドーム型の遊具なども整備されます。高松市は施設の老朽化を受けて2024年度から競輪場の再整備事業を進めており、自転車を中心にしたまちづくりをめざすとしています。"
+          ],
+          "commentary": "レースのない日の競輪場って、すり鉢のようなバンクと広い駐車場が静かに広がっている場所ですよね。昔は大勢の観客を迎えるために、とにかく大きくつくられました。いまは車券をネットで買う人が増え、スタンドが満員になる日はめったにありません。高松の再整備では、そうして余った土地を民間に任せ、ホテルと広場と温浴施設に生まれ変わらせます。レースのない日にも人が来る場所にしよう、という発想です。設計の目線で面白いのは、78室という規模です。大型のリゾートホテルではなく、4階建ての小さめの宿。広場や遊具とセットで見ると、街の公園の一角に宿がある絵に近いと思います。自転車のコースをかたどった広場で子どもが遊び、その横で泊まった人が朝ごはんを食べる。競輪場が「レースを見る場所」から「週末に過ごす場所」に変わったとき、皆さんならそこで何をしたいですか。",
+          "briefing": [
+            "大西市長は会見で、星野リゾートについて「個性的で話題性があり、大いに期待している」と述べ、地域の活性化や観光振興に協力していく考えを示しました。",
+            "星野リゾートは、整備を担うチャリ・ロトとともに、余剰地でのホテル新築の着工を決めたと発表しています。起工式は11月16日で、開業までは約2年の工事期間になります。"
+          ],
+          "sources": [
+            {
+              "name": "星野リゾート（公式）",
+              "url": "https://prtimes.jp/main/html/rd/p/000002694.000033064.html"
+            },
+            {
+              "name": "KSB瀬戸内海放送",
+              "url": "https://news.ksb.co.jp/article/17029356"
+            },
+            {
+              "name": "RSK山陽放送（Yahoo!ニュース）",
+              "url": "https://news.yahoo.co.jp/articles/e2ee9fdd8af060e3847445faae7076d5c8a58e72"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "公営競技場の転機",
+              "body": "競輪場や競艇場などの公営競技場は、ネット投票の広がりで来場者が減り、大きなスタンドや駐車場をもて余すようになりました。施設の建て替えにあわせて、空いた敷地に商業施設や公園を呼び込み、レースのない日にも人が集まる場所にしようとする動きが各地で出ています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "星野リゾート（公式）",
+          "sourceURL": "https://prtimes.jp/main/html/rd/p/000002694.000033064.html",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-10",
       "date": "2026-11-10",
       "weekday": "火",
@@ -6278,227 +6415,6 @@
               {
                 "title": "null² as architecture",
                 "body": "null² was designed by Keisuke Toyoda of NOIZ. It was made of stacked cubes measuring 2 m (6.6 ft) and 4 m (13 ft) on a side, wrapped in a mirrored membrane moved by robotic arms. Taiyo Kogyo developed the facade and Arup handled the structure. Billed as \"architecture as an interface\" connecting the physical and the digital, it was one of the most talked-about pavilions at the Expo."
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-12",
-      "date": "2026-10-12",
-      "weekday": "月",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-12-s1",
-          "number": 1,
-          "title": "心斎橋の旧東急ハンズ跡地に40階・約160mのタワマン計画 138戸で2031年完成へ",
-          "summary": "大阪・心斎橋の旧東急ハンズ跡地に、日鉄興和不動産や関電不動産開発など4社が超高層マンションを計画。138戸で車専用エレベーターを備え、2031年完成予定です。",
-          "body": [
-            "大阪市中央区南船場3丁目の旧東急ハンズ心斎橋店跡地に、超高層マンションを建てる計画が明らかになりました。読売新聞が10月9日に報じたもので、日鉄興和不動産や関電不動産開発など4社が共同で開発します。総戸数は138戸で、車ごと乗り込める車専用エレベーターを備えるなど、富裕層を主な購入層に想定しています。完成は2031年の予定です。",
-            "関西の建築情報サイトによると、建物は地上40階建て、高さ約160メートル。大阪メトロ心斎橋駅から徒歩数分で、心斎橋筋商店街に面した一等地です。跡地には1999年開業の商業ビル「大阪心斎橋8953ビル」（地上10階・地下2階）があり、東急ハンズは2020年に営業を終了。建物は2025年に解体され、現在は駐車場として使われています。",
-            "不動産業界では「心斎橋駅から徒歩数分圏内に高層マンションは数棟しかない」として希少性が指摘されています。一方で、着工時期はまだ確認されておらず、計画の詳細は今後の発表を待つ段階です。"
-          ],
-          "commentary": "放送でも話したんですが、タワーマンションは建築であると同時に、床面積がそのまま坪単価になって売られていく「商品」の性格がとても強い建物です。心斎橋の計画はその典型で、心斎橋筋に面した1800平方メートルほどの敷地に、40階・138戸。1フロアあたり3〜4戸という計算になります。普通のタワマンは1フロアに8〜10戸ありますから、戸あたりの面積はかなり大きい。しかも車専用エレベーターで、自分の車ごと上階へ上がる。これは建物の設計としては、重い車を運ぶ大型エレベーターと、各階に駐車スペースを組み込む構造が要るということで、コストがかかる分だけ坪単価に跳ね返ります。もとは誰でも入れる東急ハンズだった場所が、138世帯のための場所になる。商店街の正面にそれが建つことを、皆さんはどう感じますか。完成予定は2031年。心斎橋筋に新しい塔が建つまで、あと5年です。",
-          "briefing": [
-            "跡地は大阪市中央区南船場3丁目。旧ビルは1999年竣工の「大阪心斎橋8953ビル」で、地上10階・地下2階。東急ハンズ心斎橋店は1999年開業、2020年に営業終了",
-            "計画の規模は地上40階・高さ約160m（関西の建築情報サイトによる）。読売新聞は総戸数138戸、2031年完成予定と報道",
-            "敷地面積は約1800㎡で、解体後は駐車場として暫定利用中（関西シティラボ）"
-          ],
-          "sources": [
-            {
-              "name": "読売新聞（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/20fea61c731b8012b79cc0c1ebe4f41a1b8f8cc5"
-            },
-            {
-              "name": "陽は西から昇る！ 関西のプロジェクト探訪",
-              "url": "http://building-pc.cocolog-nifty.com/map/2026/10/post-49d619.html"
-            },
-            {
-              "name": "関西シティラボ",
-              "url": "https://kansai-sanpo.com/shinsaibasi-nittetsu/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "都心商業地の住宅化",
-              "body": "大阪のミナミでは、心斎橋・難波の商業地にホテルやマンションが進出する動きが続いています。商業ビルの跡地が住宅になるのは、インバウンド需要の変動で商業テナントの収益が読みにくい一方、都心の分譲マンション価格が高止まりし、住宅のほうが事業として安定するためです。"
-            },
-            {
-              "title": "車専用エレベーター",
-              "body": "住戸の階まで自動車ごと運ぶエレベーターを備えた超高層住宅は、海外の富裕層向け物件で先例があり、日本でも都心の一部の高級マンションで採用されています。各階に駐車スペースを設けるため、構造や防火区画の計画が通常のタワーマンションより複雑になります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "読売新聞（Yahoo!ニュース）",
-          "sourceURL": "https://news.yahoo.co.jp/articles/20fea61c731b8012b79cc0c1ebe4f41a1b8f8cc5",
-          "shoComment": "",
-          "en": {
-            "title": "40-story, 160 m condo tower with car elevators planned on former Tokyu Hands site in Osaka's Shinsaibashi",
-            "summary": "Four developers including Nippon Steel Kowa Real Estate and Kanden Realty & Development plan a high-rise condominium on the former Tokyu Hands site in Shinsaibashi, central Osaka. It will have 138 units and car elevators, with completion set for 2031.",
-            "body": [
-              "A plan has emerged to build a high-rise condominium tower on the site of the former Tokyu Hands Shinsaibashi store, a branch of the Japanese DIY and lifestyle store chain, in Minamisemba 3-chome, Chuo Ward, Osaka. The Yomiuri Shimbun reported on Oct 9 that four companies, including Nippon Steel Kowa Real Estate and Kanden Realty & Development, will develop it jointly. The tower will have 138 units and is aimed mainly at wealthy buyers, with features such as car elevators that let residents drive their cars right in and ride up. Completion is planned for 2031.",
-              "According to a Kansai-region architecture news site, the building will rise 40 stories and about 160 m (525 ft). It sits on a prime corner a few minutes' walk from Shinsaibashi Station on the Osaka Metro, facing the Shinsaibashi-suji shopping arcade, one of Osaka's best-known covered shopping streets. The site was previously home to the Osaka Shinsaibashi 8953 Building, a commercial building that opened in 1999 with 10 floors above ground and two below. Tokyu Hands closed its store there in 2020, the building was demolished in 2025, and the site is now used as a parking lot.",
-              "People in the real estate industry point to the site's rarity, noting that only a handful of high-rise condominiums stand within a few minutes' walk of Shinsaibashi Station. However, the construction start date has not yet been confirmed, and details of the plan await further announcements."
-            ],
-            "commentary": "I talked about this on my show too: a tower condominium is a building, but it's also very much a product, one where floor area gets sold directly at a price per tsubo, a Japanese unit of area equal to about 3.3 m² (35.6 sq ft). The Shinsaibashi plan is a textbook example. On a site of about 1,800 m² (19,000 sq ft) facing Shinsaibashi-suji, it puts 40 stories and 138 units. That works out to three or four units per floor. A typical Japanese tower condo has eight to 10 units per floor, so each unit here is quite large. On top of that, there are car elevators, so you ride up to your floor in your own car. In design terms, that means large elevators that can carry heavy cars and a structure with parking built into each floor. All of that costs money, and it comes back in the price per tsubo. A place that used to be Tokyu Hands, open to anyone, becomes a place for 138 households. How do you feel about that rising right at the front of the shopping arcade? Completion is planned for 2031. Five more years until a new tower stands on Shinsaibashi-suji.",
-            "briefing": [
-              "The site is in Minamisemba 3-chome, Chuo Ward, Osaka. The previous building was the Osaka Shinsaibashi 8953 Building, completed in 1999, with 10 floors above ground and two below. Tokyu Hands Shinsaibashi opened in 1999 and closed in 2020",
-              "The tower is planned at 40 stories and about 160 m (525 ft) tall, according to a Kansai-region architecture news site. The Yomiuri Shimbun reported 138 units and completion planned for 2031",
-              "The site covers about 1,800 m² (19,000 sq ft) and has been used as a temporary parking lot since demolition (Kansai City Lab)"
-            ],
-            "hojosen": [
-              {
-                "title": "Downtown retail turns residential",
-                "body": "In Minami, Osaka's southern downtown, hotels and condominiums keep moving into the commercial districts of Shinsaibashi and Namba. Former retail sites are becoming housing because income from commercial tenants is hard to predict as inbound tourism demand fluctuates, while prices for new condominiums in central areas remain high, making housing the more stable business."
-              },
-              {
-                "title": "Car elevators",
-                "body": "High-rise residences with elevators that carry cars up to the residents' floors have precedents in luxury properties overseas, and in Japan they have been adopted in some high-end condominiums in central cities. Because parking spaces are built into each floor, planning the structure and fire compartments is more complex than in a standard tower condominium."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-12-s2",
-          "number": 2,
-          "title": "近鉄不動産の上本町複合ビルは「上本町ネクサス」に 老舗「百楽」が本店跡地に再出店",
-          "summary": "近鉄不動産は10月8日、大阪・上本町で建設中の複合ビルの名称を「上本町ネクサス」に決定。12階・延べ約1.3万㎡、設計は昭和設計、施工は淺沼組。27年2月竣工。",
-          "body": [
-            "近鉄不動産は10月8日、大阪市天王寺区上本町六丁目で建設中の「（仮称）上本町六丁目ビル」の名称を「上本町ネクサス」に決定したと発表しました。建物は地上12階建て、高さ約56メートル、延べ面積約1万3000平方メートル。設計は昭和設計、施工は淺沼組が担当し、2027年2月の竣工を予定しています。",
-            "1・2階は飲食フロアで、1階には2021年までこの場所で営業していた中国料理の老舗「百楽」が、新ブランド「For/meLa 百楽」として再出店します。2階には焼肉の明月館グループとコメダ珈琲店が入り、3・4階はクリニック、5〜12階はオフィスです。8階に貸会議室、10階には近鉄不動産の総合ギャラリーを設けます。",
-            "敷地は百楽本店の跡地で、近鉄大阪上本町駅に近い上町筋沿い。「上本町の新たな結節点」を掲げ、飲食・医療・オフィスを一棟に集めた中規模の複合ビルとして計画されています。"
-          ],
-          "commentary": "延べ1万3000平方メートル、12階建て。きのうの東京ミッドタウン日本橋が37万平方メートルでしたから、その30分の1ほどの大きさです。でも僕は、街にとって効くのはこういう中くらいの建物のほうが多いと思っているんです。理由は単純で、数が多いから。日本の都市の街並みは、超高層ではなく10階前後のビルで埋まっています。それが一棟ずつ建て替わるときに、1階に何が入るかで通りの空気が決まります。上本町ネクサスは1階に、2021年までそこにあった中国料理店を新しい形で戻すそうです。建て替えで店が消えるのではなく、建物が変わっても店が帰ってくる。これは地主である近鉄不動産と店の双方が、場所の記憶を資産だと考えた結果だと思います。設計は昭和設計、施工は淺沼組と、関西の設計事務所とゼネコンの組み合わせです。今度上本町を通ることがあったら、1階の店の並びを見てみてください。竣工は2027年2月です。",
-          "briefing": [
-            "テナント構成は1階が「For/meLa 百楽」、2階が明月館グループとコメダ珈琲店、3・4階がクリニック、5〜12階がオフィス。8階に貸会議室、10階に近鉄不動産の総合ギャラリー",
-            "百楽は2021年まで同地で営業していた中国料理の老舗。本店跡地への再出店は新ブランドでの復活となる",
-            "着工時は「（仮称）上本町六丁目ビル」として発表され、今回の命名で施設名が確定。近鉄大阪上本町駅至近の上町筋沿い"
-          ],
-          "sources": [
-            {
-              "name": "近鉄不動産（公式・PR TIMES）",
-              "url": "https://prtimes.jp/main/html/rd/p/000000026.000070211.html"
-            },
-            {
-              "name": "OSAKA STYLE",
-              "url": "https://osaka.style/news/77293/"
-            },
-            {
-              "name": "関西シティラボ",
-              "url": "https://kansai-sanpo.com/uehommachi-nexus/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "上本町という場所",
-              "body": "近鉄大阪上本町駅は近鉄の大阪側ターミナルで、駅ビルの近鉄百貨店上本町店や新歌舞伎座を含む「上本町YUFURA」など近鉄グループの施設が集まるエリアです。谷町九丁目駅とも地下でつながり、学校や病院、寺院が多い落ち着いた街で、近年はマンション開発が続いています。"
-            },
-            {
-              "title": "中規模複合ビルの時代",
-              "body": "建設費の高騰で大規模再開発の採算が厳しくなる一方、延べ1万〜2万㎡級の中規模ビルは、地主系デベロッパーが自社の土地で手がける例が増えています。飲食・医療・オフィスを組み合わせるのは、空室リスクを分散しつつ、低層部で街に開く構成として定番になりつつあります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "近鉄不動産（公式・PR TIMES）",
-          "sourceURL": "https://prtimes.jp/main/html/rd/p/000000026.000070211.html",
-          "shoComment": "",
-          "en": {
-            "title": "Kintetsu names its Osaka Uehommachi mixed-use building Uehommachi Nexus, bringing back a classic restaurant",
-            "summary": "On Oct 8, Kintetsu Real Estate named the mixed-use building it is constructing in Uehommachi, Osaka, Uehommachi Nexus. The 12-story building of about 13,000 m² (140,000 sq ft) is designed by Showa Sekkei, built by Asanuma Corporation, and due for completion in February 2027.",
-            "body": [
-              "Kintetsu Real Estate announced on Oct 8 that the building under construction in Uehommachi 6-chome, Tennoji Ward, Osaka, provisionally called the Uehommachi 6-chome Building, will be named Uehommachi Nexus. The building will rise 12 stories and about 56 m (184 ft), with a total floor area of about 13,000 m² (140,000 sq ft). It is designed by Showa Sekkei and built by Asanuma Corporation, with completion scheduled for February 2027.",
-              "The first and second floors will be for restaurants. On the first floor, Hyakuraku, a long-established Chinese restaurant that operated on this spot until 2021, returns under a new brand, For/meLa Hyakuraku. The second floor will house the Meigetsukan yakiniku (Korean-style barbecue) group and a Komeda's Coffee, the third and fourth floors will hold clinics, and the fifth through 12th floors will be offices. There will be rental meeting rooms on the eighth floor and a Kintetsu Real Estate showroom gallery on the 10th.",
-              "The site is the former location of Hyakuraku's main restaurant, on Uemachi-suji avenue near Osaka-Uehommachi Station on the Kintetsu railway. Promoted as \"a new nexus for Uehommachi,\" it is planned as a mid-size mixed-use building that brings dining, medical care and offices together under one roof."
-            ],
-            "commentary": "About 13,000 m² (140,000 sq ft), 12 stories. Tokyo Midtown Nihonbashi, which came up yesterday, is 370,000 m² (about 4 million sq ft), so this is roughly one-thirtieth of that size. But I think it's often buildings of this middle size that do more for a city. The reason is simple: there are so many of them. Japanese cityscapes aren't filled with skyscrapers. They're filled with buildings of around 10 stories. When those get rebuilt one at a time, what goes on the ground floor sets the mood of the street. At Uehommachi Nexus, the ground floor will bring back, in a new form, the Chinese restaurant that stood on that spot until 2021. Instead of a shop vanishing in a rebuild, the building changes and the shop comes home. I think that's the result of both the landowner, Kintetsu Real Estate, and the restaurant treating the memory of the place as an asset. The design is by Showa Sekkei and the construction by Asanuma Corporation, a pairing of a Kansai design firm and a Kansai general contractor. Next time you pass through Uehommachi, take a look at the row of shops on the ground floor. Completion is set for February 2027.",
-            "briefing": [
-              "Tenants: For/meLa Hyakuraku on the first floor, the Meigetsukan group and Komeda's Coffee on the second, clinics on the third and fourth, and offices on the fifth through 12th. Rental meeting rooms on the eighth floor and a Kintetsu Real Estate showroom gallery on the 10th",
-              "Hyakuraku is a long-established Chinese restaurant that operated on the site until 2021. Its return to the site of its main restaurant comes as a revival under a new brand",
-              "The project was announced at groundbreaking under the provisional name Uehommachi 6-chome Building, and this naming finalizes the facility's name. It stands on Uemachi-suji avenue, close to Kintetsu's Osaka-Uehommachi Station"
-            ],
-            "hojosen": [
-              {
-                "title": "Uehommachi as a place",
-                "body": "Osaka-Uehommachi Station is the Osaka-side terminal of the Kintetsu railway, and the area gathers Kintetsu Group facilities such as Uehommachi YUFURA, which includes the Shin Kabukiza theater, and the Kintetsu Department Store Uehommachi in the station building. It is linked underground to Tanimachi 9-chome Station, and it is a calm neighborhood with many schools, hospitals and temples, where condominium development has continued in recent years."
-              },
-              {
-                "title": "The era of mid-size mixed-use",
-                "body": "While rising construction costs make large-scale redevelopment harder to pencil out, more mid-size buildings of 10,000–20,000 m² (110,000–215,000 sq ft) are being built by landowner-type developers on their own land. Combining dining, medical care and offices is becoming a standard formula, spreading vacancy risk while opening the lower floors to the street."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-12-s3",
-          "number": 3,
-          "title": "三菱商事系が大阪・彩都で24MWのデータセンター「KIX15」着工 免震・液冷で28年開業",
-          "summary": "三菱商事系のMCデジタル・リアルティが大阪府茨木市の彩都で5棟目のデータセンター「KIX15」に着工。延べ約1万7672㎡の免震構造で、2028年開業予定です。",
-          "body": [
-            "三菱商事と米デジタル・リアルティが折半出資するMCデジタル・リアルティ（MCDR）は10月7日、大阪府茨木市の彩都エリアでデータセンター「KIX15」の建設に着工したと発表しました。延べ面積は約1万7672平方メートルで、地下1階・地上3階の免震構造。同社が彩都に展開する「KIXキャンパス」の5棟目にあたります。",
-            "サーバー用の電源容量は24メガワットで、空冷と液冷を組み合わせたハイブリッド冷却に対応します。生成AI向けの高発熱サーバーを収容できる設計で、ハイパースケーラーやクラウド事業者、AI関連企業を主な利用者に想定。サービス開始は2028年第4四半期の予定です。日本経済新聞によると、国内10棟目のデータセンターになります。",
-            "開設後、同社の国内データセンターは計10棟、サーバー用電力容量は合計約220メガワット規模になる見込みです。彩都は北大阪の丘陵地に造成されたニュータウンで、地盤の安定性と電力の確保しやすさからデータセンターの集積が進んでいます。"
-          ],
-          "commentary": "延べ1万7672平方メートルで、サーバー用の電力が24メガワット。一般家庭の電気の契約が数キロワットですから、24メガワットは家庭数千軒分の電力を一棟で使う計算です。データセンターという建物の設計で一番大きいのは、構造でも意匠でもなく「熱」なんです。サーバーが出す熱をどう捨てるか。これまでは大きな空調で冷たい空気を床下から送る空冷が主流でしたが、生成AI向けのサーバーは発熱が桁違いなので、冷却液を直接サーバーに回す液冷が要る。KIX15が空冷と液冷の両方に対応するのは、2028年の時点でどちらの需要が多いか読み切れないからだと思います。もう一つ、免震構造。中に入っているのは人ではなくサーバーですが、地震で揺れて止まれば、その上で動いているサービスが止まります。人の命を守る免震から、データを守る免震へ。建物の役割が、少しずつ変わってきた時代なんだと思います。",
-          "briefing": [
-            "MCDRは三菱商事と米デジタル・リアルティの折半出資。KIXキャンパスは彩都エリアに展開し、KIX15で5棟目。開設後の国内拠点は計10棟・約220MW",
-            "冷却は空冷と液冷のハイブリッド。主な対象はハイパースケーラー、クラウド事業者、AI関連企業",
-            "サービス開始は2028年第4四半期の予定（クラウド Watch）"
-          ],
-          "sources": [
-            {
-              "name": "クラウド Watch",
-              "url": "https://cloud.watch.impress.co.jp/docs/news/2146405.html"
-            },
-            {
-              "name": "日本経済新聞",
-              "url": "https://nikkei.com/article/DGXZQOUC065OX0W6A001C2000000"
-            },
-            {
-              "name": "再都市化",
-              "url": "https://saitoshika-west.com/blog-entry-10472.html"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "データセンターと建築",
-              "body": "データセンターは延べ面積の割に電力と冷却設備が大きく、建築費の多くを設備が占めます。立地は地盤が安定し、送電線や変電所に近く、洪水リスクが低い場所が選ばれ、首都圏では印西、関西では彩都（茨木・箕面）に集積が進んでいます。免震構造の採用は国内のデータセンターでは標準になりつつあります。"
-            },
-            {
-              "title": "液冷という転換点",
-              "body": "生成AI向けのGPUサーバーは1ラックあたりの発熱が従来の数倍に達し、空気で冷やす方式では追いつかなくなっています。冷却液をサーバーの発熱部に直接循環させる液冷方式は、配管や漏水対策を建物側で設計段階から組み込む必要があり、データセンター建築の設計条件を変えつつあります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "クラウド Watch",
-          "sourceURL": "https://cloud.watch.impress.co.jp/docs/news/2146405.html",
-          "shoComment": "",
-          "en": {
-            "title": "Mitsubishi venture starts building 24 MW, liquid-cooled KIX15 data center near Osaka",
-            "summary": "MC Digital Realty, a Mitsubishi Corporation joint venture, has started building KIX15, its fifth data center in the Saito area of Ibaraki, Osaka Prefecture. The base-isolated building of about 17,672 m² (190,000 sq ft) is set to open in 2028.",
-            "body": [
-              "MC Digital Realty (MCDR), a 50-50 joint venture between Mitsubishi Corporation and US-based Digital Realty, announced on Oct 7 that it has begun construction of the KIX15 data center in the Saito area of Ibaraki, Osaka Prefecture. The building has a total floor area of about 17,672 m² (190,000 sq ft), with one basement level and three floors above ground, and uses a base-isolated structure, in which the building sits on bearings that absorb earthquake shaking. It is the fifth building on the company's KIX Campus in Saito.",
-              "The facility will have 24 megawatts of power capacity for servers and supports hybrid cooling that combines air and liquid cooling. It is designed to house the high-heat servers used for generative AI, and its main target users are hyperscalers, cloud providers and AI companies. Service is scheduled to begin in the fourth quarter of 2028. According to the Nikkei, it will be the company's 10th data center in Japan.",
-              "Once it opens, the company's data centers in Japan will total 10 buildings, with combined server power capacity of about 220 megawatts. Saito is a new town developed in the hills of northern Osaka, and data centers have been clustering there because of its stable ground and the ease of securing power."
-            ],
-            "commentary": "A total floor area of 17,672 m² (190,000 sq ft), and 24 megawatts of power for servers. A typical household's electricity contract is a few kilowatts, so 24 megawatts means one building using as much power as several thousand homes. Here's the thing about designing a data center: the biggest factor isn't the structure or the look. It's heat. How do you get rid of the heat the servers give off? Until now, the standard approach has been air cooling, with big air-conditioning systems blowing cold air up from under the floor. But servers for generative AI give off heat on a completely different scale, so you need liquid cooling, which circulates coolant directly through the servers. I think KIX15 supports both air and liquid cooling because no one can be sure which will be in greater demand by 2028. The other point is base isolation. What's inside isn't people, it's servers. But if they shake and stop in an earthquake, the services running on them stop too. From base isolation that protects human lives to base isolation that protects data. It feels like we've entered an era where the role of buildings is slowly changing.",
-            "briefing": [
-              "MCDR is a 50-50 joint venture between Mitsubishi Corporation and US-based Digital Realty. Its KIX Campus is located in the Saito area, and KIX15 is the fifth building there. After it opens, the company will have 10 sites in Japan totaling about 220 MW",
-              "Cooling is a hybrid of air and liquid cooling. The main target users are hyperscalers, cloud providers and AI companies",
-              "Service is scheduled to start in the fourth quarter of 2028 (Cloud Watch)"
-            ],
-            "hojosen": [
-              {
-                "title": "Data centers as architecture",
-                "body": "Data centers need a lot of power and cooling equipment relative to their floor area, and equipment accounts for much of the construction cost. Sites are chosen for stable ground, proximity to transmission lines and substations, and low flood risk. In the Tokyo area they are clustering in Inzai, Chiba Prefecture, and in the Kansai region in Saito (Ibaraki and Minoh). Base isolation is becoming standard for data centers in Japan."
-              },
-              {
-                "title": "Liquid cooling as a turning point",
-                "body": "GPU servers for generative AI give off several times more heat per rack than conventional servers, and air cooling can no longer keep up. Liquid cooling, which circulates coolant directly to the heat-generating parts of the servers, requires piping and leak protection to be built into the building from the design stage, and it is changing the design requirements for data center buildings."
               }
             ]
           }
