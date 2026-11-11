@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "経済産業省（公式）",
           "sourceURL": "https://www.meti.go.jp/press/2026/11/20261109002.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Fukuoka ready-mix maker Aso Concrete loses JIS certification after shipping off-spec concrete to about 190 sites",
+            "summary": "Aso Concrete Industry, a ready-mix concrete maker in Fukuoka Prefecture in southern Japan, has had its JIS certification revoked for using a different cement than planned and falsifying records. The concrete went to about 190 construction sites over roughly five years.",
+            "body": [
+              "The Japan Testing Center for Construction Materials (GBRC), a registered certification body for JIS, the Japanese Industrial Standards, revoked the JIS certification for ready-mixed concrete (JIS A 5308) held by Aso Concrete Industry, based in Fukuoka Prefecture, effective November 9. The Ministry of Economy, Trade and Industry announced the same day that it had received a report of the revocation from the certification body.",
+              "According to news reports, the company produced and shipped ready-mixed concrete made with a different cement than the one specified in its plans, and falsified the records. The testing center concluded that the company's quality control system did not meet the standard and that the nonconformity was serious. The company has halted shipments since September 12.",
+              "According to a report by the Fukuoka District Ready-Mixed Concrete Cooperative, about 16,800 cubic meters of the nonconforming concrete was delivered to about 190 sites over roughly five years starting in 2021. Whether this violates the Building Standards Act, Japan's national building code, is still under investigation."
+            ],
+            "commentary": "Ready-mixed concrete is a bit like a dish cooked to a recipe at a factory and then delivered to the site. Cement, water, sand and gravel. The mix is written into a plan in advance, and the plant mixes and ships it exactly that way. The JIS mark is, in effect, a seal of approval saying the plant has a system that can follow that recipe. The problem here is that a different cement than planned was used, and even the records were rewritten. What makes it tricky is that once concrete hardens, you can't tell the difference by looking at it, right? That's why on site, crews rely on acceptance tests of the delivered concrete and the paperwork from the plant to keep building. When the paperwork wobbles, the whole foundation of trust wobbles with it. What is being checked now is whether the buildings already standing meet the strength they need. The number of sites involved is about 190.",
+            "briefing": [
+              "The Fukuoka District Ready-Mixed Concrete Cooperative reports that about 142 customers received the nonconforming concrete. The names of specific sites and the results of strength tests have not been made public.",
+              "With the revocation, the company can no longer display the JIS mark. To ship concrete as a designated building material, used for main structural parts of buildings, it will now need a new certification from the Minister of Land, Infrastructure, Transport and Tourism in place of JIS conformity.",
+              "The certification body gave two reasons for the revocation: the quality control system did not meet the standard, and the nonconformity was serious."
+            ],
+            "hojosen": [
+              {
+                "title": "JIS and the building code",
+                "body": "Under the Building Standards Act, concrete used for main parts such as columns and beams must either conform to JIS or be certified by the Minister of Land, Infrastructure, Transport and Tourism. Designers and builders choose materials on the assumption that the plant holds JIS certification. Losing that certification means that assumption falls apart."
+              },
+              {
+                "title": "A string of data scandals",
+                "body": "Problems with quality data for building materials have happened before. In 2017, data falsification came to light at Kobe Steel for products including aluminum and copper, and in 2018 at KYB for inspection data on seismic isolation and damping dampers. In both cases, identifying the affected buildings and confirming their safety took a long time."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-12-s2",
@@ -97,7 +122,32 @@
           "reliability": "高",
           "sourceName": "BUILT",
           "sourceURL": "https://built.itmedia.co.jp/bt/articles/2611/11/news083.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Takenaka uses metal 3D-printed joints as structural members in its pavilion for Yokohama's 2027 horticultural expo",
+            "summary": "Takenaka Corporation will use joints made by metal 3D printing, without molds, in the roof of its pavilion Kurukuruku at the GREEN x EXPO 2027 horticultural expo in Yokohama. The company says it is the world's first use in structural members of a building with official construction approval.",
+            "body": [
+              "Takenaka Corporation, one of Japan's five largest general contractors, announced on November 10 that it will use joints made by a metal 3D printer as structural members in its pavilion, Takenaka Group Kurukuruku, at GREEN x EXPO 2027, the international horticultural exhibition to be held in Yokohama, near Tokyo, in 2027. According to the company's own research, it is the first time in the world that such parts have been used in structural members of a building with official construction approval.",
+              "The joints connect the struts and diagonal members that support the pavilion's curved roof. They are formed with a method called WAAM, which builds up shapes by melting metal at high temperature and stacking it layer by layer. Each joint is 18 cm (7 in) wide and 20 cm (8 in) tall, and weighs 2 kg (4.4 lb).",
+              "The key feature is that joints of different shapes can be made in the same process, without molds or jigs. On safety, the company says the joints were reviewed by a third-party body and a designated building confirmation agency, and that it also carried out material tests and experiments on full-size members."
+            ],
+            "commentary": "In a building's frame, the part that takes the most work is actually the joints. Column to beam, beam to diagonal. Change one angle and the shape of the connecting part changes too. Until now, the usual way was to prepare a mold, like the one used for taiyaki, the fish-shaped Japanese pastry, or to cut steel plates and weld them, making each piece one at a time. The more differently shaped parts you have, the more molds and labor you need. These joints are shaped without a mold, by melting metal little by little and stacking it up. It's a technique that pays off most in buildings where every part has a different angle, like a curved roof. And these will be used in the structure of a real building that people walk into, one that passed review by a building confirmation agency. That's a completely different level of responsibility from an exhibition object, isn't it? Each part weighs just 2 kg, but its job is to hold up the roof. If you visit Kurukuruku at the expo next spring, take a look at the shape of the joints holding up the roof.",
+            "briefing": [
+              "GREEN x EXPO 2027 is scheduled to run from March 19 to September 26, 2027. Takenaka Group Kurukuruku is the exhibition pavilion of the Takenaka group.",
+              "Lighting is built into the inside of the joints. Besides working as structural members, they are designed to double as part of the light fixtures.",
+              "The world-first claim is based on Takenaka's own research as of October 2026. In 2025, the company also made a metal 3D-printed bench that partly used discarded railway rails, and this project extends that know-how to structural members of buildings."
+            ],
+            "hojosen": [
+              {
+                "title": "3D printing in architecture",
+                "body": "In construction, 3D printing has so far been used mostly to build up concrete into the walls of sheds and houses. The strength of metal 3D printing is that the shape of each individual part can be changed freely. It is drawing attention as a way to cut manual fabrication on buildings with complex curved surfaces."
+              },
+              {
+                "title": "The hurdle of review",
+                "body": "To use a new material or production method in a building's structure, you have to show its strength and consistency through testing and pass a review. That is why it takes time for a new technology to reach real buildings. This adoption is an example of clearing one of those procedural hurdles."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-12-s3",
@@ -142,7 +192,32 @@
           "reliability": "高",
           "sourceName": "沖縄タイムス",
           "sourceURL": "https://www.okinawatimes.co.jp/articles/-/1964287",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Citizens' group seeks audit over Urasoe, Okinawa gym, saying design fees were paid before design was finished",
+            "summary": "In Urasoe, a city in Okinawa Prefecture whose new gym saw its costs balloon after contracts were signed before building confirmation, a citizens' group on Nov 11 requested an audit, calling payment of design fees before the design was complete illegal and improper.",
+            "body": [
+              "A citizens' group seeking the truth about the construction of a new municipal gym (a multipurpose sports facility) in Urasoe, a city in Okinawa Prefecture, filed a resident audit request on November 11. The group argues that it was illegal and improper for the city to sign off on the design work as complete and pay the design firm its fees when the design had not been finished, and the request targets officials including Mayor Tetsuji Matsumoto.",
+              "In December 2024, it came to light that the city had gone ahead with bidding and contracts for the gym before finishing the structural calculations and the application for building confirmation, Japan's pre-construction check that a design complies with the Building Standards Act. Recalculating the construction cost raised it by close to ¥850 million, and the city assembly passed a censure resolution against the mayor. At the time, the city attributed the problem to a cost estimating error by the design firm and a failure by the city to check it.",
+              "The added cost is being borne by the city alone, and news reports put the amount at over ¥1 billion. The city assembly has set up a special investigative committee to look into what happened, and the citizens' group is calling for the facts to be made clear."
+            ],
+            "commentary": "Building confirmation is the process of having the government or an inspection agency check, before construction starts, that the drawings comply with the law. The basis for it is the structural calculation. That's the work of confirming, in numbers, that a building can withstand earthquakes and its own weight. In terms of building a house, it's like stamping the construction contract before the finished version of the design drawings even exists. In Urasoe, that came to light in 2024. If you redo the calculations and cost estimates afterward, it's natural for the price to move. What this audit request questions is whether the design fees were paid as work completed at a stage when the design wasn't actually finished. Confirming completion, in other words the acceptance inspection, is the final checkpoint where the client receives the work. If that becomes a formality, delays in design feed straight into construction costs. So at what stage, and by whom, should the job of confirming that a design is truly finished be done?",
+            "briefing": [
+              "The request was filed by a group whose name translates roughly as the Citizens' (and Okinawa Residents') Group Seeking the Truth About the New Gym Construction Problem. It is calling for the facts about the unfinished design and the payment of fees to be made clear.",
+              "News reports give the city's added cost as about ¥1.22 billion or about ¥1.4 billion, among other figures. At residents' briefings held by the city, it was reported that the burden on residents would exceed ¥1.3 billion including interest on the bonds issued to cover it.",
+              "In December 2024, the city assembly unanimously passed a resolution demanding an explanation and a censure resolution against the mayor."
+            ],
+            "hojosen": [
+              {
+                "title": "What a resident audit is",
+                "body": "A resident audit request is a system that lets residents who believe a local government's spending is illegal or improper ask its audit commissioners to investigate. The commissioners in principle deliver their findings within 60 days, and residents who disagree with the result can go on to file a resident lawsuit."
+              },
+              {
+                "title": "Design, estimate, then bid",
+                "body": "In public works, the basic order is to finish the design, then estimate the construction cost, then put the project out to bid based on that amount. Signing a contract before the design is settled risks large changes to construction costs later. With schedules and budgets under pressure across Japan, how to keep to this order is once again being questioned."
+              }
+            ]
+          }
         }
       ]
     },
