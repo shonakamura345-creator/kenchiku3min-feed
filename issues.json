@@ -1,6 +1,152 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-12",
+      "date": "2026-11-12",
+      "weekday": "木",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-12-s1",
+          "number": 1,
+          "title": "麻生コンクリート工業の生コン、JIS認証取り消し 約190現場に計画と違う配合で出荷",
+          "summary": "福岡の生コン会社が、計画と異なるセメントを使い記録も改ざんしたとしてJIS認証を取り消されました。約5年で約190現場に納入されています。",
+          "body": [
+            "生コンクリートを製造する麻生コンクリート工業（福岡県）について、JISの登録認証機関である日本建築総合試験所が11月9日付で、生コンクリート（JIS A 5308）の認証を取り消しました。経済産業省も同じ日に、認証機関から取り消しの報告があったと公表しています。",
+            "報道によると、同社は計画書と異なるセメントを使って生コンを製造・出荷し、その記録を改ざんしていました。試験所は、品質管理体制が基準を満たしておらず、不適合の内容が重大だと判断しました。同社は9月12日から出荷を止めています。",
+            "福岡地区生コンクリート協同組合の報告では、不適合の生コンは2021年から約5年間で約1万6800立方メートル、約190の現場に納入されました。建築基準法に抵触するかどうかは、現在も調査が続いています。"
+          ],
+          "commentary": "生コンクリートは、工場で混ぜてから現場に届く「レシピ通りの料理」のようなものです。セメント、水、砂、砂利。その配合をあらかじめ計画書に書き、その通りに練って出荷します。JISのマークは、レシピ通りに作れる体制が工場にあるという、いわばお墨付きなんです。今回問題になったのは、計画と違うセメントが使われ、記録まで書き換えられていたことでした。厄介なのは、固まったコンクリートは見た目では区別がつかないことなんですよね。だから現場では、届いた生コンの受け入れ試験と、工場から届く書類を頼りに工事を進めます。書類が揺らぐと、その信頼の土台ごと揺らいでしまいます。いま確かめられているのは、すでに建った建物が必要な強さを満たしているかどうかです。対象は、約190の現場です。",
+          "briefing": [
+            "不適合の生コンを受け取った需要家は約142社にのぼると、福岡地区生コンクリート協同組合が報告しています。具体的な現場名や、強度試験の結果は公表されていません。",
+            "認証の取り消しで、同社はJISマークを表示できなくなりました。建物の主要な構造部分などに使う「指定建築材料」として出荷するには、JIS適合に代えて国土交通大臣の認定を新たに受ける必要があります。",
+            "取り消しの理由として、認証機関は「品質管理体制の基準を満たしていない」ことと「不適合の内容が重大」であることの2点を挙げています。"
+          ],
+          "sources": [
+            {
+              "name": "経済産業省（公式）",
+              "url": "https://www.meti.go.jp/press/2026/11/20261109002.html"
+            },
+            {
+              "name": "日本経済新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOJC097VA0Z01C26A1000000/"
+            },
+            {
+              "name": "NetIB-News",
+              "url": "https://www.data-max.co.jp/article/87873"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "JISと建築基準法",
+              "body": "建築基準法では、柱や梁などの主要な部分に使うコンクリートは、JISに適合するか、国土交通大臣の認定を受けたものでなければなりません。設計者や施工者は、工場のJIS認証を前提に材料を選んでいます。認証が外れることは、その前提が崩れることを意味します。"
+            },
+            {
+              "title": "相次ぐ品質データ問題",
+              "body": "建築資材の品質データをめぐる問題は、過去にも起きています。2017年には神戸製鋼所のアルミ・銅製品などのデータ改ざんが、2018年にはKYBの免震・制振ダンパーの検査データ改ざんが明らかになりました。いずれも、使われた建物の特定と安全確認に長い時間がかかりました。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "経済産業省（公式）",
+          "sourceURL": "https://www.meti.go.jp/press/2026/11/20261109002.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-12-s2",
+          "number": 2,
+          "title": "竹中工務店、金属3Dプリンター製の接合部を構造部材に 花博の展示施設「くるくるく」で採用",
+          "summary": "竹中工務店が、型を使わず金属3Dプリンターで造った接合部を花博の展示施設の屋根に使います。公的許可を受けた建物の構造部材では世界初としています。",
+          "body": [
+            "竹中工務店は11月10日、2027年に横浜で開かれる国際園芸博覧会（GREEN×EXPO 2027）の展示施設「竹中グループ くるくるく」に、金属3Dプリンターで造った接合部を構造部材として使うと発表しました。同社の調べでは、公的な建設許可を受けた建築物の構造部材に使うのは世界で初めてです。",
+            "接合部は、曲線を描く屋根を支える束材と斜材をつなぐ部分に使います。高温で溶かした金属を少しずつ積み重ねて形をつくる「WAAM」という方式で造形し、1個あたり幅18cm、高さ20cm、重さ2kgです。",
+            "型や治具を使わずに、形の違う接合部を同じ工程で造れるのが特徴です。安全性については、第三者機関と指定確認検査機関の審査を受け、材料試験や実物大の部材による実験も行ったとしています。"
+          ],
+          "commentary": "建物の骨組みで手間がかかるのは、実は「つなぎ目」なんです。柱と梁、梁と斜めの材。角度が一つ違えば、つなぐ部品の形も変わります。これまでは、たい焼きの型のような鋳型を用意したり、鉄板を切って溶接したりして、一つずつ作るのが普通でした。形の違う部品が増えるほど、型も手間も増えていきます。今回の接合部は、金属を少しずつ溶かして積み上げ、型なしで形をつくります。曲線の屋根のように、部品ごとに角度が違う建物ほど効いてくる技術です。しかも確認検査機関の審査を通った、人が入る本物の建物の構造に使われます。展示用のオブジェとは、背負う責任がまったく違いますよね。重さ2kgの小さな部品ですが、屋根を支える役目を担います。来年の春に花博の会場で「くるくるく」を訪れたら、屋根を支えるつなぎ目の形に目を向けてみてください。",
+          "briefing": [
+            "GREEN×EXPO 2027の会期は、2027年3月19日から9月26日までの予定です。「竹中グループ くるくるく」は、同社グループの展示施設として出展されます。",
+            "接合部の内部には照明が組み込まれています。構造部材としての役割に加えて、照明器具の一部も兼ねる設計です。",
+            "「世界初」は、2026年10月時点での竹中工務店の自社調査によるものです。同社は2025年に、鉄道の廃レールを一部に使った金属3Dプリンター製のベンチも手がけており、その知見を建築の構造部材に広げた形です。"
+          ],
+          "sources": [
+            {
+              "name": "BUILT",
+              "url": "https://built.itmedia.co.jp/bt/articles/2611/11/news083.html"
+            },
+            {
+              "name": "日刊建設工業新聞",
+              "url": "https://www.decn.co.jp/?p=189232"
+            },
+            {
+              "name": "デジタル建設",
+              "url": "https://digital-construction.jp/news/4196"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "3Dプリンターと建築",
+              "body": "建設分野の3Dプリンターは、これまでコンクリートを積み上げて小屋や住宅の壁をつくる用途が先行してきました。金属の3Dプリンターは、部品一つひとつの形を自由に変えられる点が強みです。複雑な曲面の建物で、手作業の加工を減らす手段として注目されています。"
+            },
+            {
+              "title": "「審査」という壁",
+              "body": "新しい材料や製法を建物の構造に使うには、強さやばらつきを試験で示し、審査を通す必要があります。技術ができても、実際の建物に使えるまでに時間がかかるのはこのためです。今回の採用は、その手続きを一つ越えた事例といえます。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "BUILT",
+          "sourceURL": "https://built.itmedia.co.jp/bt/articles/2611/11/news083.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-12-s3",
+          "number": 3,
+          "title": "浦添市の新体育館で市民団体が住民監査請求 「設計の完了前に委託料を支払った」",
+          "summary": "建築確認前の契約で市の負担が膨らんだ沖縄・浦添市の新体育館を巡り、市民団体が11日、設計未完了での委託料支払いは違法・不当と監査を求めました。",
+          "body": [
+            "沖縄県浦添市の新しい市民体育館（多目的運動施設）の建設を巡り、市民団体「新体育館建設問題の真相究明を求める市民（県民）有志会」が11月11日、住民監査請求を行いました。設計が終わっていないのに業務完了の検収を行い、設計事務所に委託料を支払ったのは違法・不当だとして、松本哲治市長らを対象にしています。",
+            "この体育館を巡っては、2024年12月、市が構造計算や建築確認の申請を終えないまま入札や契約を進めていたことが明らかになりました。工事費の再積算で8億5千万円近く増え、市議会は市長への問責決議を可決しています。市は当時、設計会社の積算ミスと市の確認漏れが原因だと説明していました。",
+            "増えた費用は市の単独負担となり、その額は報道で10億円を超えるとされています。市議会は百条委員会を設けて経緯を調べており、市民団体は事実関係を明らかにするよう求めています。"
+          ],
+          "commentary": "建築確認は、工事を始める前に、図面が法律に合っているかを役所や検査機関に確かめてもらう手続きです。その前提になるのが構造計算。建物が地震や自分の重さに耐えられるかを、数字で確かめる作業です。家づくりでいえば、設計図の完成版がまだないのに、工事の契約書にはんこを押してしまうような順番です。浦添市では、それが2024年に明らかになりました。後から計算や積算をやり直せば、金額が動くのは自然なことなんです。今回の請求が問うているのは、設計が終わっていない段階で「業務完了」として委託料が払われたのではないか、という点です。完了の確認、つまり検収は、発注者が成果物を受け取る最後の関門です。ここが形だけになると、設計の遅れがそのまま工事費に跳ね返ります。設計が本当に終わったかを確かめる役目を、どの段階で誰が担うべきなんでしょうね。",
+          "briefing": [
+            "請求したのは「新体育館建設問題の真相究明を求める市民（県民）有志会」です。設計の未完了と委託料の支払いを巡る事実関係の解明を求めています。",
+            "市の追加負担額は、報道によって約12億2千万円、約14億円などと示されています。市が開いた住民説明会では、起債に伴う利息も含めると市民負担は13億円を超えると報じられました。",
+            "2024年12月には、市議会が説明を求める決議と市長への問責決議を全会一致で可決しています。"
+          ],
+          "sources": [
+            {
+              "name": "沖縄タイムス",
+              "url": "https://www.okinawatimes.co.jp/articles/-/1964287"
+            },
+            {
+              "name": "NHKニュース",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261111de74319"
+            },
+            {
+              "name": "琉球新報",
+              "url": "https://ryukyushimpo.jp/national/entry-5597814.html"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "住民監査請求とは",
+              "body": "住民監査請求は、自治体のお金の使い方が違法・不当だと考える住民が、監査委員に調べるよう求める制度です。監査委員は原則60日以内に結果を出し、その結果に不服があれば住民訴訟に進むこともできます。"
+            },
+            {
+              "title": "設計→積算→入札",
+              "body": "公共工事では、設計を終えてから工事費を積算し、その金額をもとに入札するのが基本の順番です。設計が固まらないうちに契約すると、後から工事費が大きく変わるおそれがあります。各地で工期や予算に追われる中、この順番をどう守るかが改めて問われています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "沖縄タイムス",
+          "sourceURL": "https://www.okinawatimes.co.jp/articles/-/1964287",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-11",
       "date": "2026-11-11",
       "weekday": "水",
@@ -6262,229 +6408,6 @@
               {
                 "title": "Living next to construction",
                 "body": "When multiple blocks are developed in stages, residents of the first finished buildings live alongside construction on neighboring blocks for a period. When retail and childcare facilities open makes a big difference to how livable the early years are."
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-13",
-      "date": "2026-10-13",
-      "weekday": "火",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-13-s1",
-          "number": 1,
-          "title": "大阪・豊中の解体現場で約1トンのH形鋼が落下 作業員が下敷きになり死亡、警察が捜査",
-          "summary": "10月12日午前、豊中市の土砂貯蔵施設の解体現場で取り外し中のH形鋼（長さ約5m・約1t）が落下し、30歳の作業員が下敷きに。約4時間後に死亡が確認されました。",
-          "body": [
-            "10月12日午前10時前、大阪府豊中市の解体工事現場で「H鋼材が落下し、下敷きになった」と119番通報がありました。産経新聞によると、現場は土砂を一時保管する貯蔵施設で、施設を解体するためクレーンで柱や梁に使われていたH形鋼を取り除く作業中に、長さ約5メートル、重さ約1トンのH形鋼1本が落下しました。和歌山市の会社員の男性（30）が上半身を挟まれ、約4時間後に搬送先の病院で死亡が確認されました。",
-            "MBSニュースによると、男性は頚椎と頚髄を損傷していました。落下の原因はまだ分かっておらず、警察は業務上過失致死の疑いも視野に、作業手順や安全管理の体制に問題がなかったかを調べています。",
-            "建物を壊す解体工事では、鉄骨造の柱や梁を一本ずつ切り離し、クレーンで吊って地上に下ろす作業が繰り返されます。10月4日号でお伝えした東京・日本橋の建設現場での落下事故に続き、今月に入って2件目の「落下物による死亡事故」となりました。"
-          ],
-          "commentary": "長さ5メートル、重さ1トン。鉄骨造の柱や梁に使われるH形鋼は、断面がアルファベットのHの形をした鋼材で、建物の骨そのものです。解体では、この骨を溶断やボルトの取り外しで一本ずつ切り離し、クレーンで吊り上げて下ろします。事故が起きやすいのは、切り離す瞬間と、吊り荷が揺れる瞬間です。切り離しが完了する前に荷重が偏れば、部材は想定と違う向きに動く。吊り荷が1トンなら、人は受け止められません。だから現場の鉄則は「吊り荷の下に人を入れない」ことと、玉掛け、つまりワイヤーの掛け方を資格を持った人が確認してから合図を出すことです。原因はまだ分かっていません。ただ、建てる現場より壊す現場のほうが、部材の状態が図面どおりとは限らず、錆や変形で荷重の流れが読みにくいという難しさがあります。壊す工事の安全は、建てる工事と同じだけの計画が要ります。亡くなった方は30歳でした。",
-          "briefing": [
-            "通報は12日午前10時前。男性は約4時間後、午後1時50分ごろに搬送先の病院で死亡が確認された（MBSニュース）",
-            "現場は土砂を一時保管する貯蔵施設の解体工事。クレーンでH形鋼を取り除く作業中だった（産経新聞）",
-            "警察は業務上過失致死の疑いも視野に、作業手順と安全管理体制を調べる方針。落下の原因は未確認"
-          ],
-          "sources": [
-            {
-              "name": "産経新聞（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/9dbbd70416db1bb6697637ca2406286942a3475f"
-            },
-            {
-              "name": "MBSニュース（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/75c3049fbb652166f1ada00e5008c0cf1634a47b"
-            },
-            {
-              "name": "読売テレビ（dメニューニュース）",
-              "url": "https://topics.smt.docomo.ne.jp/topnews/nation/1000/90bad1b92075e1d1d586cc8d7e1ed17b"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "解体工事の安全ルール",
-              "body": "鉄骨造の解体では、労働安全衛生規則に基づき、作業主任者の選任、作業計画の作成、吊り荷の下への立ち入り禁止、玉掛け技能者による吊り具の確認などが定められています。建設業の死亡災害は墜落・転落が最多で、物の落下や倒壊による「飛来・落下」「崩壊・倒壊」がそれに続きます。"
-            },
-            {
-              "title": "今月相次ぐ落下事故",
-              "body": "10月2日には東京・日本橋のビル建設現場で鉄材が落下し作業員が死亡。今回の豊中の事故は建設ではなく解体の現場で、取り外した部材そのものが落下した点が異なります。解体工事は建設投資の増加と建物の老朽化で件数が増えており、事故防止の体制づくりが課題になっています。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "産経新聞（Yahoo!ニュース）",
-          "sourceURL": "https://news.yahoo.co.jp/articles/9dbbd70416db1bb6697637ca2406286942a3475f",
-          "shoComment": "",
-          "en": {
-            "title": "Worker killed by falling 1-ton steel H-beam at demolition site in Toyonaka, Osaka",
-            "summary": "On the morning of Oct 12, a steel H-beam about 5 m (16 ft) long and weighing about 1 ton fell during removal at a demolition site in Toyonaka, north of Osaka, pinning a 30-year-old worker. He was pronounced dead about four hours later.",
-            "body": [
-              "A 30-year-old worker died after a steel H-beam fell on him at a demolition site in Toyonaka, a city in Osaka Prefecture, on the morning of Oct 12. Emergency services received a call shortly before 10 a.m. reporting that an H-beam had fallen and someone was trapped underneath. According to the Sankei Shimbun, the site was a facility for temporarily storing soil, and workers were using a crane to remove the H-beams that served as its columns and beams when one of them, about 5 m (16 ft) long and weighing about 1 ton, fell.",
-              "The man, a company employee from Wakayama City, was pinned by his upper body and was pronounced dead at the hospital about four hours later. MBS News reported that he suffered injuries to his cervical spine and spinal cord. The cause of the fall is not yet known. Police are investigating whether there were problems with the work procedures or the safety management system, including the possibility of professional negligence resulting in death.",
-              "In the demolition of a steel-frame building, columns and beams are cut free one at a time, then lifted by crane and lowered to the ground, over and over. Following the accident at a construction site in Tokyo's Nihonbashi district that we reported on Oct 4, this is the second fatal accident involving a falling object this month."
-            ],
-            "commentary": "Five meters long, one ton. An H-beam, a steel member whose cross section is shaped like the letter H, is used for the columns and beams of steel-frame buildings. It is the skeleton of the building itself. In demolition, crews free these bones one by one, by torch-cutting or by removing bolts, then lift them out with a crane and lower them. Accidents tend to happen at two moments: the instant a member is cut free, and the moment a suspended load starts to swing. If the weight shifts before the cut is complete, the member moves in a direction no one planned for. And if the load weighs a ton, no person can stop it. That's why the iron rules on site are to never let anyone stand under a suspended load, and to have a certified slinger, the person who rigs the wire ropes, check the rigging before giving the signal. The cause is still unknown. But demolition sites carry a difficulty that construction sites don't: the members aren't always in the condition the drawings show, and rust or deformation makes it hard to read how the loads are flowing. Taking a building down safely takes just as much planning as putting one up. The man who died was 30 years old.",
-            "briefing": [
-              "The emergency call came in shortly before 10 a.m. on Oct 12. The man was pronounced dead at the hospital about four hours later, at around 1:50 p.m. (MBS News)",
-              "The site was the demolition of a facility for temporarily storing soil. Workers were removing H-beams with a crane at the time (Sankei Shimbun)",
-              "Police plan to examine the work procedures and safety management, including the possibility of professional negligence resulting in death. The cause of the fall has not been confirmed"
-            ],
-            "hojosen": [
-              {
-                "title": "Safety rules for demolition",
-                "body": "For the demolition of steel-frame buildings, Japan's Ordinance on Industrial Safety and Health requires appointing an operations chief, drawing up a work plan, keeping people out from under suspended loads, and having certified slingers check the lifting gear. Falls from height are the leading cause of fatal accidents in Japan's construction industry, followed by objects falling or flying and structures collapsing."
-              },
-              {
-                "title": "A month of falling-object deaths",
-                "body": "On Oct 2, steel material fell at an office building construction site in Tokyo's Nihonbashi district, killing a worker. The Toyonaka accident differs in that it happened on a demolition site rather than a construction site, and the member that fell was the very part being removed. Demolition work is increasing as construction investment grows and buildings age, and building systems to prevent accidents has become a pressing issue."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-13-s2",
-          "number": 2,
-          "title": "岸和田市の新庁舎 設計者に石本建築事務所 設計施工一括が不調で分離発注に転換、32年度供用",
-          "summary": "大阪府岸和田市は新庁舎の設計プロポーザルで石本建築事務所を特定。2025年度のデザインビルド方式の募集が応募なしで不調となり、設計と施工を分けて仕切り直し。",
-          "body": [
-            "大阪府岸和田市は、「新庁舎整備事業設計委託業務」の公募型プロポーザルで石本建築事務所（大阪オフィス）を設計者に特定しました。建設通信新聞が10月13日に報じたもので、参加したのは石本建築事務所、安井建築設計事務所、綜企画設計、山下設計の4者。新庁舎は駐輪場を含め延べ約1万7500平方メートルを想定し、2032年度ごろの供用開始を目指します。",
-            "市は当初、設計と施工を一括で発注するデザインビルド（DB）方式を採っていましたが、2025年度の事業者募集に応募がなく不調となり、設計と施工を分ける方式に転換しました。市の公告によると、設計の提案上限価格は約7億4180万円、工期は2028年12月28日までです。",
-            "岸和田市の庁舎建て替えは曲折が続いてきました。2020年のDB方式プロポーザルでは市が2者を失格とした判断をめぐって外部審査委員4人が辞任し、2021年3月には市議会が工事請負契約の議案を否決。2024年度のプロポーザルも参加者の辞退で中止になっています。現庁舎は旧館が1954年、新館が1971年の完成で、耐震診断では新館のIs値が0.21と防災拠点の水準を大きく下回っています。"
-          ],
-          "commentary": "Is値0.21。建物の地震に対する強さを示す指標で、防災拠点には0.9以上が求められます。災害のときに司令塔になる市役所が、市内で一番弱い建物の一つという状態が、岸和田では20年以上続いてきました。それでも建て替えが進まなかったのは、技術の問題ではなく発注の問題です。設計と施工をまとめて任せるデザインビルドは、工期が短く済み、ゼネコンの技術を早い段階から使える一方で、建設費が上がる局面では、ゼネコン側が価格のリスクを負えずに手を挙げなくなります。2025年度の募集に応募がゼロだったのは、その典型だと思います。放送でも話した徳島の文化芸術ホールも、設計者を決めて実施設計まで進んでから計画が白紙になりました。公共建築は、建物を設計する前に「どう頼むか」を設計しないと、何年も失われます。岸和田は今回、設計と施工を分けて、まず設計者を決めるという一番オーソドックスな形に戻りました。遠回りに見えて、これが一番確実な道なんだと思います。",
-          "briefing": [
-            "プロポーザルの参加は石本建築事務所、安井建築設計事務所、綜企画設計、山下設計の4者。設計の提案上限価格は7億4179万9000円（税込）、履行期限は2028年12月28日",
-            "現庁舎は旧館（1954年）、新館・職員会館（1971年）、別館（1982年）、第2別館（1994年）の5棟。阪神・淡路大震災後の耐震診断で新館のIs値は0.21",
-            "基本計画は見直しが続き、2019年版は延べ約1万5400㎡・概算131.6億円、2022年版は約1万3400㎡・99.9億円。2025年度版では建設地を福祉総合センター横に変更し延べ約1万7500㎡に",
-            "2020年のDB方式プロポーザルでは提案上限127億500万円で公告。2者失格の判断をめぐり外部委員4人が辞任し、2021年3月に市議会が工事契約議案を否決"
-          ],
-          "sources": [
-            {
-              "name": "岸和田市（公式）",
-              "url": "https://www.city.kishiwada.lg.jp/page/proposal4.html"
-            },
-            {
-              "name": "建設通信新聞",
-              "url": "https://www.kensetsunews.com/archives/1295461"
-            },
-            {
-              "name": "建設ニュース",
-              "url": "https://www.constnews.com/?p=160466"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "デザインビルドと分離発注",
-              "body": "デザインビルド（DB）は設計と施工を一つの事業者に一括発注する方式で、工期短縮や施工性の反映が利点です。一方、受注者が設計段階から建設費の変動リスクを負うため、資材費や労務費が上がる局面では応募が集まりにくくなります。設計・施工分離は時間はかかりますが、設計者を先に決めて内容を固めてから施工者を競争で選べます。"
-            },
-            {
-              "title": "庁舎建て替えの全国動向",
-              "body": "1970年代前後に建った自治体庁舎は耐震性不足で建て替え時期を迎えていますが、建設費の高騰で入札不調や計画見直しが各地で起きています。大津市は従来方式で基本設計を進め、鎌倉市は基本設計の契約を解除して仕切り直すなど、発注方式の選び直しが相次いでいます。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "岸和田市（公式）",
-          "sourceURL": "https://www.city.kishiwada.lg.jp/page/proposal4.html",
-          "shoComment": "",
-          "en": {
-            "title": "Kishiwada picks Ishimoto to design new city hall after failed design-build bid, aiming for 2032",
-            "summary": "Kishiwada, a city in southern Osaka Prefecture, has selected Ishimoto Architectural & Engineering Firm to design its new city hall. After a design-build call drew no bidders in fiscal 2025, the city split design and construction into separate contracts.",
-            "body": [
-              "The city of Kishiwada in Osaka Prefecture has chosen Ishimoto Architectural & Engineering Firm (its Osaka office) as the designer of its new city hall through an open proposal process, a common Japanese way of selecting a designer by evaluating their approach rather than a finished design. The Kensetsu Tsushin Shimbun, a construction industry newspaper, reported the decision on Oct 13. Four firms took part: Ishimoto, Yasui Architects & Engineers, Sokikaku Sekkei and Yamashita Sekkei. The new building is planned at about 17,500 m² (188,000 sq ft) of total floor area including bicycle parking, with the goal of opening around fiscal 2032.",
-              "The city originally planned to use design-build (DB), in which design and construction are awarded to a single contractor. But its call for bidders in fiscal 2025 drew no applicants, so it switched to awarding design and construction separately. According to the city's public notice, the price cap for the design proposals was about ¥741.8 million, with the contract running until Dec 28, 2028.",
-              "Rebuilding Kishiwada's city hall has been a long, winding process. In a 2020 design-build proposal competition, four outside jury members resigned over the city's decision to disqualify two bidders, and in March 2021 the city council voted down the construction contract. A fiscal 2024 proposal competition was also canceled after participants withdrew. The current city hall consists of an old wing completed in 1954 and a new wing completed in 1971. A seismic assessment gave the new wing an Is value, the seismic index used in Japanese structural assessments, of 0.21, far below the level required for a disaster response base."
-            ],
-            "commentary": "An Is value of 0.21. This is an index of how well a building stands up to earthquakes, and buildings that serve as disaster response bases are expected to reach 0.9 or higher. In Kishiwada, the city hall, which is supposed to be the command center in a disaster, has been one of the weakest buildings in the city for more than 20 years. The reason it still wasn't rebuilt isn't a technical one. It's a procurement problem. Design-build, where you hand both design and construction to one party, shortens the schedule and lets you use the contractor's expertise from an early stage. But when construction costs are rising, contractors can't take on the price risk, so they stop raising their hands. Zero applicants in fiscal 2025 is a textbook case of that, I think. The cultural arts hall in Tokushima, a city on the island of Shikoku that I talked about on my show, also had its plan scrapped after a designer had been chosen and detailed design was underway. With public buildings, if you don't design how you're going to commission the building before you design the building itself, you can lose years. This time, Kishiwada went back to the most orthodox approach: separate design and construction, and pick the designer first. It may look like a detour, but I think it's the surest path.",
-            "briefing": [
-              "Four firms entered the proposal process: Ishimoto Architectural & Engineering Firm, Yasui Architects & Engineers, Sokikaku Sekkei and Yamashita Sekkei. The design price cap was ¥741,799,000 including tax, and the contract deadline is Dec 28, 2028",
-              "The current city hall is made up of five buildings: the old wing (1954), the new wing and staff hall (1971), an annex (1982) and a second annex (1994). A seismic assessment carried out after the 1995 Great Hanshin-Awaji (Kobe) Earthquake gave the new wing an Is value of 0.21",
-              "The basic plan has been revised repeatedly. The 2019 version called for about 15,400 m² (166,000 sq ft) at an estimated ¥13.16 billion, and the 2022 version about 13,400 m² (144,000 sq ft) at ¥9.99 billion. The fiscal 2025 version moved the site to next to the city's welfare center and raised the floor area to about 17,500 m² (188,000 sq ft)",
-              "The 2020 design-build proposal was advertised with a cap of ¥12.705 billion. Four outside jury members resigned over the disqualification of two bidders, and in March 2021 the city council rejected the construction contract"
-            ],
-            "hojosen": [
-              {
-                "title": "Design-build versus separate contracts",
-                "body": "Design-build (DB) awards design and construction to a single company, with the advantages of a shorter schedule and buildability built into the design. But because the contractor carries the risk of cost changes from the design stage on, it attracts fewer bidders when materials and labor costs are rising. Separating design and construction takes longer, but it lets the client choose a designer first, settle the design, and then pick a builder through competition."
-              },
-              {
-                "title": "City halls across Japan",
-                "body": "Many local government buildings built around the 1970s lack seismic strength and are due for replacement, but soaring construction costs are causing failed bids and plan revisions around the country. Otsu, in Shiga Prefecture, is moving ahead with basic design under the conventional approach, while Kamakura canceled its basic design contract to start over. One city after another is rethinking how it commissions these projects."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-13-s3",
-          "number": 3,
-          "title": "万博閉幕から1年 落合陽一氏の「null²」を継ぐ常設シアター「null²ⁿ」あす横浜開業",
-          "summary": "大阪・関西万博のシグネチャーパビリオン「null²」の体験を再構成した常設シアターミュージアム「null²ⁿ」が10月14日、横浜ランドマークタワーに開業。",
-          "body": [
-            "落合陽一氏がプロデュースする常設シアターミュージアム「null²ⁿ（ヌルヌルネクサス）」が、10月14日に横浜ランドマークタワーのランドマークプラザ5階にグランドオープンします。大阪・関西万博のシグネチャーパビリオン「null²（ヌルヌル）」の体験を引き継ぐ施設で、Tokyo Art Beatによると、万博の建物をそのまま再現するのではなく、体験を常設シアターとして再構成するプロジェクトです。",
-            "施設は「門」と5つのエリアで構成され、所要時間は約60分。2つのLEDシアターのほか、音に集中するための無響空間を新設し、エリア3では人類の発明品約170点を展示します。日時指定の事前予約制で、料金は大人が平日3900円からです。",
-            "万博のnull²は、NOIZの豊田啓介氏が建築設計を担当し、風と共振する鏡面の膜とロボットアームを組み合わせて外装が動く「動的な建築」として話題になりました。大阪・関西万博はちょうど1年前の2025年10月13日に閉幕。パビリオンのレガシーを常設施設として引き継ぐ例として、建築の側からも注目されます。"
-          ],
-          "commentary": "万博のパビリオンは、半年で壊す前提で建てられます。だから思い切った構造や外装が許される一方で、閉幕すると体験ごと消えてしまう。null²ⁿが面白いのは、建物を移築するのではなく「体験」だけを取り出して、商業施設の5階に収め直した点です。万博のnull²は、鏡の膜がロボットアームで動く、建築そのものが装置のようなパビリオンでした。横浜では、その「動く外装」はありません。代わりにLEDシアターと、音の反射を消した無響の部屋で、中身の体験を作り直す。建築家としては、あの鏡の外装が残らないのは少し寂しいんですが、建物ではなく体験を残すという判断は、常設にするなら現実的だと思います。僕は4月に虎ノ門のTOKYOROOMS展で、落合さんが6畳の部屋で作った「ﾇﾙ庵」を見てきました。騒がしさと静けさを同じ空間に同居させる、あの考え方が横浜でも続いているはずです。皆さんは万博で、どのパビリオンの体験が一番記憶に残っていますか。横浜に行く機会があったら、無響の部屋で自分の心臓の音を聞いてみてください。",
-          "briefing": [
-            "開業は10月14日（水）。場所は横浜ランドマークタワーのランドマークプラザ5階。日時指定の事前予約制で、大人は平日3900円から（PR TIMES）",
-            "構成は門と5つのエリア、所要約60分。2つのLEDシアターと無響空間、エリア3に人類の発明品約170点を展示",
-            "万博のnull²は落合陽一氏がプロデュース、建築設計はNOIZ（豊田啓介氏）、外装開発は太陽工業、構造はArup。大阪・関西万博は2025年10月13日に閉幕"
-          ],
-          "sources": [
-            {
-              "name": "null²ⁿ（公式・PR TIMES）",
-              "url": "https://prtimes.jp/main/html/rd/p/000000019.000124476.html"
-            },
-            {
-              "name": "Tokyo Art Beat",
-              "url": "https://www.tokyoartbeat.com/articles/-/yoichi-ochiai-null2n-news-202609"
-            },
-            {
-              "name": "電気新聞",
-              "url": "https://www.denkishimbun.com/archives/412357"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "万博パビリオンのレガシー",
-              "body": "万博のパビリオンは原則として閉幕後に解体されますが、1970年万博の太陽の塔のように残る例や、建物の一部や展示を別の場所で再利用する例があります。2025年の大阪・関西万博では大屋根リングの木材の再利用や、各パビリオンの移築・再活用が検討されており、null²ⁿは「体験の常設化」という形のレガシーです。"
-            },
-            {
-              "title": "万博のnull²という建築",
-              "body": "null²はNOIZの豊田啓介氏が設計し、1辺2mと4mの立方体を積んだ形に、鏡面の膜を張った外装がロボットアームで動く仕組みでした。外装開発は太陽工業、構造はArupが担当。リアルとデジタルをつなぐ「接空間としての建築」を掲げ、万博会場で最も話題を集めたパビリオンの一つでした。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "null²ⁿ（公式・PR TIMES）",
-          "sourceURL": "https://prtimes.jp/main/html/rd/p/000000019.000124476.html",
-          "shoComment": "",
-          "en": {
-            "title": "A year after Expo 2025, Yoichi Ochiai's null² pavilion lives on as a permanent theater in Yokohama",
-            "summary": "null²ⁿ, a permanent theater museum that reworks the experience of null², a Signature Pavilion at Expo 2025 Osaka, Kansai, opens on Oct 14 in Yokohama Landmark Tower.",
-            "body": [
-              "null²ⁿ (pronounced \"nurunuru nexus\"), a permanent theater museum produced by media artist Yoichi Ochiai, has its grand opening on Oct 14 on the fifth floor of Landmark Plaza, the shopping mall in Yokohama Landmark Tower. Yokohama is a port city just south of Tokyo. The facility carries on the experience of null² (\"nurunuru\"), one of the Signature Pavilions at Expo 2025 Osaka, Kansai. According to Tokyo Art Beat, the project does not recreate the Expo building but reworks the experience as a permanent theater.",
-              "The facility consists of a \"gate\" and five areas, and a visit takes about 60 minutes. Along with two LED theaters, it adds a new anechoic space designed for focusing on sound, and Area 3 displays about 170 human inventions. Admission is by advance reservation for a set date and time, with adult tickets starting at ¥3,900 on weekdays.",
-              "At the Expo, null² was designed by architect Keisuke Toyoda of NOIZ and drew attention as a \"dynamic architecture\" whose exterior moved, combining a mirrored membrane that resonated with the wind and robotic arms. Expo 2025 closed exactly one year ago, on Oct 13, 2025. As a case of a pavilion's legacy being carried on as a permanent facility, it is getting attention from the architecture world as well."
-            ],
-            "commentary": "Expo pavilions are built on the assumption that they'll be torn down after six months. That's what allows bold structures and facades, but it also means that when the Expo closes, the experience disappears along with the building. What makes null²ⁿ interesting is that instead of relocating the building, it pulled out only the \"experience\" and fit it back into the fifth floor of a shopping mall. At the Expo, null² was a pavilion where the building itself was like a machine, with a mirrored membrane moved by robotic arms. In Yokohama, that moving facade is gone. Instead, the experience inside is rebuilt with LED theaters and an anechoic room, a room where sound reflections are eliminated. As an architect, I'm a little sad that the mirrored facade didn't survive, but if you're going to make it permanent, keeping the experience rather than the building is a realistic call. In April, I saw Nuru-an, a piece Ochiai made in a six-tatami room, a small Japanese room sized by its floor mats, at the TOKYOROOMS exhibition in Toranomon, Tokyo. The idea of letting noise and silence share the same space is surely carried on in Yokohama too. Which Expo pavilion experience stuck with you the most? If you ever get the chance to visit Yokohama, try listening to your own heartbeat in the anechoic room.",
-            "briefing": [
-              "Opens Wednesday, Oct 14, on the fifth floor of Landmark Plaza in Yokohama Landmark Tower. Advance reservation for a set date and time is required, and adult tickets start at ¥3,900 on weekdays (PR TIMES)",
-              "Made up of a gate and five areas, taking about 60 minutes. Two LED theaters and an anechoic space, with about 170 human inventions on display in Area 3",
-              "The Expo's null² was produced by Yoichi Ochiai, with architectural design by NOIZ (Keisuke Toyoda), facade development by Taiyo Kogyo and structural engineering by Arup. Expo 2025 Osaka, Kansai closed on Oct 13, 2025"
-            ],
-            "hojosen": [
-              {
-                "title": "The legacy of Expo pavilions",
-                "body": "Expo pavilions are generally demolished after the event closes, but some survive, like the Tower of the Sun from the 1970 Osaka Expo, and in other cases parts of buildings or exhibits are reused elsewhere. For Expo 2025, reuse of the timber from the Grand Ring, the huge wooden roof walkway around the site, and relocation or reuse of individual pavilions are being considered. null²ⁿ is a different kind of legacy: making the experience permanent."
-              },
-              {
-                "title": "null² as architecture",
-                "body": "null² was designed by Keisuke Toyoda of NOIZ. It was made of stacked cubes measuring 2 m (6.6 ft) and 4 m (13 ft) on a side, wrapped in a mirrored membrane moved by robotic arms. Taiyo Kogyo developed the facade and Arup handled the structure. Billed as \"architecture as an interface\" connecting the physical and the digital, it was one of the most talked-about pavilions at the Expo."
               }
             ]
           }
