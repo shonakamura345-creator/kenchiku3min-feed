@@ -1,6 +1,151 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-13",
+      "date": "2026-11-13",
+      "weekday": "金",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-13-s1",
+          "number": 1,
+          "title": "函館駅前・棒二森屋跡の再開発、規模を約3割縮小 開業目標は32年2月ごろに4度目の延期",
+          "summary": "函館駅前の旧百貨店跡の再開発で、組合が規模を縮小した新計画を市に出しました。延べ床は約3割減り、開業目標は4度目の延期です。",
+          "body": [
+            "北海道函館市は11月12日、JR函館駅前の旧百貨店「棒二森屋」跡地で進む再開発について、再開発組合から規模を縮小した新しい事業概要書が提出されたと発表しました。完成・開業の目標は2032年2月ごろとなり、開業時期の延期は4度目です。",
+            "新しい計画では、延べ床面積を2024年8月時点の約3万8240平方メートルから約2万6660平方メートルへ減らします。住宅などの規模を小さくし、総事業費は約176億円から約134億円に圧縮する見通しです。",
+            "この再開発は、建設資材の高騰で事業費が膨らみ、たびたび計画の見直しを迫られてきました。前回の延期では、2029年5月としていた開業目標を2030年5月以降に改めていました。今回の変更は、事業計画の変更手続きを経て正式に固まる見込みです。"
+          ],
+          "commentary": "延べ床面積で約1万1600平方メートル。今回の計画から消える床の広さです。全体のおよそ3割にあたります。工事費が上がり続けると、再開発では「同じものを高く建てる」か「小さく建てる」かの二択を迫られます。函館は後者を選びました。家づくりでいえば、見積もりが予算を大きく超えたので、2階建てを平屋に描き直すような判断です。再開発の事業費は、つくった床を売ったり貸したりして回収するのが基本なんです。だから床を減らせば、回収できるお金も減ります。それでも縮めるのは、売れ残るリスクより、建たないまま時間が過ぎるリスクの方が重いからだと思います。駅前の一等地で、閉店した百貨店の建物が使われないまま年月が過ぎるのは、街にとっても痛いですよね。小さくても早く建てるのと、大きくても待つのと、駅前に必要なのはどちらなんでしょうね。",
+          "briefing": [
+            "事業概要書は函館市に提出され、市が11月12日に内容を公表しました。延べ床の縮小は住宅などが中心で、北海道建設新聞は新施設を4棟構成とし、2029年度の着工を目指すと報じています。",
+            "完成時期については、市の発表を伝えた日本経済新聞が「2032年2月ごろの完成・開業」としています。最終的な日程と事業費は、今後の事業計画の変更認可で確定する見込みです。",
+            "前回、3度目の延期が明らかになったのは2025年8月です。このときは資材高騰で総事業費176億7000万円の大幅な増額が見込まれ、組合がスケジュールと金額の精査に時間をかけると判断していました。"
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOFC1299V0S6A111C2000000/"
+            },
+            {
+              "name": "北海道建設新聞",
+              "url": "https://e-kensin.net/n/n32f0215417a6?gs=3a22e50b6915c1074b5d2974ce2d5c44"
+            },
+            {
+              "name": "北海道新聞",
+              "url": "https://www.hokkaido-np.co.jp/article/1201376/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "床で払う再開発",
+              "body": "市街地再開発事業は、土地を高度に使って床を増やし、増えた床（保留床）を売って工事費の多くをまかなう仕組みです。工事費が上がっても、地方都市では床の売値を同じように上げにくいのが悩みどころです。そのため、計画の縮小や延期が全国で相次いでいます。"
+            },
+            {
+              "title": "地方の駅前で続く見直し",
+              "body": "資材と人件費の高騰を受けて、地方都市の再開発では計画の縮小が続いています。10月27日号でお伝えした前橋市の中心街の再開発も、事業費の増加を受けて規模を大きく縮める方向になりました。函館もその流れの中にあります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "日本経済新聞",
+          "sourceURL": "https://www.nikkei.com/article/DGXZQOFC1299V0S6A111C2000000/",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-13-s2",
+          "number": 2,
+          "title": "東急・桜新町駅のリニューアルが完成 地下駅の出入口を全国初の木造に、12月に新店舗",
+          "summary": "田園都市線・桜新町駅の改修が完成しました。地上の出入口の屋根は柱や梁まで木でつくり、地下駅の出入口として全国初の木造です。",
+          "body": [
+            "東急と東急電鉄は11月11日、田園都市線の桜新町駅（東京都世田谷区）のリニューアル工事が9月30日に竣工したと発表しました。駅の構内には12月9日から4店舗が順次開業し、そのうち3店舗は桜新町エリアへの初出店です。",
+            "改修で目を引くのは、地上に出る北口と西口の出入口の屋根（上家）です。構造部材をすべて木材とし、勾配屋根を木造のトラスで支えています。地下駅から地上への出入口の上家を、すべて木の構造でつくったのは全国で初めてだといいます。",
+            "今回の改修は、田園都市線の地下区間にある5駅を順に改修するプロジェクト「Green UNDER GROUND」の第2弾です。2023年5月に着工しました。第1弾として、2021年7月から駒沢大学駅の改修が進められています。"
+          ],
+          "commentary": "地下鉄の出入口って、ふだん意識して見る人は少ないと思うんです。階段の上にかかる小さな屋根で、たいていは鉄骨にガラスか金属の板。雨を防ぐための、いわば駅の傘です。桜新町は、その傘の骨まで木でつくりました。トラスは、三角形を組み合わせて細い材でも重さを支える骨組みのこと。神社の屋根裏や、古い体育館の天井に見える、あの斜めの材の連なりです。鉄でつくるのが当たり前の場所で木を使うと、雨や火への備えを一から考えることになります。だから「全国初」なんですよね。東急はこれを、地下区間の5駅を改修するプロジェクトの一部として進めています。駅の出入口は、街の人が毎日くぐる建物です。小さな屋根でも、木の構造が街角に一つ増える意味は大きいと思います。今度桜新町で地上に出るとき、階段の上の天井を見上げて、三角形の組み方を確かめてみてください。",
+          "briefing": [
+            "使った木材の一部は青森県産です。桜新町の商店街が青森の「ねぶた祭り」と交流してきた歴史を受け継ぐ意味を込めたと、東急は説明しています。",
+            "12月9日以降に開業するのは計4店舗です。3店舗は桜新町エリアに初めて出店し、営業時間は店舗ごとに異なります。",
+            "「Green UNDER GROUND」は、田園都市線の地下区間にある5駅を対象に、駅を「サステナブルな地下駅」へと改修するプロジェクトです。"
+          ],
+          "sources": [
+            {
+              "name": "東急・東急電鉄（公式）",
+              "url": "https://prtimes.jp/main/html/rd/p/000001409.000010686.html"
+            },
+            {
+              "name": "マイナビニュース",
+              "url": "https://news.mynavi.jp/article/20261111-5302538/"
+            },
+            {
+              "name": "流通ニュース",
+              "url": "https://www.ryutsuu.biz/store/s111275.html"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "木材と防火の壁",
+              "body": "駅のように不特定多数が使う場所では、燃えにくさへの要求が厳しく、構造に木を使う例はまだ多くありません。近年は、耐火性能を高めた木材や燃えしろ設計の普及で、駅舎やオフィスなどにも木造が広がりつつあります。"
+            },
+            {
+              "title": "駅を順番に改修",
+              "body": "開業から年月がたった地下駅では、設備の更新に合わせて内装やデザインを見直す例が増えています。東急は一つの路線の5駅をまとめて一つのプロジェクトとして名前を付け、テーマをそろえて改修しています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "東急・東急電鉄（公式）",
+          "sourceURL": "https://prtimes.jp/main/html/rd/p/000001409.000010686.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-13-s3",
+          "number": 3,
+          "title": "ブラチスラバの港湾跡65haの再生コンペ、ホソヤ・シェーファーが最優秀に 123案から",
+          "summary": "スロバキアの首都ブラチスラバで、ドナウ川沿いの港「冬の港」を街に開く国際コンペの結果が発表され、スイスの事務所の案が選ばれました。",
+          "body": [
+            "スロバキアの首都ブラチスラバで、ドナウ川沿いの港湾地区「ジムニー・プリスタウ（冬の港）」を再生する国際的な都市計画コンペの結果が発表されました。最優秀に選ばれたのは、スイス・チューリッヒのホソヤ・シェーファー・アーキテクツを中心とするチームの案です。結果は11月9日に公表されました。",
+            "コンペには33か国から123案が寄せられ、第2段階に進んだ7チームの中から、審査員の全員一致で選ばれました。チームには英国のランドスケープ事務所ギレスピーズ、ドイツのARGUS studio、ケルティング・インジニュアなどが加わっています。",
+            "対象は水面を含む約65ヘクタールです。勝利案は、性格の異なる三つの公園と、港をぐるりと結ぶ遊歩道を軸に、住まいや仕事場、港の産業遺産を組み合わせて、これまで閉ざされていた港を街に開く構想です。"
+          ],
+          "commentary": "ドナウ川のほとりにありながら、工業地帯として使われ、街から切り離されてきた港。それがブラチスラバの「冬の港」です。広さは約65ヘクタール、東京ドームがおよそ14個入るほどです。勝利案が軸に据えたのは、建物ではなく公園と遊歩道でした。水辺を誰もが歩ける場所にすることが、計画の真ん中にあります。港の再生というと、日本では横浜のみなとみらいを思い浮かべる人も多いですよね。あちらは大きなビルが街の顔になりました。ブラチスラバは、川辺を歩く時間そのものを街の顔にしようとしています。チームを率いるホソヤ・シェーファーは、ホソヤ・ヒロミさんとマルクス・シェーファーさんが2003年にチューリッヒで立ち上げた事務所です。選んだのは、123案を見比べた審査員の全員でした。",
+          "briefing": [
+            "コンペを主催したのは、国営の港湾会社とブラチスラバ市で、運営はブラチスラバ首都圏研究所（Metropolitan Institute of Bratislava）が担いました。結果発表はブラチスラバ城の「冬の乗馬ホール」で行われました。",
+            "勝利チームは今後、提案を最終的なマスタープランにまとめます。マスタープランは地区開発のルールを決める枠組みとなり、実現には市の土地利用計画の変更も必要になります。再生には数年単位の時間がかかる見込みです。"
+          ],
+          "sources": [
+            {
+              "name": "ブラチスラバ市（公式）",
+              "url": "https://www.bratislava.sk/spravy/zimny-pristav-sa-otvori-mestu-pozname-vitazny-navrh-jeho-premeny"
+            },
+            {
+              "name": "SME",
+              "url": "https://www.sme.sk/bratislava/c/v-sutazi-pre-zimny-pristav-zvitazilo-konzorcium-s-atelierom-z-zurichu"
+            },
+            {
+              "name": "Archi & Interiors",
+              "url": "https://www.archieinteriors.com/winter-harbour-bratislava-masterplan/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "水辺を街に返す流れ",
+              "body": "使われなくなった港や工場地帯の水辺を、公園や住まいに変える再開発は、ハンブルクのハーフェンシティなどヨーロッパ各地で進んできました。近年は大きな建物より先に、歩ける水辺や緑をつくる計画が増えています。"
+            },
+            {
+              "title": "コンペで決める街",
+              "body": "ヨーロッパでは、大規模な地区の将来像を国際コンペで選ぶ方法が広く使われています。案を公開で比べることで、市民も議論に加わりやすくなります。日本でも再開発の設計者選びにコンペやプロポーザルが使われますが、地区全体の計画を国際コンペで決める例はまだ多くありません。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "ブラチスラバ市（公式）",
+          "sourceURL": "https://www.bratislava.sk/spravy/zimny-pristav-sa-otvori-mestu-pozname-vitazny-navrh-jeho-premeny",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-12",
       "date": "2026-11-12",
       "weekday": "木",
@@ -6264,225 +6409,6 @@
               {
                 "title": "Acidic springs and buildings",
                 "body": "Strongly acidic hot-spring water easily corrodes metal, which makes the choice of piping and bathroom finishes a major design challenge. At hot-spring inns, damage to equipment from steam and minerals in the water can even determine how long the building lasts. The tubs at different concentrations are a consideration for guests, but behind the scenes, careful material choices are essential too."
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-14",
-      "date": "2026-10-14",
-      "weekday": "水",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-14-s1",
-          "number": 1,
-          "title": "国交省の建設業ビジョン検討会が2回目の会合 技能者の「月給制」転換へ、懸念の解消策を議論",
-          "summary": "国交省の有識者検討会が10月13日に2回目の会合を開き、職人の給料を日給から月給に変える方策を議論。仕事の繁閑と出来高払いが壁として挙がりました。",
-          "body": [
-            "国土交通省は10月13日、「持続的な成長産業としての建設業のあり方に関する検討会」の第2回会合を東京都内で開きました。7月9日の初会合に続くもので、今回の議題は「人を大事にする」産業の実現に向けた施策です。日刊建設工業新聞によると、議論の中心は技能者の給与を月給制に転換することでした。",
-            "国交省は月給制にできない背景として、仕事の量に繁忙期と閑散期の波があることと、技能者を雇う専門工事会社の収入そのものが工事の出来高で決まることを挙げました。そのうえで、専門工事会社を主な対象に、経営上の懸念を解消する方策を検討する考えを示しています。直接の契約関係にない元請や発注者にも、技能者の確保・育成への関与を求める方向です。",
-            "この検討会は、2017年に取りまとめた「建設産業政策2017+10」から約10年がたつのを受けて設けられ、2027年夏ごろに新しいビジョンをまとめる予定です。会議資料は終了後に国交省のホームページで公開されることになっています。"
-          ],
-          "commentary": "雨が3日続けば、3日分の日当が消える。日給で働く職人さんにとって、天気はそのまま給料の話なんです。僕も最初はハウスメーカーで現場監督をしていましたが、現場は天気と工程で毎日動きます。月給制にすれば、職人さんの収入は安定します。でも雇う側の専門工事会社から見ると、仕事が少ない月も同じ額を払わなければいけない。しかも会社の売上は、工事が進んだ分だけ入る出来高です。お財布の入口が波打っているのに、出口だけ一定にするのは怖いですよね。だから今回の議論は、職人さん本人より、雇う会社の不安をどう消すかに軸足があります。元請や発注者にも関わってもらうというのは、波を一社で受け止めず、工事全体で平らにしようという発想です。猛暑で現場が止まる日が増えるほど、日給と月給の差は大きくなります。この仕事で暮らしの計画が立つかどうかが、10年後の担い手の数を決める。そういう段階に来ているんだと思います。",
-          "briefing": [
-            "第2回会合は10月13日14時から16時、東京・千代田区の商工会館で開かれた。議題は「人を大事にする」産業の実現に必要な施策と、今後のスケジュールの2つ（国交省の開催案内）。",
-            "日刊建設工業新聞によると、資料には労務費の確保と行き渡り、月給制への転換、建退共制度の充実、CCUS（建設キャリアアップシステム）の活用徹底などが並んだ。国交省は、猛暑下でも安定した収入を得られる働き方という観点からも月給制の必要性を指摘している。",
-            "検討会の下には「企業評価」と「入札・発注」の2つのワーキンググループが設けられている。ビジョンは約1年かけてまとめ、中央建設業審議会（中建審）に報告する予定。"
-          ],
-          "sources": [
-            {
-              "name": "国土交通省（公式）",
-              "url": "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/tochi_fudousan_kensetsugyo_const_tk1_000001_00068.html"
-            },
-            {
-              "name": "日刊建設工業新聞",
-              "url": "https://www.decn.co.jp/?p=188379"
-            },
-            {
-              "name": "建設通信新聞",
-              "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01KX2NZX1TNV21HWF28B4W1MWQ"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "月給制は春からの宿題",
-              "body": "国交省の「今後の建設業政策のあり方に関する勉強会」は2026年4月の取りまとめで、月給制への転換を提言していました。今回の検討会は、その提言を具体的な施策に落とし込む段階にあたります。"
-            },
-            {
-              "title": "続く処遇改善の議論",
-              "body": "10月7日号でお伝えした「標準労務費」の行き渡り実態調査、9月30日号の国交相と建設4団体の意見交換、9月20日号の企業評価ワーキンググループ初会合と、技能者の賃金をめぐる動きがここ数週間で相次いでいます。今回の議論は、賃金の額だけでなく、受け取り方の安定にまで踏み込むものです。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "国土交通省（公式）",
-          "sourceURL": "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/const/tochi_fudousan_kensetsugyo_const_tk1_000001_00068.html",
-          "shoComment": "",
-          "en": {
-            "title": "Japan's construction ministry panel holds its second meeting on moving skilled workers to monthly pay",
-            "summary": "An expert panel under Japan's construction ministry held its second meeting on October 13 to discuss shifting tradespeople from daily wages to monthly salaries. Seasonal swings in work and payment by progress were raised as the main obstacles.",
-            "body": [
-              "The Ministry of Land, Infrastructure, Transport and Tourism (MLIT), which oversees Japan's construction industry, held the second meeting of its Study Group on the Future of the Construction Industry as a Sustainable Growth Industry in Tokyo on October 13. Following the first meeting on July 9, this session focused on measures to build an industry that “values people.” According to the Nikkan Kensetsu Kogyo Shimbun, a construction trade daily, the discussion centered on switching skilled construction workers from daily wages to monthly salaries.",
-              "MLIT cited two reasons monthly pay has been hard to adopt: the volume of work rises and falls between busy and slow periods, and the revenue of the specialty subcontractors that employ the workers is itself determined by how much work they complete. With that in mind, the ministry said it would look at ways to ease the business concerns, mainly of specialty subcontractors. It also intends to ask general contractors and project owners, who have no direct contract with the workers, to take part in securing and training them.",
-              "The panel was set up as about 10 years have passed since the ministry's 2017 policy paper, “Construction Industry Policy 2017+10,” and it plans to compile a new vision around summer 2027. Meeting materials are to be posted on the MLIT website after each session."
-            ],
-            "commentary": "Three days of rain, and three days of pay are gone. For tradespeople paid by the day, the weather is a paycheck issue. I started out as a site supervisor at a homebuilder, and a job site shifts every day with the weather and the schedule. Monthly salaries would make tradespeople's income stable. But from the side of the specialty subcontractors that employ them, it means paying the same amount even in months with little work. On top of that, a company's revenue comes in only as the work progresses. When the money coming into your wallet goes up and down like waves, keeping only the money going out steady is scary, right? That's why this discussion focuses less on the workers themselves and more on how to remove the employers' worries. Bringing in general contractors and project owners is about not making one company absorb the waves alone, and smoothing them out across the whole project instead. The more days sites shut down in extreme heat, the bigger the gap between daily and monthly pay becomes. Whether people can plan their lives on this work will decide how many workers the industry has 10 years from now. I think that's the stage we've reached.",
-            "briefing": [
-              "The second meeting ran from 2 to 4 p.m. on October 13 at the Shoko Kaikan in Tokyo's Chiyoda Ward. The agenda had two items: measures needed to build an industry that “values people,” and the schedule going forward (from MLIT's meeting notice).",
-              "According to the Nikkan Kensetsu Kogyo Shimbun, the materials listed securing labor costs and making sure they reach workers, the shift to monthly salaries, strengthening Kentaikyo (the construction workers' retirement benefit mutual aid system), and thorough use of the CCUS (Construction Career Up System, a national registry of workers' skills and site experience). MLIT also argued for monthly pay as a way of working that provides stable income even during extreme heat.",
-              "Two working groups operate under the panel, one on corporate evaluation and one on bidding and procurement. The vision will be compiled over about a year and reported to the Central Construction Industry Council (Chukenshin), the ministry's advisory body on construction policy."
-            ],
-            "hojosen": [
-              {
-                "title": "Monthly pay, homework since spring",
-                "body": "MLIT's Study Group on the Future of Construction Industry Policy recommended a shift to monthly salaries in its April 2026 report. The current panel is the stage where that recommendation gets turned into concrete measures."
-              },
-              {
-                "title": "A string of pay talks",
-                "body": "In the past few weeks, moves on skilled workers' pay have come one after another: the survey on whether “standard labor costs,” the government's benchmark wage rates for construction work, are reaching workers (reported Oct 7), the meeting between the MLIT minister and four construction industry groups (Sep 30), and the first meeting of the corporate evaluation working group (Sep 20). This discussion goes beyond the amount of pay to how steadily workers receive it."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-14-s2",
-          "number": 2,
-          "title": "八戸中心街の再開発「ハチノスクエア」にリッチモンドホテルがあす開業 旧チーノ跡地に126室",
-          "summary": "青森・八戸の旧チーノはちのへ跡地で進む再開発「ハチノスクエア」で、ホテル商業棟の「リッチモンドホテル八戸スクエア」が10月15日に開業します。",
-          "body": [
-            "青森県八戸市の中心街、十三日町で進む再開発「ハチノスクエア」で、ホテル商業棟に入る「リッチモンドホテル八戸スクエア」が10月15日にグランドオープンします。建物は地上9階建てで、1階が商業施設、2階から9階が客室フロア。客室数は126室です。",
-            "ホテルには大浴場とサウナ、ととのいスペース、レストラン、宿泊者向けラウンジを設けます。大浴場とサウナの導入は、リッチモンドホテルズのブランドとして初めてです。宿泊予約は9月4日から受け付けています。",
-            "ハチノスクエアは、商業施設「チーノはちのへ」の跡地で進む再開発です。ホテル商業棟のほか、15階建ての分譲マンション2棟「デュオヒルズ八戸ザ・マークス」と自走式の立体駐車場の計4棟で構成され、表通り側とハナミズキ通り側には公開空地が設けられる予定です。"
-          ],
-          "commentary": "表通りから一歩入ると、広場がある。ハチノスクエアは、建物の足元に公開空地を2か所とる計画です。公開空地は、敷地の一部を誰でも通れる広場として開く仕組みで、駅前のビルの前にあるベンチ付きの広場を思い浮かべてもらうとわかりやすいと思います。地方の中心街で難しいのは、建物を建てることより、人が歩き回ることなんです。車で来て、目的の店に寄って、そのまま帰る。それだと街に滞在の時間が生まれないじゃないですか。今回はホテルとマンションと駐車場を一つの街区にまとめました。泊まる人、住む人、車で来る人が同じ場所に集まる構成です。しかもホテルには、ブランド初の大浴場とサウナ。出張で泊まる人が、夜に街へ出る前にひと息つける場所を館内につくった。1階の商業と2つの広場は、その人たちを街へ送り出す玄関口になります。126室の窓に、あすから明かりがともります。",
-          "briefing": [
-            "所在地は八戸市十三日町。本八戸駅から車で約5分、JR八戸駅から車で約15分（運営会社の発表）。",
-            "分譲マンション「デュオヒルズ八戸ザ・マークス」は「エアリータワー」と「ブライトタワー」の南西向き2棟構成。マンションの着工は2024年5月で、このとき一帯の愛称が「ハチノスクエア」に決まったと報じられた（デーリー東北）。",
-            "2025年4月時点の発表では、ホテルは2026年秋の開業予定とされていた。その後、開業日が10月15日に決まった。"
-          ],
-          "sources": [
-            {
-              "name": "アールエヌティーホテルズ（公式・PR TIMES）",
-              "url": "https://prtimes.jp/main/html/rd/p/000000569.000071323.html"
-            },
-            {
-              "name": "グルメプレス",
-              "url": "https://gourmetpress.net/1478040/"
-            },
-            {
-              "name": "デーリー東北（dメニューニュース）",
-              "url": "https://topics.smt.docomo.ne.jp/article/dtohoku/region/dtohoku-20240515100007"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "跡地を複合施設に",
-              "body": "地方都市の中心街では、大型商業施設が撤退した跡地を、ホテルや住宅を組み合わせた複合施設に建て替える例が増えています。物販だけで集客するのではなく、泊まる人や住む人を中心部に呼び戻し、平日も人のいる街をつくる狙いです。"
-            },
-            {
-              "title": "公開空地とは",
-              "body": "建物の敷地内に、一般の人が自由に通行・利用できる空間を設けるものです。総合設計制度などでは、公開空地を設けることが容積率などの緩和を受ける条件になります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "アールエヌティーホテルズ（公式・PR TIMES）",
-          "sourceURL": "https://prtimes.jp/main/html/rd/p/000000569.000071323.html",
-          "shoComment": "",
-          "en": {
-            "title": "Richmond Hotel opens Oct 15 in Hachino Square, a redevelopment in central Hachinohe, northern Japan",
-            "summary": "Richmond Hotel Hachinohe Square, in the hotel and retail building of the Hachino Square redevelopment on the former site of the Chino Hachinohe mall in Hachinohe, Aomori Prefecture, opens on October 15.",
-            "body": [
-              "Richmond Hotel Hachinohe Square, which occupies the hotel and retail building of the Hachino Square redevelopment in Jusannichimachi in central Hachinohe, a port city in Aomori Prefecture, the northernmost prefecture on Japan's main island of Honshu, has its grand opening on October 15. The nine-story building has retail on the first floor and guest rooms on the second through ninth floors, 126 rooms in all.",
-              "The hotel will have a large shared bath, a sauna, a cool-down space for resting after the sauna, a restaurant and a lounge for guests. It is the first time the Richmond Hotels brand has included a large shared bath and a sauna. Reservations have been open since September 4.",
-              "Hachino Square is a redevelopment on the former site of the Chino Hachinohe shopping center. Besides the hotel and retail building, it consists of two 15-story condominium towers, Duo Hills Hachinohe The Marks, and a self-park multistory garage, four buildings in all. Public open spaces are planned on the main street side and the Hanamizuki-dori (Dogwood Street) side of the site."
-            ],
-            "commentary": "Step in from the main street, and there's a plaza. The Hachino Square plan sets aside two public open spaces at the foot of its buildings. A public open space is part of a private site opened up as a plaza anyone can walk through. Picture the plaza with benches in front of a building by a train station, and you'll get the idea. The hard part in a regional city center isn't putting up buildings. It's getting people to walk around. You drive in, stop at the store you came for, and head straight home. That way, no one spends time in town, right? Here, a hotel, condominiums and a parking garage are gathered into a single block. It's a mix that brings together people who stay, people who live there and people who arrive by car, all in one place. And the hotel has the brand's first large shared bath and sauna. They built a place inside the hotel where business travelers can catch their breath before heading out into town at night. The first-floor shops and the two plazas will be the front door that sends those people out into the city. Starting tomorrow, lights will come on in 126 windows.",
-            "briefing": [
-              "The address is Jusannichimachi, Hachinohe. It is about five minutes by car from Hon-Hachinohe Station and about 15 minutes by car from JR Hachinohe Station (according to the operator's announcement).",
-              "The Duo Hills Hachinohe The Marks condominiums consist of two southwest-facing towers, Airy Tower and Bright Tower. Construction of the condominiums began in May 2024, when the area's nickname was reported to have been set as Hachino Square (Daily Tohoku, a local newspaper).",
-              "An announcement as of April 2025 said the hotel would open in fall 2026. The opening date was later set for October 15."
-            ],
-            "hojosen": [
-              {
-                "title": "From mall site to mixed use",
-                "body": "In the centers of regional Japanese cities, more sites left empty when large retailers pull out are being rebuilt as mixed-use complexes combining hotels and housing. The aim is to bring people who stay and people who live there back to the center, instead of relying on shopping alone, and create a town with people around on weekdays too."
-              },
-              {
-                "title": "What public open space is",
-                "body": "Public open space is space within a building's site that the general public can freely walk through and use. Under schemes such as Japan's comprehensive design system, providing public open space is a condition for receiving relief on rules such as floor area ratio (FAR)."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-14-s3",
-          "number": 3,
-          "title": "千住大川端の約2100戸の大規模開発が「AQUA GATE」に 第1弾は34階586戸",
-          "summary": "三井不動産レジデンシャルが足立区千住関屋町の大規模複合開発の名称を「AQUA GATE 千住大川端」に決定。第1弾は34階建て586戸で2030年竣工予定です。",
-          "body": [
-            "三井不動産レジデンシャルは10月9日、東京都足立区千住関屋町で進む「千住大川端地区」の大規模複合開発について、タウンネームを「AQUA GATE 千住大川端」に決めたと発表しました。区域は約5.2ヘクタール。住宅約2100戸のほか、商業施設、サービス付き高齢者向け住宅、子育て支援施設などを整備する計画です。",
-            "地区は5つに分かれ、それぞれ別に開発されますが、全体で一つのまちになるよう計画されています。第1弾は「パークタワー千住大川端」で、地上34階建て、総戸数586戸。2030年1月下旬の竣工、4月下旬の入居開始を予定しています。最寄りは京成関屋駅で徒歩3分、東武の牛田駅で徒歩4分です。Impress Watchによると、開発全体は第1期が2030年ごろ、第2期が2034年ごろの完成を見込んでいます。"
-          ],
-          "commentary": "5.2ヘクタールに約2100戸。東京ドーム1個分を少し超える土地に、小さな町が一つ生まれる計算です。今回の計画には、住宅だけでなく商業施設、高齢者向け住宅、子育て支援施設が最初から並んでいます。スーパーや保育園を入居してから探すのではなく、町の部品として先に組み込んでおく。大規模開発で暮らしやすさを左右するのは、実はこの順番なんです。もう一つ大事なのが、5つの地区を別々に建てていく点です。第1弾の完成が2030年、全体の完成は2034年ごろ。最初に入居した人は、隣の街区でクレーンが動く景色の中で暮らし始めることになります。建物ごとの名前とは別に、まち全体の名前を先に決めたのは、工事が続く間も「同じ町の住人」という感覚をつくる意味があると思うんです。完成まで4年以上、町は工事中の顔で過ごします。皆さんなら、その時期の町に何があってほしいですか。",
-          "briefing": [
-            "第1弾の敷地はC-2地区で、敷地面積は1万943.63平方メートル。今回分譲するのはこのC-2地区の586戸（三井不動産レジデンシャルの発表）。",
-            "発表は千住大川端地区まちづくり協議会の構成員による共同発表の形で、B-3・C-2地区の土地所有者として東京製鐵も名を連ねた。",
-            "第1弾の物件公式サイトは、発表と同じ10月9日に開設された。"
-          ],
-          "sources": [
-            {
-              "name": "三井不動産レジデンシャル（公式）",
-              "url": "https://www.mfr.co.jp/company/news/2026/1009_01/"
-            },
-            {
-              "name": "Impress Watch",
-              "url": "https://www.watch.impress.co.jp/docs/news/2147245.html"
-            },
-            {
-              "name": "ハウジング・トリビューン",
-              "url": "https://htonline.sohjusha.co.jp/20261013-1/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "まちの名前を先に",
-              "body": "数千戸規模の開発では、建物ごとの名前とは別に、まち全体の名前を先に決める例が多くあります。東京五輪の選手村を約1万2000人の街に転換した「HARUMI FLAG」のように、まちの名前が住所の代わりの呼び名として定着していきます。"
-            },
-            {
-              "title": "工事と暮らしが並ぶ期間",
-              "body": "複数の街区を段階的に開発する計画では、先に完成した棟の入居者が、隣の街区の工事と並行して暮らす期間が生まれます。商業施設や子育て施設をどの段階で開くかが、初期の住み心地を左右します。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "三井不動産レジデンシャル（公式）",
-          "sourceURL": "https://www.mfr.co.jp/company/news/2026/1009_01/",
-          "shoComment": "",
-          "en": {
-            "title": "Tokyo's 2,100-home Senju Okawabata development is named AQUA GATE, starting with a 34-story, 586-unit tower",
-            "summary": "Mitsui Fudosan Residential has named the large mixed-use development in Senju Sekiyacho, Adachi Ward, Tokyo, “AQUA GATE Senju Okawabata.” The first phase, a 34-story tower with 586 homes, is scheduled for completion in 2030.",
-            "body": [
-              "Mitsui Fudosan Residential announced on October 9 that the large mixed-use development underway in the Senju Okawabata district of Senju Sekiyacho, in Tokyo's Adachi Ward in the northeast of the city, will carry the town name “AQUA GATE Senju Okawabata.” The area covers about 5.2 hectares (13 acres). Plans call for about 2,100 homes, along with retail facilities, serviced housing for older adults (rental apartments with support services) and childcare support facilities.",
-              "The area is divided into five districts, each developed separately but planned to form a single neighborhood. The first phase is Park Tower Senju Okawabata, a 34-story tower with 586 homes. Completion is scheduled for late January 2030, with move-ins from late April. It is a 3-minute walk from Keisei Sekiya Station, the nearest station, and a 4-minute walk from Ushida Station on the Tobu line. According to Impress Watch, the overall development's first stage is expected to be completed around 2030 and the second around 2034."
-            ],
-            "commentary": "About 2,100 homes on 5.2 hectares (13 acres). That's a small town being born on land a little bigger than one Tokyo Dome, the baseball stadium Japanese people use as a yardstick for large areas. This plan lines up not just housing but retail, housing for older adults and childcare facilities from the very start. Instead of hunting for a supermarket or a daycare after you move in, they're built in ahead of time as parts of the town. In a large development, this order is actually what decides how livable it is. The other important point is that the five districts will be built one by one. The first phase is due in 2030, and the whole project around 2034. The first people to move in will start their lives with cranes working on the next block over. Settling on a name for the whole town, separate from each building's name, does something during the years of construction too, I think: it creates the sense of being residents of the same town. Until it's finished, for more than four years, the town will wear its under-construction face. What would you want that town to have during that time?",
-            "briefing": [
-              "The first-phase site is the C-2 district, with a site area of 10,943.63 m² (118,000 sq ft). The 586 homes now on sale are all in the C-2 district (according to Mitsui Fudosan Residential's announcement).",
-              "The announcement was issued jointly by members of the Senju Okawabata District Town Planning Council, and Tokyo Steel Manufacturing was also listed as a landowner of the B-3 and C-2 districts.",
-              "The official website for the first-phase property opened on October 9, the same day as the announcement."
-            ],
-            "hojosen": [
-              {
-                "title": "Naming the town first",
-                "body": "In developments with thousands of homes, it is common to decide a name for the whole town first, separate from the names of individual buildings. As with HARUMI FLAG, which turned the Tokyo Olympic athletes' village into a neighborhood of about 12,000 people, the town name comes to be used as an everyday name in place of the address."
-              },
-              {
-                "title": "Living next to construction",
-                "body": "When multiple blocks are developed in stages, residents of the first finished buildings live alongside construction on neighboring blocks for a period. When retail and childcare facilities open makes a big difference to how livable the early years are."
               }
             ]
           }
