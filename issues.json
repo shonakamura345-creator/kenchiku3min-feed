@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "日本経済新聞",
           "sourceURL": "https://www.nikkei.com/article/DGXZQOFC1299V0S6A111C2000000/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Hakodate shrinks its station-front redevelopment by 30% and delays the opening a fourth time",
+            "summary": "The redevelopment association for the former Bojini Moriya department store site in front of Hakodate Station has submitted a smaller plan to the city. Floor area shrinks by about 30%, and the target opening has been pushed back for the fourth time.",
+            "body": [
+              "The city of Hakodate in Hokkaido, Japan's northernmost main island, announced on November 12 that the redevelopment association working on the site of the former Bojini Moriya department store, in front of JR Hakodate Station, has submitted a new, smaller project outline. The target for completion and opening is now around February 2032, the fourth time the opening has been delayed.",
+              "Under the new plan, total floor area will drop from about 38,240 m² (412,000 sq ft), the figure as of August 2024, to about 26,660 m² (287,000 sq ft). The housing and other parts of the scheme will be made smaller, and the total project cost is expected to be cut from about ¥17.6 billion to about ¥13.4 billion.",
+              "Rising construction material prices have pushed up the project's cost and forced repeated revisions. At the previous delay, the target opening was moved from May 2029 to May 2030 or later. The latest change is expected to become official once the formal procedure to amend the project plan is completed."
+            ],
+            "commentary": "About 11,600 m² (125,000 sq ft) of floor area. That's how much disappears from the plan this time, roughly 30% of the whole. When construction costs keep rising, a redevelopment is forced into a choice: build the same thing at a higher price, or build smaller. Hakodate chose the second. In house-building terms, it's like getting a quote far over budget and redrawing a two-story house as a one-story one. The basic way a redevelopment pays for itself is by selling or leasing the floor space it creates. So if you cut floor space, you also cut the money you can recover. I think they shrink anyway because the risk of years passing with nothing built weighs more than the risk of unsold space. On a prime site right in front of the station, a closed department store building sitting unused year after year hurts the town too, doesn't it? Build smaller but sooner, or bigger but later: which one does a station front really need?",
+            "briefing": [
+              "The project outline was submitted to the city of Hakodate, which made its contents public on November 12. The cut in floor area falls mainly on the housing and similar parts. Hokkaido Kensetsu Shimbun, a regional construction trade paper, reports that the new facility will consist of four buildings and that construction is targeted to start in fiscal 2029.",
+              "On timing, the Nikkei, reporting the city's announcement, gives the target as completion and opening around February 2032. The final schedule and project cost are expected to be settled when the amended project plan is approved.",
+              "The previous, third delay came to light in August 2025. At that time, soaring material prices were expected to push the total project cost of ¥17.67 billion up sharply, and the association decided to take time to review both the schedule and the budget."
+            ],
+            "hojosen": [
+              {
+                "title": "Paying with floor space",
+                "body": "In a Japanese urban redevelopment project, landowners pool their plots so the site can be used more intensively, and the extra floor space created (called reserved floor space) is sold to cover much of the construction cost. When construction costs rise, it is hard in regional cities to raise the selling price of that space by the same amount. That is why scaled-back and delayed plans are appearing across the country."
+              },
+              {
+                "title": "Rethinks at regional stations",
+                "body": "With materials and labor costs climbing, redevelopments in regional cities keep getting scaled back. The redevelopment of central Maebashi, which we reported on Oct 27, is also heading toward a much smaller plan after its costs rose. Hakodate is part of the same trend."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-13-s2",
@@ -97,7 +122,32 @@
           "reliability": "高",
           "sourceName": "東急・東急電鉄（公式）",
           "sourceURL": "https://prtimes.jp/main/html/rd/p/000001409.000010686.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Tokyo's Sakura-shinmachi Station renewal done, with Japan's first all-timber subway entrances",
+            "summary": "The renovation of Sakura-shinmachi Station on Tokyo's Den-en-toshi Line is complete. The roofs over its street entrances are built entirely of wood down to the structure, a first in Japan for an underground station's entrance, and new shops open in December.",
+            "body": [
+              "Tokyu Corporation and its rail arm Tokyu Railways announced on November 11 that the renewal of Sakura-shinmachi Station on the Den-en-toshi Line, in Tokyo's Setagaya Ward, a residential area in the city's southwest, was completed on September 30. Four shops will open in the station in stages from December 9, three of them the first of their kind in the Sakura-shinmachi area.",
+              "The highlight of the renovation is the canopies over the North and West entrances where passengers come up to street level. All of their structural members are wood, with a pitched roof carried on timber trusses. According to the companies, it is the first time in Japan that the canopy over an entrance leading from an underground station to street level has been built with an entirely wooden structure.",
+              "The work is the second phase of Green UNDER GROUND, a project to renovate, one by one, the five stations on the underground section of the Den-en-toshi Line. Construction began in May 2023. As the first phase, renovation of Komazawa-daigaku Station has been under way since July 2021."
+            ],
+            "commentary": "I don't think many people really look at subway entrances. It's a small roof over the stairs, usually steel with glass or metal panels. A kind of umbrella for the station, there to keep the rain off. Sakura-shinmachi built that umbrella with wooden ribs, all the way down to the frame. A truss is a frame made by combining triangles, so that even slender members can carry weight. Think of the row of diagonal pieces you see in the roof space of a shrine or on the ceiling of an old gym. Use wood in a place where steel is the norm, and you have to rethink protection from rain and fire from scratch. That's why it's a first in Japan, right? Tokyu is doing this as part of a project to renovate five stations on the underground section of the line. A station entrance is a building people in the neighborhood pass through every day. Even if the roof is small, I think having one more timber structure on a street corner means a lot. If you're ever in Tokyo and come up the stairs at Sakura-shinmachi, look up at the ceiling and check how the triangles are put together.",
+            "briefing": [
+              "Part of the timber comes from Aomori Prefecture in northern Japan. Tokyu explains that this carries on the history of exchange between the Sakura-shinmachi shopping streets and Aomori's Nebuta festival, known for its giant illuminated floats.",
+              "A total of four shops will open from December 9 onward. Three are opening in the Sakura-shinmachi area for the first time, and opening hours vary by shop.",
+              "Green UNDER GROUND covers the five stations on the underground section of the Den-en-toshi Line, with the aim of turning them into sustainable underground stations."
+            ],
+            "hojosen": [
+              {
+                "title": "Timber and fire rules",
+                "body": "In places used by large numbers of the public, such as stations, the requirements for fire resistance are strict, and wooden structures are still uncommon. In recent years, with the spread of timber with improved fire performance and char-layer design, which sizes members so enough wood remains after the surface burns, timber construction has been expanding into station buildings and offices."
+              },
+              {
+                "title": "Renewing stations in turn",
+                "body": "At underground stations that have been in service for many years, more operators are rethinking interiors and design when they replace equipment. Tokyu has given the five stations on one line a single project name and is renovating them with a shared theme."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-13-s3",
@@ -141,7 +191,31 @@
           "reliability": "高",
           "sourceName": "ブラチスラバ市（公式）",
           "sourceURL": "https://www.bratislava.sk/spravy/zimny-pristav-sa-otvori-mestu-pozname-vitazny-navrh-jeho-premeny",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Hosoya Schaefer wins Bratislava's competition to remake a 65-hectare Danube harbor, chosen from 123 entries",
+            "summary": "In Bratislava, the capital of Slovakia, results were announced for an international competition to open up Zimny pristav, the Winter Harbor on the Danube, to the city. A team led by a Swiss firm won.",
+            "body": [
+              "In Bratislava, the capital of Slovakia, results have been announced for an international urban planning competition to regenerate Zimny pristav (the Winter Harbor), a port district on the Danube River. The winning proposal came from a team led by Hosoya Schaefer Architects of Zurich, Switzerland. The results were made public on November 9.",
+              "The competition drew 123 entries from 33 countries, and the winner was chosen unanimously by the jury from the seven teams that advanced to the second stage. The team also includes the British landscape firm Gillespies, ARGUS studio of Germany, and Korting Ingenieure.",
+              "The site covers about 65 hectares (160 acres), including water. The winning plan is built around three parks with different characters and a promenade that loops around the harbor, combining housing, workplaces and the port's industrial heritage to open up a harbor that has long been closed off to the city."
+            ],
+            "commentary": "A harbor on the banks of the Danube, yet used as an industrial zone and cut off from the city. That's Bratislava's Winter Harbor. It covers about 65 hectares (160 acres), enough to hold roughly 14 Tokyo Domes, the baseball stadium Japanese people use as a yardstick for big areas. What the winning plan puts at its core is not buildings but parks and promenades. Making the waterfront a place anyone can walk is at the center of the plan. When people in Japan hear about harbor regeneration, many think of Minato Mirai in Yokohama, right? There, big towers became the face of the district. Bratislava is trying to make the time spent walking along the river the face of the city itself. Hosoya Schaefer, which leads the team, is the firm Hiromi Hosoya and Markus Schaefer founded in Zurich in 2003. The ones who chose it were every member of the jury, after comparing 123 entries.",
+            "briefing": [
+              "The competition was launched by the state-owned port company and the city of Bratislava, and run by the Metropolitan Institute of Bratislava. The results were announced at the Winter Riding Hall of Bratislava Castle.",
+              "The winning team will now develop its proposal into a final masterplan. The masterplan will be the framework that sets the rules for developing the district, and carrying it out will also require changes to the city's land-use plan. The regeneration is expected to take years."
+            ],
+            "hojosen": [
+              {
+                "title": "Giving waterfronts back",
+                "body": "Redevelopments that turn disused harbor and factory waterfronts into parks and homes have spread across Europe, as in Hamburg's HafenCity. In recent years, more plans create walkable waterfronts and greenery first, before large buildings."
+              },
+              {
+                "title": "Cities chosen by competition",
+                "body": "In Europe, choosing the future shape of a large district through an international competition is a widely used approach. Comparing proposals in public makes it easier for residents to join the debate. In Japan, competitions and proposal-based selections are used to choose designers for redevelopments, but it is still rare for an entire district plan to be decided by international competition."
+              }
+            ]
+          }
         }
       ]
     },
