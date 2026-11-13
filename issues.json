@@ -1,6 +1,151 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-14",
+      "date": "2026-11-14",
+      "weekday": "土",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-14-s1",
+          "number": 1,
+          "title": "丸の内の郵船ビル建て替え、新本店の外装デザインを決定 船の航跡を1階の壁に、33年竣工へ",
+          "summary": "日本郵船が丸の内の本店「郵船ビルディング」の建て替えで、新ビルの概要と外装デザインを決めました。英国の事務所が外装を担当し、2033年の竣工予定です。",
+          "body": [
+            "日本郵船は11月13日、東京・丸の内にある本店ビル「郵船ビルディング」の建て替えに伴い、新しい本店ビルの概要と外装デザインを決めたと発表しました。竣工は2033年の予定です。ビル全体の建築設計は三菱地所設計、外装のデザインは英国ロンドンを拠点とするPLP Architectureが担当します。",
+            "外装には、海運会社らしく船や波をモチーフにしたデザインを取り入れます。1階では、折れながら連なる壁面に船の航跡をイメージした「SHIP WAKE（航跡波）」の表情を与えます。また、日比谷通り、行幸通り、丸の内仲通りの3本の通りに面してピロティ（柱で持ち上げた建物の下の屋外空間）を設け、周辺の歩行者の流れとつなげる計画です。",
+            "郵船ビルディングは、皇居と東京駅を結ぶ行幸通りの角に建つビルです。日本郵船は2023年7月に建て替えの検討を明らかにし、当時は2030年代前半の竣工を目指すとしていました。今回の発表で、具体的な竣工年が示された形です。"
+          ],
+          "commentary": "1階の壁が、折れ曲がりながら続いていきます。船が進んだあとに水面に残る、ハの字の白い波。あの形をなぞった壁なんです。丸の内のオフィスビルは、上のほうの階では似た顔つきになりがちです。だから個性を出すなら、歩く人の目線に近い低い階が勝負どころになります。今回の計画は、3本の通りに面してピロティをつくると決めました。ピロティは、建物を柱で持ち上げて下を通り抜けられるようにする形です。駅の高架下を歩くと、屋根はあるのに外にいる感じがしますよね。あの感覚に近いと思います。行幸通りは、東京駅から皇居へまっすぐ延びる、東京でいちばん格式のある通りの一つです。その角で、航跡の壁が街の人を迎えることになります。完成予定は、いまから7年後の2033年です。",
+          "briefing": [
+            "日本郵船の発表では、新本店ビル全体の建築設計を三菱地所設計、外装デザインを英国のPLP Architectureが担当します。公式発表の計画概要では、施工者は戸田建設（予定）とされています。",
+            "2023年7月に建て替えの検討が報じられた際、日本郵船は建て替え期間中、横浜市に建設する新しいビルに本社機能を移す計画を示していました。",
+            "現在の郵船ビルディングは1978年に完成したビルで、日本郵船の本店が入っています。今回の発表では、通り沿いのピロティを周辺の歩行者ネットワークとつなぐことも計画の柱に掲げています。"
+          ],
+          "sources": [
+            {
+              "name": "日本郵船（公式）",
+              "url": "https://www.nyk.com/news/2026/20261113_01.html"
+            },
+            {
+              "name": "LNEWS",
+              "url": "https://www.lnews.jp/2026/11/s1113504.html"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/jp/news/articles/2023-07-11/RXLYDCT0AFB401"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "丸の内の建て替え周期",
+              "body": "丸の内では、1970年代前後に建ったビルが次々に建て替えの時期を迎えています。新しいビルでは、低層部を広場や通り抜けとして街に開く設計が定番になりつつあります。郵船ビルの計画も、その流れの上にあります。"
+            },
+            {
+              "title": "外装だけ海外の事務所に",
+              "body": "国内の大型ビルでは、全体の設計は国内の設計事務所が担い、外観のデザインだけを海外の事務所に任せる分業がしばしば見られます。法規や構造、施工との調整は国内側が受け持ち、街の顔になる外装で個性を出すやり方です。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "日本郵船（公式）",
+          "sourceURL": "https://www.nyk.com/news/2026/20261113_01.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-14-s2",
+          "number": 2,
+          "title": "札幌・旧センチュリーロイヤルホテル跡に20階の複合ビル 住友生命が28年4月の着工めざす",
+          "summary": "札幌駅前の旧センチュリーロイヤルホテル跡地に、住友生命が地上20階の複合ビルを計画。商業、オフィス、約300室のホテルが入り、28年4月の着工を目指します。",
+          "body": [
+            "2024年に閉館した札幌市中央区北5条西5丁目の旧「センチュリーロイヤルホテル」の跡地で、住友生命保険が新しい複合ビルを計画していることが、札幌市の都市計画審議会で明らかになりました。地下1階・地上20階建てで、延べ床面積は約4万9500平方メートルを見込みます。2028年4月の着工を目指しています。地下1階と1階には複数の商業店舗を配置し、2階から上はオフィスと、300室ほどのホテルとして使う計画です。",
+            "札幌市は、この街区の都市計画を見直し、容積率（敷地の広さに対して建てられる床面積の割合）と高さの上限を緩める方針です。跡地を含むA地区の容積率を1181%に、隣接するB地区を878%にし、高さの上限を最高82メートルから100メートルに引き上げます。旧ホテルの建物の解体はほぼ終わっています。"
+          ],
+          "commentary": "札幌駅の南口を出て、西へ少し歩いた角。そこに、てっぺんがゆっくり回るレストランのあるホテルが建っていました。2024年5月に閉館したセンチュリーロイヤルホテルです。その跡地に、20階建ての複合ビルの計画が見えてきました。今回のカギは容積率です。容積率は、敷地の広さの何倍まで床をつくっていいかという上限のこと。たとえば100坪の土地で容積率が1000%なら、床は合計1000坪までです。札幌市はこの区画の上限を引き上げ、高さも100メートルまで認める方針です。工事費が上がる中で建て替えを成り立たせるには、床を増やして家賃収入を厚くするしかないんです。1階に店が並べば、駅前の歩道の景色もかなり変わると思います。今度札幌駅の南口を歩くときは、北5条西5丁目の角の空き地がどれくらいの広さなのか、目で確かめてみてください。",
+          "briefing": [
+            "センチュリーロイヤルホテルは、ビルを所有する住友生命との賃貸借契約の満了と建物の老朽化を理由に、2024年5月31日に閉館しました。道内で唯一の回転展望レストランがあったことで知られ、51年の歴史に幕を下ろしました。",
+            "都市計画の変更では、旧ホテルの跡地をA地区、隣接する敷地をB地区に分けて、それぞれに容積率の上限を定めます。高さの上限は、これまでの最高82メートルから100メートルに引き上げられます。",
+            "ホテルの運営会社や開業時期については、今回明らかになった計画には含まれていません。2028年4月の着工も目標の段階で、今後の都市計画の手続きを経て計画が固まります。"
+          ],
+          "sources": [
+            {
+              "name": "テレビ北海道（Yahoo!ニュース）",
+              "url": "https://news.yahoo.co.jp/articles/357691d9eb4cb32f2be157ca9d470970f6b9dd44"
+            },
+            {
+              "name": "北海道建設新聞",
+              "url": "https://e-kensin.net/n/n4947b1b1cc4f?gs=7da658f84d09cee471d591f4289b9a7e"
+            },
+            {
+              "name": "北海道不動産連合隊",
+              "url": "https://hre-net.com/real_estate/95871/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "札幌駅前の建て替えラッシュ",
+              "body": "札幌駅周辺では、北海道新幹線の延伸をにらんで大型の再開発や建て替えが続いてきました。一方で、駅南口の北5西1・西2地区の再開発は、ホテルの取りやめなど計画の見直しを進めています。住友生命の計画は、その中で民間の単独ビルとして動き出す案件です。"
+            },
+            {
+              "title": "容積率の緩和と引き換え",
+              "body": "容積率の上乗せは、地域に役立つ空間や機能を提供することと引き換えに認められるのが一般的です。歩行者空間の整備やホテルなど、街に必要な用途を入れることが、緩和の根拠として示されることが多くあります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "テレビ北海道（Yahoo!ニュース）",
+          "sourceURL": "https://news.yahoo.co.jp/articles/357691d9eb4cb32f2be157ca9d470970f6b9dd44",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-14-s3",
+          "number": 3,
+          "title": "旭化成ホームズ、ゼネコンの森組をTOBで完全子会社化へ 最大約128億円、人手不足に備え",
+          "summary": "ヘーベルハウスの旭化成ホームズが、大阪のゼネコン森組の完全子会社化を目指してTOBを始めました。施工する人材や協力会社のネットワークを互いに生かす狙いです。",
+          "body": [
+            "旭化成の子会社で住宅メーカーの旭化成ホームズは11月12日、総合建設会社（ゼネコン）の森組をTOB（株式公開買い付け）で完全子会社にすると発表しました。買い付け価格は1株564円で、取得総額は最大約128億円です。買い付け期間は11月13日から2027年1月7日までです。",
+            "旭化成ホームズは森組の株式の約30%を持つ筆頭株主です。森組はTOBに賛同し、株主に応募を勧めています。第2位株主の長谷工コーポレーションも、持っている株式をすべて応募することで合意しました。TOBが成立すれば、森組は上場廃止となる見通しです。",
+            "狙いについて、両社は施工にかかわる人材や協力会社のネットワークを互いに活用することを挙げています。建設業界で人手不足が続く中、施工の体制を強め、工期の短縮やコスト面での競争力を高めたい考えです。旭化成グループの顧客基盤や営業網を生かした受注の拡大も見込んでいます。"
+          ],
+          "commentary": "皆さん、家を建てる会社と、ビルを建てる会社は別物だと思っていませんか。実は、その境目が少しずつ薄くなっているんです。今回、住宅メーカーの旭化成ホームズが、マンションや道路の工事を手がけるゼネコンの森組を丸ごとグループに入れようとしています。いま建設の現場で一番足りないのは、お金より人です。図面があっても、現場を仕切る技術者や、鉄筋や型枠を組む職人さんがそろわなければ、建物は1ミリも立ち上がりません。協力会社のネットワークは、言ってみれば「いざという時に電話一本で来てくれる職人さんの名簿」です。この名簿を2社で共有できれば、片方の現場が忙しい時に、もう片方から人を回せます。買い付け価格は直前の株価に約8割上乗せした水準です。それだけ払っても欲しいのは、職人さんとつながる力なんだと思います。建てる人をどれだけ抱えているかが会社の値段を決める時代、次に動くのはどこなんでしょうね。",
+          "briefing": [
+            "買い付け価格の564円は、発表前の営業日にあたる11月11日の森組株の終値315円に対し、79.05%の上乗せ（プレミアム）です。買い付け予定数の下限は1192万2100株で、上限は設けていません。",
+            "第2位株主の長谷工コーポレーションは、森組株の8.01%を保有しています。旭化成は長谷工との間で、保有株のすべてをTOBに応募する契約を結んだと開示しています。",
+            "発表を受けて東京証券取引所は11月12日、森組を監理銘柄（確認中）に指定しました。13日の株式市場では、森組の株価がTOB価格に近づく動きとなりました。"
+          ],
+          "sources": [
+            {
+              "name": "旭化成（公式・適時開示）",
+              "url": "https://www.release.tdnet.info/inbs/140120261112576702.pdf"
+            },
+            {
+              "name": "日本経済新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOUC129T80S6A111C2000000/"
+            },
+            {
+              "name": "M&A Online",
+              "url": "https://maonline.jp/news/20261112h"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "住宅会社が施工力を買う",
+              "body": "新築住宅の着工が伸び悩む中、住宅メーカーは中高層のマンションや非住宅の建物へ事業を広げています。そのためには、戸建てとは違う規模の現場を回せる施工力が必要になります。ゼネコンをグループに取り込む動きは、その近道の一つです。"
+            },
+            {
+              "title": "担い手不足と業界再編",
+              "body": "建設業では技能者の高齢化が進み、若い入職者が足りない状況が続いています。11月9日号でお伝えした政府横断のタスクフォース設置も、この人手不足が背景です。人を確保するために、会社ごと一緒になる再編が中堅・中小の建設会社にも広がっています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "旭化成（公式・適時開示）",
+          "sourceURL": "https://www.release.tdnet.info/inbs/140120261112576702.pdf",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-13",
       "date": "2026-11-13",
       "weekday": "金",
@@ -6268,221 +6413,6 @@
               {
                 "title": "All-electric buildings",
                 "body": "An all-electric building runs its heating, cooling and hot water on electricity rather than burning gas or other fuels. Paired with renewable power, it is seen as a way to cut a building's carbon dioxide emissions during operation. For a large facility like an airport, with millions of people passing through each year, the choice of energy directly affects both operating costs and environmental impact."
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-15",
-      "date": "2026-10-15",
-      "weekday": "木",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-15-s1",
-          "number": 1,
-          "title": "旧パレスホテル箱根の跡地で建て替えが着工 閉館から11年、全69室で2029年秋開業へ",
-          "summary": "1960年開業のパレスホテル箱根の跡地で10月13日に起工式。地上4階・地下1階、全69室のリゾートとして2029年秋の開業をめざします。",
-          "body": [
-            "株式会社パレスホテル、九州電力、クラフティアの3社は10月14日、神奈川県箱根町仙石原の旧「パレスホテル箱根」跡地で、ホテルの建て替え工事に着工したと発表しました。前日の10月13日に起工式を行っています。新しいホテルも「パレスホテル箱根」の名前を引き継ぎ、2029年秋の開業を予定しています。",
-            "旧ホテルは国立公園内の宿舎事業として認可を受け、1960年に前身の「箱根観光ホテル」として開業しました。56年にわたって親しまれましたが、建物の老朽化を理由に2018年1月に営業を終えています。新ホテルの開業は、閉館から約11年後となる計画です。",
-            "新しい建物は地上4階・地下1階建てで、延床面積は約1万2850平方メートル。客室は全69室で、スイート6室とヴィラ5棟を含みます。館内にはレストランやラウンジバーなど3つの料飲施設のほか、スパやプール、フィットネスジムを設ける計画です。"
-          ],
-          "commentary": "地上4階に、69室。延床面積1万2850平方メートルという規模からすると、背の低い建物にゆったりと部屋を並べる計画です。都心のホテルは上へ上へと伸びていくじゃないですか。その逆なんです。舞台は国立公園の中です。国立公園では、建物の高さや色、形にまで景観への配慮が求められます。お風呂でいえば、湯船の大きさが最初から決まっているようなものです。その枠の中で、スイート6室とヴィラ5棟まで含めて69室に絞った。部屋数で稼ぐより、一室あたりのゆとりと周りの自然で勝負する判断だと思うんです。スパやプールを館内に持つのも、外に出かけなくても一日を過ごせる滞在型のつくりです。旧ホテルは1960年に開業し、56年間この仙石原で営業してきました。閉館から開業までは11年。すすきの原が広がる仙石原に、2029年の秋、新しい明かりがともります。",
-          "briefing": [
-            "所在地は神奈川県足柄下郡箱根町仙石原1245。報道では、富士山を望む国立公園内のリゾートホテルとして紹介されています。",
-            "3つの料飲施設はオールデイダイニング、ラウンジバー、スペシャリティレストラン。ウェルネス施設としてスパ、プール、フィットネスジムを備えます。",
-            "事業はパレスホテル、九州電力、クラフティアの3社で進めます。九州電力も自社のプレスリリースで、10月13日の起工式と着工を公表しました。"
-          ],
-          "sources": [
-            {
-              "name": "九州電力（公式）",
-              "url": "https://www.kyuden.co.jp/press/2026/h261014-1.html"
-            },
-            {
-              "name": "ファッションプレス",
-              "url": "https://www.fashion-press.net/news/152032"
-            },
-            {
-              "name": "TABIRIS",
-              "url": "https://tabiris.com/archives/palacehotel-hakone/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "国立公園の宿",
-              "body": "国立公園の中では、自然公園法に基づいて建物の高さや色、規模などが規制されます。宿泊施設は国の認可を受けた「公園事業」として営む形があり、旧パレスホテル箱根もこの宿舎事業の認可を受けて開業しました。景観と建物のボリュームの釣り合いが、設計の大きな前提条件になります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "九州電力（公式）",
-          "sourceURL": "https://www.kyuden.co.jp/press/2026/h261014-1.html",
-          "shoComment": "",
-          "en": {
-            "title": "Rebuilding begins on the former Palace Hotel Hakone site, aiming for a 69-room reopening in fall 2029",
-            "summary": "A groundbreaking ceremony was held on October 13 at the site of Palace Hotel Hakone, which opened in 1960. The new four-story resort with one basement level and 69 rooms is set to open in fall 2029.",
-            "body": [
-              "Palace Hotel Co., Kyushu Electric Power and Craftia announced on October 14 that construction of a replacement hotel has started on the site of the former Palace Hotel Hakone in Sengokuhara, a highland district of Hakone, the hot-spring resort area in the mountains southwest of Tokyo in Kanagawa Prefecture. A groundbreaking ceremony was held the day before, on October 13. The new hotel will carry on the Palace Hotel Hakone name and is scheduled to open in fall 2029.",
-              "The original hotel was licensed as a lodging business inside a national park and opened in 1960 under its earlier name, Hakone Kanko Hotel. It was a well-loved fixture for 56 years but closed in January 2018 because the building had aged. The new hotel is planned to open about 11 years after the closure.",
-              "The new building will have four floors above ground and one basement level, with a total floor area of about 12,850 m² (138,000 sq ft). It will have 69 rooms in all, including six suites and five villas. Plans call for three restaurants and bars, including a restaurant and a lounge bar, along with a spa, a pool and a fitness gym."
-            ],
-            "commentary": "Four floors above ground, 69 rooms. For a total floor area of 12,850 m² (138,000 sq ft), that means laying the rooms out generously in a low building. Hotels in the middle of a big city keep reaching higher and higher, right? This is the opposite. The setting is inside a national park. In national parks, buildings have to respect the landscape, down to their height, color and shape. If it were a bath, the size of the tub would be fixed from the start. Within that frame, they held the count to 69 rooms, six suites and five villas included. I read that as a decision to compete on the space each room gets and the nature around it, not on the number of rooms. Having a spa and pool inside the hotel also points to a stay-put design, where you can spend the whole day without heading out. The old hotel opened in 1960 and ran here in Sengokuhara for 56 years. It will be 11 years from closing to reopening. In fall 2029, a new light will come on in Sengokuhara, where the fields of pampas grass spread out.",
-            "briefing": [
-              "The address is 1245 Sengokuhara, Hakone Town, Ashigarashimo District, Kanagawa Prefecture. Media reports describe it as a resort hotel inside a national park with views of Mount Fuji.",
-              "The three dining venues are an all-day dining restaurant, a lounge bar and a specialty restaurant. Wellness facilities include a spa, a pool and a fitness gym.",
-              "The project is being carried out by three companies: Palace Hotel, Kyushu Electric Power and Craftia. Kyushu Electric Power also announced the October 13 groundbreaking and the start of construction in its own press release."
-            ],
-            "hojosen": [
-              {
-                "title": "Hotels inside national parks",
-                "body": "Inside Japan's national parks, the Natural Parks Act limits the height, color, size and other aspects of buildings. Lodging can be run as a government-approved “park project,” and the original Palace Hotel Hakone opened under this kind of license for lodging. Balancing the landscape against the size of the building is a basic starting condition for the design."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-15-s2",
-          "number": 2,
-          "title": "人手不足倒産が4〜9月で過去最多の240件 建設業は55件、9月の建設倒産は減少",
-          "summary": "東京商工リサーチの集計で、2026年度上半期の人手不足倒産は240件と過去最多に。建設業は55件でした。一方、9月単月の建設業倒産は前年より減っています。",
-          "body": [
-            "東京商工リサーチは10月、2026年度上半期（4〜9月）に「人手不足」が原因で倒産した企業が240件にのぼり、過去最多を更新したと発表しました。前年同期から17.0%の増加です。対象は負債1000万円以上の倒産で、従業員を確保できない、人件費の上昇に経営が耐えられないといった理由が含まれます。",
-            "産業別では、サービス業他が91件、建設業が55件（前年同期比5.7%増）で、この2産業で全体の6割を占めました。理由別では「人件費高騰」による倒産が130件と半数を超えています。規模別では資本金1000万円未満の小さな企業が159件で、全体の3分の2近くを占めました。",
-            "一方で、9月単月の建設業の倒産は減っています。東京商工リサーチの集計では132件で前年同月比27.4%減、帝国データバンクの集計では145件で同18.5%減でした。両社は集計基準が異なるため数字を単純には比べられませんが、どちらも前年を下回りました。"
-          ],
-          "commentary": "240件。半年のあいだに、人が足りないことを理由に240の会社が倒れた計算です。放送でも話したんですが、地方では公共工事の仕事があっても、人が足りなくて入札に参加できない会社があります。仕事はあるのに、受ける手がない。今回の数字はその延長線上にあります。気になるのは、理由の半分以上が「人件費高騰」だという点です。職人さんの給料を上げるのは、業界の悲願ですよね。でも雇う側が資本金1000万円未満の小さな会社だと、上がった人件費を工事代金に乗せきれない。冬の窓ガラスと同じで、部屋の暖かさと外の冷たさの差が大きいほど、結露のしずくは増えます。賃金を上げたい力と、払いきれない体力の差が、倒産という形でにじみ出ているんです。9月の建設業倒産は確かに減りました。それでも廃業まで含めた撤退は、高い水準が続いています。給料を上げながら会社も残す。その費用を最後に負担するのは誰なんでしょうね。",
-          "briefing": [
-            "東京商工リサーチによると、9月の全国企業倒産は831件で前年同月比4.8%減。前年同月を下回った4産業の一つが建設業で、件数は今年最少でした。",
-            "同社は、10月以降に全国で最低賃金が引き上げられたことで、物価高と人件費上昇による「賃上げ疲れ」が強まり、人手不足倒産の増勢は続くとみています。",
-            "帝国データバンクの9月報では、建設業のうち業歴の浅い企業の倒産が33件と、前年同月の52件から減りました。",
-            "帝国データバンクによると、暦年の2026年上半期（1〜6月）の建設業倒産は1043件で、前年同期を5.8%上回っていました。月単位で減る月があっても、年単位では高い水準が続いています。"
-          ],
-          "sources": [
-            {
-              "name": "東京商工リサーチ（公式）",
-              "url": "https://www.tsr-net.co.jp/news/status/detail/1203307_1610.html"
-            },
-            {
-              "name": "帝国データバンク（公式）",
-              "url": "https://www.tdb.co.jp/report/bankruptcy/aggregation/20261008-bankruptcy202609/"
-            },
-            {
-              "name": "アドバンスニュース",
-              "url": "https://www.advance-news.co.jp/news/2026/10/post-5247.html"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "賃上げと体力の板挟み",
-              "body": "国は技能者の賃上げを業界全体の目標に掲げ、10月14日号でお伝えした月給制への転換の議論も進んでいます。ただ、賃金を払う側の小さな専門工事会社にとって、人件費の上昇はそのまま経営の重荷になります。処遇を上げる政策と、それを支える会社の体力をどう両立させるかが問われています。"
-            },
-            {
-              "title": "倒産より多い廃業",
-              "body": "帝国データバンクによると、2026年上半期（1〜6月）の建設業の休廃業・解散は4894件で、倒産の4倍以上にのぼりました。倒産と合わせた「撤退」は5937件で、上半期としてはリーマン・ショック直後の2009年を上回り過去最多でした。倒産件数は、業界から会社が消えていく流れの一部にすぎません。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "東京商工リサーチ（公式）",
-          "sourceURL": "https://www.tsr-net.co.jp/news/status/detail/1203307_1610.html",
-          "shoComment": "",
-          "en": {
-            "title": "Labor-shortage bankruptcies in Japan hit a record 240 in April to September, 55 in construction",
-            "summary": "Tokyo Shoko Research counted a record 240 bankruptcies caused by labor shortages in the first half of fiscal 2026, 55 of them in construction. Construction bankruptcies for September alone, however, fell from a year earlier.",
-            "body": [
-              "Tokyo Shoko Research, one of Japan's two major corporate credit research firms, announced in October that 240 companies went bankrupt because of labor shortages in the first half of fiscal 2026 (April to September), a new record. That is up 17.0% from the same period a year earlier. The count covers bankruptcies with liabilities of ¥10 million or more, and the causes include being unable to hire enough workers and being unable to absorb rising labor costs.",
-              "By industry, services and others accounted for 91 cases and construction for 55 (up 5.7% year on year), together making up 60% of the total. By cause, bankruptcies due to soaring labor costs numbered 130, more than half. By size, small companies with capital of less than ¥10 million accounted for 159 cases, nearly two-thirds of the total.",
-              "Construction bankruptcies for September alone, on the other hand, declined. Tokyo Shoko Research counted 132, down 27.4% from a year earlier, while Teikoku Databank, the other major credit research firm, counted 145, down 18.5%. The two firms use different criteria, so their numbers can't be compared directly, but both came in below the previous year."
-            ],
-            "commentary": "240. Over six months, 240 companies went under because they couldn't find enough people. I've talked about this on my show too: in regional Japan, there are companies that can't even bid on public works because they don't have the staff, even when the work is there. The work exists, but there are no hands to take it on. These numbers are an extension of that. What concerns me is that more than half were caused by soaring labor costs. Raising tradespeople's pay is something the industry has long wished for, right? But when the employer is a small company with less than ¥10 million in capital, it can't pass the higher labor costs fully on to its construction prices. It's like a window in winter: the bigger the gap between the warm room and the cold outside, the more condensation drips down the glass. The gap between the push to raise wages and the strength to pay them is seeping out in the form of bankruptcies. Construction bankruptcies did fall in September. Even so, exits from the industry, including closures, remain at a high level. Raising pay while keeping companies alive. Who ends up paying for that in the end?",
-            "briefing": [
-              "According to Tokyo Shoko Research, there were 831 corporate bankruptcies nationwide in September, down 4.8% from a year earlier. Construction was one of four industries below the previous year's level, and its count was the lowest so far this year.",
-              "The firm expects the rise in labor-shortage bankruptcies to continue, saying that minimum wage increases across Japan from October onward will deepen “wage-hike fatigue” caused by high prices and rising labor costs.",
-              "In Teikoku Databank's September report, bankruptcies among construction companies with short operating histories fell to 33 from 52 a year earlier.",
-              "According to Teikoku Databank, construction bankruptcies in the first half of calendar 2026 (January to June) totaled 1,043, up 5.8% from a year earlier. Even with some months showing declines, the yearly level remains high."
-            ],
-            "hojosen": [
-              {
-                "title": "Caught between pay and survival",
-                "body": "The national government has made higher pay for skilled workers a goal for the whole industry, and discussion of a shift to monthly salaries, which we reported on Oct 14, is moving ahead. But for the small specialty subcontractors that actually pay the wages, rising labor costs are a direct burden on the business. The question is how to raise workers' conditions while keeping the companies that support them healthy."
-              },
-              {
-                "title": "More closures than bankruptcies",
-                "body": "According to Teikoku Databank, 4,894 construction companies suspended operations, closed or dissolved in the first half of 2026 (January to June), more than four times the number of bankruptcies. Combined with bankruptcies, these “exits” totaled 5,937, the most ever for a first half, surpassing 2009, just after the Lehman Brothers collapse. Bankruptcies are only one part of the trend of companies disappearing from the industry."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-15-s3",
-          "number": 3,
-          "title": "星野リゾート「界 蔵王」がきょう開業 火口湖「御釜」をモチーフに360度の屋上テラス",
-          "summary": "星野リゾートの温泉旅館「界 蔵王」が10月15日、山形・蔵王温泉に開業。建築家の神谷修平氏が設計を監修し、火口湖「御釜」を屋上テラスのモチーフにしました。",
-          "body": [
-            "星野リゾートは10月15日、山形県山形市の蔵王温泉に温泉旅館「界 蔵王」を開業します。全国に展開する温泉旅館ブランド「界」の新施設で、星野リゾートが山形県に進出するのは初めてです。コンセプトは「御釜で整う、温泉スパイラル」。蔵王連峰の火口湖「御釜」から着想を得た建築と、強酸性の温泉を組み合わせています。",
-            "建物の最大の特徴は、屋上に設けた360度を見渡せるルーフトップテラスです。御釜をモチーフにしたテラスの中心にジャグジーを置き、サウナやラウンジを含むエリアを自由に巡れる「回遊型ウェルネスエリア」としています。東に蔵王連峰、西に田園風景と朝日連峰の遠景が見えるとされています。",
-            "建築基本設計・デザイン監修は建築家の神谷修平氏が率いるカミヤアーキテクツが担当し、ランドスケープ設計はオリザ、施工は市村工務店です。客室は49室で、すべてが地域の文化を取り入れた「ご当地部屋」の「くれないモダンの間」です。"
-          ],
-          "commentary": "皆さん、温泉に入ったあと、どこで体を冷ましていますか。界 蔵王は、その湯上がりの居場所を屋上に持ち上げた建物です。火口湖の御釜をかたどったテラスの真ん中にジャグジーがあり、サウナやラウンジをぐるぐると巡れる。スパイラル、つまり渦巻きという言葉どおり、館内を歩くこと自体が体験になる設計なんです。旅館の大浴場は、地上に近い階に置かれることが多いです。お湯は重く、配管も複雑になるので、下の階のほうが支えやすいからです。それでもテラスを屋上に置いたのは、東の蔵王連峰と西の朝日連峰という360度の眺めを、湯上がりの時間に重ねたかったからだと思います。もう一つ、強酸性の湯は建物にとって手ごわい相手です。金属は傷みやすく、仕上げ材の選び方が寿命を左右します。今度温泉に行ったら、湯船の縁や手すりが何でできているか、少し気にして見てみてください。",
-          "briefing": [
-            "料金は2名1室利用時の1名あたり3万1000円から（税・サービス料込、夕朝食付）。予約は2026年4月22日から受け付けていました。",
-            "蔵王温泉は日本有数の強酸性の硫黄泉として知られます。大浴場には、強い泉質に合わせて濃度の異なる3つの湯船を用意すると報じられています。",
-            "神谷修平氏は建築家・クリエイティブディレクターとして関わり、星野リゾートの公式サイトへの寄稿で、地域の職人と対話しながら蔵王の文化や風土を建築に表現したと述べています。"
-          ],
-          "sources": [
-            {
-              "name": "星野リゾート（公式・PR TIMES）",
-              "url": "https://prtimes.jp/main/html/rd/p/000002096.000033064.html"
-            },
-            {
-              "name": "ウォーカープラス",
-              "url": "https://www.walkerplus.com/article/1343224/"
-            },
-            {
-              "name": "VAGUE（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/8628e0064e377b39de0af08086c7aaa0cc056e97"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "「界」のご当地部屋",
-              "body": "「界」ブランドは各施設に、その土地の文化を内装に取り入れた「ご当地部屋」を設けるのが特徴です。界 蔵王では49室すべてを「くれないモダンの間」とし、客室の仕上げでも地域性を表しています。建物の形と内装の両方で土地を表現する、ブランド共通の考え方です。"
-            },
-            {
-              "title": "強酸性泉と建物",
-              "body": "強酸性の温泉は金属を腐食させやすく、配管や浴室の仕上げ材の選び方が設計上の大きな課題になります。温泉地の宿では、湯気や温泉成分による設備の傷みが建物の寿命を左右することもあります。濃度の違う湯船は利用者への配慮ですが、その裏側では材料選びの工夫も欠かせません。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "星野リゾート（公式・PR TIMES）",
-          "sourceURL": "https://prtimes.jp/main/html/rd/p/000002096.000033064.html",
-          "shoComment": "",
-          "en": {
-            "title": "Hoshino Resorts opens KAI Zao in Yamagata, with a 360-degree rooftop terrace modeled on the Okama crater lake",
-            "summary": "Hoshino Resorts' hot-spring ryokan KAI Zao opens on October 15 in Zao Onsen, Yamagata. Architect Shuhei Kamiya supervised the design, using the Okama crater lake as the motif for the rooftop terrace.",
-            "body": [
-              "Hoshino Resorts opens KAI Zao, a hot-spring ryokan (a traditional Japanese inn), on October 15 in Zao Onsen, a hot-spring town in the city of Yamagata in Yamagata Prefecture, northern Japan. It is the newest property in KAI, the company's nationwide brand of hot-spring ryokan, and Hoshino Resorts' first in Yamagata Prefecture. The concept, roughly “a hot-spring spiral that resets you at Okama,” pairs architecture inspired by Okama, the crater lake of the Zao mountain range, with the area's strongly acidic hot-spring water.",
-              "The building's main feature is a rooftop terrace with 360-degree views. A jacuzzi sits at the center of the terrace, which takes Okama as its motif, and the area around it, including a sauna and a lounge, forms a “loop-style wellness area” that guests can wander freely. The views are said to take in the Zao mountains to the east and farmland with the distant Asahi mountains to the west.",
-              "Kamiya Architects, led by architect Shuhei Kamiya, handled the basic architectural design and design supervision, Oryza did the landscape design, and Ichimura Komuten was the builder. All 49 guest rooms are “Kurenai Modern” rooms, the property's version of KAI's signature local-themed rooms, which bring in regional culture."
-            ],
-            "commentary": "After a hot-spring bath, where do you go to cool down? KAI Zao is a building that lifts that after-bath spot up to the roof. A jacuzzi sits in the middle of a terrace shaped after the Okama crater lake, and you can circle around through the sauna and lounge. True to the word spiral, the design turns simply walking through the building into part of the experience. In ryokan, the large shared baths are usually on floors close to the ground. Water is heavy and the plumbing gets complicated, so lower floors are easier to support. I think they still put the terrace on the roof because they wanted to layer the 360-degree view, the Zao mountains to the east and the Asahi mountains to the west, onto that after-bath time. One more thing: strongly acidic water is a tough opponent for a building. Metal deteriorates easily, and the choice of finish materials decides how long things last. Next time you visit a hot spring, take a moment to notice what the edges of the tubs and the handrails are made of.",
-            "briefing": [
-              "Rates start at ¥31,000 per person for two people sharing a room, including tax, service charge, dinner and breakfast. Reservations opened on April 22, 2026.",
-              "Zao Onsen is known as one of Japan's leading strongly acidic sulfur hot springs. The large baths are reported to offer three tubs at different concentrations to suit the strong water.",
-              "Shuhei Kamiya took part as architect and creative director. In a piece written for the Hoshino Resorts website, he said he expressed Zao's culture and climate in the architecture through conversations with local craftspeople."
-            ],
-            "hojosen": [
-              {
-                "title": "KAI's local-themed rooms",
-                "body": "A hallmark of the KAI brand is that each property has local-themed rooms whose interiors draw on the culture of the area. At KAI Zao, all 49 rooms are “Kurenai Modern” rooms, expressing the region in the room finishes too. Expressing the place through both the building's form and its interiors is an idea shared across the brand."
-              },
-              {
-                "title": "Acidic springs and buildings",
-                "body": "Strongly acidic hot-spring water easily corrodes metal, which makes the choice of piping and bathroom finishes a major design challenge. At hot-spring inns, damage to equipment from steam and minerals in the water can even determine how long the building lasts. The tubs at different concentrations are a consideration for guests, but behind the scenes, careful material choices are essential too."
               }
             ]
           }
