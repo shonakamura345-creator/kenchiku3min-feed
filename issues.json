@@ -1,6 +1,152 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-15",
+      "date": "2026-11-15",
+      "weekday": "日",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-15-s1",
+          "number": 1,
+          "title": "北九州で初の「北九州建築祭」が開幕 門司港駅や磯崎新の美術館など約40件を公開",
+          "summary": "北九州市の5つの区で、名建築を公開する「北九州建築祭」が11月14日に初めて開幕しました。特別公開の多くは無料・予約不要で、会期はきょう15日までです。",
+          "body": [
+            "福岡県北九州市で11月14日、市内の建物を巡りながら街の歴史や魅力に触れるイベント「北九州建築祭2026」が始まりました。北九州市で建築祭が開かれるのは今回が初めてです。会期は15日までの2日間で、門司区、小倉北区、戸畑区、八幡東区、八幡西区の5つの区が会場になっています。",
+            "公開されるのは約40件の建物です。JR門司港駅のような歴史的建造物から、建築家・磯崎新が設計した美術館や図書館などの現代建築まで幅広くそろいます。ふだんは入れない建物の特別公開や特別展示は原則として無料で、申し込みも要りません。専門家や建物の関係者が案内するガイドツアーは有料・事前申し込み制で、受け付けは11月1日で締め切られています。",
+            "主催は北九州建築祭実行委員会で、北九州市や北九州商工会議所などが後援しています。実行委員長は、北九州市出身で小倉に設計事務所を構える建築家の古森弘一さんです。初めて訪れる人には門司港エリアから回ることを勧めています。"
+          ],
+          "commentary": "門司港駅の木造の駅舎、磯崎新さんの美術館、製鉄の街として育った八幡。北九州は、明治から戦後まで、時代ごとの建物が地層のように積み重なった街です。建築祭は、その地層を、ふだん閉まっている扉の内側から見せてくれる催しなんです。皆さんも、前を通るだけだった建物の中が気になったこと、ありませんか。ポイントは、特別公開の多くが無料で、予約もいらないこと。美術館と違って、事務所や住宅は持ち主が「どうぞ」と言わない限り入れません。だから建築祭の本当の価値は、建物そのものより、持ち主の協力を一軒ずつ取り付けた手間にあると思うんです。大阪や京都では、回を重ねるたびに参加する建物が増えてきました。地元の人が自分の街の建物に驚く。その積み重ねが、古い建物を壊さずに使い続ける理由になっていくんですよね。今回は5つの区に約40件が並びました。会期は、きょう15日までです。",
+          "briefing": [
+            "一部のプログラムは会期前後の11月13日と16日にも行われます。特別公開・特別展示の多くは申し込み不要のため、当日思い立って訪れる人も受け入れられるよう準備したと実行委員長は話しています。",
+            "門司港エリアでは、JR門司港駅や磯崎新が設計した美術館・図書館を巡るバスツアーが組まれています。戸畑では重要文化財の旧松本家住宅を使ったツアーや、TOTOミュージアムでの設計者トークも予定されています。",
+            "八幡東区では、村野藤吾が設計した旧八幡市民会館を巡るツアーも用意されています。会場は門司・小倉・戸畑・八幡の各エリアに分かれ、エリアごとに時代も用途も違う建物を見比べられる構成です。"
+          ],
+          "sources": [
+            {
+              "name": "北九州建築祭（公式）",
+              "url": "https://www.ktq-kenchikusai.com/"
+            },
+            {
+              "name": "SUUMOジャーナル",
+              "url": "https://suumo.jp/journal/2026/11/12/222280"
+            },
+            {
+              "name": "NHK",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261114de75956"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "全国に広がる建築祭",
+              "body": "建物の扉を一斉に開くイベントは、大阪の「イケフェス大阪」や「京都モダン建築祭」、「東京建築祭」などが先行し、各地に広がっています。10月24日号では、イケフェス大阪2026が過去最多の224件で開幕したことをお伝えしました。"
+            },
+            {
+              "title": "国も建築祭に注目",
+              "body": "文化庁は11月21日から23日まで、全国の建築祭を紹介する「LinkArchiScape 2026」を東京・銀座で開く予定です。建物を公開して多くの人に知ってもらうことを、建築の保存や継承につなげようという狙いがあります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "北九州建築祭（公式）",
+          "sourceURL": "https://www.ktq-kenchikusai.com/",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-15-s2",
+          "number": 2,
+          "title": "ゼネコン大手4社が利益予想をそろって上方修正 赤字工事の引当金はピークから半減",
+          "summary": "鹿島、大林組、大成建設、清水建設の4〜9月期決算が13日に出そろい、4社とも通期の利益予想を引き上げました。採算の良い工事を選べるようになったことが背景です。",
+          "body": [
+            "上場するゼネコン大手4社（鹿島、大林組、大成建設、清水建設）の2026年4〜9月期の連結決算が11月13日に出そろいました。4社はいずれも、2027年3月期の通期の利益予想を上方修正しました。",
+            "最後に発表した大林組は、2027年3月期の連結営業利益の見通しを、従来予想から250億円引き上げて2050億円としました。前期と比べて5%の増加です。あわせて、2000万株を上限とする自社株買いも発表しました。清水建設は11月9日に、通期の営業利益予想を25.5%引き上げて1920億円にしています。",
+            "背景にあるのは、国内の建設需要の高まりです。人手が限られる中で、各社は採算の良い工事を選んで受注できるようになっています。赤字が見込まれる工事に備えて積む引当金は、ピーク時から半分に減りました。"
+          ],
+          "commentary": "2050億円。大林組が今年度の営業利益の見通しを、250億円上乗せした数字です。13日に出そろった大手4社の決算では、4社とも利益の予想を上に直しました。数年前、ゼネコンは資材の値上がりに苦しみました。契約した金額で建てるのに、鉄やコンクリートがどんどん高くなる。引っ越しの見積もりを決めた後に、トラックの燃料代が倍になったようなものです。この赤字に備えて積んでおくお金が「工事損失引当金」で、それがピークの半分まで減ったといいます。理由は、仕事を選べるようになったからなんです。人手が足りない中で、採算の合う工事を優先して受ける。会社としては健全な判断です。ただ皆さんの街に目を向けると、工事費が上がり、計画を小さく描き直す再開発も出ています。今週の函館駅前がそうでしたよね。建てる側が仕事を選ぶ時代に、選ばれにくい街の計画は、どう生き残ればいいんでしょうね。",
+          "briefing": [
+            "大林組の4〜9月期の連結経常利益は前年同期比21.1%増の1023億円でした。通期の経常利益予想も1830億円から2100億円に引き上げ、売上高の予想は2兆9450億円から3兆1150億円に修正しています。",
+            "清水建設の4〜9月期の連結営業利益は前年同期比126.3%増の880億円でした。完成工事高の増加と工事採算の改善が主な理由で、年間配当の予想も77円から89円に増やしています。",
+            "鹿島は11月11日、土木・建築の両事業で売上総利益率の向上を見込むとして、通期の営業利益と経常利益の予想を引き上げました。大成建設も同日、通期の利益予想を上方修正し、配当を増やすと発表しています。"
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOUB29C6F0Z21C26A0000000/"
+            },
+            {
+              "name": "株探",
+              "url": "https://kabutan.jp/news/marketnews/?b=k202611130039"
+            },
+            {
+              "name": "清水建設 決算短信（公式）",
+              "url": "https://pdf.irpocket.com/C1803/xoA3/DnNg/B4Lc/q09A.pdf"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "選ぶ側と選ばれる側",
+              "body": "ゼネコンが受注を選べるようになった一方で、発注する側では計画の見直しが相次いでいます。11月13日号の函館駅前や10月27日号の前橋中心街のように、工事費の高騰で再開発の規模を縮める例が続いています。"
+            },
+            {
+              "title": "受注は減っても利益は増",
+              "body": "10月31日号でお伝えしたとおり、国内の建設受注は2026年4〜9月に6年ぶりの減少となりました。受注の量が減る中で利益が伸びているのは、一件ごとの採算が良くなっていることを示しています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "日本経済新聞",
+          "sourceURL": "https://www.nikkei.com/article/DGXZQOUB29C6F0Z21C26A0000000/",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-15-s3",
+          "number": 3,
+          "title": "ウッドデザイン賞2026、新設の文部科学大臣賞に武庫川女子大学の木造校舎",
+          "summary": "木の良さを生かした建物や製品を表彰する「ウッドデザイン賞2026」の上位賞が決まり、新設の文部科学大臣賞に武庫川女子大学の木造2階建ての校舎が選ばれました。",
+          "body": [
+            "日本ウッドデザイン協会は、木を使って社会の課題を解決する建物や製品、取り組みを表彰する「ウッドデザイン賞2026」の最優秀賞をはじめとする上位賞を発表しました。今年は従来の4つの大臣賞に加え、最優秀賞として新たに「文部科学大臣賞」が設けられました。",
+            "その文部科学大臣賞に選ばれたのが、武庫川女子大学の「環境共生学部 プロジェクト棟」です。設計・監理は東畑建築事務所、施工は大林ファシリティーズが担当した木造2階建ての建物で、学生のグループワークの拠点として授業で使われています。地域の木材や、海洋プラスチックの再生材を使い、建物全体を資源の循環を学ぶ教材に仕立てた発想が評価されました。",
+            "このほか、農林水産大臣賞には協和木材の事務所が選ばれました。分散していた事務所を1棟にまとめ、木の価値を働く場から発信する姿勢が評価されています。上位賞の表彰式と展示は、12月2日から4日に東京ビッグサイトで開かれる「エコプロ」の会場で行われる予定です。"
+          ],
+          "commentary": "木の建物というと、皆さんはログハウスや神社を思い浮かべるかもしれません。今回、新しい最優秀賞に選ばれたのは、大学の木造2階建ての校舎でした。評価されたのは、建物そのものを教材にしたことです。柱や梁には地域の木を使い、海から回収したプラスチックの再生材も取り入れています。この材料はどこから来て、使い終わったらどこへ行くのか。授業を受けながら、それを毎日目で確かめられるわけです。理科室の人体模型を、建物まるごとでやっているようなものですよね。今年から最優秀賞に文部科学大臣賞が加わりました。木の使い方を、デザインや環境だけでなく「学び」の面からも評価しようという流れです。日本の国土は、およそ3分の2が森林です。なぜ木を使うのかを、使う人自身が説明できる。そういう建物が増えるほど、木造はもう一段広がっていくと思います。",
+          "briefing": [
+            "ウッドデザイン賞は2015年に始まり、今回で12回目です。2026年の作品募集は6月22日から7月31日まで行われ、10月9日に受賞作品235点が先に発表されていました。上位賞はこの中から最終審査で選ばれています。",
+            "協和木材の事務所は、AUMや建築鈴木と共同での受賞です。製材の際に出る廃液を再利用した外装の技術なども評価の対象になりました。",
+            "受賞作品の中には、東京・秋葉原の木造9階建てビル「KiGi AKIHABARA」など、都市部の中高層木造も含まれています。住友林業は関わった9点が受賞したと発表しました。"
+          ],
+          "sources": [
+            {
+              "name": "日本ウッドデザイン協会（プレスリリース）",
+              "url": "https://koubo.jp/press-release/prtimes/c103496_r48"
+            },
+            {
+              "name": "武庫川女子大学（公式）",
+              "url": "https://info.mukogawa-u.ac.jp/publicity/newsdetail?id=5123"
+            },
+            {
+              "name": "建設通信新聞",
+              "url": "https://www.kensetsunews.com/archives/1125292"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "学校の木造化",
+              "body": "国は公共建築物での木材利用を進めており、校舎や体育館を木造にする例が増えています。木の温かみや調湿性が子どもや学生の過ごす環境に合うことに加え、地域の林業を支える役割も期待されています。"
+            },
+            {
+              "title": "増える大臣賞",
+              "body": "ウッドデザイン賞の最優秀賞は、2022年に農林水産・経済産業・国土交通・環境の4大臣賞の体制になりました。今回の文部科学大臣賞の新設で、木材利用を教育の側からも後押しする形が加わりました。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "日本ウッドデザイン協会（プレスリリース）",
+          "sourceURL": "https://koubo.jp/press-release/prtimes/c103496_r48",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-14",
       "date": "2026-11-14",
       "weekday": "土",
@@ -6267,234 +6413,24 @@
           }
         }
       ]
-    },
-    {
-      "id": "issue-2026-10-16",
-      "date": "2026-10-16",
-      "weekday": "金",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-16-s1",
-          "number": 1,
-          "title": "村野藤吾の旧横浜市庁舎を転用した「OMO7横浜」がグッドデザイン金賞を受賞",
-          "summary": "10月15日に2026年度グッドデザイン賞の受賞が発表され、1959年竣工の旧横浜市庁舎行政棟を転用したOMO7横浜が金賞に選ばれました。",
-          "body": [
-            "日本デザイン振興会は10月15日、2026年度グッドデザイン賞の受賞結果を発表しました。審査対象5111件のうち1484件が受賞し、各審査ユニットの最優秀作から選ばれた金賞19件の一つに、横浜・関内のホテル「OMO7横浜 by 星野リゾート」が入りました。最高賞のグッドデザイン大賞は、ヤマハのドラム拡張モジュール「EAD50」に決まっています。",
-            "OMO7横浜は、建築家・村野藤吾が設計し1959年に竣工した旧横浜市庁舎行政棟を、取り壊さずにホテルへ転用した施設です。2026年4月21日に開業し、JR関内駅前の旧市庁舎街区を再開発した「BASEGATE横浜関内」の一角を占めています。審査では、戦後モダニズム建築にそのまま泊まれること自体の独自性が評価されました。",
-            "運営する星野リゾートによると、OMOブランドとして金賞を受けるのは初めてです。改修設計は竹中工務店、客室まわりのインテリア設計・監修は成瀬・猪熊建築設計事務所が担当しました。事業に参画する東急や、造作家具の実施設計を担ったアイリスオーヤマもそれぞれ受賞を発表しています。"
-          ],
-          "commentary": "5111件の中から、金賞は19件。その一つが、67年前に市役所として建てられた建物でした。旧横浜市庁舎の行政棟は、2009年に免震レトロフィットという改修を受けています。建物の外観や内装はそのままに、基礎の下に揺れを受け流す装置を差し込む工事です。家具でいえば、愛用の椅子の脚の下にだけ新しいクッションを入れるようなものなんです。この下ごしらえがあったから、建て替えではなく転用という選択肢が残ったと僕は見ています。2025年には戦後の建物として初めて横浜市の認定歴史的建造物になり、今年4月にホテルとして開業しました。昔の市役所の窓辺で眠るって、ちょっと不思議な体験じゃないですか。古い建物を残すと、天井高や窓の位置など、新築なら自由に決められる条件が先に決まってしまいます。それでも残す価値があると判断した建物が、デザインの賞でいちばん上の段に並んだ。残す決断が評価される時代に、少しずつなってきているんだと思います。",
-          "briefing": [
-            "グッドデザイン賞の特別賞は、大賞1件と金賞19件に、グッドフォーカス賞12件を加えた計32件です。各審査ユニットの上位5件で構成する「グッドデザイン・ベスト100」も同時に選ばれています。",
-            "受賞対象は、10月31日から東京ミッドタウンで開かれる受賞展「G展」で紹介されます。",
-            "OMO7横浜は客室数276室。星野リゾートによると、OMOブランドではこれまでOMO5東京大塚がグッドデザイン・ベスト100、OMO5沖縄那覇とOMO5熊本がグッドデザイン賞に選ばれていました。",
-            "旧横浜市庁舎行政棟は、開港100周年記念事業の一環として建てられた鉄筋コンクリート造8階・地下1階の建物です。2009年の耐震補強では、既存の基礎に免震装置を組み込む工法で外観と内観を残しました。"
-          ],
-          "sources": [
-            {
-              "name": "星野リゾート（公式）",
-              "url": "https://prtimes.jp/main/html/rd/p/000002642.000033064.html"
-            },
-            {
-              "name": "新潟日報（日本デザイン振興会の発表）",
-              "url": "https://www.niigata-nippo.co.jp/articles/-/924883"
-            },
-            {
-              "name": "Impress Watch",
-              "url": "https://www.watch.impress.co.jp/docs/news/2036877.html"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "戦後建築の保存",
-              "body": "明治・大正の洋館に比べ、戦後のモダニズム建築は「まだ新しい」と見なされ、老朽化や耐震性を理由に建て替えられる例が少なくありませんでした。旧横浜市庁舎行政棟は2025年8月、戦後の建造物として初めて横浜市の認定歴史的建造物になりました。用途を変えて使い続ける転用は、戦後建築を残す現実的な手段として広がりつつあります。"
-            },
-            {
-              "title": "免震レトロフィット",
-              "body": "既存の建物を持ち上げるようにして、基礎部分に積層ゴムなどの免震装置を後から入れる耐震改修の方法です。柱や壁に補強材を足さずに済むため、意匠を残したい歴史的建造物で選ばれることが多い工法です。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "星野リゾート（公式）",
-          "sourceURL": "https://prtimes.jp/main/html/rd/p/000002642.000033064.html",
-          "shoComment": "",
-          "en": {
-            "title": "Togo Murano's former Yokohama City Hall, now the OMO7 Yokohama hotel, wins a Good Design Gold Award",
-            "summary": "The 2026 Good Design Award winners were announced on October 15, and OMO7 Yokohama, a hotel created inside the administrative wing of Yokohama's former city hall, completed in 1959, received a Gold Award.",
-            "body": [
-              "The Japan Institute of Design Promotion announced the winners of the 2026 Good Design Award, Japan's major annual design award, on October 15. Of 5,111 entries reviewed, 1,484 received the award. Among the 19 Gold Awards, chosen from the top entries in each judging unit, was OMO7 Yokohama by Hoshino Resorts, a hotel in Kannai, the historic downtown of the port city of Yokohama just south of Tokyo. The top prize, the Good Design Grand Award, went to Yamaha's EAD50 drum expansion module.",
-              "OMO7 Yokohama occupies the administrative wing of the former Yokohama City Hall, designed by architect Togo Murano and completed in 1959. Instead of being torn down, the building was converted into a hotel, which opened on April 21, 2026. It is part of BASEGATE Yokohama Kannai, the redevelopment of the old city hall block in front of JR Kannai Station. The judges singled out the originality of letting guests stay inside a piece of postwar modernist architecture as it is.",
-              "According to operator Hoshino Resorts, this is the first Gold Award for its OMO brand of city hotels. Takenaka Corporation handled the renovation design, and Naruse Inokuma Architects designed and supervised the interiors around the guest rooms. Tokyu, a partner in the project, and Iris Ohyama, which did the detailed design of the built-in furniture, have each announced the award as well."
-            ],
-            "commentary": "Out of 5,111 entries, just 19 Gold Awards. And one of them went to a building put up as a city hall 67 years ago. The administrative wing of the old Yokohama City Hall went through a seismic isolation retrofit in 2009. The exterior and interiors stayed as they were, and devices that let the building ride out the shaking were slipped in under the foundation. Think of it like a favorite chair: you leave the chair alone and just put new cushions under its legs. My view is that this groundwork is what kept conversion on the table instead of demolition and rebuilding. In 2025 it became the first postwar building to be named a Certified Historic Building by the City of Yokohama, and this April it opened as a hotel. Falling asleep by the window of what used to be city hall is a slightly strange experience, don't you think? When you keep an old building, things a new building could decide freely, like ceiling heights and window positions, are already fixed. Even so, a building someone judged worth keeping now sits on the top tier of a design award. I think we are slowly moving into an era where the decision to keep a building gets recognized.",
-            "briefing": [
-              "The Good Design Award's special prizes total 32: one Grand Award, 19 Gold Awards and 12 Good Focus Awards. The Good Design Best 100, made up of the top five entries in each judging unit, was selected at the same time.",
-              "Winning entries will be shown at the award exhibition, “G-ten,” opening October 31 at Tokyo Midtown, a mixed-use complex in central Tokyo.",
-              "OMO7 Yokohama has 276 guest rooms. According to Hoshino Resorts, earlier OMO hotels recognized by the program include OMO5 Tokyo Otsuka, which made the Good Design Best 100, and OMO5 Okinawa Naha and OMO5 Kumamoto, which received the Good Design Award.",
-              "The administrative wing of the former Yokohama City Hall was built as part of the events marking the 100th anniversary of the opening of Yokohama's port. It is a reinforced concrete building with eight floors above ground and one basement level. In the 2009 seismic upgrade, seismic isolation devices were built into the existing foundation, preserving both the exterior and the interior."
-            ],
-            "hojosen": [
-              {
-                "title": "Saving postwar buildings",
-                "body": "Compared with Western-style buildings from the Meiji and Taisho eras (the late nineteenth and early twentieth centuries), Japan's postwar modernist buildings have often been seen as “still too new” to protect, and many have been replaced because of aging or poor earthquake resistance. In August 2025, the administrative wing of the former Yokohama City Hall became the first postwar structure to be named a Certified Historic Building by the City of Yokohama. Converting such buildings to new uses is spreading as a practical way to keep them."
-              },
-              {
-                "title": "Seismic isolation retrofit",
-                "body": "A way of upgrading an existing building's earthquake performance by, in effect, lifting it and adding seismic isolation devices such as laminated rubber bearings at the foundation. Because it avoids adding braces or extra walls to the columns and walls, it is often chosen for historic buildings whose design needs to be preserved."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-16-s2",
-          "number": 2,
-          "title": "那須塩原市の新庁舎、3度目の入札公告 予定価格を158億円に上げ参加資格も緩和",
-          "summary": "2度の入札不調が続いた栃木県那須塩原市の新庁舎工事で、市が3度目の公告を出しました。予定価格を約26億円上げ、来年1月に開札します。",
-          "body": [
-            "栃木県那須塩原市は10月14日、新庁舎建設工事の一般競争入札を改めて公告しました。2025年8月と2026年3月の2回の入札がいずれも参加辞退で不調に終わっており、今回が3度目です。予定価格は税抜きで158億4057万円。入札参加の申請は11月20日まで受け付け、2027年1月13日に開札する予定です。",
-            "市は前回からの見直しとして、予定価格を約26億円引き上げたほか、参加資格の一部を緩めました。参加は3〜5者による特定JVで、代表者に求める経営事項審査の総合評定値を、前回の1700点以上から1400点以上に下げています。落札者の決め方も、技術提案を点数化する総合評価方式から価格競争方式に改めました。",
-            "資材や人件費の高騰を受け、市は新庁舎の工事費を175億円に増額しています。財源の一つである合併特例債の発行期限が2029年度末に迫っており、市はそれまでの完成を目指しています。"
-          ],
-          "commentary": "112億円、133億円、そして158億円。那須塩原市の新庁舎は、入札のたびに予定価格が上がってきました。予定価格は、発注する側が「この金額までなら払います」と示す上限です。ところが2回とも、手を挙げる建設会社が出てきませんでした。予算3000円で家族4人分の夕食を頼まれても、今の物価では作れないと断られるようなものです。最近、こういう入札不調のニュース、増えていると思いませんか。資材と人件費が上がり続けるなかで、役所が積算した金額が実勢に追いつかないんです。今回は上限を上げるだけでなく、参加できる会社の条件を下げ、技術提案の審査もやめて価格で決める方式に切り替えました。間口を広げて、とにかく契約までたどり着く作戦です。ただ、期限は合併特例債の2029年度末。工期を考えると、3度目が不調なら後がありません。間に合わせることと、良い庁舎をつくること。どちらを優先するのか、決めるのは市民なんでしょうね。",
-          "briefing": [
-            "新庁舎はJR那須塩原駅周辺の整備事業の一つで、延べ床面積は約1.7万平方メートル。建築・設備・外構を一括で発注します。",
-            "JVの構成は、市内に本店か営業所がある構成員を2社以上含むことが条件です。今回から、経営事項審査の点数が1000点以上の県内企業も構成員として参加できるようになりました。",
-            "工事費の増額に合わせて継続費も組み直され、2027年度70億円、2028年度70億円、2029年度35億円の配分になっています。",
-            "予定価格は1回目が112億円、2回目が133億円（いずれも報道ベース）で、今回の158億円は1回目から4割ほど上がった計算です。"
-          ],
-          "sources": [
-            {
-              "name": "那須塩原市（公式）",
-              "url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/nasushiobaraekishuhenseibishitsu/shinoseisakutokeikaku/1/1_2/kennsetu/22914.html"
-            },
-            {
-              "name": "日本建設新聞",
-              "url": "https://www.jcpress.co.jp/wp01/?p=40554"
-            },
-            {
-              "name": "建設通信新聞",
-              "url": "https://www.kensetsunews.com/archives/1297050"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "相次ぐ入札不調",
-              "body": "資材価格と労務費の上昇で、自治体が見積もった予定価格では採算が合わず、応札者が出ない「入札不調」が全国の庁舎や体育館などの大型公共工事で続いています。この号でも10月13日号で、設計施工一括の入札が不調に終わり分離発注に切り替えた岸和田市の新庁舎を取り上げました。"
-            },
-            {
-              "title": "合併特例債の期限",
-              "body": "合併特例債は、平成の大合併で生まれた市町村が使える有利な借金で、返済の多くを国の地方交付税で賄えます。発行期限を過ぎると使えなくなるため、庁舎の建て替えをこの期限に合わせて急ぐ自治体が多く、工期の余裕が小さくなる要因にもなっています。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "那須塩原市（公式）",
-          "sourceURL": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/nasushiobaraekishuhenseibishitsu/shinoseisakutokeikaku/1/1_2/kennsetu/22914.html",
-          "shoComment": "",
-          "en": {
-            "title": "Nasushiobara puts its new city hall out to bid a third time, raising the ceiling price to ¥15.8 billion",
-            "summary": "After two failed bids, Nasushiobara, a city in Tochigi Prefecture north of Tokyo, has issued a third call for bids on its new city hall. The ceiling price is up by about ¥2.6 billion, and bids will be opened in January.",
-            "body": [
-              "The city of Nasushiobara in Tochigi Prefecture issued a new call for open competitive bids on October 14 for construction of its new city hall. Bidding in August 2025 and again in March 2026 failed because the bidders withdrew, so this is the third attempt. The ceiling price, the most the city is willing to pay, is ¥15.84 billion before tax. Applications to bid will be accepted until November 20, and bids are scheduled to be opened on January 13, 2027.",
-              "In revising the terms, the city raised the ceiling price by about ¥2.6 billion and relaxed some of the eligibility rules. Bidders must be special-purpose joint ventures of three to five companies. The minimum overall score the lead company needs on the keishin, Japan's national rating of contractors' size, finances and technical capacity for public works, has been lowered from 1,700 points to 1,400. The city also dropped the scoring method that weighed technical proposals and switched to selecting the winner on price alone.",
-              "Facing rising material and labor costs, the city has increased the construction budget for the new city hall to ¥17.5 billion. One of its funding sources, merger special bonds, can only be issued until the end of fiscal 2029, and the city aims to finish the building by then. Japan's fiscal year runs from April to March."
-            ],
-            "commentary": "¥11.2 billion, ¥13.3 billion, and now ¥15.8 billion. Every time Nasushiobara has put its new city hall out to bid, the ceiling price has gone up. The ceiling price is the public client saying, “This is the most we'll pay.” Yet both times, no builder stepped forward. It's like asking someone to cook dinner for a family of four on a ¥3,000 budget and being told that at today's prices it can't be done. Don't you feel like you've been seeing more of these failed-bid stories lately? With materials and labor costs climbing nonstop, the numbers that government offices put together can't keep up with the market. This time the city didn't just raise the ceiling. It lowered the bar for which companies can take part, and it dropped the review of technical proposals so the winner is chosen on price. Widen the door and get to a signed contract, whatever it takes. That's the strategy. But the deadline is the merger special bonds, at the end of fiscal 2029. Given how long construction takes, if the third round fails too, there's no fallback. Finishing on time, or building a good city hall. Which comes first is probably for the residents to decide.",
-            "briefing": [
-              "The new city hall is one of the projects in the redevelopment around JR Nasushiobara Station, with a total floor area of about 17,000 m² (183,000 sq ft). The building, its mechanical and electrical systems and the site work will be let as a single contract.",
-              "The joint venture must include at least two members with a head office or branch in the city. Starting this round, companies based in Tochigi Prefecture with a keishin score of 1,000 points or more can also join as members.",
-              "Along with the higher construction budget, the multi-year appropriation was reworked: ¥7 billion in fiscal 2027, ¥7 billion in fiscal 2028 and ¥3.5 billion in fiscal 2029.",
-              "The ceiling price was ¥11.2 billion in the first round and ¥13.3 billion in the second (both figures as reported), so the current ¥15.8 billion works out to about 40% more than the first round."
-            ],
-            "hojosen": [
-              {
-                "title": "Failed bids keep piling up",
-                "body": "As material prices and labor costs rise, the ceiling prices estimated by local governments often no longer cover contractors' costs, and no one bids. These failed tenders keep happening on large public projects such as city halls and gymnasiums across Japan. As we reported on Oct 13, the new city hall in Kishiwada, a city in Osaka Prefecture, switched to separate contracts after its design-build tender failed."
-              },
-              {
-                "title": "The merger bond deadline",
-                "body": "Merger special bonds are a form of favorable borrowing available to municipalities created in Japan's great wave of municipal mergers during the Heisei era, with much of the repayment covered by the national government's local allocation tax grants. Once the deadline passes, the bonds can no longer be issued, so many towns rush to rebuild their city halls before it. That also leaves less slack in construction schedules."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-16-s3",
-          "number": 3,
-          "title": "米ロサンゼルス近郊の「ハリウッド・バーバンク空港」新ターミナルが開業 総工費13億ドル",
-          "summary": "米カリフォルニア州のハリウッド・バーバンク空港で10月13日、Corgan設計の新ターミナルが開業。14ゲートで、全電化を掲げています。",
-          "body": [
-            "米カリフォルニア州バーバンクのハリウッド・バーバンク空港で10月13日、新しい旅客ターミナルが開業しました。朝5時に開館し、午前7時に新ターミナルからの最初の便が出発しています。新ターミナルは14ゲートを備え、現在のターミナルに代わる施設です。",
-            "設計は米国の設計事務所Corganが、CannonDesign、Burns & McDonnellと組んで手がけました。延べ床面積は約35万5000平方フィート（約3万3000平方メートル）で、建物の設備を電気でまかなう全電化のターミナルとされています。地元テレビ局KTLAによると総工費は13億ドルで、年間600万〜700万人の利用を見込みます。",
-            "デザインには往年のハリウッドの雰囲気が取り入れられ、入口のキャノピーには映画のプレミア上映会で夜空を照らすサーチライトに着想を得た柱が並びます。一方で、搭乗橋は設けず、乗客がこれまでどおり屋外を歩いて飛行機に乗り降りする方式は引き継がれました。旧ターミナルは今後取り壊されます。"
-          ],
-          "commentary": "サーチライトの形をした柱が、玄関の屋根を支えている。映画の街の空の玄関らしい演出です。もう一つ目を引くのは、搭乗橋をつくらなかったことなんです。大きな空港では、ターミナルから飛行機まで蛇腹の通路で直結するのが普通ですよね。バーバンクでは、乗客は屋外に出て、タラップで飛行機に乗ります。雨の多い日本ならためらう選択ですが、晴れの日が多い南カリフォルニアだからこそ成り立つ判断です。もう一つの特徴が全電化。暖房も給湯も、ガスを燃やさず電気でまかなうということです。家でいえば、ガスコンロをやめてIHにするのを、14ゲートの空港まるごとでやった形です。空港はたくさんの人が24時間近く出入りするので、エネルギーの使い方が建物の性格を決めます。新ターミナルの総工費は13億ドル。年間最大700万人が、屋外を歩いて機内に向かいます。",
-          "briefing": [
-            "設計チームには、施工を担うHolder・Pankow・TECの共同企業体（HPTJV）も加わっています。",
-            "新ターミナル開業に合わせて空港の入口が移り、Winona AvenueとHollywood Wayの交差部が新しい玄関口になりました。",
-            "延べ床面積は多くの報道が35万5000平方フィートとする一方、ABC7など一部の報道は「30万平方フィート超」と伝えており、表記に幅があります。"
-          ],
-          "sources": [
-            {
-              "name": "The Architect's Newspaper",
-              "url": "https://www.archpaper.com/2026/10/new-corgan-electric-hollywood-burbank-airport-terminal/"
-            },
-            {
-              "name": "KTLA",
-              "url": "https://ktla.com/news/local-news/hollywood-burbank-airport-new-terminal-opens/"
-            },
-            {
-              "name": "Passenger Terminal Today",
-              "url": "https://www.passengerterminaltoday.com/news/terminal/hollywood-burbank-airport-opens-14-gate-all-electric-terminal.html"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "搭乗橋のない空港",
-              "body": "搭乗橋（ボーディングブリッジ）は雨や寒さを避けられる一方、建設費や維持費がかかります。ハリウッド・バーバンク空港は旧ターミナルでも屋外を歩いて乗り降りする方式で、新ターミナルでもこのスタイルを引き継ぎました。ターミナルの規模や気候によって、搭乗橋を設けるかどうかの判断は分かれます。"
-            },
-            {
-              "title": "建物の全電化",
-              "body": "建物の空調や給湯をガスなどの燃焼に頼らず電気でまかなう全電化は、再生可能エネルギーの電気と組み合わせることで建物を使う段階での二酸化炭素を減らせる手法とされています。年間数百万人が出入りする空港のような大型施設では、エネルギーの選び方が運用コストと環境負荷の両方に直結します。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "The Architect's Newspaper",
-          "sourceURL": "https://www.archpaper.com/2026/10/new-corgan-electric-hollywood-burbank-airport-terminal/",
-          "shoComment": "",
-          "en": {
-            "title": "New terminal opens at Hollywood Burbank Airport near Los Angeles, a $1.3 billion project",
-            "summary": "A new terminal designed by Corgan opened on October 13 at Hollywood Burbank Airport in California. It has 14 gates and is billed as an all-electric building.",
-            "body": [
-              "A new passenger terminal opened on October 13 at Hollywood Burbank Airport in Burbank, California. The building opened its doors at 5 a.m., and the first flight from the new terminal departed at 7 a.m. With 14 gates, it replaces the existing terminal.",
-              "U.S. firm Corgan designed the terminal together with CannonDesign and Burns & McDonnell. It has a total floor area of about 33,000 m² (355,000 sq ft) and is described as an all-electric terminal, meaning its building systems run on electricity. According to local TV station KTLA, the project cost $1.3 billion, and the terminal is expected to serve 6 million to 7 million passengers a year.",
-              "The design draws on the atmosphere of classic Hollywood. The entrance canopy is lined with columns inspired by the searchlights that sweep the night sky at movie premieres. At the same time, the terminal has no jet bridges: passengers will keep walking outdoors to board and leave their planes, as they did before. The old terminal will be demolished."
-            ],
-            "commentary": "Columns shaped like searchlights hold up the entrance canopy. That's fitting staging for the airport of a movie town. The other thing that catches my eye is that they didn't build any jet bridges. At big airports, it's normal for an accordion-like corridor to connect the terminal straight to the plane, right? In Burbank, passengers step outside and climb the stairs to the aircraft. In rainy Japan, that's a choice people would hesitate over, but it works because Southern California gets so many sunny days. The other feature is that it's all-electric. Heating and hot water come from electricity, not from burning gas. At home, that would be like replacing your gas stove with an induction cooktop, except here they did it for an entire 14-gate airport. Airports have huge numbers of people coming and going almost around the clock, so the way they use energy shapes the character of the building. The new terminal cost $1.3 billion. Up to 7 million people a year will walk outdoors to their planes.",
-            "briefing": [
-              "The design team also included Holder, Pankow and TEC, the joint venture (HPTJV) building the terminal.",
-              "With the new terminal, the airport entrance moved, and the intersection of Winona Avenue and Hollywood Way became the new front door.",
-              "Most reports put the total floor area at 355,000 sq ft, while some, including ABC7, describe it as “more than 300,000 sq ft,” so the figures vary."
-            ],
-            "hojosen": [
-              {
-                "title": "An airport without jet bridges",
-                "body": "Jet bridges protect passengers from rain and cold, but they cost money to build and maintain. Hollywood Burbank Airport's old terminal already had passengers walk outdoors to and from their planes, and the new terminal keeps that style. Whether to install jet bridges depends on a terminal's size and climate."
-              },
-              {
-                "title": "All-electric buildings",
-                "body": "An all-electric building runs its heating, cooling and hot water on electricity rather than burning gas or other fuels. Paired with renewable power, it is seen as a way to cut a building's carbon dioxide emissions during operation. For a large facility like an airport, with millions of people passing through each year, the choice of energy directly affects both operating costs and environmental impact."
-              }
-            ]
-          }
-        }
-      ]
     }
   ],
   "weeklyFeatures": [
+    {
+      "id": "feature-2026-w46",
+      "title": "今週の建築ニュースまとめ",
+      "dateRangeText": "11/09-11/15",
+      "heroTitle": "愛知で約30年ぶりの震度5強があり、内水氾濫に「1時間100ミリ」の新基準が示され、生コンのJIS認証取り消しが明らかになった一週間 1級建築士の科目合格案、竹中工務店の3Dプリント接合部、函館駅前再開発の縮小、郵船ビルの新デザイン、そして初開催の北九州建築祭",
+      "issueIds": [
+        "issue-2026-11-15",
+        "issue-2026-11-14",
+        "issue-2026-11-13",
+        "issue-2026-11-12",
+        "issue-2026-11-11",
+        "issue-2026-11-10",
+        "issue-2026-11-09"
+      ]
+    },
     {
       "id": "feature-2026-w45",
       "title": "今週の建築ニュースまとめ",
