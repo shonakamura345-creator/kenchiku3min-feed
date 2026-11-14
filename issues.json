@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "北九州建築祭（公式）",
           "sourceURL": "https://www.ktq-kenchikusai.com/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Kitakyushu holds its first architecture festival, opening about 40 buildings",
+            "summary": "The first Kitakyushu Architecture Festival opened on November 14 across five wards of Kitakyushu, an industrial city in northern Kyushu. Most special openings are free with no reservation needed, and the festival runs through today, November 15.",
+            "body": [
+              "The Kitakyushu Architecture Festival 2026, an event that invites people to tour buildings across the city and discover its history and appeal, began on November 14 in Kitakyushu, Fukuoka Prefecture, a former steel and port city at the northern tip of Japan's Kyushu island. It is the first time the city has held an architecture festival. The festival runs for two days through November 15, with venues in five wards: Moji, Kokurakita, Tobata, Yahatahigashi and Yahatanishi.",
+              "About 40 buildings are taking part. They range from historic structures such as JR Mojiko Station to contemporary works such as an art museum and a library designed by architect Arata Isozaki. Special openings of buildings that are normally closed to the public, along with special exhibitions, are free in principle and require no sign-up. Guided tours led by experts and people connected to the buildings are paid and required advance booking; registration closed on November 1.",
+              "The festival is organized by the Kitakyushu Architecture Festival executive committee, with support from the City of Kitakyushu and the Kitakyushu Chamber of Commerce and Industry, among others. The committee chair is architect Koichi Furumori, a Kitakyushu native who runs a design office in Kokura. The organizers recommend that first-time visitors start with the Mojiko area."
+            ],
+            "commentary": "The wooden station building at Mojiko, Arata Isozaki's art museum, and Yahata, the district that grew up as a steel town. Kitakyushu is a city where buildings from each era, from the Meiji period through the postwar years, are stacked up like layers of rock. The architecture festival is an event that shows you those layers from the inside of doors that are usually shut. Have you ever been curious about what's inside a building you only ever walk past? The key point is that most of the special openings are free and need no booking. Unlike a museum, an office or a home is off limits unless the owner says, \"Come on in.\" So I think the real value of an architecture festival lies less in the buildings themselves than in the effort of winning over the owners, one building at a time. In Osaka and Kyoto, the number of participating buildings has grown with each edition. Local people get surprised by the buildings in their own city. That accumulation becomes a reason to keep old buildings in use instead of tearing them down, right? This time, about 40 buildings lined up across five wards. The festival runs through today, the 15th.",
+            "briefing": [
+              "Some programs also take place on November 13 and 16, just before and after the main dates. Because most special openings and exhibitions need no sign-up, the committee chair says the festival was prepared so that people who decide to come on the day can also take part.",
+              "In the Mojiko area, a bus tour visits JR Mojiko Station and the art museum and library designed by Arata Isozaki. In Tobata, a tour uses the former Matsumoto Residence, an Important Cultural Property (Japan's main national heritage designation for buildings and objects), and a talk by the designer is planned at the TOTO Museum.",
+              "In Yahatahigashi Ward, a tour also covers the former Yahata Civic Hall designed by Togo Murano. The venues are split into the Moji, Kokura, Tobata and Yahata areas, a layout that lets visitors compare buildings from different eras and with different uses in each area."
+            ],
+            "hojosen": [
+              {
+                "title": "Architecture festivals spread nationwide",
+                "body": "Events that open the doors of many buildings at once were pioneered by Ikifes Osaka, the Kyoto Modern Architecture Festival and the Tokyo Architecture Festival, among others, and have spread to other regions. As we reported on Oct 24, Ikifes Osaka 2026 opened with a record 224 buildings."
+              },
+              {
+                "title": "The national government takes note",
+                "body": "From November 21 to 23, Japan's Agency for Cultural Affairs plans to hold LinkArchiScape 2026 in Tokyo's Ginza district, an event introducing architecture festivals from across the country. The aim is to use public openings that let many people get to know buildings as a way to support preserving and passing on architecture."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-15-s2",
@@ -97,7 +122,32 @@
           "reliability": "高",
           "sourceName": "日本経済新聞",
           "sourceURL": "https://www.nikkei.com/article/DGXZQOUB29C6F0Z21C26A0000000/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Japan's big four general contractors all raise profit forecasts as loss provisions halve",
+            "summary": "Kajima, Obayashi, Taisei and Shimizu had all reported April-September results by November 13, and all four raised their full-year profit forecasts. Behind it: they can now choose more profitable projects.",
+            "body": [
+              "Consolidated results for April-September 2026 from the four big listed general contractors, Kajima Corporation, Obayashi Corporation, Taisei Corporation and Shimizu Corporation, were all out by November 13. All four raised their full-year profit forecasts for the fiscal year ending March 2027.",
+              "Obayashi, the last to report, raised its consolidated operating profit forecast for the year ending March 2027 by ¥25 billion from its previous projection, to ¥205 billion. That is up 5% from the previous year. It also announced a share buyback of up to 20 million shares. On November 9, Shimizu raised its full-year operating profit forecast by 25.5%, to ¥192 billion.",
+              "The backdrop is strong domestic construction demand. With labor in limited supply, the companies are now able to pick and choose profitable projects. Provisions set aside for projects expected to lose money have fallen to half of their peak."
+            ],
+            "commentary": "¥205 billion. That's Obayashi's operating profit outlook for this fiscal year, after adding ¥25 billion to it. In the results from the big four that were all out by the 13th, every one of them revised its profit forecast upward. A few years ago, general contractors were struggling with rising material prices. You build at the price in the contract, but steel and concrete keep getting more expensive. It's like agreeing on a moving quote and then seeing the truck's fuel cost double. The money set aside for those losses is called a provision for construction losses, and it has reportedly fallen to half of its peak. The reason is that they can now choose their work. With not enough people to go around, they take the projects that pay first. For a company, that's a sound decision. But look at your own town, and you'll find redevelopment projects being redrawn smaller as construction costs rise. Hakodate's station area this week was one of them, right? In an era when builders choose their work, how are the town plans that are less likely to be chosen supposed to survive?",
+            "briefing": [
+              "Obayashi's consolidated ordinary profit for April-September rose 21.1% from a year earlier to ¥102.3 billion. It also raised its full-year ordinary profit forecast from ¥183 billion to ¥210 billion, and revised its revenue forecast from ¥2.945 trillion to ¥3.115 trillion.",
+              "Shimizu's consolidated operating profit for April-September rose 126.3% from a year earlier to ¥88 billion. The main reasons were higher completed construction revenue and better project margins, and it also raised its annual dividend forecast from ¥77 to ¥89.",
+              "On November 11, Kajima raised its full-year operating and ordinary profit forecasts, saying it expects gross margins to improve in both its civil engineering and building businesses. Taisei also announced the same day that it was raising its full-year profit forecast and increasing its dividend."
+            ],
+            "hojosen": [
+              {
+                "title": "Choosers and the chosen",
+                "body": "While general contractors can now be choosy about orders, clients are revising their plans one after another. As with the Hakodate station area in our Nov 13 issue and central Maebashi in our Oct 27 issue, redevelopment projects keep being scaled back as construction costs soar."
+              },
+              {
+                "title": "Fewer orders, more profit",
+                "body": "As we reported on Oct 31, Japan's domestic construction orders fell in April-September 2026 for the first time in six years. That profits are growing while order volume shrinks shows that each project has become more profitable."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-15-s3",
@@ -142,7 +192,32 @@
           "reliability": "高",
           "sourceName": "日本ウッドデザイン協会（プレスリリース）",
           "sourceURL": "https://koubo.jp/press-release/prtimes/c103496_r48",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Wood Design Award 2026 gives its new education minister's prize to a timber building at Mukogawa Women's University",
+            "summary": "The top prizes of the Wood Design Award 2026, which honors buildings and products that make good use of wood, have been decided. The newly created Minister of Education Award went to a two-story timber building at Mukogawa Women's University.",
+            "body": [
+              "The Japan Wood Design Association has announced the top prizes, including the grand prizes, of the Wood Design Award 2026, which honors buildings, products and initiatives that use wood to solve social problems. This year, a new grand prize, the Minister of Education, Culture, Sports, Science and Technology Award, was added to the four existing minister's awards.",
+              "That new award went to the Project Building of the School of Environmental Symbiosis at Mukogawa Women's University. The two-story timber building, designed and supervised by Tohata Architects & Engineers and built by Obayashi Facilities, serves as a base for students' group work in classes. The jury praised the idea of using local timber and recycled ocean plastic to turn the whole building into a teaching tool for learning about resource circulation.",
+              "In addition, the Minister of Agriculture, Forestry and Fisheries Award went to the office of Kyowa Mokuzai. The jury praised its approach of consolidating scattered offices into a single building and promoting the value of wood from the workplace. The award ceremony and exhibition for the top prizes are scheduled at Eco-Pro, to be held at Tokyo Big Sight from December 2 to 4."
+            ],
+            "commentary": "When you think of a wooden building, you might picture a log cabin or a shrine. This time, the new grand prize went to a two-story timber university building. What won praise was turning the building itself into a teaching tool. The columns and beams use local wood, and it also takes in recycled plastic recovered from the ocean. Where does this material come from, and where does it go once it's used up? Students can check that with their own eyes every day while sitting in class. It's like the anatomical model in a school science room, only done with an entire building, right? Starting this year, the Minister of Education Award has joined the grand prizes. It reflects a move to judge how wood is used not only on design and environment but also on learning. About two-thirds of Japan's land is forest. The people using a building can explain for themselves why it uses wood. I think the more buildings like that there are, the further timber construction will spread.",
+            "briefing": [
+              "The Wood Design Award began in 2015, and this is its 12th edition. Entries for 2026 were accepted from June 22 to July 31, and the 235 winning entries were announced first, on October 9. The top prizes were chosen from among them in a final review.",
+              "Kyowa Mokuzai's office won jointly with AUM and Kenchiku Suzuki. Technologies such as an exterior finish that reuses wastewater from sawmilling were also part of what the jury assessed.",
+              "The winners also include mid- and high-rise timber in cities, such as KiGi AKIHABARA, a nine-story timber building in Tokyo's Akihabara district. Sumitomo Forestry announced that nine entries it was involved in won awards."
+            ],
+            "hojosen": [
+              {
+                "title": "Timber schools",
+                "body": "Japan's national government is promoting the use of wood in public buildings, and more school buildings and gyms are being built in timber. Beyond wood's warmth and its ability to regulate humidity suiting the places where children and students spend their days, it is also expected to help support local forestry."
+              },
+              {
+                "title": "More minister's awards",
+                "body": "In 2022, the Wood Design Award's grand prizes became a set of four minister's awards: agriculture, forestry and fisheries; economy, trade and industry; land, infrastructure, transport and tourism; and environment. The new education minister's award adds support for wood use from the education side as well."
+              }
+            ]
+          }
         }
       ]
     },
@@ -6429,7 +6504,12 @@
         "issue-2026-11-11",
         "issue-2026-11-10",
         "issue-2026-11-09"
-      ]
+      ],
+      "en": {
+        "title": "This week in Japanese architecture",
+        "dateRangeText": "Nov 9 – Nov 15",
+        "heroTitle": "The week Aichi saw its first upper-5 seismic intensity shaking in about 30 years, a new standard of \"100 mm an hour\" was set out for urban flooding, and the revocation of a ready-mixed concrete maker's JIS certification came to light. Plus a proposal for passing first-class architect exam subjects separately, Takenaka's 3D-printed structural joints, the scaling back of Hakodate's station-area redevelopment, the new design for the NYK Building, and the first Kitakyushu Architecture Festival"
+      }
     },
     {
       "id": "feature-2026-w45",
