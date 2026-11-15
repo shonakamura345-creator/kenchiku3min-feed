@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "NHK",
           "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261113de75628",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "First building since the 2024 Noto earthquake is completed on Wajima's fire-razed morning market street",
+            "summary": "On November 13, the first building since the earthquake was completed on the Asaichi-dori morning market street in Wajima, Ishikawa Prefecture, which burned in a huge fire after the 2024 Noto Peninsula earthquake. The two-story timber shop-house belongs to a Wajima lacquerware shop that aims to reopen next spring.",
+            "body": [
+              "On November 13, the first building since the earthquake was completed on Asaichi-dori, the morning market street of Wajima, a city in Ishikawa Prefecture on the Sea of Japan coast. The whole area burned in a large fire that broke out after the Noto Peninsula earthquake in January 2024. The builder handed the keys to the owner, and the first building now stands in a district that had been left as vacant lots.",
+              "The new building is a shop-house for a store that sells Wajima-nuri, the lacquerware the city is famous for. It is a two-story timber building, built on the same spot where the store stood before the fire. The store is preparing to reopen around next spring.",
+              "Around the market street, the city of Wajima is carrying out a land readjustment project, a Japanese method of redrawing roads and plot boundaries before rebuilding, and has been expanding the areas where buildings can go up as roads and other infrastructure are put in place. The completion marks a step showing that the burned-out district has entered the stage of rebuilding."
+            ],
+            "commentary": "On the burned ground, timber columns go up, a roof goes on, and a lock goes on the front door. That's the ordinary order of building a house. But on Asaichi-dori, in the two years and ten-plus months since the earthquake, that order never once ran all the way to the end. Plenty of people must wonder why it takes so long, right? One reason is land readjustment. If you rebuild a burned district exactly as it was, the narrow streets and dead ends come back too. So first you redraw the lines of the roads and the plots. In shogi, Japanese chess, it's like redrawing the squares on the board before setting out the pieces. Until the squares are fixed, nobody can place a piece. In fact, it's been reported that some people sold their land during that wait. That's why I think the first building means more than the number suggests. Opening a shop in a place where no neighbor has come back takes courage. For now, on this street of empty lots, there is still just one building.",
+            "briefing": [
+              "About 240 buildings around the market street were reported burned in the fire. This is the first building completed in the area that had become vacant lots.",
+              "The land readjustment project the city is running covers about 5 hectares (12 acres). The city has been making the area ready for rebuilding one section at a time.",
+              "On nearby Honmachi-dori, construction is reportedly underway on single-story commercial buildings with a food court and more, set to open next spring. The shop-house plans to time its reopening to match."
+            ],
+            "hojosen": [
+              {
+                "title": "Choosing land readjustment",
+                "body": "After a big fire, rebuilding the same shapes on the same plots would also bring back narrow streets and alleys that fire engines struggle to enter. Land readjustment widens roads and reshapes plots before rebuilding begins. It takes longer, but it produces a district that burns less easily and is easier to escape from. It was used in many areas hit by the Great Hanshin-Awaji earthquake around Kobe."
+              },
+              {
+                "title": "Who will rebuild",
+                "body": "While waiting for land readjustment, some landowners have given up on rebuilding and sold their land. Even once the district is laid out, the street won't regain its bustle without people who keep doing business there. The first building going up also gives other landowners something to weigh when deciding whether to rebuild."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-16-s2",
@@ -97,7 +122,32 @@
           "reliability": "高",
           "sourceName": "ENR",
           "sourceURL": "https://www.enr.com/articles/64269-eight-dead-18-injured-in-brooklyn-building-collapse-next-to-construction-site",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Three-story building in New York collapses into a neighboring construction site, killing eight including two children",
+            "summary": "On November 11, a three-story building in Brooklyn, New York City, collapsed, killing eight people including two children. Excavation work was underway on the lot next door.",
+            "body": [
+              "On November 11, a three-story building collapsed in the Flatbush neighborhood of Brooklyn, New York City. The building was one of a row of buildings standing wall to wall along the street, and it was reported to have fallen toward the excavation pit of a construction project on the neighboring lot.",
+              "According to U.S. media, eight people died, including two children, and 17 or more were injured. The search for survivors ended the next day, November 12, and the removal of debris with heavy machinery has since begun.",
+              "The cause of the collapse has not yet been determined. New York City is focusing its investigation on whether the excavation at the neighboring site, and the work to support the surrounding ground and buildings during the excavation, played a role. Neighbors have also said they felt vibrations from the construction even before the collapse."
+            ],
+            "commentary": "On a street of buildings standing wall to wall, a big hole had been dug on the lot next door. That is the situation in which this collapse happened. The cause is still under investigation, and nothing can be stated for certain yet. But in building, there is a particular danger that comes with digging. When you dig into the ground, you remove the soil that was holding up the building next door from the side. It's the same logic as a sandbox: dig beside a mound of sand, and the mound slides into the hole. To prevent this, before digging you build a wall of steel sheets or piles to keep the surrounding soil from moving. That's called earth retention, or shoring. In Japanese cities too, digging a basement on a lot just tens of centimeters from the neighboring building is not unusual. That's why a shoring plan, and constant monitoring during construction to check that surrounding buildings aren't tilting, are essential. Two of the eight people who died were children. The unseen safety below the ground supports the lives of the people living right next door. I think this accident makes us think about that again.",
+            "briefing": [
+              "The New York City Department of Buildings ordered a full stop to work at the construction site next to the collapsed building. The mayor said the city's investigation will be thorough and comprehensive.",
+              "U.S. media report that in March this year the city had also ordered a halt to demolition work at the neighboring site. The city says the violations at that time were corrected and the order was lifted.",
+              "The collapsed building stood at 1321 Flatbush Avenue. Work on the neighboring lot was reportedly proceeding under permits for excavation and foundation work."
+            ],
+            "hojosen": [
+              {
+                "title": "Japan's shoring rules",
+                "body": "In Japan, the enforcement order of the Building Standards Act requires that excavation work include measures such as earth retention to prevent the surrounding ground from collapsing and to keep neighboring buildings from harm. For deep excavations, it is standard practice to keep measuring movement in the surrounding ground and buildings while work proceeds."
+              },
+              {
+                "title": "Building in dense districts",
+                "body": "In neighborhoods where buildings stand wall to wall, rebuilding one building directly affects the buildings on either side. Older buildings in particular often have shallow foundations or lean on their neighbors, which is said to make them vulnerable to excavation next door. Plenty of sites in the older districts of Tokyo and Osaka share the same setup."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-16-s3",
@@ -142,7 +192,32 @@
           "reliability": "高",
           "sourceName": "竹中工務店（公式）",
           "sourceURL": "https://www.takenaka.co.jp/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Takenaka and partners launch a green building materials search tool with data on 10,000+ products",
+            "summary": "Takenaka Corporation and DesignFuture Japan have jointly developed CLCS, a search system that lets designers find circular and low-carbon building materials. Environmental data on more than 10,000 building products has been made public.",
+            "body": [
+              "Takenaka Corporation, one of Japan's five largest general contractors, and DesignFuture Japan, which runs Material Bank Japan, a platform for choosing building materials, announced on November 13 that they have jointly developed the Circular and Low-Carbon Building Materials Utilization System (CLCS), which lets designers search for environmentally friendly building materials.",
+              "CLCS gathers environmental performance information that building material makers had not previously made public and posts it on Material Bank Japan. It lets users compare how much a product keeps resources in circulation (circularity) and the CO2 emitted in making a product and delivering it to the site (upfront carbon), making it easier for designers to propose environmentally friendly materials to clients and developers. The information collected has passed 10,000 products.",
+              "Behind the development is a national system for assessing the CO2 a building emits over its entire life, which is scheduled to start in 2028. The aim is to let designers compare the environmental performance of each material in numbers from the early stages of design."
+            ],
+            "commentary": "10,000. That's the number of building products whose environmental data has been gathered in CLCS. Flooring, wall materials, ceiling materials. A designer chooses hundreds of materials for a single building. Yet what a material is made of, and how much CO2 was emitted in making it, has until now been almost impossible to compare. With food at the supermarket, you can flip it over and read the label on the back to see what's inside, right? Building materials didn't have the equivalent of that back label. I think the easiest way to understand CLCS is as a system that gathered those back labels by asking the makers one by one. Behind it is a system scheduled to start in 2028. Once we're in an era of counting the CO2 a building emits from construction to demolition, the way you choose materials becomes a real chance for designers to show their skill. But even with the data in place, whether a client picks the slightly pricier green material comes down to the client's wallet. Who should pay that difference? What do you think?",
+            "briefing": [
+              "The yardstick is based on a common evaluation standard for circular building materials that Takenaka and DesignFuture Japan drew up in 2025. It rates materials on two indicators: the share of circular resources used in manufacturing and the rate at which resources are reused at disposal.",
+              "The CLCS project will exhibit at JAPANTEX2026, an interior trade fair held in Tokyo from November 18 to 20. Programs with speakers from general contractors, design firms and government ministries are also planned at the venue.",
+              "The system is reported to be free to use for members of Material Bank Japan."
+            ],
+            "hojosen": [
+              {
+                "title": "From operation to construction",
+                "body": "Cutting CO2 from buildings has mostly meant reducing the energy used after a building is finished, through insulation and energy-saving equipment. The further energy efficiency improves, the larger the share of CO2 from making and transporting materials and from construction becomes, and some countries in Europe now regulate construction-stage CO2."
+              },
+              {
+                "title": "Data comes first",
+                "body": "Calculating a whole building's CO2 requires emissions data for each material. In Japan, product-specific data is still scarce, and calculations often have to rely on average values. Whether makers publish figures for their own products will decide how effective the system can be."
+              }
+            ]
+          }
         }
       ]
     },
