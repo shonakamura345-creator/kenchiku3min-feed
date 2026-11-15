@@ -1,6 +1,152 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-16",
+      "date": "2026-11-16",
+      "weekday": "月",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-16-s1",
+          "number": 1,
+          "title": "輪島「朝市通り」に地震後初の建物が完成 焼け跡に木造2階建ての店舗兼住宅",
+          "summary": "能登半島地震の大火で焼けた輪島市の朝市通りで11月13日、地震後初めて建物が完成しました。輪島塗の店の店舗兼住宅で、来春の営業再開をめざします。",
+          "body": [
+            "2024年1月の能登半島地震のあとに起きた大規模な火災で、一帯が焼失した石川県輪島市の「朝市通り」で11月13日、地震後初めてとなる建物が完成しました。施工業者から店主に鍵が引き渡され、更地が続いていた一帯に、ようやく1棟目の建物が立ち上がりました。",
+            "完成したのは、輪島塗を販売する店の店舗兼住宅です。木造2階建てで、焼失前に店があったのと同じ場所に建てられました。店は来年春ごろの営業再開をめざして準備を進めるということです。",
+            "朝市通りの周辺では、輪島市が土地区画整理事業を進めており、道路などを整えながら建物を再建できる区域を広げてきました。今回の完成は、焼け跡の街が建物の再建という段階に入ったことを示す一歩になります。"
+          ],
+          "commentary": "焼け跡に、木の柱が立ち、屋根がかかり、玄関に鍵が付く。家を建てるときには当たり前の順番ですが、朝市通りでは地震から2年10か月あまり、この順番が一度も最後まで進みませんでした。なぜこんなに時間がかかるのか、と思う人も多いですよね。理由の一つが区画整理なんです。燃えた街をそのまま建て直すと、狭い道や行き止まりも元通りになってしまう。そこで先に道路と敷地の線を引き直す。将棋で言えば、駒を並べる前に盤のマス目を描き直すような作業です。マス目が決まらないと、誰も駒を置けません。実は、その間に土地を手放した人もいると報じられています。だからこそ、1軒目が建つことには数字以上の意味があると思うんです。隣に誰も戻ってこない場所に店を開くのは勇気が要りますから。今回、更地の通りに建った建物は、まだ1棟です。",
+          "briefing": [
+            "火災では朝市通り周辺の約240棟が焼けたと報じられています。今回の建物は、更地になっていた一帯で初めて完成した建物です。",
+            "輪島市が進める土地区画整理事業の区域は約5ヘクタールです。一部の区域から順に建物を再建できる状態にしてきました。",
+            "近くの本町通りでは、フードコートなどが入る平屋の商業施設が来年春の開業に向けて工事を進めていると報じられています。店舗兼住宅の営業再開も、この時期に合わせる考えです。"
+          ],
+          "sources": [
+            {
+              "name": "NHK",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261113de75628"
+            },
+            {
+              "name": "東京新聞（共同通信）",
+              "url": "https://www.tokyo-np.co.jp/article/527973"
+            },
+            {
+              "name": "石川テレビ（Yahoo!ニュース）",
+              "url": "https://news.yahoo.co.jp/articles/46792150f90b471193de3a17e397fdd778f7798b"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "区画整理という選択",
+              "body": "大火のあと、元の敷地に元の形で建て直すと、狭い道や消防車の入りにくい路地も残ってしまいます。区画整理は道路を広げ、敷地の形を整えてから再建に進む手法で、時間はかかる代わりに燃えにくく逃げやすい街をつくれます。阪神・淡路大震災の被災地でも各地で使われました。"
+            },
+            {
+              "title": "再建の担い手の問題",
+              "body": "区画整理を待つ間に、再建をあきらめて土地を手放す地権者も出ています。器となる街が整っても、そこで商売を続ける人がいなければ通りはにぎわいを取り戻せません。最初の1軒が建つことは、ほかの地権者が再建を判断する材料にもなります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "NHK",
+          "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261113de75628",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-16-s2",
+          "number": 2,
+          "title": "米ニューヨークで3階建ての建物が隣の工事現場に崩落 子ども2人を含む8人が死亡",
+          "summary": "ニューヨーク市ブルックリンで11月11日、3階建ての建物が崩れ、子ども2人を含む8人が亡くなりました。隣の敷地では地面を掘る工事が行われていました。",
+          "body": [
+            "アメリカ・ニューヨーク市ブルックリンのフラットブッシュ地区で11月11日、3階建ての建物が崩れ落ちました。建物は通りに沿って壁を接して並ぶ建物の一つで、隣の敷地で行われていた工事の掘削穴に向かって崩れたと報じられています。",
+            "米メディアによると、子ども2人を含む8人が死亡し、17人以上がけがをしました。生存者の捜索は翌12日に終わり、その後は重機によるがれきの撤去が始まっています。",
+            "崩落の原因はまだ特定されていません。ニューヨーク市は、隣の工事現場での掘削や、掘削の際に周りの地盤や建物を支える工事が崩落に関係したかどうかを中心に調べています。近隣の住民からは、事故の前から工事の振動を感じていたという声も出ています。"
+          ],
+          "commentary": "壁を接して建物が並ぶ通りで、隣の土地に大きな穴が掘られていた。今回の崩落は、その状況で起きました。原因は調査中で、断定できることはまだありません。ただ、建築の世界には、穴を掘る工事ならではの怖さがあるんです。地面を掘ると、隣の建物を横から支えていた土がなくなります。砂場で山の横を掘ると、山が穴のほうへ崩れてくるのと同じ理屈です。それを防ぐために、掘る前に鉄の板や杭で壁をつくり、周りの土が動かないように押さえる。これを山留めと呼びます。日本の都市部でも、隣の建物と数十センチしか離れていない敷地で地下を掘る工事は珍しくありません。だから山留めの計画と、工事中に周りの建物が傾いていないかを測り続ける管理が欠かせないんです。亡くなった8人のうち2人は子どもでした。見えない地面の下の安全が、すぐ隣で暮らす人の命を支えている。そのことを改めて考えさせられる事故だと思います。",
+          "briefing": [
+            "ニューヨーク市建築局は、崩れた建物の隣の工事現場に工事の全面停止を命じました。市長は、市の調査を徹底的で包括的なものにすると述べています。",
+            "隣の工事現場では今年3月にも、市が解体工事の中止を命じていたと米メディアが報じています。市は、その際の違反は是正され、命令は解除されていたと説明しています。",
+            "崩れた建物はフラットブッシュ・アベニュー1321番地にありました。隣の敷地では、掘削と基礎工事の許可を得て工事が進められていたと報じられています。"
+          ],
+          "sources": [
+            {
+              "name": "ENR",
+              "url": "https://www.enr.com/articles/64269-eight-dead-18-injured-in-brooklyn-building-collapse-next-to-construction-site"
+            },
+            {
+              "name": "CBS New York",
+              "url": "https://www.cbsnews.com/newyork/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/"
+            },
+            {
+              "name": "Brooklyn Paper",
+              "url": "https://www.brooklynpaper.com/bk-building-collapse-construction-site-investigation/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "日本の山留めルール",
+              "body": "日本では建築基準法の施行令で、地面を掘る工事では山留めを設けるなどして、周りの地盤の崩れや隣の建物への危害を防ぐよう定めています。深い掘削では、工事中に周辺の地盤や建物の動きを計測しながら進めるのが一般的です。"
+            },
+            {
+              "title": "密集市街地の工事",
+              "body": "建物が壁を接して並ぶ街では、1棟の建て替えが両隣の建物に直接影響します。古い建物ほど基礎が浅かったり、隣の建物にもたれ合うように建っていたりするため、隣地の掘削に弱いとされます。東京や大阪の下町でも同じ構図の現場は少なくありません。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "ENR",
+          "sourceURL": "https://www.enr.com/articles/64269-eight-dead-18-injured-in-brooklyn-building-collapse-next-to-construction-site",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-16-s3",
+          "number": 3,
+          "title": "竹中工務店ら、環境にやさしい建材を探せる検索システム 1万点超の環境データを公開",
+          "summary": "竹中工務店とDesignFuture Japanが、循環型・低炭素の建材を探せる検索システム「CLCS」を共同開発。1万点超の建材の環境データを公開しました。",
+          "body": [
+            "竹中工務店と、建材選びのプラットフォーム「Material Bank Japan」を運営するDesignFuture Japanは、環境に配慮した建材を設計者が検索できる「サーキュラー・低炭素建材利活用システム（CLCS）」を共同開発したと11月13日に発表しました。",
+            "CLCSは、建材メーカーがこれまで一般に公開してこなかった環境性能の情報を集めて、Material Bank Japanに載せる仕組みです。資源をどれだけ循環させているか（サーキュラー性）や、製品をつくって現場に届けるまでに出るCO2（アップフロントカーボン）などを比べられ、設計者が施主や開発事業者に環境配慮型の建材を提案しやすくなります。集めた情報は1万点を超えました。",
+            "開発の背景には、建物が一生のうちに出すCO2を評価する国の制度が2028年に始まる予定であることがあります。設計の早い段階から、建材ごとの環境性能を数字で比べられる環境を整えるのが狙いです。"
+          ],
+          "commentary": "1万点。CLCSに環境データが集まった建材の数です。床材、壁材、天井材。設計者は1つの建物で何百もの建材を選びます。ところが、その建材が何からできていて、つくるときにどれだけCO2を出したのかは、これまでほとんど比べようがなかったんです。スーパーの食品なら、裏の成分表示を見れば中身がわかりますよね。建材には、その裏ラベルにあたる情報がそろっていなかった。CLCSは、メーカーに一つずつ聞き取って、その裏ラベルを集めた仕組みだと考えるとわかりやすいと思います。背景にあるのは2028年に始まる予定の制度です。建物が建ってから壊されるまでに出すCO2を数える時代になると、建材の選び方そのものが設計の腕の見せどころになります。ただ、データがそろっても、少し高い環境配慮型の建材を選ぶかどうかは施主のお財布次第です。その差額を誰が払うのか、皆さんはどう思いますか。",
+          "briefing": [
+            "評価のものさしは、竹中工務店とDesignFuture Japanが2025年に策定した「サーキュラー建材」の共通評価基準がもとになっています。建材をつくるときの循環型資源の使用率と、廃棄するときの資源の再利用率という2つの指標で評価します。",
+            "CLCSのプロジェクトは、11月18日から20日まで東京で開かれるインテリア見本市「JAPANTEX2026」に出展します。会場ではゼネコンや設計事務所、省庁の関係者が登壇するプログラムも予定されています。",
+            "システムはMaterial Bank Japanの会員であれば無料で使えると報じられています。"
+          ],
+          "sources": [
+            {
+              "name": "竹中工務店（公式）",
+              "url": "https://www.takenaka.co.jp/"
+            },
+            {
+              "name": "DesignFuture Japan（PR TIMES）",
+              "url": "https://prtimes.jp/main/html/rd/p/000000029.000107872.html"
+            },
+            {
+              "name": "日刊建設工業新聞",
+              "url": "https://www.decn.co.jp/?p=189338"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "運用時から建設時へ",
+              "body": "建物のCO2削減は、これまで断熱や省エネ設備など、建ったあとに使うエネルギーを減らす取り組みが中心でした。省エネが進むほど、建材の製造や運搬、工事で出るCO2の割合が目立つようになり、欧州では建設時のCO2を規制する国も出ています。"
+            },
+            {
+              "title": "データ整備が出発点",
+              "body": "建物全体のCO2を計算するには、建材ごとの排出量のデータが欠かせません。日本では製品ごとのデータがまだ少なく、平均的な値で計算せざるを得ない場面が多いとされます。メーカーが自社製品の数値を出すかどうかが、制度の実効性を左右します。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "竹中工務店（公式）",
+          "sourceURL": "https://www.takenaka.co.jp/",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-15",
       "date": "2026-11-15",
       "weekday": "日",
@@ -6262,227 +6408,6 @@
               {
                 "title": "Booking systems at tourist sites",
                 "body": "At popular tourist sites, moves to introduce booking systems or entry fees to curb crowding and the burden on nature are spreading worldwide. Changing how people get in at the same time as building the facility makes this a case where architecture and operations were planned as a package."
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-17",
-      "date": "2026-10-17",
-      "weekday": "土",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-17-s1",
-          "number": 1,
-          "title": "京都駅南側の高さ規制を31mから45mへ 京都市が緩和方針、オフィス不足で北側に先行",
-          "summary": "京都市は、京都駅の南側で建物の高さの上限を現在の31メートルから45メートルに引き上げる方針を固めました。駅前のオフィス不足が背景です。",
-          "body": [
-            "京都市は、京都駅周辺で建物の高さを抑えている規制について、駅の南側を先行して緩和する方針を固めました。NHKや京都新聞が10月16日に報じたもので、現在31メートルとなっている高さの上限を45メートルに引き上げる内容です。",
-            "市は、駅の南側では公共空間の整備や市外からの企業の立地が進み、再開発の機運が高まっているとしています。背景には、京都駅前でオフィスが不足していることや、建物の老朽化があるとされます。日本経済新聞によると、松井孝治市長は景観への配慮から、まず南側の緩和で先行する考えを示していました。",
-            "一方、駅の北側の扱いは今回の報道では明らかになっていません。北側では、京都中央郵便局をオフィスや商業施設、バスターミナルなどの入る複合ビルに建て替える計画があり、事業者は規制緩和によって京都駅ビルと同じ約60メートルの高さを目指していると京都新聞は伝えています。"
-          ],
-          "commentary": "31メートルと45メートル。差は14メートル、オフィスビルならだいたい3〜4階分です。京都は、市街地のほぼ全域で建物の高さに上限をかけている珍しい街なんです。東山や北山の稜線が、街のどこからでも見えるようにするためのルールです。高さ制限は、映画館で前の席の人の座高をそろえるようなものだと思ってください。一人だけ背が高いと、後ろの人はスクリーンが見えなくなりますよね。ただ、座高をそろえすぎた結果、駅前に新しいオフィスを建てる余地がなくなりました。京都で働きたい人がいても、働く場所がない。それが今回の緩和の出発点です。市はまず南側から動かします。北側には、駅ビルと同じ60メートルを望む声もあります。景色を守ることと、働く場所をつくること。どこで線を引くのが正解なのか、皆さんはどう思いますか。",
-          "briefing": [
-            "京都市は2023年に施行した都市計画の見直しで、京都駅南側の大通り沿いなどの高さ制限を20〜25メートルから31メートルに引き上げていました。今回の45メートル案は、それに続く緩和になります。",
-            "京都商工会議所は以前、京都駅前の高さ規制を31メートルから60メートルに緩和するよう求める意見書を松井市長に提出していました。",
-            "京都新聞は、今回の方針の狙いとして企業誘致と、市内からの人材流出の防止を挙げ、駅南側ではすでに開発への関心が高まっていると伝えています。"
-          ],
-          "sources": [
-            {
-              "name": "NHK",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261016de60705"
-            },
-            {
-              "name": "京都新聞",
-              "url": "https://www.kyoto-np.co.jp/articles/-/1808867"
-            },
-            {
-              "name": "日本経済新聞",
-              "url": "https://www.nikkei.com/article/DGXZQOUF1219Z0S6A011C2000000/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "京都の新景観政策",
-              "body": "京都市は2007年に「新景観政策」を始め、建物の高さの上限を引き下げました。最高45メートルだった上限は31メートルに、歴史的な市街地では15メートルにまで抑えられています。今回の45メートルは、駅南側に限って、この政策以前の水準に戻す形とも言えます。"
-            },
-            {
-              "title": "保全と開発のメリハリ",
-              "body": "全国の歴史都市では、街並みを守るエリアと経済活動を受け止めるエリアを分けて、規制の強さに差をつける動きが広がっています。京都市も、景観の要となる地域は守りつつ、駅南側や市の東部など一部の地域で規制を緩める方向で見直しを重ねてきました。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "NHK",
-          "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261016de60705",
-          "shoComment": "",
-          "en": {
-            "title": "Kyoto to raise height limit south of Kyoto Station from 31 m to 45 m amid office shortage",
-            "summary": "Kyoto City has decided to raise the height limit for buildings south of Kyoto Station from the current 31 m (102 ft) to 45 m (148 ft). A shortage of office space near the station is behind the move.",
-            "body": [
-              "Kyoto City has decided to ease the rules that cap building heights around Kyoto Station, starting with the area south of the station. According to reports by public broadcaster NHK and the Kyoto Shimbun newspaper on October 16, the maximum height there, currently 31 m (102 ft), would be raised to 45 m (148 ft).",
-              "The city says that on the south side of the station, public spaces are being improved and companies from outside the city are moving in, building momentum for redevelopment. Behind the move are a shortage of office space in front of Kyoto Station and aging buildings. According to the Nikkei business newspaper, Mayor Koji Matsui had indicated that, out of concern for the cityscape, he would move first on easing the rules for the south side.",
-              "How the north side of the station will be treated was not made clear in these reports. On the north side, there is a plan to rebuild Kyoto Central Post Office as a mixed-use building with offices, shops and a bus terminal, and the Kyoto Shimbun reports that the developer is aiming, through a relaxation of the rules, for a height of about 60 m (197 ft), the same as the Kyoto Station Building."
-            ],
-            "commentary": "31 meters versus 45 meters. The difference is 14 m (46 ft), roughly three to four floors of an office building. Kyoto is an unusual city that puts a height cap on buildings across almost its entire urban area. The rule is there so that the ridgelines of the Higashiyama and Kitayama mountains, the hills along the city's east and north, can be seen from anywhere in town. Think of a height limit as making everyone in a movie theater sit at the same height. If one person is much taller, the people behind them can't see the screen, right? But by evening out everyone's height so thoroughly, the city ran out of room to build new offices in front of the station. People may want to work in Kyoto, but there's nowhere to work. That's the starting point for this relaxation. The city will move on the south side first. On the north side, some are hoping for 60 meters, the same as the station building. Protecting the view, and creating places to work. Where's the right place to draw the line? What do you think?",
-            "briefing": [
-              "In a revision of its urban planning rules that took effect in 2023, Kyoto City had already raised the height limit along major streets on the south side of Kyoto Station from 20 to 25 m (66–82 ft) to 31 m (102 ft). The new 45 m (148 ft) plan is a further relaxation following that.",
-              "The Kyoto Chamber of Commerce and Industry had earlier submitted a written request to Mayor Matsui asking that the height limit in front of Kyoto Station be eased from 31 m (102 ft) to 60 m (197 ft).",
-              "The Kyoto Shimbun cites attracting companies and preventing talent from leaving the city as the aims of the new policy, and reports that interest in development on the south side of the station is already rising."
-            ],
-            "hojosen": [
-              {
-                "title": "Kyoto's New Landscape Policy",
-                "body": "In 2007, Kyoto City launched its New Landscape Policy and lowered its building height limits. The maximum, which had been 45 m (148 ft), was cut to 31 m (102 ft), and in historic districts to as low as 15 m (49 ft). The new 45 m limit can be seen as returning the area south of the station, and only that area, to the level before this policy."
-              },
-              {
-                "title": "Protect here, develop there",
-                "body": "Historic cities across Japan are increasingly dividing themselves into areas that protect the streetscape and areas that absorb economic activity, and setting rules of different strictness for each. Kyoto City, too, has been revising its rules to keep protecting the areas that are key to its cityscape while easing restrictions in some areas, such as south of the station and the eastern part of the city."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-17-s2",
-          "number": 2,
-          "title": "ANAが本社を汐留から八重洲「YAESU CORE」へ 30年春、高さ227mの再開発ビル",
-          "summary": "ANAホールディングスと全日本空輸は10月16日、本社を汐留から東京駅前・八重洲の再開発ビル「YAESU CORE」へ2030年春ごろ移すと発表しました。",
-          "body": [
-            "ANAホールディングスと全日本空輸は10月16日、本社機能を現在の汐留シティセンターから、東京駅前の八重洲二丁目で建設中の再開発ビル「YAESU CORE（ヤエス コア）」に移すと発表しました。入居は2030年春ごろの予定です。グループの一部の機能は、同じ時期に田町駅西口の新しい拠点に移ります。",
-            "YAESU COREは、八重洲二丁目中地区第一種市街地再開発事業で建てられている地上43階・地下3階、高さ約227メートルの複合ビルです。オフィスのほか、商業施設、約1300席の劇場、高速バスターミナルなどが入り、2029年1月末の竣工を予定しています。基本設計は日建設計、実施設計と施工は鹿島建設が担当しています。",
-            "ANAは移転の目的について、社員が働きやすい環境を整えることを挙げています。どの会社や部門を八重洲と田町のどちらに置くかは、今後検討して決めるとしています。"
-          ],
-          "commentary": "高さ約227メートル、地上43階。完成は2029年1月末の予定です。このビルの地下には、高速バスの乗り場が7つできます。隣の東京ミッドタウン八重洲などの地下にある乗り場とつながって、全部で20の乗り場をもつ国内最大級のバスターミナルになる計画です。上の階には劇場もあります。会社の本社が、ただのオフィスの床ではなく、駅とバスと劇場の上に乗るわけです。マンションの1階にコンビニが入っていると便利なのと同じで、建物の足元に何が入るかで、上で働く人の毎日が変わります。航空会社が、新幹線と高速バスの玄関口の上に本社を構える。移動を仕事にする会社らしい選び方だと僕は見ています。八重洲では、3つの再開発が順番に建ち上がってきました。YAESU COREは、その最後の1棟です。",
-          "briefing": [
-            "YAESU COREの劇場は3〜6階に入り、施設計画を阪急電鉄、運営を梅田芸術劇場が担います。ミュージカルや宝塚歌劇、コンサートなどの上演が計画されています。",
-            "地下のバスターミナル東京八重洲は、東京ミッドタウン八重洲、TOFROM YAESU、YAESU COREの3地区にまたがって一体で運用されます。YAESU COREでは7つの乗降場を整備します。",
-            "再開発は八重洲二丁目中地区市街地再開発組合が施行し、鹿島建設、住友不動産、都市再生機構が関わっています。施設名称のYAESU COREは2026年8月24日に発表されました。"
-          ],
-          "sources": [
-            {
-              "name": "ANAホールディングス（公式）",
-              "url": "https://www.anahd.co.jp/group/pr/202610/20261016.html"
-            },
-            {
-              "name": "八重洲二丁目中地区市街地再開発組合ほか（公式）",
-              "url": "https://www.sumitomo-rd.co.jp/uploads/20260824_release_yaesu2naka_YAESU-CORE.pdf"
-            },
-            {
-              "name": "乗りものニュース",
-              "url": "https://trafficnews.jp/post/719039"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "八重洲の3地区再開発",
-              "body": "東京駅の八重洲口では、八重洲一丁目東地区、八重洲二丁目北地区、八重洲二丁目中地区の3つの再開発が並行して進んできました。中地区のYAESU COREは「東京駅前3地区再開発の集大成」と位置づけられ、地下のバスターミナルで3地区が一つにつながります。道路沿いに散らばっていた高速バスの乗り場を集約する狙いもあります。"
-            },
-            {
-              "title": "本社移転と再開発",
-              "body": "大企業の本社移転は、建設中の大型再開発ビルにとって、完成前にオフィスの大口の入居者が決まることを意味します。都心では大規模なオフィスビルの完成が続いており、交通の結節点の上に建つビルに企業が集まる傾向が強まっています。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "ANAホールディングス（公式）",
-          "sourceURL": "https://www.anahd.co.jp/group/pr/202610/20261016.html",
-          "shoComment": "",
-          "en": {
-            "title": "ANA to move its head office to YAESU CORE, a 227 m tower in front of Tokyo Station, in spring 2030",
-            "summary": "ANA Holdings and All Nippon Airways announced on Oct 16 that they will move their head office from Shiodome to YAESU CORE, a redevelopment tower in Tokyo's Yaesu district in front of Tokyo Station, around spring 2030.",
-            "body": [
-              "ANA Holdings and All Nippon Airways announced on October 16 that they will move their head office functions from their current home in Shiodome City Center, in the Shiodome business district near Shinbashi, to YAESU CORE, a redevelopment tower under construction in Yaesu 2-chome, on the east side of Tokyo Station. The move is planned for around spring 2030. Some of the group's functions will move at the same time to a new base by the west exit of Tamachi Station, also in central Tokyo.",
-              "YAESU CORE is being built under the Yaesu 2-chome Central District Type 1 Urban Redevelopment Project, part of a Japanese scheme in which landowners pool their plots to build a larger complex. The mixed-use tower will have 43 floors above ground and three below, and stand about 227 m (745 ft) tall. Along with offices, it will house retail, a theater with about 1,300 seats and a highway bus terminal, and is scheduled for completion at the end of January 2029. Nikken Sekkei did the basic design, and Kajima Corporation is handling detailed design and construction.",
-              "ANA says the aim of the move is to create a better working environment for employees. Which companies and departments will go to Yaesu and which to Tamachi will be decided later."
-            ],
-            "commentary": "About 227 m (745 ft) tall, 43 floors above ground, due for completion at the end of January 2029. Below ground, this building will have seven highway bus bays. Linked with the bus bays underneath Tokyo Midtown Yaesu next door and its neighbors, the plan is to create one of Japan's largest bus terminals, with 20 bays in all. Upstairs, there's a theater too. So a company head office won't just sit on generic office floors. It will sit on top of a train station, a bus terminal and a theater. It's like how handy it is to have a convenience store on the ground floor of your apartment building, the kind of shop you find on every corner in Japan. What goes in at a building's feet changes the daily lives of the people working above. An airline setting up its head office above the gateway for the shinkansen bullet trains and highway buses. I see it as a fitting choice for a company whose business is moving people. In Yaesu, three redevelopments have been rising one after another. YAESU CORE is the last of them.",
-            "briefing": [
-              "YAESU CORE's theater will occupy the 3rd to 6th floors. Hankyu Corporation is planning the facility and Umeda Arts Theater will run it. Musicals, the Takarazuka Revue (the all-female musical theater company) and concerts are planned.",
-              "The underground Bus Terminal Tokyo Yaesu will operate as a single facility spanning three developments: Tokyo Midtown Yaesu, TOFROM YAESU and YAESU CORE. YAESU CORE will add seven boarding and alighting bays.",
-              "The redevelopment is being carried out by the Yaesu 2-chome Central District Urban Redevelopment Association, with Kajima Corporation, Sumitomo Realty & Development and the Urban Renaissance Agency (UR), a government-affiliated urban development body, involved. The name YAESU CORE was announced on August 24, 2026."
-            ],
-            "hojosen": [
-              {
-                "title": "Three Yaesu redevelopments",
-                "body": "On the Yaesu side of Tokyo Station, three redevelopments have been moving forward in parallel: the Yaesu 1-chome East District, the Yaesu 2-chome North District and the Yaesu 2-chome Central District. YAESU CORE, in the Central District, is billed as the culmination of the three redevelopments in front of Tokyo Station, and the underground bus terminal will join all three into one. Another goal is to consolidate highway bus stops that had been scattered along the streets."
-              },
-              {
-                "title": "Head offices and redevelopment",
-                "body": "For a large redevelopment tower under construction, a major company moving its head office in means a big office tenant is secured before completion. In central Tokyo, large office buildings keep being completed, and companies are increasingly gathering in buildings that sit on top of transportation hubs."
-              }
-            ]
-          }
-        },
-        {
-          "id": "issue-2026-10-17-s3",
-          "number": 3,
-          "title": "清水建設が米ヒト型ロボット新興ノーブルマシーンズに出資 27年春から現場で実機検証",
-          "summary": "清水建設は、建設現場向けのAIヒト型ロボットを開発する米国のノーブルマシーンズへの出資を発表しました。2027年春から現場での検証を始めます。",
-          "body": [
-            "清水建設は、AIを搭載した建設業向けのヒューマノイド（ヒト型ロボット）を開発する米シリコンバレーのスタートアップ、ノーブルマシーンズ（Noble Machines）への出資を完了したと発表しました。日本経済新聞が10月16日に報じています。出資額は公表していません。",
-            "ノーブルマシーンズは2024年に設立された会社で、建設現場のような厳しい環境で動くことを想定したロボットの本体と、その制御システムや操作ソフトウエアを開発しています。清水建設は自社の施工のノウハウを開発に生かし、両社で協業を本格的に始めるとしています。",
-            "今後は2026年内をめどに、建物の3次元モデルを使った仮想空間で、資材の運搬や現場内の移動・巡回を検証します。2027年春からは、実際の建設現場で実機を使った検証に乗り出す計画です。"
-          ],
-          "commentary": "検証の始まりは2027年春。実際の建設現場を、ヒト型のロボットが歩くことになります。なぜわざわざ人の形なのか、不思議ですよね。工場なら、ベルトコンベアの横に腕だけのロボットを置けば済みます。でも建設現場は、毎日形が変わる場所なんです。昨日まで床だった所に今日は壁が立ち、階段は仮設で、足元には資材が置かれている。タイヤのロボットにとっては、引っ越し当日の段ボールだらけの部屋を走るようなものです。人が歩くために作られた場所なら、人の形をしたロボットがいちばん入りやすい、という考え方です。まずは資材を運ぶ、現場を見回る、といった仕事から試すそうです。職人さんの代わりというより、職人さんが腕を振るう時間を増やすための手伝い役。人手不足の現場には、そういう役回りから入っていくのが現実的なんだと思います。",
-          "briefing": [
-            "清水建設は2026年7月、建設現場でのAIロボットの実装に向けた研究開発を本格化すると発表し、ヒト型ロボットによる現場巡回や、ロボットアームによる塗装作業の実証を始めていました。",
-            "清水建設は同じ時期に、フィジカルAIを使って鉄筋工事の自動化を目指すスイスのMESH AGにも出資しており、海外のロボット系スタートアップへの投資を続けています。",
-            "ノーブルマシーンズのロボットとして、建設業向けヒューマノイド「MOBY」シリーズが挙げられています。"
-          ],
-          "sources": [
-            {
-              "name": "清水建設（公式）",
-              "url": "https://www.shimz.co.jp/en/company/about/news-release/2026/2026044.html"
-            },
-            {
-              "name": "日本経済新聞",
-              "url": "https://www.nikkei.com/article/DGXZQOUC1641W0W6A011C2000000/"
-            },
-            {
-              "name": "デジタル建設",
-              "url": "https://digital-construction.jp/news/4105"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "ゼネコンとロボット",
-              "body": "大手ゼネコンはこれまで、溶接や資材の搬送など、作業ごとに専用のロボットを開発してきました。最近はAIの進歩を背景に、一台で複数の作業をこなせる汎用のヒト型ロボットに注目が集まり、海外の新興企業と組む動きが増えています。"
-            },
-            {
-              "title": "人手不足の現実",
-              "body": "建設業では技能者の高齢化と若手の不足が続き、2024年4月からは時間外労働の上限規制も適用されています。限られた人数で工期を守るため、人がやらなくてもよい運搬や巡回をロボットに任せる取り組みが各社で進んでいます。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "清水建設（公式）",
-          "sourceURL": "https://www.shimz.co.jp/en/company/about/news-release/2026/2026044.html",
-          "shoComment": "",
-          "en": {
-            "title": "Shimizu invests in US humanoid robot startup Noble Machines, plans site trials from spring 2027",
-            "summary": "Shimizu Corporation has announced an investment in Noble Machines, a US startup developing AI-powered humanoid robots for construction sites. Testing on real sites is set to begin in spring 2027.",
-            "body": [
-              "Shimizu Corporation, one of Japan's five largest general contractors, has announced that it has completed an investment in Noble Machines, a Silicon Valley startup developing AI-powered humanoid robots for the construction industry. The Nikkei business newspaper reported the news on October 16. The amount of the investment has not been disclosed.",
-              "Noble Machines was founded in 2024. It develops robot hardware designed to work in harsh environments such as construction sites, along with the control systems and operating software. Shimizu says it will bring its construction know-how to the development work, and the two companies are starting their collaboration in earnest.",
-              "By the end of 2026, the companies plan to test moving materials and getting around and patrolling a site in a virtual space built from 3D building models. From spring 2027, they plan to move on to trials with actual robots on real construction sites."
-            ],
-            "commentary": "Testing begins in spring 2027. Humanoid robots will be walking around actual construction sites. Why go to the trouble of making them human-shaped? It seems strange, doesn't it? In a factory, you can just put an arm-only robot next to a conveyor belt. But a construction site is a place whose shape changes every day. Where there was a floor yesterday, a wall stands today. Stairs are temporary, and materials are lying around underfoot. For a robot on wheels, it's like driving through a room on moving day, crammed with cardboard boxes. The thinking is that in a place built for people to walk through, a robot shaped like a person can get around most easily. They'll start by testing jobs like carrying materials and patrolling the site. It's less a replacement for skilled tradespeople than a helper that gives them more time to do the work that needs their skills. For sites short on workers, starting from that kind of role seems like the realistic way in.",
-            "briefing": [
-              "In July 2026, Shimizu announced it was ramping up research and development toward putting AI robots to work on construction sites, and began trials of site patrols by humanoid robots and painting by robotic arms.",
-              "Around the same time, Shimizu also invested in MESH AG, a Swiss company aiming to automate rebar work using physical AI, and it continues to invest in overseas robotics startups.",
-              "Noble Machines' robots include the MOBY series of humanoids for the construction industry."
-            ],
-            "hojosen": [
-              {
-                "title": "General contractors and robots",
-                "body": "Japan's major general contractors have so far developed dedicated robots for individual tasks, such as welding or moving materials. Recently, with advances in AI, attention has turned to general-purpose humanoid robots that can handle several tasks with one machine, and more contractors are teaming up with overseas startups."
-              },
-              {
-                "title": "The reality of labor shortages",
-                "body": "Japan's construction industry faces an aging skilled workforce and a shortage of young workers, and since April 2024 legal caps on overtime have also applied to the industry. To meet construction schedules with limited staff, companies are moving to hand off tasks people don't need to do themselves, such as carrying materials and patrolling sites, to robots."
               }
             ]
           }
