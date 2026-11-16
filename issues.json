@@ -1,6 +1,150 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-17",
+      "date": "2026-11-17",
+      "weekday": "火",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-17-s1",
+          "number": 1,
+          "title": "首里城正殿の復元が完成、内部を報道公開 焼失から7年、23日正午から一般公開へ",
+          "summary": "2019年の火災で焼失した那覇市の首里城正殿の復元が完成し、内部が報道陣に公開されました。22日の完成式を経て、23日正午から一般公開されます。",
+          "body": [
+            "2019年10月の火災で焼失した那覇市の首里城正殿について、復元工事を終えた内部が16日までに報道関係者に公開されました。国が進めてきた「令和の復元」で、22日に政府主催の完成式が開かれたあと、23日の正午から一般公開が始まります。",
+            "今回の復元では、前回の焼失の教訓を踏まえて防火対策が強化されました。正殿にはスプリンクラーや炎を感知する機器が新たに設けられ、公園の外から水を送り込める連結送水管も正殿の周りに整備されています。",
+            "正殿の内部の観覧は、混雑を避けるため日時を指定した事前予約制になります。有料区域の入場料も、23日の入場分から改定されます。"
+          ],
+          "commentary": "赤い正殿が夜空の下で燃え落ちる映像。2019年の秋、テレビで見た人も多いと思います。あれから7年、同じ場所に同じ姿の正殿が戻ってきました。実は首里城は、琉球王国の時代から何度も焼け、そのたびに建て直されてきた建物なんです。今回の復元で新しく加わったのが、防火の仕組みです。スプリンクラー、炎を見張る感知器、そして連結送水管。連結送水管というのは、消防車のホースをつなげば建物の近くまで一気に水を送れる、地面に埋めた専用の水道管のようなものです。昔の姿をそのまま再現することと、燃えにくくすること。この二つは、どこかでぶつかりそうですよね。見た目を変えずに設備を忍ばせる。その調整を積み重ねたのが「令和の復元」です。正殿の一般公開は、23日の正午からです。",
+          "briefing": [
+            "一般公開に合わせ、23日午前には沖縄県主催のオープニングセレモニーが首里城公園の御庭（うなー）で開かれる予定です。正殿の前に広がる、儀式の舞台にもなってきた広場です。",
+            "復元の設計では、柱や梁などの構造材に国産のヒノキを原則として使い、一部にイヌマキやオキナワウラジロガシを使う方針が示されていました。屋根の赤瓦には沖縄本島産の材料を使い、焼失した正殿の割れた瓦を砕いて一部に再利用する計画でした。",
+            "防火設備は正殿の中だけでなく、正殿前の御庭の下にも整備されたと、国の出先機関である沖縄総合事務局が報道陣に説明しています。"
+          ],
+          "sources": [
+            {
+              "name": "首里城公園（公式）",
+              "url": "https://oki-park.jp/shurijo/"
+            },
+            {
+              "name": "NHK",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261116de76402"
+            },
+            {
+              "name": "琉球新報",
+              "url": "https://ryukyushimpo.jp/national/entry-5589490.html"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "何度も建て直された城",
+              "body": "首里城の正殿は、王国の時代から戦争までに何度も焼失し、そのたびに再建されてきました。沖縄戦で失われた正殿は1992年に復元され、2019年の火災はその「平成の正殿」が失われたものでした。同じ建物を繰り返し建て直すことで、木を組む技術や瓦・漆の職人の技が受け継がれてきた側面もあります。"
+            },
+            {
+              "title": "文化財と防火の両立",
+              "body": "2019年にはパリのノートルダム大聖堂でも大火災があり、木造や歴史的な建物の防火は世界的な課題になりました。見た目を変えずに消火設備を組み込む工夫は、全国の寺社や城の改修でも求められています。首里城の対策は、こうした建物の防火を考えるうえで一つの手本になりそうです。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "首里城公園（公式）",
+          "sourceURL": "https://oki-park.jp/shurijo/",
+          "shoComment": "",
+          "imagePrompt": "A vivid red traditional Ryukyuan palace hall with a red-tiled roof and ornate dragon pillars at the entrance, facing a large paved courtyard with striped red and white stone paving, clear autumn sky, Okinawa, Japan."
+        },
+        {
+          "id": "issue-2026-11-17-s2",
+          "number": 2,
+          "title": "羽田空港アクセス線のトンネル掘削が始まる 直径11.8mのシールド機、東京駅と18分",
+          "summary": "JR東日本は16日、東京駅と羽田空港を乗り換えなしで結ぶ「羽田空港アクセス線」のトンネル掘削を始めました。2031年度の開業をめざします。",
+          "body": [
+            "JR東日本は16日、東京駅と羽田空港を乗り換えなしで結ぶ新路線「羽田空港アクセス線（仮称）」のトンネルの掘削を始めました。開業すると、東京駅と羽田空港の間は約18分で結ばれる計画で、2031年度の開業をめざしています。",
+            "掘削には、直径約11.8メートルのシールドマシンを使います。東京貨物ターミナル付近から羽田空港の方向に地下を掘り進めるもので、JR東日本が担うのは約2.3キロメートルの区間です。1年ほどかけて掘り進める予定です。",
+            "JR東日本は掘削開始に先立つ6日、トンネル工事の現場を報道陣に公開していました。いまは浜松町や品川などで乗り換えが必要な都心と空港の間の移動が、大きく変わることになります。"
+          ],
+          "commentary": "東京駅から羽田空港まで、乗り換えなしで18分。その線路を通すために、地下で直径11.8メートルの機械が動き始めました。シールド工法というのは、筒を押し込みながら、その内側にすぐ壁を貼っていく掘り方なんです。先頭の刃で土を削り、すぐ後ろでコンクリートの板を輪の形に組んでいく。トイレットペーパーの芯を、内側から一枚ずつ継ぎ足して伸ばしていくイメージです。掘った穴が崩れる前に、もう壁ができている。だから水を含んだ湾岸の地盤や、海の下でも掘れるんです。直径11.8メートルは、3階建ての家がすっぽり収まるくらいの大きさです。大きなスーツケースを引いて駅の階段を上り下りする、あの乗り換えがなくなる。空港の近くに住む、空港へ通うという選び方も変わってきそうです。開業したら、皆さんはどの駅から空港へ向かいますか。",
+          "briefing": [
+            "報道陣に公開されたのは、新たに線路を敷く「アクセス新線」部分のトンネル工事の現場でした。東京貨物ターミナル付近から羽田空港までの新しく建設する区間のうち、JR東日本は北側の区間を担当しています。",
+            "シールドマシンは外径約11.8メートル。工事の拠点となる東京貨物ターミナル側から地下へと掘り進めます。",
+            "アクセス線はJR東日本が2023年6月に工事に着手した路線です。2031年度の開業を目標にしています。"
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOUC05BJN0V01C26A1000000/"
+            },
+            {
+              "name": "毎日新聞（dメニューニュース）",
+              "url": "https://topics.smt.docomo.ne.jp/article/mainichi/business/mainichi-20261116k0000m020128000c"
+            },
+            {
+              "name": "東京新聞",
+              "url": "https://www.tokyo-np.co.jp/article/526520?rct=national"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "空港アクセスの競争",
+              "body": "羽田空港へは現在、東京モノレールと京急線が主なルートで、都心からはどちらも乗り換えを挟むことが多くなります。東京駅から直通の路線ができると、北関東方面からも乗り換えなしで空港へ向かえる見込みで、空港アクセスの勢力図が変わります。"
+            },
+            {
+              "title": "沿線の街への影響",
+              "body": "大きな鉄道の新線は、駅の周りの再開発や住宅・オフィスの立地を動かしてきました。都心と空港の距離が縮まると、出張の多い企業の拠点選びや、空港で働く人の住まい選びにも影響が出てくると考えられます。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "日本経済新聞",
+          "sourceURL": "https://www.nikkei.com/article/DGXZQOUC05BJN0V01C26A1000000/",
+          "shoComment": "",
+          "imagePrompt": "A huge circular tunnel boring machine cutter head, about 12 meters in diameter, inside a deep concrete launch shaft at a construction site, steel scaffolding and work lights, workers in helmets for scale, Tokyo bay area, Japan."
+        },
+        {
+          "id": "issue-2026-11-17-s3",
+          "number": 3,
+          "title": "象設計集団の創設者、建築家の樋口裕康さんが死去 名護市庁舎などを手がける",
+          "summary": "風土に根ざした建築で知られる設計事務所「象設計集団」の創設者で、建築家の樋口裕康さんが11日に亡くなりました。拠点の十勝で惜しむ声が上がっています。",
+          "body": [
+            "建築設計事務所「象設計集団」の創設者で建築家の樋口裕康さんが11日、病気のため亡くなりました。北海道新聞や十勝毎日新聞が伝えました。お別れの会は後日開かれる予定です。",
+            "象設計集団は1971年、樋口さんが富田玲子さんや大竹康市さんらと東京で立ち上げた設計事務所です。沖縄の名護市庁舎で日本建築学会賞を受けるなど、その土地の気候や風土を建物の形に表す設計で知られてきました。",
+            "事務所は1990年に拠点を東京から北海道の十勝地方に移し、いまは音更町に拠点を置いています。地元では、地域の特性を表現した建物を数多く手がけた建築家として、関係者が別れを惜しんでいます。"
+          ],
+          "commentary": "1981年に完成した沖縄の名護市庁舎。コンクリートのブロックを積んだ外観に、日差しをさえぎるテラスがいくつも重なっています。建物の中を風が抜けていく通り道も、設計の段階から組み込まれていました。冷房だけに頼らず、沖縄の強い日差しと海からの風を、建物の形そのもので受け止める考え方なんです。夏の縁側で、すだれ越しに風が通っていく、あの涼しさに近いものです。冷房のない昔の家が意外と過ごしやすかった、という話を聞いたことがありますよね。象設計集団は、こうした「その土地の気候から形を決める」設計を、50年以上続けてきました。1990年には東京を離れ、北海道の十勝に拠点を移しています。都心にいなくても設計事務所は成り立つ。そのことを、かなり早い時期に実践していたことになります。省エネが当たり前に求められるいま、気候を読んで形を決めるやり方は、もう一度見直されていくと思います。",
+          "briefing": [
+            "象設計集団は東京で設立され、1990年に北海道の十勝へ移転しました。現在は十勝、東京、台湾の3拠点で活動しています。",
+            "名護市庁舎は1981年に完成しました。日本建築学会賞のほか、2010年には長く使われ地域に貢献してきた建物に贈られる日本建築家協会の「25年賞」も受けています。",
+            "象設計集団の代表的な作品には、埼玉県宮代町のコミュニティ施設「進修館」（1980年）もあります。完成から40年以上たったいまも、町の施設として使われ続けています。"
+          ],
+          "sources": [
+            {
+              "name": "北海道新聞",
+              "url": "https://www.hokkaido-np.co.jp/article/1408422/"
+            },
+            {
+              "name": "十勝毎日新聞",
+              "url": "http://kachimai.jp/article/index.php?no=2026111400224"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "「地域主義」の建築",
+              "body": "1970〜80年代、日本の建築界では全国どこでも同じような箱型の建物が増えることへの反省から、その土地の気候や素材、暮らし方に根ざした設計を求める動きが広がりました。象設計集団はその代表的な担い手とされ、名護市庁舎はその象徴的な作品として語られてきました。"
+            },
+            {
+              "title": "地方に拠点を置く設計者",
+              "body": "設計事務所の多くはいまも東京や大阪に集まっていますが、オンラインでの打ち合わせが広がり、地方に拠点を置く設計者も増えています。象設計集団の十勝移転は、その30年以上前の動きでした。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "北海道新聞",
+          "sourceURL": "https://www.hokkaido-np.co.jp/article/1408422/",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-16",
       "date": "2026-11-16",
       "weekday": "月",
@@ -6654,235 +6798,6 @@
           },
           "namesEn": {
             "Design Museum Gent（公式）": "Design Museum Gent (official)"
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-18",
-      "date": "2026-10-18",
-      "weekday": "日",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-18-s1",
-          "number": 1,
-          "title": "丹下健三の「船の体育館」解体工事が再開 香川県議会は中断を求める請願を不採択",
-          "summary": "住民訴訟で1カ月止まっていた旧香川県立体育館の解体が再開しました。県議会は16日、鑑定結果まで工事を待つよう求めた請願を不採択にしました。",
-          "body": [
-            "丹下健三の設計で1964年に完成した旧香川県立体育館（高松市）の解体工事が、10月15日に再開されました。工事は、住民訴訟の中で高松地裁が提案したことを受けて、9月15日から10月14日まで中断していました。この間に原告側が建物の耐震性などを調べる現地調査を行い、13日に終えています。",
-            "保存を求める「旧香川県立体育館再生委員会」は、裁判所が選ぶ専門家による耐震性の鑑定結果が出るまで工事を止めるよう、県議会に請願を出していました。香川県議会は10月16日、この請願を採択しませんでした。鑑定には2〜3カ月かかる見通しとされ、県は結果を待たずに工事を進める方針です。",
-            "旧体育館は、橋の技術を応用した吊り屋根構造で柱のない大空間をつくり、和船のような形から「船の体育館」と呼ばれてきました。老朽化で天井が落ちる恐れがあるとして2014年9月に閉館し、県は2023年に解体を決めていました。"
-          ],
-          "commentary": "1964年、東京オリンピックと同じ年に完成した体育館です。屋根は、橋をつくる技術を応用して吊り下げられています。洗濯物をロープに干すと、真ん中が少したわみますよね。あのたわみの形を、そのままコンクリートの屋根にしたのが吊り屋根なんです。おかげで柱のない広い空間ができて、横から見ると和船のような姿になりました。いま裁判で争われているのは、この建物が本当に地震に耐えられないのかという点です。専門家の鑑定には2〜3カ月かかります。でも工事は、その答えを待たずに進みます。体育館としての役目は、2025年に開館した新しいアリーナがすでに引き継いでいます。答えが出るのが先か、建物がなくなるのが先か。どちらを待つべきだったのか、皆さんはどう思いますか。",
-          "briefing": [
-            "解体工事は2026年4月10日に始まりました。再生委員会は2025年11月、解体費の公金支出の差し止めを求める住民訴訟を起こしています。",
-            "住民訴訟とは別に、近隣の住民が解体の中止を求める仮処分も申し立てています。",
-            "再生委員会は、耐震補強をしたうえでホテルなどとして活用する案を県に示しており、費用約30億〜60億円は全額民間資金でまかなえる見通しだとしています。丹下健三氏の長男の丹下憲孝氏も、保存を求める声明を出していました。"
-          ],
-          "sources": [
-            {
-              "name": "KSB瀬戸内海放送",
-              "url": "https://news.ksb.co.jp/article/16970039"
-            },
-            {
-              "name": "RSK山陽放送（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/58c6c17b87a5c89567d0eb45242fd32ff58854d4"
-            },
-            {
-              "name": "美術手帖",
-              "url": "https://bijutsutecho.com/magazine/news/headline/33000"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "代々木と同じ年",
-              "body": "旧体育館が完成した1964年は、同じ丹下健三設計の国立代々木競技場が完成した年でもあります。旧体育館はその試作のような位置づけとも言われ、吊り屋根で大空間をつくる当時最先端の技術が使われました。"
-            },
-            {
-              "title": "機能はSANAAへ",
-              "body": "県立体育館の機能は、2025年2月24日に開館した「あなぶきアリーナ香川」に移っています。設計はSANAA（妹島和世・西沢立衛）で、事業費は約202億円、メインアリーナは約1万人を収容できます。名建築の保存を考えるとき、元の用途を失った建物をどう使い続けるかが、各地で共通の課題になっています。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "KSB瀬戸内海放送",
-          "sourceURL": "https://news.ksb.co.jp/article/16970039",
-          "shoComment": "",
-          "en": {
-            "title": "Demolition of Kenzo Tange's \"ship gymnasium\" resumes as Kagawa assembly rejects plea to pause",
-            "summary": "Demolition of the former Kagawa Prefectural Gymnasium, halted for a month during a residents' lawsuit, has resumed. On Oct 16 the prefectural assembly rejected a petition asking that work wait for an expert seismic assessment.",
-            "body": [
-              "Demolition of the former Kagawa Prefectural Gymnasium in Takamatsu, designed by Kenzo Tange and completed in 1964, resumed on October 15. Takamatsu is the capital of Kagawa Prefecture on the island of Shikoku. Work had been suspended from September 15 to October 14 after the Takamatsu District Court proposed a pause in a residents' lawsuit, the legal route in Japan for residents to challenge a local government's spending. During the pause, the plaintiffs carried out an on-site survey of the building's seismic performance and other conditions, finishing on the 13th.",
-              "A preservation group, the Former Kagawa Prefectural Gymnasium Revitalization Committee, had petitioned the prefectural assembly to stop the work until results came in from a seismic assessment by an expert chosen by the court. On October 16, the Kagawa Prefectural Assembly rejected the petition. The assessment is expected to take two to three months, and the prefecture plans to go ahead with the work without waiting for the results.",
-              "The gymnasium uses a suspended roof structure that borrows bridge-building techniques to create a large, column-free space. Its shape, like a traditional Japanese wooden boat, earned it the nickname \"the ship gymnasium.\" It closed in September 2014 over concerns that its aging ceiling could fall, and the prefecture decided in 2023 to demolish it."
-            ],
-            "commentary": "This gymnasium was completed in 1964, the same year as the Tokyo Olympics. Its roof hangs, using techniques borrowed from bridge building. You know how a rope with laundry hung on it sags a little in the middle? A suspended roof takes that sagging curve and turns it, as is, into a concrete roof. That's what made the large column-free space possible, and from the side it gives the building the look of a traditional Japanese boat. What's being fought over in court now is whether this building truly can't withstand an earthquake. The expert assessment will take two to three months. But the demolition goes ahead without waiting for that answer. Its role as a gym has already been taken over by the new arena that opened in 2025. Which comes first: the answer, or the building disappearing? Which should they have waited for? What do you think?",
-            "briefing": [
-              "Demolition work began on April 10, 2026. In November 2025, the Revitalization Committee filed the residents' lawsuit seeking to stop public money from being spent on the demolition.",
-              "Separately from the residents' lawsuit, people living nearby have also applied for a provisional injunction to halt the demolition.",
-              "The Revitalization Committee has presented the prefecture with a plan to seismically retrofit the building and use it as a hotel or similar facility, and says the cost of about ¥3 billion to ¥6 billion could be covered entirely by private money. Kenzo Tange's eldest son, Noritaka Tange, had also issued a statement calling for the building's preservation."
-            ],
-            "hojosen": [
-              {
-                "title": "Same year as Yoyogi",
-                "body": "1964, the year the gymnasium was completed, was also the year Tange's Yoyogi National Gymnasium in Tokyo was completed. The Kagawa gymnasium is sometimes described as a kind of prototype for it, and it used what was then cutting-edge technology for spanning large spaces with a suspended roof."
-              },
-              {
-                "title": "Its role passes to SANAA",
-                "body": "The prefectural gym's functions have moved to Anabuki Arena Kagawa, which opened on February 24, 2025. It was designed by SANAA (Kazuyo Sejima and Ryue Nishizawa), cost about ¥20.2 billion, and its main arena holds about 10,000 people. When it comes to preserving landmark buildings, how to keep using a building that has lost its original purpose is a challenge shared by many places."
-              }
-            ]
-          },
-          "namesEn": {
-            "KSB瀬戸内海放送": "KSB Setonaikai Broadcasting",
-            "RSK山陽放送（Yahoo!ニュース）": "RSK Sanyo Broadcasting (Yahoo! News)",
-            "美術手帖": "Bijutsu Techo"
-          }
-        },
-        {
-          "id": "issue-2026-10-18-s2",
-          "number": 2,
-          "title": "神戸・東灘の14階建て161戸を丸ごと改修して分譲へ 建て替えずに骨組みを生かす",
-          "summary": "サンケイビルなど3社が、神戸市東灘区の14階建ての建物を丸ごとリノベーションし、161戸の分譲マンションにします。入居は2028年3月の予定です。",
-          "body": [
-            "サンケイビル、総合地所、丸紅都市開発の3社は、神戸市東灘区北青木二丁目で、一棟リノベーションによる分譲マンション「（仮称）神戸本山 GO BEYOND マンションプロジェクト」を進めると、10月16日に発表しました。同じ日に長谷工コーポレーションも、このプロジェクトについて発表しています。",
-            "建物は地上14階建てで、総戸数は161戸です。既存の建物の骨組み（躯体）を生かしたまま、161戸すべての住戸の内部を全面的に改修します。間取りは2LDK＋S〜4LDKで、専有面積は66.51〜90.40平方メートルです。",
-            "省エネ性能の認定「ZEH-M Oriented」の取得を予定しており、改修工事の完成と入居は、いずれも2028年3月下旬を予定しています。物件の公式サイトは10月15日に公開されました。"
-          ],
-          "commentary": "皆さん、マンションの古さって、どこで判断していますか。たぶん築年数ですよね。でも建物の寿命を左右するのは、主に柱や梁、床といったコンクリートの骨組みなんです。キッチンや壁紙、配管は、骨組みよりずっと早く古くなります。スーツはくたびれても、中の体はまだ元気。そんな状態の建物が、実はたくさんあるんです。一棟リノベは、その骨組みを残して、中身を一度に入れ替えるやり方です。壊して建て直すより、出るがれきも少なく済みます。今回は161戸を全部まとめて改修し、省エネの認定も取る予定です。一部屋ずつ直すのとは、できることの幅が違います。今度中古マンションの広告を見たら、築年数の横に「どこまで改修したか」が書いてあるか、探してみてください。",
-          "briefing": [
-            "最寄り駅は阪神本線「青木」駅で徒歩8分、JR神戸線「摂津本山」駅からは徒歩18分です。",
-            "一部の住戸では、キッチンを中心にした「キッチンアトリエプラン」や、ガス衣類乾燥機「乾太くん」を組み込んだ洗面台一体型の架台を採用する予定です。",
-            "価格や販売開始の時期は、今回の発表資料からは確認できませんでした。"
-          ],
-          "sources": [
-            {
-              "name": "サンケイビル（公式）",
-              "url": "https://prtimes.jp/main/html/rd/p/000000160.000024930.html"
-            },
-            {
-              "name": "長谷工コーポレーション（公式）",
-              "url": "https://www.zaikei.co.jp/releases/3666909/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "建て替えの壁",
-              "body": "建設費の高騰で、全国で再開発や建て替えの延期・見直しが相次いでいます。今年は帝国ホテル東京の本館建て替えの時期が未定になるなど、大きな計画にも影響が出ました。今ある建物の骨組みを生かす再生は、こうした状況での現実的な選択肢として注目されています。"
-            },
-            {
-              "title": "区分所有の難しさ",
-              "body": "一般のマンションは住戸ごとに持ち主が違うため、建物全体の大規模な改修や建て替えには多くの所有者の合意が必要です。一棟リノベは、建物全体を事業者がまとめて手がけてから販売するため、全戸の内装や設備を同時に新しくしやすいのが特徴です。"
-            }
-          ],
-          "reliability": "中",
-          "sourceName": "サンケイビル（公式）",
-          "sourceURL": "https://prtimes.jp/main/html/rd/p/000000160.000024930.html",
-          "shoComment": "",
-          "en": {
-            "title": "Developers to renovate an entire 14-story building in Kobe into 161 condos instead of rebuilding",
-            "summary": "Sankei Building and two other companies will renovate a whole 14-story building in Kobe's Higashinada Ward into 161 condominiums for sale, keeping the existing structure. Move-in is planned for March 2028.",
-            "body": [
-              "Sankei Building, Sogo Jisho and Marubeni Toshi Kaihatsu announced on October 16 that they will develop condominiums for sale through a whole-building renovation in Kitaogi 2-chome, Higashinada Ward, Kobe, the port city west of Osaka. The project's working name is the Kobe Motoyama GO BEYOND Mansion Project (in Japan, \"mansion\" means a condominium building). Haseko Corporation also announced the project the same day.",
-              "The building has 14 stories above ground and 161 units in total. The existing structural frame (the concrete skeleton) will be kept, and the interiors of all 161 units will be completely renovated. Layouts range from 2LDK+S to 4LDK (two bedrooms with a living-dining-kitchen and a storage room, up to four bedrooms with a living-dining-kitchen), with unit floor areas of 66.51 to 90.40 m² (720–970 sq ft).",
-              "The developers plan to obtain ZEH-M Oriented certification, a Japanese energy-efficiency rating for apartment buildings under the country's net zero energy house program. Both completion of the renovation and move-in are scheduled for late March 2028. The project's official website went live on October 15."
-            ],
-            "commentary": "How do you judge how old a condo building is? Probably by its age in years, right? But what mostly decides a building's lifespan is its concrete skeleton: the columns, beams and floors. Kitchens, wallpaper and plumbing wear out much sooner than the skeleton does. The suit is worn out, but the body inside is still in good shape. There are actually a lot of buildings like that. A whole-building renovation keeps that skeleton and replaces everything inside in one go. Compared with tearing down and rebuilding, it also produces less rubble. In this case, all 161 units will be renovated together, and the building is set to earn an energy-efficiency certification as well. That's a very different range of possibilities from fixing up one unit at a time. Next time you look at an ad for a secondhand condo, check whether, next to the building's age, it tells you how far the renovation went.",
-            "briefing": [
-              "The nearest station is Ogi Station on the Hanshin Main Line, an 8-minute walk away. Settsu-Motoyama Station on the JR Kobe Line is an 18-minute walk.",
-              "Some units are planned to have a \"Kitchen Atelier Plan\" built around the kitchen, and a vanity unit with an integrated stand for Kanta-kun, a gas-powered clothes dryer.",
-              "Prices and the start of sales could not be confirmed from the announcement materials."
-            ],
-            "hojosen": [
-              {
-                "title": "The barrier to rebuilding",
-                "body": "Soaring construction costs have led to a string of redevelopment and rebuilding projects across Japan being postponed or reconsidered. This year even big projects were affected, with the timing of the Imperial Hotel Tokyo's main building reconstruction becoming undecided. Reviving existing buildings by keeping their structural frames is drawing attention as a realistic option in this situation."
-              },
-              {
-                "title": "The difficulty of shared ownership",
-                "body": "In an ordinary Japanese condominium, each unit has a different owner, so a major renovation or rebuilding of the whole building needs the agreement of many owners. In a whole-building renovation, a developer takes on the entire building first and then sells the units, which makes it easier to renew the interiors and equipment of every unit at the same time."
-              }
-            ]
-          },
-          "namesEn": {
-            "サンケイビル（公式）": "Sankei Building (official)",
-            "長谷工コーポレーション（公式）": "Haseko Corporation (official)"
-          }
-        },
-        {
-          "id": "issue-2026-10-18-s3",
-          "number": 3,
-          "title": "豪州の奇岩「十二使徒」に新ビジターセンター開業 グリムショー設計、地面と一体の屋根",
-          "summary": "オーストラリアの景勝地「十二使徒」で、グリムショー設計の新しいビジターセンターが10月16日に開業しました。見学は予約制になりました。",
-          "body": [
-            "オーストラリア南東部ビクトリア州の景勝地「十二使徒（トゥエルブ・アポストルズ）」で、新しいビジターセンター「Keerray Woorroong Visitor Centre」が10月16日に開業しました。海から突き出た石灰岩の柱が並ぶ、グレート・オーシャン・ロード沿いの名所です。",
-            "設計は英国発祥の建築事務所グリムショーで、ランドスケープはアスペクト・スタジオが担当しました。先住民の団体「Eastern Maar Aboriginal Corporation」と共同で設計しています。延べ約3,300平方メートルの建物は、景色と張り合うのではなく、地面の一部に見えるように風景に埋め込まれ、屋上には庭と展望デッキが設けられています。",
-            "開業に合わせて、十二使徒の見学は事前予約制になりました。当面は無料ですが、2027年4月からは料金がかかる予定です。"
-          ],
-          "commentary": "白い石灰岩の柱が、波の中に何本も立っている。オーストラリアを代表する景色の一つです。新しいビジターセンターは、その主役と張り合わない道を選びました。建物を地面に埋め込み、屋上を庭と展望デッキにしています。遠くから見ると、丘が少し盛り上がっているようにしか見えないはずです。旅館の部屋から海を眺めるとき、窓枠が太いと少し邪魔に感じますよね。この建物は、自分が景色の窓枠にならないように考えられているんです。設計には、この土地の先住民の団体も加わりました。日本の国立公園の施設でも、景色を邪魔しない建て方は、いつも大きなテーマです。総事業費は1億2600万豪ドル。来年4月からは、この景色を見るのにお金がかかります。",
-          "briefing": [
-            "事業費1億2600万豪ドルのうち、8800万豪ドルを連邦政府が、3800万豪ドルをビクトリア州政府が負担しました。",
-            "館内には230席のカフェ、売店、ギャラリー、ショップ、屋上展望デッキ「Great Ocean Lookout」があります。",
-            "地元住民も予約は必要ですが、料金は免除されます。料金の額や、対象となる住民の条件はまだ決まっていません。予約料金の収入は、沿岸や公園の事業に充てるとされています。"
-          ],
-          "sources": [
-            {
-              "name": "Great Ocean Road Coast and Parks Authority（公式）",
-              "url": "https://www.greatoceanroadauthority.vic.gov.au/Projects/Keerray-Woorroong-Visitor-Centre-Twelve-Apostles"
-            },
-            {
-              "name": "ArchitectureAU",
-              "url": "https://architectureau.com/articles/keerray-woorroong-visitor-centre-opens-at-the-twelve-apostles/"
-            },
-            {
-              "name": "KarryOn",
-              "url": "https://karryon.com.au/industry-news/destination/twelve-apostles-bookings/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "消える建築",
-              "body": "景勝地や遺跡の近くに建てる施設では、建物を目立たせず、地形に溶け込ませる手法がよく使われます。屋根を緑化したり、建物を地中に沈めたりして、主役の景色を引き立てる考え方です。"
-            },
-            {
-              "title": "観光地の予約制",
-              "body": "人気の観光地では、混雑や自然への負担を抑えるため、予約制や入域料を導入する動きが世界的に広がっています。施設の建設と同時に入場の仕組みを変えた今回の例は、建築と運営をセットで考えたケースと言えます。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "Great Ocean Road Coast and Parks Authority（公式）",
-          "sourceURL": "https://www.greatoceanroadauthority.vic.gov.au/Projects/Keerray-Woorroong-Visitor-Centre-Twelve-Apostles",
-          "shoComment": "",
-          "en": {
-            "title": "Grimshaw's new Twelve Apostles visitor center opens in Australia, with a roof that merges into the ground",
-            "summary": "A new visitor center designed by Grimshaw opened on Oct 16 at the Twelve Apostles, one of Australia's best-known scenic spots. Visits to the site now require a booking.",
-            "body": [
-              "A new visitor center named Keerray Woorroong opened on October 16 at the Twelve Apostles in the state of Victoria in southeastern Australia. The site, along the Great Ocean Road, is famous for its limestone stacks rising out of the sea.",
-              "The building was designed by Grimshaw, an architecture firm founded in the UK, with landscape design by ASPECT Studios. It was designed together with the Eastern Maar Aboriginal Corporation, an Indigenous organization. Rather than competing with the scenery, the building, with a total floor area of about 3,300 m² (36,000 sq ft), is set into the landscape so that it reads as part of the ground, with a rooftop garden and observation deck.",
-              "With the opening, visits to the Twelve Apostles now require an advance booking. Entry is free for now, but a fee is scheduled to start in April 2027."
-            ],
-            "commentary": "White limestone pillars, one after another, standing in the waves. It's one of Australia's signature views. The new visitor center chose not to compete with the star of the show. The building is set into the ground, and its roof is a garden and observation deck. From a distance, it should look like nothing more than a slight rise in a hill. When you look out at the sea from a room in a ryokan, a traditional Japanese inn, a thick window frame gets in the way a little, doesn't it? This building is designed so that it doesn't become a frame around the view. The local Indigenous organization took part in the design, too. At facilities in Japan's national parks as well, building without spoiling the view is always a big theme. The total project cost is A$126 million. Starting next April, seeing this view will cost money.",
-            "briefing": [
-              "Of the A$126 million project cost, the federal government paid A$88 million and the Victorian state government A$38 million.",
-              "Inside are a 230-seat cafe, a kiosk, a gallery, a shop and a rooftop observation deck, the Great Ocean Lookout.",
-              "Local residents also need to book, but they will be exempt from the fee. The fee amount and which residents qualify have not been decided yet. Revenue from booking fees is to go toward coastal and park programs."
-            ],
-            "hojosen": [
-              {
-                "title": "Disappearing architecture",
-                "body": "Facilities built near scenic spots or archaeological sites often use techniques that keep the building low-key and blend it into the terrain. Planting the roof or sinking the building into the ground are ways of letting the main attraction, the scenery, take center stage."
-              },
-              {
-                "title": "Booking systems at tourist sites",
-                "body": "At popular tourist sites, moves to introduce booking systems or entry fees to curb crowding and the burden on nature are spreading worldwide. Changing how people get in at the same time as building the facility makes this a case where architecture and operations were planned as a package."
-              }
-            ]
-          },
-          "namesEn": {
-            "Great Ocean Road Coast and Parks Authority（公式）": "Great Ocean Road Coast and Parks Authority (official)"
           }
         }
       ]
