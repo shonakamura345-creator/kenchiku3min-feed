@@ -9,9 +9,9 @@
   2. noImage: true、または本文に人が亡くなった語がある → 画像なし
   3. 出典にプレスリリース（PR TIMES・@Press・公式発表ページ）があり、その og:image が使える
      → その写真。クレジット「画像：〇〇（プレスリリース）」
-  4. imagePrompt（ルーチンが書く英語の場面説明）がある → fal の nano-banana-2 でイメージ写真。
+  4. fal の nano-banana-2 でイメージ写真（場面は imagePrompt があればそれ、無ければ見出し・要約から）。
      クレジット「画像はイメージ（AI生成）」
-  5. どれもない → 画像なし
+  5. 作れなかった → 画像なし
 
 書き足す欄（stories[]）:
   imageURL     … 写真の絶対URL（このリポジトリの img/<日付>/s<N>.jpg を GitHub Pages で配信）
@@ -206,6 +206,17 @@ def make_ai_image(prompt, dst):
 
 # ---------- 本体 ----------
 
+def auto_prompt(st):
+    """imagePrompt が無いとき、見出しと要約から場面を作らせる（実在の建物そのものは描かせない）。"""
+    return (
+        "Create one photograph that illustrates the general theme of this Japanese architecture news story. "
+        "Show a typical, generic scene of that kind of place, work or material in Japan (for example a street, "
+        "a construction site, an interior, building materials, a town) rather than the actual building, project, "
+        "people or event in the story.\n"
+        f"Headline: {st.get('title', '')}\nSummary: {st.get('summary', '')}"
+    )
+
+
 def story_text(st):
     return " ".join([st.get("title", ""), st.get("summary", ""), *(st.get("body") or [])])
 
@@ -234,10 +245,7 @@ def plan_and_make(issue, dry_run):
             results[sid] = {"imageURL": url, "imageCredit": f"画像：{company}（プレスリリース）",
                             "imageKind": "press", "imageSource": company}
             continue
-        prompt = (st.get("imagePrompt") or "").strip()
-        if not prompt:
-            log(f"s{n}: プレス写真なし・imagePrompt なし → 画像なし")
-            continue
+        prompt = (st.get("imagePrompt") or "").strip() or auto_prompt(st)
         if ai_count >= MAX_AI_PER_RUN:
             log(f"s{n}: AI画像の上限 → 画像なし")
             continue
