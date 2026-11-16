@@ -53,7 +53,32 @@
           "sourceName": "首里城公園（公式）",
           "sourceURL": "https://oki-park.jp/shurijo/",
           "shoComment": "",
-          "imagePrompt": "A vivid red traditional Ryukyuan palace hall with a red-tiled roof and ornate dragon pillars at the entrance, facing a large paved courtyard with striped red and white stone paving, clear autumn sky, Okinawa, Japan."
+          "imagePrompt": "A vivid red traditional Ryukyuan palace hall with a red-tiled roof and ornate dragon pillars at the entrance, facing a large paved courtyard with striped red and white stone paving, clear autumn sky, Okinawa, Japan.",
+          "en": {
+            "title": "Shuri Castle's main hall in Okinawa is rebuilt seven years after the fire, opening to the public Nov 23",
+            "summary": "The rebuilt Seiden, the main hall of Shuri Castle in Naha, Okinawa, which burned down in 2019, has been shown to the press. After a completion ceremony on Nov 22, it opens to the public at noon on Nov 23.",
+            "body": [
+              "Reconstruction of the Seiden, the main hall of Shuri Castle in Naha, the capital of Okinawa Prefecture, is complete, and its interior was shown to the press by November 16. The hall burned down in a fire in October 2019. Under the national government's reconstruction, known as the Reiwa restoration after Japan's current imperial era, a government-hosted completion ceremony will be held on Nov 22, and the hall opens to the public at noon on Nov 23.",
+              "Learning from the fire, the rebuild strengthens fire protection. Sprinklers and flame detectors have been newly installed in the hall, and standpipes that let water be pumped in from outside the park have been laid around it.",
+              "To avoid crowding, viewing the interior will require an advance reservation for a set date and time. Admission fees for the paid area will also change for entries from Nov 23."
+            ],
+            "commentary": "Footage of the red main hall burning down under the night sky. Many people saw it on TV in the fall of 2019. Seven years later, a hall with the same look is back in the same spot. In fact, Shuri Castle has burned many times since the days of the Ryukyu Kingdom, the independent kingdom that once ruled Okinawa, and it was rebuilt each time. What's new in this rebuild is fire protection. Sprinklers, flame detectors and standpipes. A standpipe is like a dedicated water pipe buried in the ground: once fire trucks hook up their hoses, water can be pushed right up to the building. Recreating the old look exactly, and making the building harder to burn. Those two goals seem bound to clash somewhere, right? Tucking the equipment in without changing how the hall looks. Piling up those adjustments is what the Reiwa restoration is. The main hall opens to the public at noon on Nov 23.",
+            "briefing": [
+              "To mark the public opening, Okinawa Prefecture plans to hold an opening ceremony on the morning of Nov 23 in the Una, the courtyard in front of the main hall that has long served as a stage for ceremonies.",
+              "The reconstruction design called for domestic Japanese cypress (hinoki) as the main structural timber for columns and beams, with some Podocarpus and Okinawan oak. The red roof tiles were to use material from the main island of Okinawa, with some broken tiles from the burned hall crushed and reused.",
+              "Fire protection equipment was installed not only inside the hall but also beneath the Una courtyard in front of it, the Okinawa General Bureau, the national government's regional office in Okinawa, told reporters."
+            ],
+            "hojosen": [
+              {
+                "title": "A castle rebuilt again and again",
+                "body": "Shuri Castle's main hall burned down several times from the days of the kingdom through World War II, and was rebuilt each time. The hall lost in the Battle of Okinawa was restored in 1992, and the 2019 fire destroyed that Heisei-era hall. Rebuilding the same building over and over has also helped pass down the skills of timber framing and of tile and lacquer craftspeople."
+              },
+              {
+                "title": "Heritage and fire safety",
+                "body": "In 2019, Notre-Dame de Paris also suffered a major fire, and fire protection for timber and historic buildings became a global concern. Building in firefighting equipment without changing a building's appearance is also needed in renovations of temples, shrines and castles across Japan. Shuri Castle's measures look set to become a model for thinking about fire protection in such buildings."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-17-s2",
@@ -99,7 +124,32 @@
           "sourceName": "日本経済新聞",
           "sourceURL": "https://www.nikkei.com/article/DGXZQOUC05BJN0V01C26A1000000/",
           "shoComment": "",
-          "imagePrompt": "A huge circular tunnel boring machine cutter head, about 12 meters in diameter, inside a deep concrete launch shaft at a construction site, steel scaffolding and work lights, workers in helmets for scale, Tokyo bay area, Japan."
+          "imagePrompt": "A huge circular tunnel boring machine cutter head, about 12 meters in diameter, inside a deep concrete launch shaft at a construction site, steel scaffolding and work lights, workers in helmets for scale, Tokyo bay area, Japan.",
+          "en": {
+            "title": "Tunneling begins on Tokyo's Haneda Airport Access Line, an 18-minute direct link from Tokyo Station",
+            "summary": "On Nov 16, JR East began digging the tunnel for the Haneda Airport Access Line, which will link Tokyo Station and Haneda Airport without a transfer. The line aims to open in fiscal 2031.",
+            "body": [
+              "On Nov 16, East Japan Railway Company (JR East) began digging the tunnel for the Haneda Airport Access Line (working name), a new line that will connect Tokyo Station and Haneda Airport without a transfer. Once open, the trip between Tokyo Station and Haneda is planned to take about 18 minutes. The line aims to open in fiscal 2031, Japan's fiscal year that runs from April to March.",
+              "The dig uses a shield tunneling machine about 11.8 m (39 ft) in diameter. It will bore underground from near the Tokyo Freight Terminal toward Haneda Airport, and JR East is responsible for a section of about 2.3 km (1.4 miles). Digging is expected to take about a year.",
+              "Ahead of the start, on Nov 6, JR East showed the tunnel construction site to the press. Travel between central Tokyo and the airport, which now usually requires a transfer at stations such as Hamamatsucho or Shinagawa, is set to change significantly."
+            ],
+            "commentary": "Tokyo Station to Haneda Airport, no transfer, 18 minutes. To lay that track, a machine 11.8 m (39 ft) across has started moving underground. Shield tunneling is a way of digging where you push a tube forward and line the inside with wall right away. The blades at the front cut the soil, and just behind them, concrete panels are assembled into rings. Picture extending a toilet paper roll's cardboard tube by adding one piece at a time from the inside. Before the hole can collapse, the wall is already there. That's why you can dig through waterlogged bayside ground, even under the sea. A diameter of 11.8 m is about big enough to fit a three-story house inside. Dragging a big suitcase up and down station stairs to change trains, that transfer goes away. It could also change how people choose to live near the airport or commute to it. Once it opens, which station will you head to the airport from?",
+            "briefing": [
+              "The site shown to the press was the tunnel construction for the new access line section, where new track will be laid. Of the newly built section from near the Tokyo Freight Terminal to Haneda Airport, JR East is responsible for the northern part.",
+              "The shield machine has an outer diameter of about 11.8 m (39 ft). It bores underground from the Tokyo Freight Terminal side, which serves as the construction base.",
+              "JR East began construction on the access line in June 2023. The target is to open in fiscal 2031."
+            ],
+            "hojosen": [
+              {
+                "title": "Competing airport links",
+                "body": "Today the main routes to Haneda Airport are the Tokyo Monorail and the Keikyu Line, and from central Tokyo both often involve a transfer. A direct line from Tokyo Station is expected to let travelers from the northern Kanto region, north of Tokyo, reach the airport without changing trains, reshaping the balance of airport access."
+              },
+              {
+                "title": "Effects on nearby areas",
+                "body": "Major new rail lines have shifted redevelopment around stations and where homes and offices are located. As central Tokyo and the airport get closer, it could also affect how companies with frequent business travel choose their bases, and where people who work at the airport choose to live."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-17-s3",
@@ -140,7 +190,32 @@
           "reliability": "高",
           "sourceName": "北海道新聞",
           "sourceURL": "https://www.hokkaido-np.co.jp/article/1408422/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Architect Hiroyasu Higuchi, founder of Atelier Zo and designer of Nago City Hall in Okinawa, dies",
+            "summary": "Architect Hiroyasu Higuchi, a founder of Atelier Zo (Zo Sekkei Shudan), the design firm known for architecture rooted in local climate, died on Nov 11. People in Tokachi, Hokkaido, where the firm is based, are mourning him.",
+            "body": [
+              "Architect Hiroyasu Higuchi, a founder of the architecture firm Atelier Zo (Zo Sekkei Shudan), died of illness on Nov 11, the Hokkaido Shimbun and the Tokachi Mainichi Shimbun reported. A farewell gathering will be held at a later date.",
+              "Higuchi set up Atelier Zo in Tokyo in 1971 with Reiko Tomita, Koichi Otake and others. The firm became known for designs that express a place's climate and character in the shape of its buildings, winning the Architectural Institute of Japan Prize, one of the country's top architecture awards, for Nago City Hall in Okinawa.",
+              "In 1990 the firm moved its base from Tokyo to the Tokachi region of Hokkaido, Japan's northernmost main island, and is now based in the town of Otofuke. Locally, people who knew him are mourning an architect who designed many buildings that expressed the character of the region."
+            ],
+            "commentary": "Nago City Hall in Okinawa, completed in 1981. Its exterior is built up from concrete blocks, with layer upon layer of terraces that block the sun. Paths for the wind to pass through the building were built in from the design stage. The idea is not to rely on air conditioning alone, but to take in Okinawa's strong sun and sea breeze through the shape of the building itself. It's close to the cool you feel on an engawa, the veranda of a traditional Japanese house, in summer, with the breeze coming through a bamboo blind. You've probably heard that old houses without air conditioning were surprisingly comfortable, right? Atelier Zo has kept up this kind of design, letting the local climate decide the form, for more than 50 years. In 1990 it left Tokyo and moved its base to Tokachi in Hokkaido. A design firm can work without being in the big city. It was putting that into practice quite early. Now that energy efficiency is expected as a matter of course, I think this way of reading the climate to decide the form will be looked at again.",
+            "briefing": [
+              "Atelier Zo was founded in Tokyo and moved to Tokachi in Hokkaido in 1990. It now works from three bases: Tokachi, Tokyo and Taiwan.",
+              "Nago City Hall was completed in 1981. Besides the Architectural Institute of Japan Prize, in 2010 it received the Japan Institute of Architects' 25-Year Award, given to buildings that have been used for a long time and have served their communities.",
+              "Atelier Zo's major works also include Shinshukan (1980), a community center in the town of Miyashiro, Saitama Prefecture. More than 40 years after completion, it is still in use as a town facility."
+            ],
+            "hojosen": [
+              {
+                "title": "Regionalist architecture",
+                "body": "In the 1970s and 1980s, Japan's architecture world saw a growing movement for designs rooted in each place's climate, materials and ways of living, as a reaction against similar box-shaped buildings spreading everywhere. Atelier Zo is seen as a leading figure of that movement, and Nago City Hall has been talked about as one of its emblematic works."
+              },
+              {
+                "title": "Designers based outside cities",
+                "body": "Most design firms are still concentrated in Tokyo and Osaka, but with online meetings spreading, more designers are basing themselves in the regions. Atelier Zo's move to Tokachi came more than 30 years before that shift."
+              }
+            ]
+          }
         }
       ]
     },
