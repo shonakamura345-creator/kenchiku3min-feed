@@ -81,7 +81,11 @@
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-17/s1.jpg",
           "imageCredit": "画像はイメージ（AI生成）",
-          "imageKind": "ai"
+          "imageKind": "ai",
+          "namesEn": {
+            "琉球新報": "Ryukyu Shimpo",
+            "首里城公園（公式）": "Shurijo Castle Park (official)"
+          }
         },
         {
           "id": "issue-2026-11-17-s2",
@@ -155,7 +159,12 @@
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-17/s2.jpg",
           "imageCredit": "画像はイメージ（AI生成）",
-          "imageKind": "ai"
+          "imageKind": "ai",
+          "namesEn": {
+            "日本経済新聞": "Nikkei (official: Nikkei Inc.)",
+            "東京新聞": "Tokyo Shimbun",
+            "毎日新聞（dメニューニュース）": "Mainichi Shimbun (dmenu News)"
+          }
         },
         {
           "id": "issue-2026-11-17-s3",
@@ -221,6 +230,13 @@
                 "body": "Most design firms are still concentrated in Tokyo and Osaka, but with online meetings spreading, more designers are basing themselves in the regions. Atelier Zo's move to Tokachi came more than 30 years before that shift."
               }
             ]
+          },
+          "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/sky/overcast.jpg",
+          "imageCredit": "画像はイメージ",
+          "imageKind": "sky",
+          "namesEn": {
+            "北海道新聞": "Hokkaido Shimbun",
+            "十勝毎日新聞": "Tokachi Mainichi Shimbun"
           }
         }
       ]
