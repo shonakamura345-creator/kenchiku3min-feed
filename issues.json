@@ -77,7 +77,11 @@
                 "body": "While waiting for land readjustment, some landowners have given up on rebuilding and sold their land. Even once the district is laid out, the street won't regain its bustle without people who keep doing business there. The first building going up also gives other landowners something to weigh when deciding whether to rebuild."
               }
             ]
-          }
+          },
+          "imagePrompt": "A newly built two-story wooden shop-house with fresh cedar siding standing on a street in a quiet Japanese coastal town, surrounded by cleared empty lots where buildings used to be, gravel ground, overcast autumn sky, a few utility poles.",
+          "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-16/s1.jpg",
+          "imageCredit": "画像はイメージ（AI生成）",
+          "imageKind": "ai"
         },
         {
           "id": "issue-2026-11-16-s2",
@@ -217,7 +221,11 @@
                 "body": "Calculating a whole building's CO2 requires emissions data for each material. In Japan, product-specific data is still scarce, and calculations often have to rely on average values. Whether makers publish figures for their own products will decide how effective the system can be."
               }
             ]
-          }
+          },
+          "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-16/s3.jpg",
+          "imageCredit": "画像：DesignFuture Japan株式会社（プレスリリース）",
+          "imageKind": "press",
+          "imageSource": "DesignFuture Japan株式会社"
         }
       ]
     },
