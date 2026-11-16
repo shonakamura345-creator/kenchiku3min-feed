@@ -6,7 +6,7 @@
 
 記事ごとの決め方（上から順に）:
   1. 既に imageURL がある → 何もしない
-  2. noImage: true、または本文に人が亡くなった語がある → 画像なし
+  2. noImage: true、または本文に人が亡くなった語がある → 空の写真 img/sky/<SKY_FOR_LOSS>.jpg（「画像はイメージ」）
   3. 出典にプレスリリース（PR TIMES・@Press・公式発表ページ）があり、その og:image が使える
      → その写真。クレジット「画像：〇〇（プレスリリース）」
   4. fal の nano-banana-2 でイメージ写真（場面は imagePrompt があればそれ、無ければ見出し・要約から）。
@@ -16,7 +16,7 @@
 書き足す欄（stories[]）:
   imageURL     … 写真の絶対URL（このリポジトリの img/<日付>/s<N>.jpg を GitHub Pages で配信）
   imageCredit  … 日本語のクレジット文（そのまま隅に出す）
-  imageKind    … "press" / "ai"（英語の画面でクレジットを訳すため）
+  imageKind    … "press" / "ai" / "sky"（英語の画面でクレジットを訳すため）
   imageSource  … press のときの会社・団体名
 
 使い方:
@@ -48,6 +48,8 @@ UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTM
 JST = dt.timezone(dt.timedelta(hours=9))
 # 英語が付くのを待つ期限（これを過ぎたら英語なしでも付ける）
 WAIT_EN_UNTIL = dt.time(8, 30)
+# 人が亡くなった記事に出す空（img/sky/ の6枚から。曇り＝落ち着いた空を既定に。Shoの返事で差し替え）
+SKY_FOR_LOSS = "overcast"
 # 1回の起動で AI 画像を作る上限（暴走防止。1枚およそ12円）
 MAX_AI_PER_RUN = 6
 
@@ -232,7 +234,10 @@ def plan_and_make(issue, dry_run):
             log(f"s{n}: 付いている → skip")
             continue
         if st.get("noImage") or DEATH_RE.search(story_text(st)):
-            log(f"s{n}: 人が亡くなった記事・画像なし指定 → 画像なし")
+            # 人が亡くなった記事は、事故・現場の絵を作らず、アプリのヒーローと同じ落ち着いた空の写真にする（11/16 Sho）
+            log(f"s{n}: 人が亡くなった記事 → 空の写真（{SKY_FOR_LOSS}）")
+            results[sid] = {"imageURL": f"{PAGES_BASE}img/sky/{SKY_FOR_LOSS}.jpg",
+                            "imageCredit": "画像はイメージ", "imageKind": "sky"}
             continue
         rel = f"img/{date}/s{n}.jpg"
         dst = os.path.join(ROOT, rel)
