@@ -81,7 +81,11 @@
           "imagePrompt": "A newly built two-story wooden shop-house with fresh cedar siding standing on a street in a quiet Japanese coastal town, surrounded by cleared empty lots where buildings used to be, gravel ground, overcast autumn sky, a few utility poles.",
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-16/s1.jpg",
           "imageCredit": "画像はイメージ（AI生成）",
-          "imageKind": "ai"
+          "imageKind": "ai",
+          "namesEn": {
+            "東京新聞（共同通信）": "Tokyo Shimbun (Kyodo News)",
+            "石川テレビ（Yahoo!ニュース）": "Ishikawa TV (Yahoo! News)"
+          }
         },
         {
           "id": "issue-2026-11-16-s2",
@@ -228,7 +232,13 @@
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-16/s3.jpg",
           "imageCredit": "画像：DesignFuture Japan株式会社（プレスリリース）",
           "imageKind": "press",
-          "imageSource": "DesignFuture Japan株式会社"
+          "imageSource": "DesignFuture Japan株式会社",
+          "namesEn": {
+            "DesignFuture Japan株式会社": "DesignFuture Japan Inc.",
+            "DesignFuture Japan（PR TIMES）": "DesignFuture Japan (PR TIMES)",
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun",
+            "竹中工務店（公式）": "Takenaka Corporation (official)"
+          }
         }
       ]
     },
@@ -309,6 +319,10 @@
                 "body": "From November 21 to 23, Japan's Agency for Cultural Affairs plans to hold LinkArchiScape 2026 in Tokyo's Ginza district, an event introducing architecture festivals from across the country. The aim is to use public openings that let many people get to know buildings as a way to support preserving and passing on architecture."
               }
             ]
+          },
+          "namesEn": {
+            "SUUMOジャーナル": "SUUMO Journal",
+            "北九州建築祭（公式）": "Kitakyushu Architecture Festival (official)"
           }
         },
         {
@@ -379,6 +393,11 @@
                 "body": "As we reported on Oct 31, Japan's domestic construction orders fell in April-September 2026 for the first time in six years. That profits are growing while order volume shrinks shows that each project has become more profitable."
               }
             ]
+          },
+          "namesEn": {
+            "日本経済新聞": "Nikkei (official: Nihon Keizai Shimbun)",
+            "株探": "Kabutan",
+            "清水建設 決算短信（公式）": "Shimizu Corporation Financial Results (official)"
           }
         },
         {
@@ -449,6 +468,11 @@
                 "body": "In 2022, the Wood Design Award's grand prizes became a set of four minister's awards: agriculture, forestry and fisheries; economy, trade and industry; land, infrastructure, transport and tourism; and environment. The new education minister's award adds support for wood use from the education side as well."
               }
             ]
+          },
+          "namesEn": {
+            "建設通信新聞": "Kensetsu Tsushin Shimbun",
+            "日本ウッドデザイン協会（プレスリリース）": "Japan Wood Design Association (press release)",
+            "武庫川女子大学（公式）": "Mukogawa Women's University (official)"
           }
         }
       ]
@@ -530,6 +554,9 @@
                 "body": "For large buildings in Japan, it is fairly common for a Japanese firm to design the building as a whole while a foreign firm designs only the exterior. The Japanese side handles coordination with codes, structure and construction, and the exterior, the face the building shows the city, is where the distinct character comes from."
               }
             ]
+          },
+          "namesEn": {
+            "日本郵船（公式）": "Nippon Yusen (official)"
           }
         },
         {
@@ -598,6 +625,11 @@
                 "body": "Extra floor area is generally granted in exchange for providing spaces or functions that serve the area. Improving pedestrian space or bringing in uses the city needs, such as hotels, is often cited as the basis for relaxing the limits."
               }
             ]
+          },
+          "namesEn": {
+            "テレビ北海道（Yahoo!ニュース）": "TVh (Television Hokkaido) (Yahoo! News)",
+            "北海道不動産連合隊": "Hokkaido Fudosan Rengotai",
+            "北海道建設新聞": "Hokkaido Kensetsu Shimbun"
           }
         },
         {
@@ -668,6 +700,10 @@
                 "body": "Construction workers in Japan are aging, and too few young people are entering the trade. The government-wide task force on construction labor, as we reported on Nov 9, comes out of the same shortage. To secure workers, consolidation through mergers is spreading to mid-sized and smaller construction companies too."
               }
             ]
+          },
+          "namesEn": {
+            "日本経済新聞": "Nikkei",
+            "旭化成（公式・適時開示）": "Asahi Kasei (official, timely disclosure)"
           }
         }
       ]
@@ -749,6 +785,11 @@
                 "body": "With materials and labor costs climbing, redevelopments in regional cities keep getting scaled back. The redevelopment of central Maebashi, which we reported on Oct 27, is also heading toward a much smaller plan after its costs rose. Hakodate is part of the same trend."
               }
             ]
+          },
+          "namesEn": {
+            "北海道建設新聞": "Hokkaido Construction News",
+            "北海道新聞": "Hokkaido Shimbun (official English name: The Hokkaido Shimbun Press)",
+            "日本経済新聞": "Nikkei (official English name: Nikkei Inc. (parent company), Nikkei Asia (English-language news outlet))"
           }
         },
         {
@@ -819,6 +860,11 @@
                 "body": "At underground stations that have been in service for many years, more operators are rethinking interiors and design when they replace equipment. Tokyu has given the five stations on one line a single project name and is renovating them with a shared theme."
               }
             ]
+          },
+          "namesEn": {
+            "マイナビニュース": "Mynavi News",
+            "東急・東急電鉄（公式）": "Tokyu Corporation / Tokyu Railways (official)",
+            "流通ニュース": "Ryutsu News"
           }
         },
         {
@@ -887,6 +933,9 @@
                 "body": "In Europe, choosing the future shape of a large district through an international competition is a widely used approach. Comparing proposals in public makes it easier for residents to join the debate. In Japan, competitions and proposal-based selections are used to choose designers for redevelopments, but it is still rare for an entire district plan to be decided by international competition."
               }
             ]
+          },
+          "namesEn": {
+            "ブラチスラバ市（公式）": "City of Bratislava (official)"
           }
         }
       ]
@@ -968,6 +1017,10 @@
                 "body": "Problems with quality data for building materials have happened before. In 2017, data falsification came to light at Kobe Steel for products including aluminum and copper, and in 2018 at KYB for inspection data on seismic isolation and damping dampers. In both cases, identifying the affected buildings and confirming their safety took a long time."
               }
             ]
+          },
+          "namesEn": {
+            "日本経済新聞": "Nikkei (formerly The Japan Economic Journal)",
+            "経済産業省（公式）": "Ministry of Economy, Trade and Industry (METI) (official)"
           }
         },
         {
@@ -1038,6 +1091,10 @@
                 "body": "To use a new material or production method in a building's structure, you have to show its strength and consistency through testing and pass a review. That is why it takes time for a new technology to reach real buildings. This adoption is an example of clearing one of those procedural hurdles."
               }
             ]
+          },
+          "namesEn": {
+            "デジタル建設": "Digital Kensetsu",
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shinbun"
           }
         },
         {
@@ -1108,6 +1165,11 @@
                 "body": "In public works, the basic order is to finish the design, then estimate the construction cost, then put the project out to bid based on that amount. Signing a contract before the design is settled risks large changes to construction costs later. With schedules and budgets under pressure across Japan, how to keep to this order is once again being questioned."
               }
             ]
+          },
+          "namesEn": {
+            "NHKニュース": "NHK News",
+            "沖縄タイムス": "Okinawa Times",
+            "琉球新報": "Ryukyu Shimpo"
           }
         }
       ]
@@ -1185,6 +1247,10 @@
                 "body": "Since August 2020, Japanese real estate agents have been required to show where a property sits on the flood hazard map during the mandatory explanation of key terms before a sale or lease is signed. As inland flooding maps are filled in, it will become easier to check that risk too, not just river flooding, when choosing a home."
               }
             ]
+          },
+          "namesEn": {
+            "テレビ朝日系ANN（Yahoo!ニュース）": "TV Asahi Network ANN (Yahoo! News)",
+            "東京新聞（共同通信）": "Tokyo Shimbun (Kyodo News)"
           }
         },
         {
@@ -1255,6 +1321,11 @@
                 "body": "Today, someone who passes the written exam but fails the drafting exam can retry the drafting exam a set number of times without retaking the written part. Under the rules in place since 2020, the exemption covers up to three attempts within five years, counting the year of passing. The draft would break that single block of the written exam down into individual subjects."
               }
             ]
+          },
+          "namesEn": {
+            "国土交通省（公式）": "Ministry of Land, Infrastructure, Transport and Tourism (official)",
+            "建設通信新聞": "Kensetsu Tsushin Shimbun",
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun"
           }
         },
         {
@@ -1315,6 +1386,11 @@
                 "body": "Japan's public betting venues, such as keirin velodromes and boat racing stadiums, have seen fewer visitors as online betting spread, leaving them with oversized stands and parking lots. In various places, operators are using rebuilding work to bring shops or parks onto the vacant land and turn the sites into places where people gather even on days without races."
               }
             ]
+          },
+          "namesEn": {
+            "KSB瀬戸内海放送": "KSB Setonaikai Broadcasting",
+            "RSK山陽放送（Yahoo!ニュース）": "RSK Sanyo Broadcasting (Yahoo! News)",
+            "星野リゾート（公式）": "Hoshino Resorts (Official)"
           }
         }
       ]
@@ -1396,6 +1472,11 @@
                 "body": "People tend to picture collapsed buildings when they think of earthquake damage, but at around upper 5, damage to parts other than the structural frame, known as nonstructural elements, stands out: ceilings, glass, exterior tiles. This time, too, the damage came outside the frame, in glass, a torii gate and a ceiling. Because these parts can fall and hit people, they are a common cause of injuries."
               }
             ]
+          },
+          "namesEn": {
+            "TBS NEWS DIG（Yahoo!ニュース）": "TBS NEWS DIG (Yahoo! News)",
+            "tenki.jp（日本気象協会）": "tenki.jp (Japan Weather Association)",
+            "中日新聞": "Chunichi Shimbun"
           }
         },
         {
@@ -1466,6 +1547,10 @@
                 "body": "A seismic retrofit or base isolation can cut cost and construction time sharply compared with a rebuild, but the aging equipment and interiors, and the limited life of the building itself, remain. Some municipalities therefore choose to buy time: they secure safety for now with a renovation, and use that time to work out the money and the site for a rebuild."
               }
             ]
+          },
+          "namesEn": {
+            "チューリップテレビ（Yahoo!ニュース）": "Tulip Television (Yahoo! News)",
+            "富山新聞（北國新聞社）": "Toyama Shimbun (Hokkoku Shimbun Press)"
           }
         },
         {
@@ -1536,6 +1621,11 @@
                 "body": "General contractors are also pushing ahead with timber high-rises. Work is underway on Mitsui Fudosan's 18-story, 84 m (276 ft) timber office building in Tokyo's Nihonbashi district. The more wood construction uses, the more important systems for sourcing and reusing timber, including for temporary works, become."
               }
             ]
+          },
+          "namesEn": {
+            "PR TIMES（大林組プレスリリース）": "PR TIMES (Obayashi Corporation press release)",
+            "大林組（公式）": "Obayashi Corporation (official)",
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun"
           }
         }
       ]
@@ -1617,6 +1707,11 @@
                 "body": "Ban began using paper tubes in architecture in the 1980s, reportedly after trying them in place of wood for an exhibition design with a tight budget. The approach later spread to refugee camps and disaster areas in Japan and abroad, and when he won the Pritzker Prize in 2014, this social work was part of what was recognized."
               }
             ]
+          },
+          "namesEn": {
+            "ABC0120（展覧会情報）": "ABC0120 (Exhibition Information)",
+            "日経クロステック": "Nikkei XTECH",
+            "谷口吉郎・吉生記念 金沢建築館（公式）": "Yoshio & Yoshiro Taniguchi Museum of Architecture, Kanazawa (Official)"
           }
         },
         {
@@ -1687,6 +1782,11 @@
                 "body": "In Japan's big cities, a growing number of redevelopment projects are seeing their start delayed because no contractor can be found, with soaring construction costs and labor shortages to blame. If demand for large factory construction piles on top, competition for the limited pool of tradespeople and building services firms could get even fiercer."
               }
             ]
+          },
+          "namesEn": {
+            "内閣官房（初会合資料・公式）": "Cabinet Secretariat (first meeting material · official)",
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shinbun",
+            "日本工業経済新聞": "Nihon Kogyo Keizai Shinbun"
           }
         },
         {
@@ -1747,6 +1847,10 @@
                 "body": "In Japan, department stores keep closing, especially in regional cities, and more large empty buildings are being left in town centers. Many are demolished for redevelopment, but some are kept in use with government service counters, libraries or places of learning. Buildings with large floors designed around the flow of people are considered a good fit for conversion to public facilities."
               }
             ]
+          },
+          "namesEn": {
+            "MVRDV（公式）": "MVRDV (official)",
+            "アーキテクチャーフォト": "architecturephoto"
           }
         }
       ]
@@ -1824,6 +1928,10 @@
                 "body": "On condominium projects inside residential neighborhoods, the building is often close to utility poles and power lines. When work happens near power lines, measures such as asking the power company to fit protective covers on the lines are taken. Site safety does not stop at the edge of the lot."
               }
             ]
+          },
+          "namesEn": {
+            "TBS NEWS DIG（Yahoo!ニュース）": "TBS NEWS DIG (Yahoo! News)",
+            "日テレNEWS（Infoseekニュース）": "Nippon TV NEWS (Infoseek News)"
           }
         },
         {
@@ -1894,6 +2002,10 @@
                 "body": "The revised Kenchikushi Act passed in July also allows university students to take the first-class kenchikushi exam, Japan's top architect license, while still enrolled, and shortens the work experience needed for second-class license holders to take the first-class exam. An MLIT subcommittee is still discussing the exam changes, which are moving on a separate schedule from the contract rules."
               }
             ]
+          },
+          "namesEn": {
+            "国土交通省（公式）": "Ministry of Land, Infrastructure, Transport and Tourism (official)",
+            "静岡県建築士事務所協会（日事連の案内）": "Shizuoka Association of Architectural Firms (Nippon Federation of Architects & Engineers Associations guidance)"
           }
         },
         {
@@ -1964,6 +2076,11 @@
                 "body": "As a university in the region hit by the 2011 Great East Japan Earthquake, Tohoku University has put particular weight on disaster science and recovery research. Disaster science and recovery being among the lab's fields follows from that. Machines that can work in place of people at disaster sites are as important a theme for construction companies as everyday building work."
               }
             ]
+          },
+          "namesEn": {
+            "デジタル建設ニュース": "Digital Construction News",
+            "大林組（公式）": "Obayashi Corporation (official)",
+            "日本経済新聞": "Nikkei"
           }
         }
       ]
@@ -2041,6 +2158,10 @@
                 "body": "The area around Tsudanuma Station was once known for its many large shopping complexes competing hard for customers. After department stores and specialty stores pulled out, redevelopment plans have also moved forward on the south side, and both sides of the station are shifting from a shopping district to a place to live."
               }
             ]
+          },
+          "namesEn": {
+            "建設通信新聞": "Kensetsu Tsushin Shimbun (official)",
+            "日本建設新聞社": "Japan Construction News Company (official)"
           }
         },
         {
@@ -2107,6 +2228,9 @@
                 "body": "An urban redevelopment project often takes more than 10 years, from forming a preparation association through the city planning decision, setting up the association, converting rights, starting construction and completion. In the early stages, it is common for the boundaries and building size to change through discussions."
               }
             ]
+          },
+          "namesEn": {
+            "NTT都市開発（公式）": "NTT Urban Development (official)"
           }
         }
       ]
@@ -2188,6 +2312,11 @@
                 "body": "Prices of new homes keep rising, with the average price of a new condominium in the Tokyo area topping ¥100 million. As new homes slip out of reach, properly valuing and selling existing homes is drawing attention as a way to widen people's housing options."
               }
             ]
+          },
+          "namesEn": {
+            "ハウジング・トリビューン": "Housing Tribune",
+            "国土交通省（公式）": "Ministry of Land, Infrastructure, Transport and Tourism (official)",
+            "日本経済新聞": "Nikkei"
           }
         },
         {
@@ -2258,6 +2387,11 @@
                 "body": "Safety certification for flying cars and rules for operating them are still being worked out, so when and how much they will fly is not yet settled. That is why many places are choosing airports, which already have air traffic control and safety management in place, as their first bases."
               }
             ]
+          },
+          "namesEn": {
+            "中日新聞": "Chunichi Shimbun",
+            "愛知県（公式）": "Aichi Prefecture (official)",
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun"
           }
         },
         {
@@ -2328,6 +2462,9 @@
                 "body": "Brazil produced architects such as Oscar Niemeyer and Paulo Mendes da Rocha, who used concrete boldly. Arquipeo's mainly concrete construction connects to that local building culture."
               }
             ]
+          },
+          "namesEn": {
+            "Architectural Record（公式）": "Architectural Record (official)"
           }
         }
       ]
@@ -2409,6 +2546,10 @@
                 "body": "In October, Japan's Fair Trade Commission found that 42 companies had rigged bids for large-scale repair work on condominiums, and the Ministry of Land, Infrastructure, Transport and Tourism (MLIT) began looking at ways to make ordering fairer. In both public and private work, how clients develop the ability to judge prices has become a shared challenge for the construction industry."
               }
             ]
+          },
+          "namesEn": {
+            "時事ドットコム": "Jiji.com (official)",
+            "東京新聞": "Tokyo Shimbun"
           }
         },
         {
@@ -2477,6 +2618,11 @@
                 "body": "Recent shopping centers increasingly devote more floor area to places that don't sell anything, such as event plazas, play areas and sports facilities. The aim is to give people a reason to come and to make them stay longer."
               }
             ]
+          },
+          "namesEn": {
+            "トラベル Watch": "Travel Watch",
+            "三井不動産（公式・PR TIMES）": "Mitsui Fudosan (official, PR TIMES press release)",
+            "繊研新聞": "Senken Shimbun"
           }
         },
         {
@@ -2547,6 +2693,11 @@
                 "body": "Shizuoka City has proposed moving its Shimizu branch office into a private mixed-use building, and similar moves are spreading across Japan to combine government offices with private development so they serve as hubs for the town, rather than standing as separate buildings."
               }
             ]
+          },
+          "namesEn": {
+            "khb東日本放送": "khb Higashinippon Broadcasting",
+            "三菱地所（公式）": "Mitsubishi Estate (official)",
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun"
           }
         }
       ]
@@ -2628,6 +2779,11 @@
                 "body": "Art festivals in many parts of Japan have used empty shops and vacant houses as venues. Even for a limited period, having people come and go lets the condition of a building be checked, and can prompt thinking about what to do with it next."
               }
             ]
+          },
+          "namesEn": {
+            "マツモト建築芸術祭（公式）": "Matsumoto Architectural Art Festival (official)",
+            "市民タイムスWEB": "Shimin Times WEB",
+            "美術手帖": "Bijutsu Techo"
           }
         },
         {
@@ -2694,6 +2850,11 @@
                 "body": "The average price of a new condominium in the Tokyo metropolitan area topped ¥100 million for the first time in April to September 2026, reaching ¥114.94 million, as we reported on Oct 21. Some see investment purchases as a factor behind the price surge, and that is part of why local governments are stepping in."
               }
             ]
+          },
+          "namesEn": {
+            "日本経済新聞": "Nikkei (official)",
+            "東京新聞": "Tokyo Shimbun",
+            "毎日新聞（Yahoo!ニュース）": "Mainichi Shimbun (Yahoo! News)"
           }
         },
         {
@@ -2762,6 +2923,11 @@
                 "body": "Until now, the disaster management office of the Cabinet Office coordinated the national government's disaster work across ministries. The new agency, with the prime minister at its head and the power to issue recommendations, aims to be a stronger command center. It launched while recovery from this year's Kumamoto earthquake is still under way."
               }
             ]
+          },
+          "namesEn": {
+            "テレビ朝日系（ANN）": "TV Asahi Network (ANN)",
+            "内閣府（公式）": "Cabinet Office (official)",
+            "時事ドットコム": "Jiji.com"
           }
         }
       ]
@@ -2844,6 +3010,11 @@
                 "body": "The Sannomaru Shozokan was originally a facility of the Imperial Household Agency, but its management moved to the National Institutes for Cultural Heritage along with the rebuild. It marks a shift to a setup that presents the imperial family's art to the public as national cultural property."
               }
             ]
+          },
+          "namesEn": {
+            "時事ドットコム": "Jiji.com",
+            "皇居三の丸尚蔵館（公式）": "The Museum of the Imperial Collections, Sannomaru Shozokan (official)",
+            "美術手帖": "Bijutsu Techo"
           }
         },
         {
@@ -2914,6 +3085,11 @@
                 "body": "Japan's construction industry distinguishes between two days off a week on a rotating basis, where each worker takes two days off weekly, and closing sites eight days every four weeks, where the site itself shuts two days a week. Closures make days off more certain but tend to lengthen schedules, and which one becomes the norm is where the interests of clients and contractors split."
               }
             ]
+          },
+          "namesEn": {
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun",
+            "日本工業経済新聞": "Nihon Kogyo Keizai Shimbun",
+            "日本経済新聞": "Nikkei"
           }
         },
         {
@@ -2976,6 +3152,11 @@
                 "body": "Among Japan's major general contractors, research aimed at building and living on the Moon is gradually spreading. Many companies take part in the national program for unmanned construction technology, and remote-control and automation technology is first being put to use at construction sites on Earth to deal with labor shortages."
               }
             ]
+          },
+          "namesEn": {
+            "JAXA 有人宇宙技術部門": "JAXA Human Spaceflight Technology Directorate",
+            "デジタル建設ニュース": "Digital Construction News",
+            "竹中工務店（公式）": "Takenaka Corporation (official)"
           }
         }
       ]
@@ -3057,6 +3238,11 @@
                 "body": "Around the Building Standards Act, amendments that tighten reviews, such as the April 2025 scaling back of the so-called Category 4 exemption, which had let small wooden houses designed by a licensed architect skip parts of the review, are moving forward alongside amendments that streamline procedures and rules. This one is the latter kind: it leaves the safety standards themselves unchanged and revises how reviews are carried out and where the rules apply."
               }
             ]
+          },
+          "namesEn": {
+            "ハウジング・トリビューン": "Housing Tribune",
+            "国土交通省（公式）": "Ministry of Land, Infrastructure, Transport and Tourism (official)",
+            "弁護士JPニュース": "Bengoshi JP News"
           }
         },
         {
@@ -3127,6 +3313,11 @@
                 "body": "If an owner does not comply with a demolition order, the government can file a criminal complaint or move to administrative execution by proxy, in which it removes the structures itself in place of the owner. But execution by proxy is costly and labor-intensive, and it is not often used in practice. Here, because animals are inside the buildings, somewhere to move them has to be secured first, which makes the process more complicated than ordinary enforcement against illegal buildings."
               }
             ]
+          },
+          "namesEn": {
+            "HTB北海道ニュース（Yahoo!ニュース）": "HTB Hokkaido News (Yahoo! News)",
+            "テレビ朝日系（ANN）": "TV Asahi Network (ANN)",
+            "北海道ニュースUHB": "Hokkaido News UHB"
           }
         },
         {
@@ -3197,6 +3388,10 @@
                 "body": "Architecture firms helped design two of the opening exhibitions. Architects shaping not just the building but also the exhibition spaces inside it has become more common at art museums and museums in recent years."
               }
             ]
+          },
+          "namesEn": {
+            "Infrastructure NSW（公式）": "Infrastructure NSW (official)",
+            "美術手帖": "Bijutsu Techo"
           }
         }
       ]
@@ -3276,6 +3471,11 @@
                 "body": "Work is underway to move the section of the Metropolitan Expressway that runs over the Nihonbashi River around Nihonbashi, Tokyo's historic merchant district, underground. How the riverbanks will be used once the elevated road is gone is being shaped by surrounding redevelopments that build in waterfront plazas and pedestrian spaces. The Yaesu 1-chome North District is one of them."
               }
             ]
+          },
+          "namesEn": {
+            "日本経済新聞": "Nikkei",
+            "東京建物（公式）": "Tokyo Tatemono (official)",
+            "豊田通商（公式）": "Toyota Tsusho (official)"
           }
         },
         {
@@ -3344,6 +3544,10 @@
                 "body": "In Fukuoka, beyond the redevelopments around Tenjin and Hakata Station, the city's two main downtown hubs, retail facilities are being renewed one after another, including the outlet rebuild on the former Marinoa City site that we reported on Oct 31. The airport's new complex joins that trend, and 2027 looks likely to be a year when Fukuoka's retail map changes significantly."
               }
             ]
+          },
+          "namesEn": {
+            "トラベル Watch": "Travel Watch",
+            "福岡国際空港（公式）": "Fukuoka International Airport (official)"
           }
         },
         {
@@ -3414,6 +3618,11 @@
                 "body": "Variable rates tend to be influenced by the Bank of Japan's policy rate, while fixed rates are more influenced by long-term market rates. Which is better depends on where rates go from here, and in design and financial planning, the basic rule is to leave room for repayments coming in higher than expected."
               }
             ]
+          },
+          "namesEn": {
+            "三菱UFJ銀行（公式）": "MUFG Bank (official)",
+            "時事通信（Yahoo!ニュース）": "Jiji Press (Yahoo! News)",
+            "東京新聞（共同通信）": "Tokyo Shimbun (Kyodo News)"
           }
         }
       ]
@@ -3495,6 +3704,11 @@
                 "body": "Many modern buildings in Japan are not designated as cultural properties, and it is not unusual for owners to decide to tear them down and rebuild. When many people see the inside and learn what a building is worth, that becomes one of the things that can support the choice to keep using it."
               }
             ]
+          },
+          "namesEn": {
+            "京都モダン建築祭実行委員会（公式）": "Kyoto Modern Architecture Festival Executive Committee (official)",
+            "京都市（公式）": "Kyoto City (official)",
+            "美術展ナビ": "Bijutsuten Navi"
           }
         },
         {
@@ -3565,6 +3779,10 @@
                 "body": "Construction orders measure the amount of work that will turn into construction over the next several years. Rather than showing how busy sites are now, they are watched as an indicator that previews the momentum of city building two to three years out."
               }
             ]
+          },
+          "namesEn": {
+            "日刊産業新聞": "Nikkan Sangyo Shimbun",
+            "日本経済新聞": "Nikkei"
           }
         },
         {
@@ -3627,6 +3845,11 @@
                 "body": "Large suburban shopping centers that opened across Japan around 2000 are now a quarter century old and have reached the point where owners must think about upgrading equipment or rebuilding. With construction costs high, choosing between rebuilding everything and renovating the parts that still work has become a decision that can make or break a project."
               }
             ]
+          },
+          "namesEn": {
+            "トラベル Watch": "Travel Watch",
+            "三井不動産（公式）": "Mitsui Fudosan (official)",
+            "福岡地所（公式）": "Fukuoka Jisho (official)"
           }
         }
       ]
@@ -3710,6 +3933,9 @@
                 "body": "The best-known example of turning an unused elevated structure into a place to walk is New York's High Line, built on a former freight rail line. In Japan, too, cities across the country face the question of how to give old road and rail structures back to the city, and in Nihonbashi, a section of the Shuto Expressway, Tokyo's elevated urban highway, is being moved underground. Ginza's KK Line is an example of that movement taking shape in the very heart of the city."
               }
             ]
+          },
+          "namesEn": {
+            "DESIGNART TOKYO実行委員会（公式）": "DESIGNART TOKYO Committee (official)"
           }
         },
         {
@@ -3780,6 +4006,11 @@
                 "body": "The area around Shibuya Station has seen one high-rise project after another, including Shibuya Scramble Square and redevelopment on the Dogenzaka side. Among them, the Sakuragaoka draft is a long-range plan, with completion not until fiscal 2036. Combining housing and educational facilities with offices sets it apart from the big buildings right at the station."
               }
             ]
+          },
+          "namesEn": {
+            "シブヤ経済新聞": "Shibuya Keizai Shimbun",
+            "建設通信新聞": "Kensetsu Tsushin Shimbun",
+            "渋谷区（公式）": "Shibuya City (official)"
           }
         },
         {
@@ -3933,6 +4164,10 @@
                 "body": "Once the data itself is reviewed, designers will need to build their data following input rules in their software. For that reason, MLIT is also developing creation standards that set the input rules for IFC data. Whether small and midsize design firms, not just the large ones, can keep up will be the key to wider adoption."
               }
             ]
+          },
+          "namesEn": {
+            "国土交通省（公式）": "Ministry of Land, Infrastructure, Transport and Tourism (official)",
+            "建設通信新聞": "Kensetsu Tsushin Shimbun"
           }
         },
         {
@@ -4005,6 +4240,10 @@
                 "body": "As we reported on Sep 29, a national expert committee plans to compile its findings on the chimney collapse within fiscal 2026, together with the damage to the base-isolated Yatsushiro City Hall building. Alongside pinning down the cause, the next focus will be how to inspect existing chimneys across the country."
               }
             ]
+          },
+          "namesEn": {
+            "共同通信（Yahoo!ニュース）": "Kyodo News (Yahoo! News)",
+            "日本製紙（公式）": "Nippon Paper Industries (official)"
           }
         },
         {
@@ -4075,6 +4314,11 @@
                 "body": "Many castle keeps across Japan were rebuilt in reinforced concrete before and after World War II, and in some cases, such as Nagoya Castle, plans are moving ahead to rebuild them in wood. Many keeps also face challenges with earthquake resistance and accessibility, and local governments differ on whether to keep them as they are or go back to wood."
               }
             ]
+          },
+          "namesEn": {
+            "ABCニュース（Yahoo!ニュース）": "ABC News (Yahoo! News)",
+            "大阪城天守閣（公式）": "Osaka Castle Museum (official)",
+            "日本経済新聞": "Nikkei"
           }
         }
       ]
@@ -4156,6 +4400,10 @@
                 "body": "Under Japan's Disaster Relief Act, emergency temporary housing is provided for two years in principle. During that time, survivors either rebuild or repair their own homes, or, if they cannot rebuild on their own, move into public disaster-recovery housing built by local governments. After the 2016 Kumamoto earthquakes, too, building that public housing became a pillar of recovery once the temporary units were in place."
               }
             ]
+          },
+          "namesEn": {
+            "熊本日日新聞（Yahoo!ニュース）": "Kumamoto Nichi-nichi Shimbun (Yahoo! News)",
+            "読売新聞（Infoseekニュース）": "The Yomiuri Shimbun (Infoseek News)"
           }
         },
         {
@@ -4224,6 +4472,10 @@
                 "body": "Japan's Industrial Safety and Health Regulations require employers using construction machinery such as excavators to keep people out of areas where they could come into contact with an operating machine, and to assign signal persons to guide it, among other measures. Each time a fatal accident involving contact with heavy machinery occurs, local labor standards inspection offices, the government's workplace safety inspectors, have asked the industry to carry out a general safety check of demolition sites."
               }
             ]
+          },
+          "namesEn": {
+            "FNNプライムオンライン（Yahoo!ニュース）": "FNN Prime Online (Yahoo! News)",
+            "朝日新聞（Yahoo!ニュース）": "Asahi Shimbun (Yahoo! News)"
           }
         },
         {
@@ -4294,6 +4546,11 @@
                 "body": "Town planning that links everyday services through a shared ID or face recognition is spreading in Japan, including Toyota's Woven City in Susono, Shizuoka Prefecture. As convenience grows, the same questions keep coming up everywhere: who manages the data collected, how, and how residents' consent is obtained."
               }
             ]
+          },
+          "namesEn": {
+            "データ・マックス": "Data Max",
+            "住友商事ほか8社（公式・共同通信PRワイヤー）": "Sumitomo Corporation and 8 Other Companies (official, Kyodo News PR Wire)",
+            "西日本新聞": "Nishinippon Shimbun"
           }
         }
       ]
@@ -4375,6 +4632,10 @@
                 "body": "Redevelopment in Japan has typically meant clearing away old buildings and putting up high-rises. But with construction costs soaring, renovating and keeping existing buildings has become an option in many places. The whole-building renovation of a condominium in Kobe's Higashinada Ward, which we reported on Oct 18, is part of the same trend of reusing a structural frame to keep costs down."
               }
             ]
+          },
+          "namesEn": {
+            "上毛新聞": "Jomo Shimbun",
+            "日本経済新聞": "Nikkei"
           }
         },
         {
@@ -4445,6 +4706,11 @@
                 "body": "Many Japanese museums make the garden or the surrounding scenery, rather than the building itself, the main attraction. At such places, a key design condition even in a renovation is to keep the building from standing out too much and to protect the views of the garden."
               }
             ]
+          },
+          "namesEn": {
+            "箱根美術館（公式）": "Hakone Museum (official)",
+            "美術展ナビ": "Bijutsuten Navi",
+            "美術手帖": "Bijutsu Techo"
           }
         },
         {
@@ -4515,6 +4781,11 @@
                 "body": "Large theaters need a deep stage and a tall auditorium, so rebuilding one takes a large site and a lot of money. With construction costs soaring, some closed theaters' sites have been turned to other uses, and whether a theater can be rebuilt as a theater has become an issue in many places."
               }
             ]
+          },
+          "namesEn": {
+            "ABCニュース（Yahoo!ニュース）": "ABC News (Yahoo! News)",
+            "共同通信（東京新聞）": "Kyodo News (Tokyo Shimbun)",
+            "大林組（公式）": "Obayashi Corporation (official)"
           }
         }
       ]
@@ -4598,6 +4869,10 @@
                 "body": "For large infrastructure projects that take many years to complete, more and more organizers are deliberately opening construction sites to keep local interest alive. This time, too, the prefecture and the city co-hosted the event, suggesting an aim to make the station a place people want to visit even before it opens."
               }
             ]
+          },
+          "namesEn": {
+            "共同通信（Yahoo!ニュース）": "Kyodo News (Yahoo! News)",
+            "神奈川県（公式）": "Kanagawa Prefecture (official)"
           }
         },
         {
@@ -4666,6 +4941,10 @@
                 "body": "Driven by the push for decarbonization and by legal revisions encouraging the use of wood, more shops and offices are being built in timber in Japan. Placing old and new timber buildings side by side as a single complex has the advantage of making it easier to keep the scale of the streetscape."
               }
             ]
+          },
+          "namesEn": {
+            "みんなの経済新聞（Yahoo!ニュース）": "Minna no Keizai Shimbun (Yahoo! News)",
+            "東急（公式）": "Tokyu (official)"
           }
         },
         {
@@ -4736,6 +5015,9 @@
                 "body": "Japan, too, faces the challenge of rebuilding aging public housing estates and making use of underused land such as parking lots. Mixing homes for sale with public rental housing on the same site is still rare in Japan, and overseas examples like this are likely to be cited more and more as references."
               }
             ]
+          },
+          "namesEn": {
+            "RIBA（公式）": "RIBA (official)"
           }
         }
       ]
@@ -4817,6 +5099,10 @@
                 "body": "Large public buildings only take shape when architects, structural and building-services engineers, and contractors work together. In many of Ito's works, the structural ideas become the look of the building itself, which may be why he mentioned his team in his comment on the award."
               }
             ]
+          },
+          "namesEn": {
+            "信濃毎日新聞": "Shinano Mainichi Shimbun",
+            "時事ドットコム": "Jiji.com"
           }
         },
         {
@@ -4887,6 +5173,11 @@
                 "body": "Osaka's Umeda and Nakanoshima districts keep seeing large developments, making the city one of the main battlegrounds for design firms. Putting the head of a regional office who has run big projects on the ground in charge of the whole Tokyo-based company reflects an industry that increasingly values coordination skills."
               }
             ]
+          },
+          "namesEn": {
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun",
+            "日建設計（公式リリース）": "Nikken Sekkei (official release)",
+            "日本経済新聞": "Nikkei"
           }
         },
         {
@@ -4957,6 +5248,10 @@
                 "body": "If a city hall becomes unusable after a major earthquake, the command center for helping victims shuts down with it. In the Kumamoto earthquake earlier this year, restoring the base-isolation devices at Yatsushiro City Hall also became an issue. Choosing a city hall's structure is now treated as part of disaster planning."
               }
             ]
+          },
+          "namesEn": {
+            "長崎国際テレビ（Yahoo!ニュース）": "Nagasaki International Television (Yahoo! News)",
+            "長崎新聞": "Nagasaki Shimbun"
           }
         }
       ]
@@ -5038,6 +5333,11 @@
                 "body": "A business suspension under the Construction Business Act is one of the heaviest administrative penalties a Japanese construction company can face. Work already under contract can continue, but the company cannot pursue new orders. Even for major firms, the impact on business and order plans is significant."
               }
             ]
+          },
+          "namesEn": {
+            "KSB瀬戸内海放送（ANN）": "KSB Setonaikai Broadcasting (ANN)",
+            "中日新聞": "Chunichi Shimbun",
+            "日本経済新聞": "Nikkei"
           }
         },
         {
@@ -5108,6 +5408,10 @@
                 "body": "There are two ways to keep an old building: stop using it and preserve it like a museum, or keep it in use as a working building. Most of the buildings in Ikefes take the second route, and opening them to the public is only possible with their owners' cooperation."
               }
             ]
+          },
+          "namesEn": {
+            "原田産業（公式・オリコンニュース掲載）": "HARADA CORPORATION (official, as listed on Oricon News)",
+            "大阪市（公式）": "Osaka City (official)"
           }
         },
         {
@@ -5178,6 +5482,11 @@
                 "body": "Rising material and labor costs keep pushing up the price of repair work, and many condominiums don't have enough in their repair reserve funds. MLIT has also begun revising its guidelines for long-term repair plans. Both the money for repairs and the way the work is ordered are now being called into question."
               }
             ]
+          },
+          "namesEn": {
+            "TBS NEWS DIG（Yahoo!ニュース）": "TBS NEWS DIG (Yahoo! News)",
+            "テレ東BIZ": "TV Tokyo BIZ",
+            "東京新聞（共同通信）": "Tokyo Shimbun (Kyodo News)"
           }
         }
       ]
@@ -5259,6 +5568,11 @@
                 "body": "Combining a government office and a private building in one structure is being considered in many parts of Japan as a way to make use of city-owned land and hold down construction costs. But it also brings challenges an ordinary government office doesn't face, such as keeping operations running in a disaster and dealing with private tenants moving in and out."
               }
             ]
+          },
+          "namesEn": {
+            "中日新聞": "Chunichi Shimbun",
+            "建設通信新聞": "Kensetsu Tsushin Shimbun",
+            "静岡市（公式）": "Shizuoka City (official)"
           }
         },
         {
@@ -5329,6 +5643,10 @@
                 "body": "Also in Kita-Aoyama 3-chome, new construction began in June on a separate large redevelopment, the Kita-Aoyama 3-chome District Type 1 Urban Redevelopment Project. That is a Japanese scheme in which landowners pool their plots to build a larger complex. Several big construction projects will be running side by side along Aoyama-dori for some time."
               }
             ]
+          },
+          "namesEn": {
+            "トラベルボイス": "Travel Voice",
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun"
           }
         },
         {
@@ -5399,6 +5717,10 @@
                 "body": "More projects are developing private housing and public facilities together on the same site. Compared with a housing-only development, creating a hub where people gather is meant to make the town more attractive and easier to live in."
               }
             ]
+          },
+          "namesEn": {
+            "ミサワホーム（公式・2023年発表）": "MISAWA HOMES (official, announced 2023)",
+            "ミサワホーム（公式）": "MISAWA HOMES (official)"
           }
         }
       ]
@@ -5480,6 +5802,11 @@
                 "body": "As Japan's population falls and government services go digital, reducing floor area instead of continually adding to buildings, known in Japanese as genchiku, has become an option. This plan follows the same thinking: it sorts out a cluster of buildings that grew through repeated additions and gathers the functions that are needed into a new wing."
               }
             ]
+          },
+          "namesEn": {
+            "建設通信新聞": "Kensetsu Tsushin Shimbun",
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun",
+            "滋賀県（公式）": "Shiga Prefecture (official)"
           }
         },
         {
@@ -5550,6 +5877,10 @@
                 "body": "Tokyo's other airport, Haneda, began using new flight routes over central Tokyo in 2020, and the number of takeoff and landing slots in the Tokyo area keeps growing. Major Asian airports are also adding runways, and Narita's expansion was planned amid that international competition."
               }
             ]
+          },
+          "namesEn": {
+            "国土交通省（公式）": "Ministry of Land, Infrastructure, Transport and Tourism (official)",
+            "日本経済新聞": "Nikkei"
           }
         },
         {
@@ -5616,6 +5947,10 @@
                 "body": "As we reported on Oct 1, major banks raised their variable mortgage rates in October. The more you borrow, the harder rising rates hit, and that also shapes how buyers decide on home size and budget."
               }
             ]
+          },
+          "namesEn": {
+            "ハウジング・トリビューン": "Housing Tribune",
+            "新建ハウジング": "Shinkenchiku Housing"
           }
         }
       ]
@@ -5697,6 +6032,11 @@
                 "body": "A 2020 reform changed first-class exam eligibility so that graduates can take it right after finishing university. One exam-prep school's analysis found that people in their 20s made up about 65% of those who passed this year's written exam, the first stage of the test. Taking the exam while enrolled pushes that trend a step further."
               }
             ]
+          },
+          "namesEn": {
+            "国土交通省（公式）": "Ministry of Land, Infrastructure, Transport and Tourism (official)",
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shinbun",
+            "日本工業経済新聞社": "Nihon Kogyo Keizai Shinbunsha"
           }
         },
         {
@@ -5767,6 +6107,11 @@
                 "body": "On Japanese construction sites, an aging workforce, labor shortages and rising material prices have combined to keep pushing building costs up. The national government is also pushing pay raises for skilled workers, and higher wages feed into construction costs. The debate over paying skilled workers a monthly salary, which we reported on Oct 14, is part of the same trend."
               }
             ]
+          },
+          "namesEn": {
+            "nippon.com（時事通信）": "nippon.com (Jiji Press)",
+            "テレ東BIZ": "TV Tokyo BIZ",
+            "南日本新聞（共同通信）": "Minami-Nippon Shimbun (Kyodo News)"
           }
         },
         {
@@ -5837,6 +6182,11 @@
                 "body": "Some celebrated buildings head for demolition with no new use decided, like Kenzo Tange's former Kagawa Prefectural Gymnasium, which we reported on Oct 18. Finding someone to keep using a building is itself one of the biggest conditions for saving it."
               }
             ]
+          },
+          "namesEn": {
+            "フォートレス・インベストメント・グループ（公式・共同通信PRワイヤー）": "Fortress Investment Group (official, Kyodo News PRWire)",
+            "建設通信新聞": "Kensetsu Tsushin Shimbun",
+            "神戸新聞NEXT": "Kobe Shimbun NEXT"
           }
         }
       ]
@@ -5918,6 +6268,10 @@
                 "body": "National universities across Japan are increasingly leasing their land to private companies and putting the income toward teaching and research. On this Etchujima project, the Tokyo Shimbun newspaper reported in 2024 that local residents had raised concerns about its effect on the cityscape, and that the backdrop was the national government's push for universities to make use of their land."
               }
             ]
+          },
+          "namesEn": {
+            "東京医科歯科大学（現・東京科学大学、公式）": "Tokyo Medical and Dental University (now Tokyo Tech and Med, official)",
+            "野村不動産ホールディングス（公式・PR TIMES）": "Nomura Real Estate Holdings (official, PR TIMES press release)"
           }
         },
         {
@@ -5988,6 +6342,11 @@
                 "body": "More and more cities across Japan are placing large libraries right by their stations to create flows of people through town. Facilities that draw people every day for reasons other than shopping are expected to send visitors on to nearby shops and cafes."
               }
             ]
+          },
+          "namesEn": {
+            "日刊建設工業新聞": "Nikkan Construction Kogyo Shimbun",
+            "神奈川新聞（カナロコ）": "Kanagawa Shimbun (kanaloco)",
+            "鉄道チャンネル": "Tetsudo Channel"
           }
         },
         {
@@ -6058,6 +6417,9 @@
                 "body": "In acoustic design, the field of shaping how concert halls and opera houses sound, Japanese firms have worked on many of the world's major halls. It's not unusual for Japanese expertise to be behind the scenes at large theaters overseas."
               }
             ]
+          },
+          "namesEn": {
+            "Snøhetta（公式）": "Snøhetta (official)"
           }
         }
       ]
@@ -6139,6 +6501,11 @@
                 "body": "Yamamoto has long emphasized what he calls the threshold (shikii): the in-between zone that sits between the private space inside a home and the public space outside. Think of the engawa, the veranda along a traditional Japanese house, or the doma, an earth-floored entry area, where you can meet people outside your family. His argument is that modern housing, in valuing privacy above all, has lost these in-between places."
               }
             ]
+          },
+          "namesEn": {
+            "tvkニュース（Yahoo!ニュース）": "tvk News (Yahoo! News)",
+            "時事ドットコム": "Jiji.com",
+            "神奈川新聞（カナロコ）": "Kanagawa Shimbun (kanaloco)"
           }
         },
         {
@@ -6209,6 +6576,11 @@
                 "body": "The Tama area of western Tokyo still has a lot of land left behind when US military and Japan Self-Defense Forces facilities were returned. The former Fuchu Base is one example, and what to do with the reserved land the city acquired from the national government has been an open question for years. Such sites let a city use a large area at once, but they also require care for the natural environment, such as tree felling and protecting wildlife."
               }
             ]
+          },
+          "namesEn": {
+            "府中市（公式）": "Fuchu City (official)",
+            "建設通信新聞": "Kensetsu Tsushin Shimbun",
+            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun"
           }
         },
         {
@@ -6279,6 +6651,9 @@
                 "body": "In Europe, efforts to turn demolition rubble and waste into new building materials are spreading. Because construction accounts for a large share of global carbon dioxide emissions, circulating materials instead of making them from scratch is becoming one of the criteria by which design is judged."
               }
             ]
+          },
+          "namesEn": {
+            "Design Museum Gent（公式）": "Design Museum Gent (official)"
           }
         }
       ]
@@ -6360,6 +6735,11 @@
                 "body": "The prefectural gym's functions have moved to Anabuki Arena Kagawa, which opened on February 24, 2025. It was designed by SANAA (Kazuyo Sejima and Ryue Nishizawa), cost about ¥20.2 billion, and its main arena holds about 10,000 people. When it comes to preserving landmark buildings, how to keep using a building that has lost its original purpose is a challenge shared by many places."
               }
             ]
+          },
+          "namesEn": {
+            "KSB瀬戸内海放送": "KSB Setonaikai Broadcasting",
+            "RSK山陽放送（Yahoo!ニュース）": "RSK Sanyo Broadcasting (Yahoo! News)",
+            "美術手帖": "Bijutsu Techo"
           }
         },
         {
@@ -6426,6 +6806,10 @@
                 "body": "In an ordinary Japanese condominium, each unit has a different owner, so a major renovation or rebuilding of the whole building needs the agreement of many owners. In a whole-building renovation, a developer takes on the entire building first and then sells the units, which makes it easier to renew the interiors and equipment of every unit at the same time."
               }
             ]
+          },
+          "namesEn": {
+            "サンケイビル（公式）": "Sankei Building (official)",
+            "長谷工コーポレーション（公式）": "Haseko Corporation (official)"
           }
         },
         {
@@ -6496,6 +6880,9 @@
                 "body": "At popular tourist sites, moves to introduce booking systems or entry fees to curb crowding and the burden on nature are spreading worldwide. Changing how people get in at the same time as building the facility makes this a case where architecture and operations were planned as a package."
               }
             ]
+          },
+          "namesEn": {
+            "Great Ocean Road Coast and Parks Authority（公式）": "Great Ocean Road Coast and Parks Authority (official)"
           }
         }
       ]

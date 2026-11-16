@@ -18,6 +18,7 @@
   imageCredit  … 日本語のクレジット文（そのまま隅に出す）
   imageKind    … "press" / "ai" / "sky"（英語の画面でクレジットを訳すため）
   imageSource  … press のときの会社・団体名
+  namesEn      … 英語の画面用の名前の対応表 {日本語の出典名・会社名: 英語名}（fal の LLM で作る）
 
 使い方:
   python3 tools/make_story_images.py --sync --push        # launchd から（専用クローンで）
@@ -219,6 +220,52 @@ def auto_prompt(st):
     )
 
 
+JA_RE = re.compile(r"[\u3040-\u30ff\u3400-\u9fff\uff00-\uffef]")
+LLM_MODEL = "google/gemini-2.5-flash"
+
+
+def ja_names(st):
+    """英語の画面に出る名前（出典名・写真の会社名）のうち、日本語の文字を含むもの。"""
+    names = [st.get("sourceName") or "", *[x.get("name") or "" for x in st.get("sources") or []], st.get("imageSource") or ""]
+    have = st.get("namesEn") or {}
+    return sorted({n for n in names if n and JA_RE.search(n) and n not in have})
+
+
+def translate_names(names):
+    """fal の LLM で団体・媒体名を英語に。日本語が残った訳は捨てる。"""
+    if not names:
+        return {}
+    key = open(FAL_KEY_PATH).read().strip()
+    prompt = ("Translate these Japanese organization / media names into the names English-language readers would use "
+              "(official English name if one exists, otherwise a romanized name). Keep parenthetical notes and translate "
+              "them (公式 → official, プレスリリース → press release). Return only a JSON object mapping each input string "
+              "to its English name.\n" + json.dumps(names, ensure_ascii=False))
+    s = fal_req("https://queue.fal.run/fal-ai/any-llm", key, {"model": LLM_MODEL, "prompt": prompt})
+    for _ in range(60):
+        if fal_req(s["status_url"], key)["status"] == "COMPLETED":
+            break
+        time.sleep(2)
+    out = fal_req(s["response_url"], key).get("output") or ""
+    m = re.search(r"\{.*\}", out, re.S)
+    data = json.loads(m.group(0)) if m else {}
+    return {k: v.strip() for k, v in data.items() if k in names and isinstance(v, str) and v.strip() and not JA_RE.search(v)}
+
+
+def add_names(st, fields):
+    """fields に namesEn を足す（今ある対応表に追記）。"""
+    todo = sorted(set(ja_names(st)) | ({fields["imageSource"]} if fields.get("imageSource") and JA_RE.search(fields["imageSource"]) else set()))
+    if not todo:
+        return
+    try:
+        got = translate_names(todo)
+    except Exception as e:  # noqa: BLE001
+        log("  英語名の作成に失敗:", e)
+        return
+    if got:
+        fields["namesEn"] = {**(st.get("namesEn") or {}), **got}
+        log("  英語名:", got)
+
+
 def story_text(st):
     return " ".join([st.get("title", ""), st.get("summary", ""), *(st.get("body") or [])])
 
@@ -231,7 +278,12 @@ def plan_and_make(issue, dry_run):
     for st in issue.get("stories") or []:
         sid, n = st["id"], st.get("number", 0)
         if st.get("imageURL"):
-            log(f"s{n}: 付いている → skip")
+            log(f"s{n}: 写真は付いている")
+            if not dry_run:
+                fields = {}
+                add_names(st, fields)
+                if fields:
+                    results[sid] = fields
             continue
         if st.get("noImage") or DEATH_RE.search(story_text(st)):
             # 人が亡くなった記事は、事故・現場の絵を作らず、アプリのヒーローと同じ落ち着いた空の写真にする（11/16 Sho）
@@ -261,6 +313,10 @@ def plan_and_make(issue, dry_run):
             results[sid] = {"imageURL": url, "imageCredit": "画像はイメージ（AI生成）", "imageKind": "ai"}
         except Exception as e:  # noqa: BLE001
             log(f"s{n}: AI画像の作成に失敗:", e)
+    for st in issue.get("stories") or []:
+        fields = results.get(st["id"])
+        if fields and fields.get("imageURL") and not dry_run:
+            add_names(st, fields)
     return results
 
 
@@ -270,10 +326,15 @@ def apply(d, issue_id, results):
         if iss["id"] != issue_id:
             continue
         for st in iss.get("stories") or []:
-            fields = results.get(st["id"])
-            if fields and not st.get("imageURL"):
-                st.update(fields)
-                changed = True
+            for k, v in (results.get(st["id"]) or {}).items():
+                if k == "namesEn":
+                    merged = {**(st.get("namesEn") or {}), **v}
+                    if merged != st.get("namesEn"):
+                        st["namesEn"] = merged
+                        changed = True
+                elif not st.get(k):
+                    st[k] = v
+                    changed = True
     return changed
 
 
@@ -282,12 +343,33 @@ def has_en(issue):
     return bool(ss) and all(isinstance(s.get("en"), dict) and s["en"].get("title") for s in ss)
 
 
+def backfill_names(d, push):
+    changed = 0
+    for iss in d["issues"]:
+        for st in iss.get("stories") or []:
+            fields = {}
+            add_names(st, fields)
+            if fields.get("namesEn"):
+                st["namesEn"] = fields["namesEn"]
+                changed += 1
+    log("英語名を付けた記事:", changed)
+    if changed:
+        save(d)
+        if push:
+            git("add", "issues.json")
+            git("commit", "-q", "-m", "過去号の出典名・写真の会社名に英語名（namesEn）を追加")
+            git("push", "-q", "origin", "HEAD:main")
+            log("push 済み")
+    return 0
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--date", help="対象の号の日付（省略時は最新号）")
     p.add_argument("--sync", action="store_true", help="始める前に origin/main に合わせる（専用クローン用）")
     p.add_argument("--push", action="store_true", help="コミットして push する")
     p.add_argument("--dry-run", action="store_true")
+    p.add_argument("--names-all", action="store_true", help="全号の出典名・会社名に英語名を付ける（一度だけの埋め戻し）")
     p.add_argument("--no-wait-en", action="store_true", help="英語が付くのを待たない")
     a = p.parse_args()
 
@@ -308,8 +390,10 @@ def main():
     if not a.date and not a.no_wait_en and not has_en(issue) and dt.datetime.now(JST).time() < WAIT_EN_UNTIL:
         log("英語版の push 待ち（ルーチンと push がぶつからないように）→ 次の起動で")
         return 0
-    if all(s.get("imageURL") for s in issue.get("stories") or []):
-        log(issue["id"], "は全部付いている")
+    if a.names_all:
+        return backfill_names(d, a.push)
+    if all(s.get("imageURL") and not ja_names(s) for s in issue.get("stories") or []):
+        log(issue["id"], "は写真も英語名も付いている")
         return 0
 
     log("対象:", issue["id"])
@@ -328,11 +412,14 @@ def main():
         if not a.push:
             log("issues.json に反映（push はしない）")
             return 0
-        git("add", "issues.json", f"img/{issue['date']}")
-        git("commit", "-q", "-m", f"{issue['date']}号に記事の写真を追加")
+        subprocess.run([sys.executable, os.path.join(ROOT, "tools", "build_site.py")], cwd=ROOT, capture_output=True)  # 英語ページの出典名も更新
+        git("add", "issues.json", "index.html", "i", "en")
+        if os.path.isdir(os.path.join(ROOT, "img", issue["date"])):
+            git("add", f"img/{issue['date']}")
+        git("commit", "-q", "-m", f"{issue['date']}号に記事の写真・英語名を追加")
         r = git("push", "-q", "origin", "HEAD:main", check=False)
         if r.returncode == 0:
-            log("push 済み:", ", ".join(f"{k}={v['imageKind']}" for k, v in results.items()))
+            log("push 済み:", ", ".join(f"{k}={v.get('imageKind', 'names')}" for k, v in results.items()))
             return 0
         log("push が弾かれた → 最新に合わせて付け直す", r.stderr.strip()[:200])
         git("fetch", "-q", "origin", "main")

@@ -373,8 +373,9 @@ def render_story_en(story: dict) -> str:
     n = story.get("number", 0)
     st = story_en(story)
     lang = ' lang="ja"' if st["_ja"] else ""
+    names_en = story.get("namesEn") or {}  # 出典名の英語（make_story_images.py が付ける）
     parts = [f'<article id="s{n}"{lang}>']
-    parts.append(f'<div class="src">{esc(story.get("sourceName", ""))}</div>')
+    parts.append(f'<div class="src">{esc(names_en.get(story.get("sourceName", ""), story.get("sourceName", "")))}</div>')
     parts.append(f"<h2>{esc(st.get('title', ''))}</h2>")
     if st.get("summary"):
         parts.append(f'<p class="summary">{esc(st["summary"])}</p>')
@@ -393,7 +394,7 @@ def render_story_en(story: dict) -> str:
     if sources:
         parts.append('<div class="sec-label">Sources</div><div class="chips">')
         for s in sources:
-            parts.append(f'<a href="{esc(s.get("url", ""))}" target="_blank" rel="noopener">{esc(s.get("name", ""))}</a>')
+            parts.append(f'<a href="{esc(s.get("url", ""))}" target="_blank" rel="noopener">{esc(names_en.get(s.get("name", ""), s.get("name", "")))}</a>')
         parts.append("</div>")
 
     if st.get("commentary"):
