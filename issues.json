@@ -53,7 +53,32 @@
           "sourceName": "竹中工務店（公式）",
           "sourceURL": "https://www.takenaka.co.jp/",
           "shoComment": "",
-          "imagePrompt": "A busy Japanese construction site seen from above in daylight, workers in white helmets reviewing drawings on a tablet beside steel columns and concrete formwork, clean and organized site, soft natural light."
+          "imagePrompt": "A busy Japanese construction site seen from above in daylight, workers in white helmets reviewing drawings on a tablet beside steel columns and concrete formwork, clean and organized site, soft natural light.",
+          "en": {
+            "title": "Takenaka opens 48 of its patents to other companies for a fee, sharing technology proven on its sites",
+            "summary": "On Nov 16, Takenaka Corporation, one of Japan's largest general contractors, began letting other companies use 48 of its patents for a fee. The firm is shifting from keeping its intellectual property to itself toward sharing it.",
+            "body": [
+              "Takenaka Corporation, one of Japan's five largest general contractors, announced on Nov 16 that it had published 48 of its patents on its official website and begun licensing them to other companies for a fee. All of them cover technologies that have actually been used on Takenaka's own construction sites.",
+              "Construction companies have generally kept the technologies they develop for their own projects, treating them as a source of competitive advantage. Takenaka is now repositioning its patents from something to use exclusively to something the industry can use together. The aim is to work with other firms on problems shared across the construction industry, such as labor shortages, quality assurance and environmental performance.",
+              "The 48 patents are a first batch, and the company plans to add more over time."
+            ],
+            "commentary": "48. That's how many patents Takenaka has opened up for other companies to use. A patent is a right that lets the company that invented something keep that technology to itself for a set period. For a general contractor, it's a trump card for standing out from rivals. In restaurant terms, it's like the secret sauce behind a signature dish, right? This news is about sharing that recipe with other restaurants in exchange for a fee. Why give it up? I think it's because labor shortages, quality assurance and cutting CO2 are worries every company has in common. Using a good technology on one company's sites alone doesn't make the industry's sites better as a whole. The offer is limited to patents filed more than 10 years ago, so this isn't the company putting its newest trump cards on the table. Even so, in an industry where hoarding technology was the norm, a major player saying \"please use this\" shouldn't be taken lightly. When shared technology makes a site better, who gets the credit, I wonder?",
+            "briefing": [
+              "The patents on offer are limited to those filed more than 10 years ago. They are narrowed to three areas, improving productivity, improving quality and contributing to the environment, and all have a track record of use on real sites.",
+              "This release is positioned as a first batch. The company has said it plans to expand the number of published patents to around 100 next year.",
+              "Takenaka has previously let other companies use its technology on a case-by-case basis. In August 2024, it signed manufacturing and sales license agreements with lumber companies and others for Moeln Wood, a fire-resistant glulam that makes wooden columns and beams harder to burn, for projects ordered by public and public-interest clients."
+            ],
+            "hojosen": [
+              {
+                "title": "From hoarding to sharing",
+                "body": "Construction companies have tended to use their technologies only on their own projects, to gain an edge in winning contracts. Yet labor shortages and decarbonization are hard for any one company to solve alone, and the industry as a whole is under pressure to raise its baseline. The idea of licensing technology to others and putting the fees back into new development has long been common in fields such as manufacturing."
+              },
+              {
+                "title": "Why the 10-year line",
+                "body": "Patent rights generally expire 20 years after filing. Technologies filed more than 10 years ago have been well tested on sites and their effects are clear, but they are also starting to fall behind a company's cutting edge. The cutoff reflects a balance between keeping a competitive advantage and spreading technology across the industry."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-18-s2",
@@ -95,7 +120,32 @@
           "sourceName": "三和不動産（公式）",
           "sourceURL": "https://sanwagrp.com/news/%EF%BC%88%E4%BB%AE%E7%A7%B0%EF%BC%89%E8%A5%BF%E6%96%B0%E5%AE%BF%E5%85%AB%E4%B8%81%E7%9B%AE%E8%A8%88%E7%94%BB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
           "shoComment": "",
-          "imagePrompt": "An elegant modern concert hall interior with warm wooden curved walls and terraced seating surrounding the stage, soft golden lighting, empty seats before a performance."
+          "imagePrompt": "An elegant modern concert hall interior with warm wooden curved walls and terraced seating surrounding the stage, soft golden lighting, empty seats before a performance.",
+          "en": {
+            "title": "Tokyo's Nishi-Shinjuku to get a 150 m music hall tower, with the hall by Gehry Partners and the tower by Kengo Kuma",
+            "summary": "Sanwa Fudosan plans a 37-story mixed-use tower built around a concert hall in Tokyo's Nishi-Shinjuku 8-chome. Gehry Partners will design the hall and lower floors, and Kengo Kuma the exterior of the upper floors.",
+            "body": [
+              "Sanwa Fudosan, a real estate company, has announced the Nishi-Shinjuku 8-chome Project (working name) in Nishi-Shinjuku, the skyscraper district on the west side of Tokyo's Shinjuku Station. The tower will have 37 floors above ground and two below, rise about 150 m (490 ft) and have a total floor area of about 45,700 m² (492,000 sq ft). Around a concert hall at its core, it will hold apartments, offices and shops. The company says it aims to create a hub for training young musicians and for international exchange, centered on a hall with world-class acoustics.",
+              "The design is split among several firms. The concert hall and lower floors will be designed by Gehry Partners, the US firm founded by architect Frank Gehry, who died in 2025. Kengo Kuma and Associates will handle the exterior of the upper floors and the interiors of the shared spaces, Kume Sekkei will oversee the basic design, and Nagata Acoustics will design the hall's acoustics.",
+              "Construction is set to begin in August 2027, with completion targeted for March 2031."
+            ],
+            "commentary": "Walt Disney Concert Hall in Los Angeles. Its rippling silver curves make it one of Gehry's signature works. I talked about this on my show too: I went to see it in person, and afterward I read a book about how Gehry worked. What stuck with me was that before talking about form, Gehry was someone who asked his clients again and again, \"Why are we building this?\" His unusual shapes weren't whims. They were answers to that question. Now Gehry's firm is designing a hall in Shinjuku. Of all the spaces in a building, a concert hall is the one where what happens inside most directly decides the shape. You know how your voice rings beautifully when you sing in the bath, right? Designing a hall means creating that kind of resonance on purpose, aimed at a large audience, so the angles of the walls and the height of the ceiling are set for the sake of sound. In Gehry's way of working, the shape should start from asking, \"What sound do we want to deliver?\" Gehry's firm at the base, Kengo Kuma for the soaring tower. Two personalities sharing one building. I'd like to watch patiently to see how this design turns out.",
+            "briefing": [
+              "The structure will be mainly reinforced concrete, with parts in steel-reinforced concrete and steel. The site covers about 3,850 m² (41,400 sq ft).",
+              "Sanwa Fudosan posted a notice about the project on its official website dated Nov 14, and by the 17th construction trade papers and others had reported the plan in detail.",
+              "The construction company that will build it has not yet been decided."
+            ],
+            "hojosen": [
+              {
+                "title": "Gehry's work in Japan",
+                "body": "Frank Gehry was the architect known for works such as the Guggenheim Museum Bilbao in Spain, and he died in December 2025 at age 96. His realized works in Japan are very few, such as Fish Dance (1987), a fish-shaped sculpture at the Port of Kobe. If a full-scale building with a hall is completed, it will be an extremely rare example in Japan."
+              },
+              {
+                "title": "Towers and culture",
+                "body": "In Tokyo, a number of developments have built theaters and halls into the base of skyscrapers. Income from apartments and offices helps pay to build and run the cultural facility, and in some cases such projects can earn planning approval for a larger building. This project also combines apartments and offices with a hall in a single building."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-18-s3",
@@ -141,7 +191,32 @@
           "sourceName": "Staple（公式）",
           "sourceURL": "https://prtimes.jp/main/html/rd/p/000000054.000080587.html",
           "shoComment": "",
-          "imagePrompt": "A stately pre-war four-story brick and stone office building with arched windows near a retro waterfront port town in Japan, calm blue sky, strait and ships in the background, early morning light."
+          "imagePrompt": "A stately pre-war four-story brick and stone office building with arched windows near a retro waterfront port town in Japan, calm blue sky, strait and ships in the background, early morning light.",
+          "en": {
+            "title": "Former JR Kyushu headquarters in Mojiko, a 1937 heritage building, to become a 97-room hotel by January 2030",
+            "summary": "A consortium led by Nippon Steel Kowa Real Estate has acquired the former JR Kyushu headquarters in front of Mojiko Station in Kitakyushu and signed a partnership agreement with the city. It will be converted into a 97-room hotel set to open in January 2030.",
+            "body": [
+              "On Nov 6, the Moji Chikko Consortium, led by Nippon Steel Kowa Real Estate, acquired ownership of the former JR Kyushu headquarters building in front of Mojiko Station in Kitakyushu's Moji Ward from the city, and signed a partnership agreement with the city on its use. Kitakyushu is a city at the northern tip of Kyushu, Japan's southwestern main island. The building will be renovated into a hotel with 97 rooms, aiming to open in January 2030.",
+              "The building was completed in 1937 as the Moji branch of the trading company Mitsui & Co. and was later used as the headquarters of JR Kyushu, the railway company for the Kyushu region. In 2017 it was recognized as one of the cultural properties that make up the Japan Heritage story \"Kanmon Nostalgic Straits,\" a government program that links local heritage sites under a single theme. The city acquired the land and building in 2005 but never put it to full use.",
+              "Under the plan, guest rooms will be placed on floors 2 to 6, and the roof will get a sauna and a biotope garden overlooking the Kanmon Straits, the narrow channel between Kyushu and Japan's main island of Honshu. Construction is scheduled to start in June 2028."
+            ],
+            "commentary": "An old office building in front of Mojiko Station, built in 1937. After the city bought it in 2005, more than 20 years went by without it being put to full use. Old buildings slowly deteriorate if all you do is keep them standing. You know how a house starts to look old all of a sudden once nobody lives there? Buildings are the same. That's why deciding on a use is the best form of preservation. But turning an office into a hotel isn't simple. Offices assume people share large rooms, while a hotel needs plumbing for every room. To run a bath and toilet into each of the 97 rooms, you have to carve out new routes for pipes under the floors. Doing that work while protecting the exterior and the historic atmosphere is where the design really shows its skill. This time, Matsuda Hirata Design is in charge of design and construction supervision. Renovation work is set to begin in June 2028, with the opening planned for January 2030.",
+            "briefing": [
+              "The consortium has four members: lead company Nippon Steel Kowa Real Estate, Staple, which handles planning, development and operation of the hotel, Matsuda Hirata Design, which handles design and construction supervision, and YMFG ZONE Planning. JR Kyushu is also expected to join as a cooperating company.",
+              "On March 18, 2026, Kitakyushu announced that it had chosen this consortium as the preferred negotiating partner for the project.",
+              "The building is about a one-minute walk from Mojiko Station, at the entrance to the Mojiko Retro district. The consortium is also considering events to bring life to the area, such as morning markets and a jazz festival in the station plaza."
+            ],
+            "hojosen": [
+              {
+                "title": "How Mojiko Retro came about",
+                "body": "From the Meiji era through the prewar years, Moji was a port town that served as a gateway for trade with mainland Asia, drawing branch offices of trading companies and banks. Starting in the 1990s, the area was developed as \"Mojiko Retro\" around its old buildings and became known as a tourist destination. At the same time, most visitors came as day-trippers, and the lack of places to stay has been seen as a problem."
+              },
+              {
+                "title": "From offices to hotels",
+                "body": "Renovations that turn disused old office buildings into hotels are increasing in Japan and abroad. Features of older buildings such as large windows and high ceilings make guest rooms attractive, but new plumbing for each room and new fire compartments have to be created. With historic buildings, the design must replace the building systems while keeping the value of the exterior and interiors."
+              }
+            ]
+          }
         }
       ]
     },
