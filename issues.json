@@ -1,6 +1,151 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-18",
+      "date": "2026-11-18",
+      "weekday": "水",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-18-s1",
+          "number": 1,
+          "title": "竹中工務店、保有特許48件を他社に有償で開放 現場で使われてきた技術を業界で共有",
+          "summary": "竹中工務店が、自社の特許48件を他社に有償で使ってもらう取り組みを11月16日に始めました。独占から相互利用へと、知的財産の使い方を切り替えます。",
+          "body": [
+            "大手ゼネコンの竹中工務店は11月16日、自社が持つ特許のうち48件を公式サイトで公開し、他社に有償で使ってもらう取り組みを始めたと発表しました。対象はいずれも、同社の工事現場で実際に使われてきた技術です。",
+            "建設会社が自社で開発した技術は、競争力の源として自社の工事だけで使うのが一般的でした。竹中工務店は今回、特許を「独占して使う」ものから「業界で相互に利用する」ものへと位置づけを変え、人手不足や品質の確保、環境対応といった建設業界に共通する課題を、他社と一緒に解決していくことをねらいとしています。",
+            "今回公開された48件は第1弾で、同社は今後、対象となる特許を順次増やしていく方針です。"
+          ],
+          "commentary": "48件。竹中工務店が他社に使ってもらうために公開した特許の数です。特許というのは、発明した会社が一定の期間、その技術をひとり占めできる権利のこと。ゼネコンにとっては、ライバルと差をつけるための切り札なんです。料理店で言えば、看板メニューの秘伝のタレのようなものですよね。そのレシピを、使用料と引き換えにほかの店にも分けるというのが今回の話です。なぜ手放すのか。人手不足や品質の確保、CO2を減らすことは、どの会社も同じように抱えている悩みだからだと思うんです。1社の現場だけで良い技術を使っても、業界全体の現場は良くならない。対象は出願から10年以上たった特許に絞っているので、最新の切り札まで出したわけではありません。それでも、技術を囲い込むのが当たり前だった業界で、大手が「使ってください」と言い始めた意味は小さくないはずです。分け合った技術で現場が良くなったとき、その手柄は誰のものになるんでしょうね。",
+          "briefing": [
+            "今回公開の対象は、出願から10年以上がたった特許に限られています。分野は「生産性の向上」「品質の向上」「環境への貢献」の3つに絞られ、いずれも実際の現場で導入した実績がある技術です。",
+            "公開は第1弾という位置づけです。同社は来年には、公開する特許を100件規模まで広げる方針を示しています。",
+            "同社はこれまでも、自社の技術をほかの会社に使ってもらう取り組みを個別に進めてきました。2024年8月には、木の柱や梁を燃えにくくする耐火集成材「燃エンウッド」について、公共・公益的な事業主が発注する工事向けに、木材会社などと製造・販売のライセンス契約を結んでいます。"
+          ],
+          "sources": [
+            {
+              "name": "竹中工務店（公式）",
+              "url": "https://www.takenaka.co.jp/"
+            },
+            {
+              "name": "建設通信新聞",
+              "url": "https://www.kensetsunews.com/archives/1309924"
+            },
+            {
+              "name": "デジタル建設",
+              "url": "https://digital-construction.jp/news/4226"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "囲い込みから共有へ",
+              "body": "建設会社の技術は、これまで受注競争で差をつけるために自社の工事だけで使われることが多くありました。一方で、人手不足や脱炭素は1社だけでは解決しにくく、業界全体での底上げが求められています。技術を他社に使ってもらい、その使用料を次の開発に回すという考え方は、製造業などでは以前から広がっていました。"
+            },
+            {
+              "title": "10年という線引き",
+              "body": "特許の権利は原則として出願から20年で切れます。出願から10年以上たった技術は、現場で使い込まれて効果がはっきりしている一方、会社にとっての最先端ではなくなりつつある時期でもあります。今回の線引きには、競争力を保ちながら業界に技術を広げるバランスが表れています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "竹中工務店（公式）",
+          "sourceURL": "https://www.takenaka.co.jp/",
+          "shoComment": "",
+          "imagePrompt": "A busy Japanese construction site seen from above in daylight, workers in white helmets reviewing drawings on a tablet beside steel columns and concrete formwork, clean and organized site, soft natural light."
+        },
+        {
+          "id": "issue-2026-11-18-s2",
+          "number": 2,
+          "title": "西新宿に高さ約150mの音楽ホール複合ビル ホールはゲーリーの事務所、塔は隈研吾氏",
+          "summary": "三和不動産が西新宿8丁目で、音楽ホールを核にした37階建ての複合ビルを計画。ホールと低層部はゲーリー・パートナーズ、高層部の外装は隈研吾氏が担当します。",
+          "body": [
+            "三和不動産は、東京・西新宿で「（仮称）西新宿八丁目計画」を進めることを明らかにしました。地下2階・地上37階建て、高さ約150メートル、延べ床面積約4万5700平方メートルの超高層ビルで、音楽ホールを中心に、共同住宅、事務所、店舗が入ります。同社は世界最高水準の音響を備えたホールを核に、若い音楽家の育成や国際交流の拠点をつくるとしています。",
+            "設計は分担して進めます。音楽ホールと低層部のデザインは、2025年に亡くなった建築家フランク・ゲーリー氏が設立した米国の設計事務所ゲーリー・パートナーズが担当します。高層部の外装と共用部の内装は隈研吾建築都市設計事務所、基本設計の取りまとめは久米設計、ホールの音響設計は永田音響設計が受け持ちます。",
+            "2027年8月に着工し、2031年3月の完成をめざします。"
+          ],
+          "commentary": "ロサンゼルスのウォルト・ディズニー・コンサートホール。銀色の曲面がうねる、ゲーリーの代表作です。放送でも話したんですが、僕は実物を見てきて、その後ゲーリーの仕事ぶりを書いた本を読みました。そこで印象に残ったのが、ゲーリーは形の話より先に「なぜこの建物をつくるのか」を施主にとことん聞く人だった、ということなんです。奇抜な形は思いつきではなく、問いへの答えだったわけです。そのゲーリーの事務所が、新宿でホールを手がけます。音楽ホールは、建物の中でもいちばん「中身」が形を決める場所です。お風呂で歌うと声がきれいに響きますよね。あの響きを、大勢の客席に向けて狙ってつくるのがホールの設計で、壁の角度や天井の高さが音のために決まっていきます。ゲーリー流に言えば、まず「どんな音を届けたいのか」を聞くところから形が始まるはずです。ホールの足元はゲーリー事務所、そびえる塔は隈研吾さん。一つのビルに二つの個性を同居させる設計の行方を、気長に見ていきたいです。",
+          "briefing": [
+            "建物の構造は鉄筋コンクリート造を主体に、一部を鉄骨鉄筋コンクリート造と鉄骨造とする計画です。敷地の面積は約3850平方メートルです。",
+            "三和不動産は11月14日付で計画に関するお知らせを公式サイトに掲載し、17日にかけて建設専門紙などが詳しい計画内容を報じました。",
+            "施工する建設会社は、まだ決まっていません。"
+          ],
+          "sources": [
+            {
+              "name": "三和不動産（公式）",
+              "url": "https://sanwagrp.com/news/%EF%BC%88%E4%BB%AE%E7%A7%B0%EF%BC%89%E8%A5%BF%E6%96%B0%E5%AE%BF%E5%85%AB%E4%B8%81%E7%9B%AE%E8%A8%88%E7%94%BB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/"
+            },
+            {
+              "name": "日刊建設工業新聞",
+              "url": "https://www.decn.co.jp/?p=189397"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "日本のゲーリー作品",
+              "body": "フランク・ゲーリー氏は、スペインのビルバオ・グッゲンハイム美術館などで知られる建築家で、2025年12月に96歳で亡くなりました。日本で実現した作品は、神戸港の魚の形をしたオブジェ「フィッシュダンス」（1987年）などごく限られています。ホールを持つ本格的な建物が実現すれば、日本では極めて珍しい事例になります。"
+            },
+            {
+              "title": "超高層と文化施設",
+              "body": "東京では、超高層ビルの足元に劇場やホールを組み込む開発がいくつも進められてきました。住宅や事務所の収益で文化施設の建設や運営を支える仕組みで、都市計画上の評価を受けて建物の規模を大きくできる場合もあります。今回の計画も、マンションや事務所とホールを一つの建物にまとめています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "三和不動産（公式）",
+          "sourceURL": "https://sanwagrp.com/news/%EF%BC%88%E4%BB%AE%E7%A7%B0%EF%BC%89%E8%A5%BF%E6%96%B0%E5%AE%BF%E5%85%AB%E4%B8%81%E7%9B%AE%E8%A8%88%E7%94%BB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+          "shoComment": "",
+          "imagePrompt": "An elegant modern concert hall interior with warm wooden curved walls and terraced seating surrounding the stage, soft golden lighting, empty seats before a performance."
+        },
+        {
+          "id": "issue-2026-11-18-s3",
+          "number": 3,
+          "title": "門司港の旧JR九州本社ビル、97室のホテルに 1937年築の日本遺産を30年1月開業へ",
+          "summary": "門司港駅前の旧JR九州本社ビルを、日鉄興和不動産などの事業体が市から取得し、連携協定を結びました。全97室のホテルに改修し、2030年1月の開業をめざします。",
+          "body": [
+            "北九州市門司区の門司港駅前に立つ「旧JR九州本社ビル」について、日鉄興和不動産を代表とする「門司築興共同事業体」が11月6日、市から建物の所有権を取得し、活用に関する連携協定を市と結びました。建物を改修し、全97室のホテルとして2030年1月の開業をめざします。",
+            "建物は1937年に三井物産門司支店として建てられ、のちにJR九州の本社として使われました。2017年には、日本遺産「関門ノスタルジック海峡」を構成する文化財の一つに認定されています。市は2005年に土地と建物を取得しましたが、本格的な活用には至っていませんでした。",
+            "計画では2〜6階に客室を設け、屋上には関門海峡を望むサウナやビオトープを整えます。着工は2028年6月の予定です。"
+          ],
+          "commentary": "1937年に建てられた、門司港駅前の古いオフィスビル。2005年に市が買い取ってから、本格的に使われないまま20年以上が過ぎていました。古い建物は、ただ残すだけだと少しずつ傷んでいきます。人が住まなくなった家って、急に古びて見えるじゃないですか。建物も同じなんです。だから使い道を決めることが、いちばんの保存になります。ただ、オフィスをホテルに変えるのは簡単ではありません。事務所は広い部屋をみんなで使う前提ですが、ホテルは部屋ごとに水回りが要ります。97の部屋それぞれにお風呂とトイレを通すには、床の下に配管の通り道を新しく確保しなければいけない。外観や歴史的な雰囲気を守りながら、その工事をするのが設計の腕の見せどころです。今回、設計と工事の監理は松田平田設計が担います。改修の工事が始まるのは2028年6月、開業は2030年1月の予定です。",
+          "briefing": [
+            "事業体は、代表企業の日鉄興和不動産、ホテルの企画・開発・運営を担うStaple、設計・監理を担う松田平田設計、YMFG ZONEプラニングの4社で構成されています。JR九州も協力企業として加わる予定です。",
+            "北九州市は2026年3月18日、この事業体を活用事業の優先交渉権者に決めたと発表していました。",
+            "建物は門司港駅から歩いて1分ほどの、門司港レトロ地区の入口にあります。事業体は、駅前の広場で朝市やジャズフェスティバルを開くといった、街のにぎわいづくりも構想しています。"
+          ],
+          "sources": [
+            {
+              "name": "Staple（公式）",
+              "url": "https://prtimes.jp/main/html/rd/p/000000054.000080587.html"
+            },
+            {
+              "name": "トラベルボイス",
+              "url": "https://www.travelvoice.jp/20261110-160825"
+            },
+            {
+              "name": "BUILT",
+              "url": "https://built.itmedia.co.jp/bt/articles/2611/17/news060.html"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "門司港レトロの成り立ち",
+              "body": "門司港は明治から戦前にかけて、大陸との貿易の玄関口として商社や銀行の支店が集まった港町です。1990年代から古い建物を生かした「門司港レトロ」の整備が進み、観光地として知られるようになりました。一方で、観光客の多くが日帰りで、泊まる場所が少ないことが課題とされてきました。"
+            },
+            {
+              "title": "オフィスからホテルへ",
+              "body": "使われなくなった古いオフィスビルをホテルに変える改修は、国内外で増えています。大きな窓や高い天井といった古いビルの特徴は、客室の魅力になる一方、部屋ごとの配管や防火の区画を新たにつくる必要があります。歴史的な建物では、外観や内装の価値を残しながら設備を入れ替える設計が求められます。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "Staple（公式）",
+          "sourceURL": "https://prtimes.jp/main/html/rd/p/000000054.000080587.html",
+          "shoComment": "",
+          "imagePrompt": "A stately pre-war four-story brick and stone office building with arched windows near a retro waterfront port town in Japan, calm blue sky, strait and ships in the background, early morning light."
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-17",
       "date": "2026-11-17",
       "weekday": "火",
@@ -6661,240 +6806,6 @@
           },
           "namesEn": {
             "Snøhetta（公式）": "Snøhetta (official)"
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-19",
-      "date": "2026-10-19",
-      "weekday": "月",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-19-s1",
-          "number": 1,
-          "title": "続報：建築家・山本理顕氏は横浜市長選で落選 「個人で勝つのは難しかった」と振り返る",
-          "summary": "18日投開票の横浜市長選で、プリツカー賞建築家の山本理顕氏（81）は落選しました。「住む権利の保障」を掲げた建築家の挑戦は届きませんでした。",
-          "body": [
-            "前市長の辞職に伴う横浜市長選挙が10月18日に投開票され、無所属新人で弁護士の原沢敦美氏（59）が、前職を含む6人を破って初当選しました。10月10日号でお伝えした建築家の山本理顕氏（81）も無所属で立候補していましたが、当選には届きませんでした。投票率は45.56%で、前回の41.64%を上回りました。",
-            "神奈川新聞によると、山本氏は選挙戦を振り返り「手応えはあったが、政党政治は強い。個人で勝つのは難しかった」と語りました。当選した原沢氏は、自民党、日本維新の会、国民民主党の各県組織の推薦に加え、公明党市議団の支持を受けて選挙戦を進めていました。",
-            "山本氏は2024年に「建築界のノーベル賞」と呼ばれるプリツカー賞を受賞した建築家です。選挙では「安全で快適な住宅に住む権利の保障」を訴え、一つの町内会を単位に子育てや高齢者の支援、行政窓口などを集める「地域社会圏」の考え方を、市の政策として打ち出していました。"
-          ],
-          "commentary": "7人の候補者のうちの一人。山本理顕さんの市長選は、そういう結果で終わりました。選挙そのものの評価は、僕がここで書くことではありません。建築士として残しておきたいのは、公約の中身です。「地域社会圏」は、家族ごとに閉じた住まいを少しだけ開いて、ご近所の数百人で暮らしを支え合うという考え方なんです。たとえば集合住宅の1階が、住人みんなの居間になっている。玄関の横に小さなお店や仕事場がある。そんな住まいを、山本さんはこれまで設計や本の中で提案してきました。建築家が自分の理論を、図面ではなく市の政策として示した。それ自体は珍しい出来事です。山本さんが2024年にプリツカー賞を受けたとき、評価されたのも、住まいと地域の境目をどう開くかという姿勢でした。今回の投票率は45.56%。横浜の有権者の半分以上は、投票所に行っていません。",
-          "briefing": [
-            "投開票は10月18日。告示は10月4日で、前職1人と新人6人の計7人が立候補しました。選挙は、前市長が職員へのパワーハラスメント問題で辞職したことに伴うものです。",
-            "テレビ神奈川の開票速報（19日午前0時半時点、開票率87.52%）では、原沢氏が約49万票を獲得し、ほかの候補を大きく引き離していました。",
-            "山本氏は1945年生まれ。神奈川県内では横須賀美術館などを手がけています。2025年には横須賀美術館で、50年にわたる設計活動を模型や図面で紹介する「山本理顕展 コミュニティーと建築」が開かれました。"
-          ],
-          "sources": [
-            {
-              "name": "時事ドットコム",
-              "url": "https://www.jiji.com/jc/article?k=2026101800375&g=pol"
-            },
-            {
-              "name": "神奈川新聞（カナロコ）",
-              "url": "https://www.kanaloco.jp/news/government/electiondata/article-1313457.html"
-            },
-            {
-              "name": "tvkニュース（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/675363ceb51e372a4f015a13f6e3b2feb79aa3da"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "建築家と政治",
-              "body": "建築家は、まちの姿を左右する仕事でありながら、決めるのは発注者である行政や事業者です。そのため、自治体の審議会や景観の委員として政策づくりに関わる建築家は多くいますが、首長選挙に立候補する例はまれです。今回の立候補は、設計者の立場を離れて制度の側から住まいを変えようとした試みでした。"
-            },
-            {
-              "title": "「閾」という考え方",
-              "body": "山本氏は、家の中の私的な場所と、外の公共の場所の間にある中間の領域を「閾（しきい）」と呼び、重視してきました。縁側や土間のように、家族以外の人とも出会える場所です。近代の住宅はプライバシーを重んじるあまり、この中間の場所を失ってきたというのが、山本氏の問題意識です。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "時事ドットコム",
-          "sourceURL": "https://www.jiji.com/jc/article?k=2026101800375&g=pol",
-          "shoComment": "",
-          "en": {
-            "title": "Update: Pritzker-winning architect Riken Yamamoto loses Yokohama mayoral race",
-            "summary": "Riken Yamamoto, 81, the 2024 Pritzker Prize laureate, lost the Yokohama mayoral election held on Oct 18. His campaign, built on guaranteeing the right to decent housing, fell short. \"It was hard to win as an individual,\" he said.",
-            "body": [
-              "Architect Riken Yamamoto, 81, has lost his bid to become mayor of Yokohama, the port city just south of Tokyo. In the election held on October 18, called after the previous mayor resigned, a 59-year-old lawyer running as an independent newcomer won a first term, beating six other candidates, including the former mayor. Yamamoto, who also ran as an independent and whose candidacy we reported on Oct 10, did not win. Turnout was 45.56%, up from 41.64% in the previous election.",
-              "Looking back on the campaign, Yamamoto told the Kanagawa Shimbun, the local newspaper: \"I felt a real response, but party politics is strong. It was hard to win as an individual.\" The winner had been endorsed by the prefectural chapters of the Liberal Democratic Party, the Japan Innovation Party and the Democratic Party for the People, and was also backed by the Komeito party's group in the city assembly.",
-              "Yamamoto won the Pritzker Prize, often called the Nobel Prize of architecture, in 2024. He campaigned on \"guaranteeing the right to live in safe and comfortable housing.\" He also put forward his idea of the \"local community area\" as city policy: a unit the size of a single neighborhood association that brings together childcare, support for older people, and government service counters."
-            ],
-            "commentary": "One of seven candidates. That's how Riken Yamamoto's run for mayor ended. Judging the election itself isn't my job here. What I want to put on record, as an architect, is what he actually proposed. The \"local community area\" is about opening up homes that are usually closed off family by family, just a little, so that a few hundred neighbors can support each other's daily lives. Picture an apartment building whose ground floor works as a shared living room for all the residents. Or a small shop or workspace right next to each front door. Yamamoto has been proposing homes like that for years, in his buildings and in his books. Here was an architect presenting his theory not as drawings but as city policy. That alone is a rare thing. When he received the Pritzker Prize in 2024, what the jury recognized was exactly this stance: how to open up the boundary between the home and the community. Turnout this time was 45.56%. More than half of Yokohama's voters never went to the polls.",
-            "briefing": [
-              "Voting took place on October 18. The official campaign began on October 4 with seven candidates: one former officeholder and six newcomers. The election was triggered by the resignation of the previous mayor over power harassment of city staff.",
-              "In a preliminary count by local broadcaster TV Kanagawa (as of 12:30 a.m. on the 19th, with 87.52% of votes counted), the winner had about 490,000 votes, far ahead of the rest of the field.",
-              "Yamamoto was born in 1945. His work in Kanagawa Prefecture, the prefecture that includes Yokohama, includes the Yokosuka Museum of Art. In 2025 that museum held a retrospective (its title translates as \"Riken Yamamoto: Community and Architecture\") that presented 50 years of his design work through models and drawings."
-            ],
-            "hojosen": [
-              {
-                "title": "Architects and politics",
-                "body": "Architects shape what cities look like, but the decisions are made by their clients: governments and developers. Many architects take part in policymaking by sitting on municipal advisory councils or landscape committees, but running for mayor or governor is rare. Yamamoto's candidacy was an attempt to step out of the designer's role and change housing from the side of the rules themselves."
-              },
-              {
-                "title": "The idea of the threshold",
-                "body": "Yamamoto has long emphasized what he calls the threshold (shikii): the in-between zone that sits between the private space inside a home and the public space outside. Think of the engawa, the veranda along a traditional Japanese house, or the doma, an earth-floored entry area, where you can meet people outside your family. His argument is that modern housing, in valuing privacy above all, has lost these in-between places."
-              }
-            ]
-          },
-          "namesEn": {
-            "tvkニュース（Yahoo!ニュース）": "tvk News (Yahoo! News)",
-            "時事ドットコム": "Jiji.com",
-            "神奈川新聞（カナロコ）": "Kanagawa Shimbun (kanaloco)"
-          }
-        },
-        {
-          "id": "issue-2026-10-19-s2",
-          "number": 2,
-          "title": "府中市の新総合体育館、基地跡地に最大延べ2.8万m2 5000人アリーナと図書館を複合",
-          "summary": "築50年を超えた府中市立総合体育館が、浅間町の府中基地跡地へ移ります。5000人以上のアリーナに温水プールや図書館を合わせる計画です。",
-          "body": [
-            "東京都府中市が、新しい総合体育館の検討状況を明らかにしました。建設通信新聞や日刊建設工業新聞によると、施設の規模は延べ2万5000〜2万8000平方メートルを想定しています。5000人以上が入れるメインアリーナを中心に、温水プール、トレーニング室、図書館などを一つの建物にまとめる方針です。",
-            "建設地は、市内の浅間町にある府中基地跡地の留保地です。今の市立総合体育館は1971年（昭和46年）に建てられ、50年以上がたって老朽化が進んでいます。市は2026年初めに新総合体育館の基本構想をまとめ、移転して建て替える方向を示していました。",
-            "現在は、施設の具体的な中身を決める基本計画づくりの段階です。計画づくりの支援は日本総合研究所が担っています。報道によると、市は2027年5月に基本計画の骨子、6月に素案をまとめ、7月以降に計画を決める予定です。"
-          ],
-          "commentary": "5000人以上が入るアリーナと、本を借りる図書館。同じ建物に入れると聞くと、少し意外な組み合わせですよね。でも、実はこれ、よく考えられた組み合わせなんです。アリーナは、試合やコンサートのある日だけ人が一気に集まる建物です。何もない平日の昼間は、広いロビーががらんとしてしまう。そこに図書館があれば、毎日、学生やお年寄りが通ってきます。駅前の大型スーパーに、銀行の窓口や役所の出張所が入っているのと同じ考え方で、目的の違う人を一つの建物に集めて、いつ行っても人の気配がある場所にするわけです。府中市の今の体育館は1971年生まれ。半世紀たって、体育館に求められる役割は「運動する場所」から「市民が毎日立ち寄る場所」へ広がってきました。延べ2万8000平方メートルのうち、どれだけを試合のない日のために使うのか。皆さんが毎日立ち寄るとしたら、そこに何があってほしいですか。",
-          "briefing": [
-            "移転先の基地跡地留保地は浅間町にあり、面積は約14ヘクタールです。市は同じ跡地で、新しい公園と幹線道路の整備も進める計画です。",
-            "建設通信新聞は10月18日付で、府中市がアリーナと図書館を含む複合施設として最大延べ2.8万平方メートルを想定していると報じています。",
-            "市の基本構想は、新総合体育館を「観るスポーツ」も楽しめる多機能アリーナと位置づけ、隣接する公園とのつながりを持たせる方針を示しています。"
-          ],
-          "sources": [
-            {
-              "name": "府中市（公式）",
-              "url": "https://www.city.fuchu.tokyo.jp/gyosei/kekaku/kekaku/bunka/huchusinsotai_kihonkososakutei.html"
-            },
-            {
-              "name": "日刊建設工業新聞",
-              "url": "https://www.decn.co.jp/?p=188432"
-            },
-            {
-              "name": "建設通信新聞",
-              "url": "https://www.kensetsunews.com/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "体育館のアリーナ化",
-              "body": "全国で、昭和40〜50年代に建てられた市民体育館の建て替えが相次いでいます。その際、市民がスポーツをする場所に加えて、プロの試合やコンサートを開ける「観る」ための客席を備えたアリーナにする例が増えています。2026年10月に開業した姫路の大和工業アリーナ姫路（約5000人）も、その流れの一つです。"
-            },
-            {
-              "title": "基地跡地の活用",
-              "body": "多摩地域には、米軍や自衛隊の施設が返還された跡地が多く残っています。府中基地跡地もその一つで、国から市が取得した「留保地」の使い道は、長年の課題でした。広い土地をまとめて使える一方、樹木の伐採や生き物への配慮など、自然環境との調整も必要になります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "府中市（公式）",
-          "sourceURL": "https://www.city.fuchu.tokyo.jp/gyosei/kekaku/kekaku/bunka/huchusinsotai_kihonkososakutei.html",
-          "shoComment": "",
-          "en": {
-            "title": "Fuchu in western Tokyo plans 5,000-seat arena and library complex on former base land",
-            "summary": "The city of Fuchu in western Tokyo will move its municipal gym, now more than 50 years old, to former base land in the Sengencho area. The plan combines an arena for 5,000-plus people with a heated pool and a library.",
-            "body": [
-              "The city of Fuchu, a suburb in the Tama area of western Tokyo, has outlined where its plans for a new main gym stand. According to the construction trade papers Kensetsu Tsushin Shimbun and Nikkan Kensetsu Kogyo Shimbun, the city expects a total floor area of 25,000 to 28,000 m² (270,000–300,000 sq ft). The idea is to put a main arena holding 5,000 or more people at the center, with a heated pool, a training room and a library all in one building.",
-              "The site is reserved land on the former Fuchu Base in the city's Sengencho area. The current municipal gym was built in 1971 and, after more than 50 years, is showing its age. In early 2026 the city completed a basic concept for the new gym, setting out a plan to relocate and rebuild it.",
-              "The city is now drawing up the basic plan, which will settle what exactly the facility contains. The Japan Research Institute, a think tank, is supporting the planning work. According to the reports, the city aims to compile an outline of the basic plan in May 2027 and a draft in June, and to finalize the plan from July onward."
-            ],
-            "commentary": "An arena for more than 5,000 people, and a library where you borrow books. Put them in the same building? Sounds like an odd pairing, doesn't it? But it's actually a well-thought-out combination. An arena is a building where crowds show up all at once, but only on game or concert days. On an ordinary weekday afternoon, the big lobby sits empty. Add a library, and students and older residents come in every day. It's the same thinking as a big supermarket by a Japanese train station that also has a bank counter and a branch office of city hall inside: you bring people with different purposes into one building, so there's always life in the place whenever you go. Fuchu's current gym dates from 1971. Over half a century, what we expect from a gym has widened from \"a place to exercise\" to \"a place residents drop by every day.\" Out of up to 28,000 m² (300,000 sq ft), how much will go to the days with no game? If you were stopping by every day, what would you want to find there?",
-            "briefing": [
-              "The reserved land on the former base, in Sengencho, covers about 14 hectares (about 35 acres). The city also plans a new park and a major road on the same former base site.",
-              "In its Oct 18 edition, Kensetsu Tsushin Shimbun reported that Fuchu expects a complex including the arena and library of up to 28,000 m² (300,000 sq ft) in total floor area.",
-              "The city's basic concept positions the new gym as a multipurpose arena where people can also enjoy spectator sports, connected to the neighboring park."
-            ],
-            "hojosen": [
-              {
-                "title": "Gyms turning into arenas",
-                "body": "Across Japan, municipal gyms built from the mid-1960s to the mid-1980s are being replaced one after another. More and more often, the replacement is an arena that adds seating for watching, so it can host pro games and concerts as well as residents' own sports. The Yamato Kogyo Arena Himeji (about 5,000 people), which opened in October 2026 in Himeji, a city in Hyogo Prefecture west of Kobe, is part of the same trend."
-              },
-              {
-                "title": "Reusing former base land",
-                "body": "The Tama area of western Tokyo still has a lot of land left behind when US military and Japan Self-Defense Forces facilities were returned. The former Fuchu Base is one example, and what to do with the reserved land the city acquired from the national government has been an open question for years. Such sites let a city use a large area at once, but they also require care for the natural environment, such as tree felling and protecting wildlife."
-              }
-            ]
-          },
-          "namesEn": {
-            "府中市（公式）": "Fuchu City (official)",
-            "建設通信新聞": "Kensetsu Tsushin Shimbun",
-            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun"
-          }
-        },
-        {
-          "id": "issue-2026-10-19-s3",
-          "number": 3,
-          "title": "ベルギー・ヘントのデザイン美術館が4年ぶりに再開 廃材レンガの新棟が歴史的建物群をつなぐ",
-          "summary": "ベルギーのデザイン・ミュージアム・ヘントが10月3日に再開しました。英国のカーモディ・グローク設計の新棟が、18世紀の邸宅などをつないでいます。",
-          "body": [
-            "ベルギー北部の古都ヘントにある「デザイン・ミュージアム・ヘント」が、4年あまりの改修と増築を終えて10月3日に再開しました。新しい棟の設計は、英国の建築事務所カーモディ・グロークと、地元ヘントの事務所ATAMAが担当しました。歴史的な建物の修復はRE-STが手がけています。",
-            "美術館はもともと、18世紀の邸宅「ホテル・デ・コーニンク」と、20世紀後半に建てられた展示棟などからなる建物群でした。新棟は、これらの間に入って建物どうしをつなぐ役割を担い、講演会やワークショップ、イベントに使える空間を備えています。4階には、ヘントの街を見渡せるイベントスペースもあります。",
-            "新棟の外壁には、このプロジェクトのために開発された、廃材を原料とするレンガが使われています。再開後の美術館は全体で約6500平方メートル、そのうち展示スペースは約3700平方メートルです。再開の週末となった10月3日と4日は入館無料とされ、11日まで市内各地でデザインのイベントが開かれました。"
-          ],
-          "commentary": "古い邸宅と、20世紀の展示棟と、新しい棟。年代の違う建物が、一列につながっています。今回の増築でいちばん難しいのは、たぶん、新しい棟の「目立ち方」なんです。歴史ある建物の隣に新しい建物を足すとき、設計者は二つの道で迷います。古い建物に似せて溶け込ませるか、まったく違う姿にしてはっきり区別するか。ヘントの新棟は、そのどちらでもない答えを選んでいます。レンガという、古い街並みと同じ素材を使う。ただし、そのレンガは廃材から新しくつくったもの。遠目には街になじみ、近づくと新しさがわかる。古い家に、同じ色味の新しい畳を入れるような感覚に近いかもしれません。日本でも、昭和の美術館や庁舎に新しい棟を足す計画が各地で進んでいます。素材で過去とつながる方法は、これからもっと選ばれていくんだと思います。",
-          "briefing": [
-            "新棟の建設は2023年に始まりました。ベルギーの公共放送VRTは、新棟について循環型の考え方を取り入れた建物として紹介しています。",
-            "再開にあわせ、邸宅内の8つの時代別の部屋を使って、デザイナーや研究者、地域の人々が協働する企画「CO-LAB」が始まりました。",
-            "美術館を率いてきたカトリーン・ラポルト館長は、再開を見届けて2026年11月1日付で退任します。後任が決まるまでは、プロジェクト担当と事務担当のコーディネーター2人が館長の権限を引き継ぎます。"
-          ],
-          "sources": [
-            {
-              "name": "Design Museum Gent（公式）",
-              "url": "https://www.designmuseumgent.be/en/events/heropening-3-oktober"
-            },
-            {
-              "name": "designboom",
-              "url": "https://www.designboom.com/?p=1209361"
-            },
-            {
-              "name": "VRT NWS",
-              "url": "https://www.vrt.be/vrtnws/nl/2026/09/30/gent-designmuseum-renovatie-4-jaar-heropening-extra-gebouw/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "増築の二つの道",
-              "body": "歴史的建物への増築では、既存の建物に形や色をそろえる方法と、ガラスや金属で対比させる方法が、長く議論されてきました。文化財の修復の国際的な指針では、新しく加えた部分が後から見分けられることが重視されます。素材を共有しつつ新しさを示すやり方は、その中間を探る試みです。"
-            },
-            {
-              "title": "廃材から建材へ",
-              "body": "欧州では、解体で出たがれきや廃材を新しい建材に生まれ変わらせる取り組みが広がっています。建設は世界の二酸化炭素排出の大きな割合を占めるため、材料を一からつくらずに循環させることが、設計の評価軸の一つになりつつあります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "Design Museum Gent（公式）",
-          "sourceURL": "https://www.designmuseumgent.be/en/events/heropening-3-oktober",
-          "shoComment": "",
-          "en": {
-            "title": "Design Museum Gent in Belgium reopens after four years, with a recycled-brick wing linking its historic buildings",
-            "summary": "Design Museum Gent in Belgium reopened on Oct 3. A new wing designed by British firm Carmody Groarke links the museum's buildings, including an 18th-century mansion.",
-            "body": [
-              "Design Museum Gent, in the historic city of Ghent in northern Belgium, reopened on October 3 after more than four years of renovation and expansion. The new wing was designed by British architecture firm Carmody Groarke together with local Ghent firm ATAMA. The restoration of the historic buildings was handled by RE-ST.",
-              "The museum was originally a group of buildings, including an 18th-century mansion, the Hotel De Coninck, and an exhibition wing built in the late 20th century. The new wing slots in between them and ties the buildings together, with spaces for lectures, workshops and events. On the fourth floor there is an event space with views out over Ghent.",
-              "The new wing's exterior walls use bricks made from waste materials, developed specifically for this project. The reopened museum totals about 6,500 m² (70,000 sq ft), of which about 3,700 m² (40,000 sq ft) is exhibition space. Admission was free on the reopening weekend, October 3 and 4, and design events were held around the city until the 11th."
-            ],
-            "commentary": "An old mansion, a 20th-century exhibition wing, and a new wing. Buildings from different eras now connect in a single line. The hardest part of an addition like this is probably deciding how much the new wing should stand out. When you add a new building next to a historic one, designers usually agonize between two paths. Make it resemble the old building so it blends in, or make it look completely different so the two are clearly distinct. The Ghent wing chooses neither. It uses brick, the same material as the old streetscape. But those bricks are newly made from waste materials. From a distance, it fits into the city. Up close, you can tell it's new. It may be close to the feeling of laying new tatami, the woven straw mats on Japanese floors, in the same shade as the old ones in an old house. In Japan, too, plans to add new wings to museums and government buildings from the postwar Showa era are moving forward in many places. I think connecting to the past through materials is an approach we'll see chosen more and more.",
-            "briefing": [
-              "Construction of the new wing began in 2023. Belgian public broadcaster VRT has described the new wing as a building that incorporates circular design thinking.",
-              "With the reopening, the museum launched CO-LAB, a program in which designers, researchers and local residents work together, using eight period rooms inside the mansion.",
-              "Director Katrien Laporte, who has led the museum, will step down on November 1, 2026, after seeing it reopen. Until a successor is chosen, two coordinators, one for projects and one for administration, will share the director's authority."
-            ],
-            "hojosen": [
-              {
-                "title": "Two paths for additions",
-                "body": "When adding to a historic building, architects have long debated whether to match the existing building's form and color or to contrast with it using glass or metal. International guidelines for restoring cultural heritage stress that newly added parts should be distinguishable later on. Sharing materials while showing newness is an attempt to find a middle path between the two."
-              },
-              {
-                "title": "From waste to building material",
-                "body": "In Europe, efforts to turn demolition rubble and waste into new building materials are spreading. Because construction accounts for a large share of global carbon dioxide emissions, circulating materials instead of making them from scratch is becoming one of the criteria by which design is judged."
-              }
-            ]
-          },
-          "namesEn": {
-            "Design Museum Gent（公式）": "Design Museum Gent (official)"
           }
         }
       ]
