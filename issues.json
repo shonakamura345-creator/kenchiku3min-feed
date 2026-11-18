@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "国土交通省（公式）",
           "sourceURL": "https://www.mlit.go.jp/report/press/house05_hh_001167.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Japan orders two private permit reviewers, including Japan ERI, to reform after approving noncompliant plans",
+            "summary": "On Nov 17, Japan's Ministry of Land, Infrastructure, Transport and Tourism issued supervisory orders to two private building inspection bodies. Both had issued building confirmations for plans that did not comply with the law.",
+            "body": [
+              "Japan's Ministry of Land, Infrastructure, Transport and Tourism (MLIT) announced on Nov 17 that it had issued supervisory orders under the Building Standards Act to two designated private inspection bodies, Japan ERI and Kokusai Kakunin Kensa Center. In Japan, these bodies can carry out building confirmation, the pre-construction check that a design complies with the Building Standards Act. Both companies missed points where building plans failed to meet the rules and still issued a certificate of confirmation, the document that allows construction to begin.",
+              "Japan ERI reportedly overlooked a plan in Yokohama that did not meet the rule on the distance between a parking entrance and a road intersection. Kokusai Kakunin Kensa Center reportedly overlooked a plan in Tokyo that did not meet rules including the required length of a site's frontage on a road. The two inspectors who handled the reviews were each banned from inspection work for 10 days.",
+              "Both companies have been told to submit business improvement plans, including revisions to their review manuals and changes to how their work is organized, so that similar oversights do not happen again."
+            ],
+            "commentary": "Before you build a house in Japan, you submit your drawings to the local government or a private inspection body and get an official stamp saying the plan complies with the law. That's the certificate of confirmation. Think of it as an exam paper that the grader has marked correct. This news is about graders who put a check mark next to a wrong answer. What they missed was the distance between a parking entrance and an intersection, and how much of a site touches the road. Sounds minor, right? But cars pulling in and out right next to an intersection make accidents more likely, and if a site doesn't touch the road enough, fire trucks and ambulances have a harder time getting close. These are all rules made to keep the city safe. Today, private bodies handle much of Japan's building confirmation. I think this case is a fresh test of whether the system can deliver reviews that are both fast and accurate. The two inspectors' 10-day work bans start on Dec 7.",
+            "briefing": [
+              "The supervisory orders were issued by the Minister of Land, Infrastructure, Transport and Tourism under Article 77-30, Paragraph 1 of the Building Standards Act. The work bans on the two inspectors were imposed by the director of the Kanto Regional Development Bureau, dated Nov 16, and both run for 10 days, from Dec 7 to Dec 16, 2026.",
+              "Kokusai Kakunin Kensa Center has been told to submit its business improvement plan by Dec 8. Both companies have also been told to report on how the improvements are being carried out every quarter for one year.",
+              "Japan ERI is designated inspection body No. 5 under the minister's designation, and Kokusai Kakunin Kensa Center is No. 15."
+            ],
+            "hojosen": [
+              {
+                "title": "Permit reviews go private",
+                "body": "Building confirmation was originally carried out only by building officials in local governments. A 1998 revision of the Building Standards Act allowed designated private inspection bodies to do the work too, and today private bodies handle much of the volume. Having more review desks has made the process faster, but keeping review quality high remains a challenge."
+              },
+              {
+                "title": "Not the first time",
+                "body": "In October 2024, Japan ERI also received a supervisory order from MLIT for missing that two buildings in Nagasaki Prefecture lacked a required permit. In 2013, three companies, including Japan ERI and Kokusai Kakunin Kensa Center, were sanctioned for overlooking noncompliance with rules such as floor area and height limits."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-19-s2",
@@ -97,7 +122,32 @@
           "reliability": "高",
           "sourceName": "国土交通省（公式）",
           "sourceURL": "https://www.mlit.go.jp/report/press/toshi07_hh_000302.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Japan's revised urban renewal law takes effect Nov 24, requiring 30 days' notice before demolishing key local buildings",
+            "summary": "On Nov 17, Japan's cabinet approved an ordinance putting most of the revised Act on Special Measures concerning Urban Renaissance into effect on Nov 24. The law supports town planning that makes use of older buildings.",
+            "body": [
+              "Japan's cabinet approved an ordinance on Nov 17 that puts the revised Act on Special Measures concerning Urban Renaissance and related laws, passed in May, into effect on Nov 24, except for some provisions. The revision aims to advance urban renewal while making use of the buildings that give a place its distinctive character.",
+              "Under the revised law, municipalities can designate areas in their urban renewal plans where they aim to protect and strengthen local character through the renovation and reuse of buildings. In those areas, owners of specific buildings named in the plan must notify the mayor at least 30 days before starting any extension, rebuilding, relocation or demolition.",
+              "When one of these buildings is sold, the notification requirement will also be added to the important matters that real estate agents must explain before a contract is signed. Buyers will be able to learn before purchase that the building is part of the town's plans."
+            ],
+            "commentary": "An old Western-style house on the corner of a shopping street is being torn down by heavy machinery one morning. Often, local people only find out once the demolition has started. This revision creates a window of 30 days in that moment. The buildings covered are ones a municipality has named in its plan as essential to the town's appeal. If the owner wants to extend or demolish one, they have to tell the municipality at least 30 days before work begins. It's a notification, not a ban. Even so, it gives the municipality room to talk with the owner and think about ways to use the building, right? It's also being added to the explanation given at the time of sale, so fewer people should buy one without knowing and run into trouble later. I think the starting point for keeping historic buildings is learning about them before they're torn down. In your town, which building would you put forward?",
+            "briefing": [
+              "The revised law was passed on May 20, 2026, and promulgated on May 27 as Law No. 23 of 2026. This ordinance set Nov 24 as the effective date for all but some provisions.",
+              "The buildings subject to notification are called specified buildings that shape local character. They are buildings inside a municipality's designated area for maintaining and enhancing local character that the plan identifies as having a particularly strong need to be renovated as public or community facilities.",
+              "The revised law also includes a system that lets certain existing buildings that meet requirements stay in place, or be moved within the project area, instead of being demolished in an urban redevelopment project, and a system for restoring townscapes through renovation and reuse of buildings based on agreements with owners."
+            ],
+            "hojosen": [
+              {
+                "title": "Noticing too late",
+                "body": "Buildings such as early modern Western-style houses or shopfronts with decorative facades can be demolished at the owner's discretion unless they are designated or registered as cultural properties. Even when residents or researchers called for preservation, the construction schedule was often already set by the time demolition plans became public. The notification system is meant to close that information gap."
+              },
+              {
+                "title": "Keeping buildings in redevelopment",
+                "body": "Japan's urban redevelopment projects, in which landowners pool their plots to build a larger complex, have generally cleared the buildings in the area before putting up new ones. This revision opens a path to proceed with redevelopment while keeping existing buildings that meet the requirements. The system itself is starting to move toward town planning that makes use of what already stands, not only what is newly built."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-19-s3",
@@ -138,7 +188,32 @@
           "reliability": "中",
           "sourceName": "中国新聞",
           "sourceURL": "https://www.chugoku-np.co.jp/articles/-/925909",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Hiroshima Shinkin Bank to rebuild its 60-year-old head office on the same site, aiming to open in fall 2032",
+            "summary": "On Nov 17, Hiroshima Shinkin Bank announced plans to rebuild its head office building in Fujimi-cho, Naka Ward, Hiroshima, on its current site. It aims to begin business in the new building in fall 2032.",
+            "body": [
+              "Hiroshima Shinkin Bank, a regional cooperative bank, announced on Nov 17 that it will rebuild its head office building in Fujimi-cho, in Hiroshima's Naka Ward, on the same site. The building stands on Peace Boulevard and has been aging since it was completed in 1966, 60 years ago. The bank aims to start business in the new head office in fall 2032.",
+              "The bank says the new building will have stronger disaster-preparedness features so it can keep operating during emergencies, as well as a better working environment for employees. Nikken Sekkei is handling the design, and the plan calls for a distinctive exterior with curved forms under the concept Advance Flag.",
+              "During construction, the head office sales department and headquarters plan to move temporarily to another location and continue operating."
+            ],
+            "commentary": "Peace Boulevard in Hiroshima. A 100 m (330 ft) wide avenue lined with greenery, it's one of the city's signature streets. Hiroshima Shinkin Bank's head office stands along it, and it's being rebuilt for the first time in 60 years. For a building, 60 years is like the age when a person's body starts creaking all over. Plumbing and electrical systems wear out, and the building fits less and less with today's thinking on earthquakes and disaster preparedness. That's why rebuilding is often chosen over fixing just the inside, right? What's interesting is that the design puts forward an exterior with curves. When you think of a bank's head office, don't you picture a boxy, heavy building? Deliberately choosing curves suggests a will to give the building a face toward the street. In regional cities, the look of the main avenues is shaped by the head offices of local companies like this one. I'll be watching patiently to see what kind of face the new head office shows the street.",
+            "briefing": [
+              "The current head office was completed in 1966. The rebuild aims to improve customer service, strengthen the bank's BCP (business continuity plan, for keeping operations going through disasters and other disruptions) and improve environmental performance.",
+              "Nikken Sekkei, the designer, is one of Japan's largest architecture and engineering firms. The exterior concept is Advance Flag, and the plan is said to pay attention to an open feel on the lower floors and harmony with the street trees.",
+              "In central Hiroshima, local financial institutions have been rebuilding their head offices, with Hiroshima Bank completing a new 19-story head office in the Kamiyacho district in 2021."
+            ],
+            "hojosen": [
+              {
+                "title": "A wave of head office rebuilds",
+                "body": "Office buildings built in Japan's high-growth era of the 1960s and 1970s are now reaching 50 to 60 years old all at once. Along with updating building systems, owners need to be ready to keep working through earthquakes and floods, and regional banks and shinkin banks are rebuilding their head offices across the country."
+              },
+              {
+                "title": "Peace Boulevard as a stage",
+                "body": "Peace Boulevard is a 100 m (330 ft) wide road laid out under Hiroshima's postwar reconstruction plan, and its continuous green belt makes it a symbol of the city. Buildings along it are seen as part of the street's landscape. This plan, with its curved exterior and open lower floors, is also designed with that relationship to the street in mind."
+              }
+            ]
+          }
         }
       ]
     },
