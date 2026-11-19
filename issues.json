@@ -1,6 +1,152 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-20",
+      "date": "2026-11-20",
+      "weekday": "金",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-20-s1",
+          "number": 1,
+          "title": "JR富士駅北口の再開発ビルが起工式 18階から12階に縮小し、2030年春の開業めざす",
+          "summary": "静岡県富士市のJR富士駅北口で11月19日、再開発の複合ビルの起工式が開かれました。住宅や店舗、専門学校が入り、2030年春の開業を目指します。",
+          "body": [
+            "静岡県富士市のJR富士駅北口で11月19日、市街地再開発事業で建てる複合ビルの起工式が行われ、関係者が工事の安全を祈りました。駅前のおよそ1ヘクタールの敷地に、住宅や店舗、駐車場、専門学校などが入る建物を整備する計画です。",
+            "中心となる南側の建物は地上12階建てで、延べ床面積は約1万3620平方メートル。北側には延べ約9900平方メートル、6階建ての建物を建てます。計画が始まった当初、南側は地上18階建てのタワー型として構想されていましたが、工事費の高騰などを受けて規模を縮めました。",
+            "建築工事は12月に始まる予定で、建物は2029年秋ごろに完成し、2030年春ごろの開業を目指しています。起工式で再開発組合の理事長は、資材や用地の価格が上がり、当初の計画どおりには進められなくなったと振り返りました。"
+          ],
+          "commentary": "富士駅の北口では、今年1月ごろから駅前の古い建物の取り壊しが進んできました。ここに建つのは地上12階建ての複合ビル。でも最初の構想は18階建てでした。6フロア分、背が縮んだことになります。理由は工事費の値上がりです。鉄骨もコンクリートも職人さんの手間賃も上がると、同じお金で建てられる床の面積が減ってしまう。皆さんも、同じ予算で買える食材がどんどん減っていくのを感じていますよね。建物も同じなんです。だから計画を小さくして、事業として成り立つ形に組み直したわけですね。いま全国の駅前再開発で、似た見直しが続いています。それでも、ここは止めずに着工までこぎ着けました。完成は2029年の秋、開業は2030年の春の予定です。",
+          "briefing": [
+            "再開発組合は2023年に設立されました。設立時に公表された計画では、南側の建物は地上18階建てで、住宅は128戸を予定していました。",
+            "富士市によると、既存建物の取り壊しは2026年1月ごろから進められてきました。市はこの事業を、駅北口のにぎわいづくりと交通ターミナル機能の向上を目的とする「富士駅北口再整備事業」の一部と位置づけています。",
+            "南側の建物は鉄筋コンクリート造と鉄骨造の組み合わせ、北側の建物は鉄骨造で計画されています。"
+          ],
+          "sources": [
+            {
+              "name": "富士市（公式）",
+              "url": "https://www.city.fuji.shizuoka.jp/1040250000/p003830.html"
+            },
+            {
+              "name": "NHK",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261119de78477"
+            },
+            {
+              "name": "テレビ静岡（Yahoo!ニュース）",
+              "url": "https://news.yahoo.co.jp/articles/f8623a3d619147597ea0b39fe9c7bfc012350265"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "縮む駅前再開発",
+              "body": "工事費の高騰を受け、地方都市の駅前再開発では計画の縮小や延期が相次いでいます。この号でも、11月13日号で函館駅前の再開発が規模を約3割縮め開業を延期したこと、10月27日号で前橋中心街の再開発の縮小をお伝えしました。超高層のタワー型を見直し、中層に抑えて事業を成り立たせる例が目立っています。"
+            },
+            {
+              "title": "組合施行の再開発",
+              "body": "今回の事業は、地権者などでつくる再開発組合が施行者です。土地を持つ人たちが権利を新しいビルの床に置き換え、余った床を売って事業費にあてる仕組みのため、工事費が上がると床を売るだけでは費用をまかなえず、計画の見直しを迫られやすくなります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "富士市（公式）",
+          "sourceURL": "https://www.city.fuji.shizuoka.jp/1040250000/p003830.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-20-s2",
+          "number": 2,
+          "title": "国交省の部会が建築分野の「中長期ビジョン」案を審議 既存の建物を使いこなす社会へ",
+          "summary": "国土交通省の建築基準制度部会が11月16日に開かれ、2050年を見据えた建築分野の中長期ビジョン案に向けて、素案への意見と対応方針を議論しました。",
+          "body": [
+            "国土交通省の社会資本整備審議会・建築基準制度部会が11月16日に開かれ、「建築分野の中長期的なビジョン（案）」の策定に向けた審議を行いました。このビジョンは2050年を見据えて、今後10年の建築行政の方向性を示すものです。10月に示された素案では、新築中心の社会から、建物を長く使い続ける「ストック型社会」への転換を打ち出し、目指す姿として、新築と既存の建物をどちらも選択肢にできる「建物をつかいこなす社会」を掲げています。",
+            "今回の部会では、素案に寄せられた委員の意見と、それへの対応方針の案が示されたと報じられています。既存の建物の改修や用途変更を進めるには、建築基準法だけでなく消防法や都市計画、自治体の条例をまたいで検討する必要があることを明記する方針です。",
+            "このほか、建物の状態を調べる調査にかかわる建築士の「評価」という考え方を加えることや、建物が担う価値として「健康」「快適性」を加えること、福祉の分野と連携した担い手の教育なども、ビジョンに反映される見通しです。"
+          ],
+          "commentary": "2050年。いま20代の建築士が、働き盛りを迎えるころです。そこまでを見据えた建築行政の地図づくりが進んでいます。キーワードは「建物をつかいこなす」。これまでの日本は、古くなったら壊して建て直す、が当たり前でした。それを、今ある建物を直しながら使い続ける方向へ切り替えよう、という話なんです。皆さんの街にも、空いたままの古いビル、ありませんか。たとえば古いオフィスビルを住まいや保育園に変えたい。ところがルールが建築基準法、消防法、都市計画、条例と分かれていて、一つ通っても別の一つで止まる。窓口をたらい回しにされて、結局あきらめる。役所の手続きでよくある、あれに近いんですよね。今回の案は、そこを横断して考えると書き込む方向です。もう一つは、建築士が建物の状態を「評価」する役割を加える点。建てる人から、今ある建物を診る人へ。建築士の仕事の中心は、これからどこに移っていくんでしょうね。",
+          "briefing": [
+            "今回の部会は第27回で、11月16日の午前に東京・霞が関の中央合同庁舎3号館で、オンライン併用で開かれました。一般の傍聴はオンラインのみでした。",
+            "素案では、建物の新築・取得から、利用、改修、継承、解体までのライフサイクル全体で価値を見極める考え方が示されています。建物の性能だけでなく、住む人や担い手、維持管理や運営なども価値の要素として位置づけています。",
+            "ビジョンは部会での審議を経て、建築分科会で取りまとめられる予定です。"
+          ],
+          "sources": [
+            {
+              "name": "国土交通省（公式）",
+              "url": "https://www.mlit.go.jp/report/press/house05_hh_001166.html"
+            },
+            {
+              "name": "日本工業経済新聞",
+              "url": "https://www.nikoukei.co.jp/news/detail/565199"
+            },
+            {
+              "name": "日刊建設工業新聞",
+              "url": "https://www.decn.co.jp/?p=188752"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "続く制度の地ならし",
+              "body": "既存の建物を生かす方向の制度づくりは、ここ最近いくつも動いています。11月6日号では中古住宅の維持保全を価格に反映させる仕組みの検討を、11月19日号では改正都市再生特措法による、まちの魅力をつくる建物の解体前の届出を取り上げました。ビジョンは、こうした個別の動きを束ねる上位の方針という位置づけです。"
+            },
+            {
+              "title": "用途変更の壁",
+              "body": "古いビルを別の用途に変えるときは、避難や防火の基準を今のルールに合わせる必要が出てくることが多く、建築基準法と消防法で求められる内容が重なったり食い違ったりすることがあります。こうした手続きの重さが、改修より建て替えが選ばれやすい理由の一つとされてきました。"
+            }
+          ],
+          "reliability": "中",
+          "sourceName": "国土交通省（公式）",
+          "sourceURL": "https://www.mlit.go.jp/report/press/house05_hh_001166.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-20-s3",
+          "number": 3,
+          "title": "三越伊勢丹HD、新宿5丁目の自社ビル5棟を一体開発しホテルに 2032年の開業めざす",
+          "summary": "三越伊勢丹HDは11月13日、伊勢丹新宿本店近くの自社ビル5棟を一体で再開発し、2032年開業を目指すホテルの構想を明らかにしました。",
+          "body": [
+            "三越伊勢丹ホールディングスは11月13日、東京・新宿5丁目でホテルを開発する構想を明らかにしました。伊勢丹新宿本店の近く、明治通りと御苑通りにはさまれた街区にある自社のオフィスビル5棟を一体で再開発し、2032年の開業を目指します。同社がホテル事業に乗り出すのは初めてです。",
+            "ホテルには日本に初めて進出する海外の高級ブランドを誘致する方針で、年間10万人程度の宿泊者を見込んでいます。外観は伊勢丹新宿本店とのつながりを意識したデザインとする考えで、公表された完成予想図には、百貨店を思わせる重厚な外観が描かれています。",
+            "ホテルに泊まる人を百貨店に、百貨店の客をホテルにと、互いに客を送り合う狙いがあります。ホテルのブランド名や建物の階数、延べ床面積、客室数などはまだ公表されていません。"
+          ],
+          "commentary": "新宿の明治通りと御苑通りにはさまれた一角。伊勢丹新宿本店のすぐ近くに並ぶ自社ビル5棟を、まとめて一つのホテルにする構想です。注目したいのは、別々のビルを一つの敷地として建て直す点なんです。小さな区画のまま建て替えると、それぞれに階段やエレベーターが要って、使える床がどうしても細切れになる。皆さん、パズルのピースをばらばらに並べるより、つなげて一枚にしたほうが大きな絵が描けるじゃないですか。それと同じ発想です。外観は本店とのつながりを意識するといいます。新しいホテルが、近くの本店とどう呼び合うのか。百貨店が自分の街区を自分で描き直す、そういう時代に入ったんだと思います。",
+          "briefing": [
+            "構想は、11月13日の決算説明に合わせて示されました。計画は構想段階で、今後の検討で内容が変わる可能性があります。",
+            "対象となる5棟は、いずれも同社が持つ自社のオフィスビルです。報道では、計画地の位置図に花園MJビルなどが含まれていると伝えられています。",
+            "三越伊勢丹HDは2030年までの中期経営計画で不動産開発への投資を掲げていて、ホテルはその一環と位置づけられています。ホテル事業は初めてのため、運営のノウハウや投資の回収が今後の焦点になるとの見方もあります。"
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOUC136NH0T11C26A1000000/"
+            },
+            {
+              "name": "FASHIONSNAP",
+              "url": "https://www.fashionsnap.com/article/2026-11-13/mihd-hotel-development/"
+            },
+            {
+              "name": "Impress Watch",
+              "url": "https://www.watch.impress.co.jp/docs/news/2156421.html"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "百貨店と街区",
+              "body": "駅と一体で開発を進められる電鉄系の百貨店と違い、三越伊勢丹のような電鉄系ではない百貨店にとっては、自社が周辺に持つビルや土地をどう生かすかが生き残りの課題の一つとされてきました。今回の構想は、本店そのものではなく周りの自社ビルを使う点が特徴です。"
+            },
+            {
+              "title": "敷地をまとめる意味",
+              "body": "小さな敷地を一つにまとめて建て替えると、建物の配置や高さの自由度が上がり、共用部分を減らして使える床を増やしやすくなります。都心の再開発では、複数のビルや土地をまとめることが、大きな施設を成り立たせる前提になっています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "日本経済新聞",
+          "sourceURL": "https://www.nikkei.com/article/DGXZQOUC136NH0T11C26A1000000/",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-19",
       "date": "2026-11-19",
       "weekday": "木",
@@ -6675,242 +6821,6 @@
           "namesEn": {
             "ハウジング・トリビューン": "Housing Tribune",
             "新建ハウジング": "Shinkenchiku Housing"
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-21",
-      "date": "2026-10-21",
-      "weekday": "水",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-21-s1",
-          "number": 1,
-          "title": "続報：一級建築士試験の見直し議論が始動 国交省の小委員会、在学中受験へ制度づくり",
-          "summary": "国交省が10月19日、一級建築士試験制度の見直しを話し合う小委員会を開きました。在学中受験の解禁を受けて、受験資格や試験の内容を検討します。",
-          "body": [
-            "国土交通省は10月19日、中央建築士審査会に置いた「一級建築士試験制度の見直しに関する小委員会」を開き、今後の検討の方針を示しました。7月に成立した改正建築士法で、大学に在学している間から一級建築士試験を受けられるようになることを受けたものです。受験資格や試験の内容をどう変えるかを、有識者から意見を聞きながら詰めていきます。",
-            "10月8日号では、改正法のうち設計・監理契約の書面化が2027年4月1日に施行されることをお伝えしました。一方、在学中受験など試験に関わる部分は、まだ施行日が決まっていません。報道によると、国交省は法律の公布から3年以内の新制度の開始を見据えて検討を進めます。一級建築士の免許登録に必要な実務経験の年数は、変えない方向です。",
-            "在学中受験は、大学で所定の単位を取ることなどを条件に受けられる仕組みとして、法律に盛り込まれました。日本建築学会は、大学の授業への影響が大きいとして、施行までに十分な時間を取ることや、指定科目を教える大学側の意見を丁寧に聞いて制度に反映することを求めています。"
-          ],
-          "commentary": "大学4年生が、一級建築士の試験会場に座る。その日に向けて、試験の中身を決める話し合いが始まりました。僕は以前の放送で、いまの一級建築士試験は「受験の機会は広がり、難易度は上がっている」と話したんです。実は最近の問題には、現場で働いたことのある人ほど解きやすいものが増えています。料理でいえば、レシピを暗記した人より、毎日台所に立っている人が有利になる出題です。だから在学中に受けられるようになっても、学生がすぐ有利になるわけではありません。それに、受かっても免許が手に入るのは、卒業後に実務経験を積んでから。「受けられる日」と「名乗れる日」は別なんですよね。学生にできる一番の準備は、大学の授業で習ったことが試験ではどう問われるのかを、早いうちから結びつけておくこと。新しい制度が始まるまで、長くてあと3年弱。学生のうちから資格を意識する時代になるんだと思います。",
-          "briefing": [
-            "中央建築士審査会は建築士法に基づいて国交省に置かれた機関で、一級建築士試験の合格基準や建築士の懲戒処分などを審議しています。6月9日の会合では、今後の一級建築士試験のあり方が議題になっていました。",
-            "改正建築士法は7月24日に成立し、7月31日に公布されました。資格に関わる部分では、二級建築士から一級建築士を受けるのに必要な実務経験も、4年から2年に短くなります。",
-            "日本建築学会は意見書で、今回の制度改正にあわせて、コンピューターで受験するCBT方式への移行を前提に検討する必要があると指摘しています。"
-          ],
-          "sources": [
-            {
-              "name": "日本工業経済新聞社",
-              "url": "https://www.nikoukei.co.jp/news/detail/563252"
-            },
-            {
-              "name": "国土交通省（公式）",
-              "url": "https://www.mlit.go.jp/report/press/house05_hh_001137.html"
-            },
-            {
-              "name": "日刊建設工業新聞",
-              "url": "https://www.decn.co.jp/?p=185337"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "免許までの道のり",
-              "body": "建築士は、試験に受かっただけでは名乗れません。一級建築士の場合、大学を卒業した人は2年以上の実務経験を積んでから免許を登録します。在学中受験が始まっても、この順番は変わりません。"
-            },
-            {
-              "title": "受験者の若返り",
-              "body": "一級建築士の受験資格は2020年の制度改正で、大学を卒業すればすぐに受けられる形に変わりました。今年の学科試験では合格者の約65%を20代が占めたという受験指導機関の分析もあり、在学中受験はその流れをさらに一歩進めるものです。"
-            }
-          ],
-          "reliability": "中",
-          "sourceName": "日本工業経済新聞社",
-          "sourceURL": "https://www.nikoukei.co.jp/news/detail/563252",
-          "shoComment": "",
-          "en": {
-            "title": "Update: Japan starts reworking its top architect exam so university students can take it",
-            "summary": "Japan's transport and construction ministry held a subcommittee on Oct 19 to review the exam for first-class kenchikushi, the country's top architect license. With students set to be allowed to sit the exam while still enrolled, it will consider eligibility and exam content.",
-            "body": [
-              "Japan's Ministry of Land, Infrastructure, Transport and Tourism (MLIT) on Oct 19 convened a subcommittee on reviewing the first-class kenchikushi exam, set up under the Central Kenchikushi Council, and laid out how it will proceed. First-class kenchikushi is Japan's top architect license, which covers buildings of any size. The review responds to the amended Kenchikushi Act, Japan's architects law, passed in July, which will let people take the exam while still at university. The subcommittee will work out changes to eligibility and exam content, hearing from experts along the way.",
-              "As we reported on Oct 8, the part of the amended law requiring written contracts for design and construction supervision takes effect on April 1, 2027. The exam-related parts, including taking the exam while enrolled, do not yet have an effective date. According to news reports, MLIT is working toward launching the new system within three years of the law's promulgation. The number of years of practical experience required to register for a first-class license is expected to stay the same.",
-              "Under the law, students will be able to take the exam on conditions such as earning the required credits at university. The Architectural Institute of Japan, the country's main academic society for architecture, says the impact on university teaching will be large. It has asked for enough time before the change takes effect, and for the views of universities that teach the designated subjects to be heard carefully and reflected in the system."
-            ],
-            "commentary": "A fourth-year university student sitting in a first-class kenchikushi exam hall. Talks have begun on what that exam will look like. In an earlier broadcast, I said the current exam is one where “the chance to take it has widened, and the difficulty has gone up.” In fact, recent exams include more questions that are easier for people who have worked on real projects. In cooking terms, it favors someone who stands in the kitchen every day over someone who memorized the recipes. So being allowed to take it while in school won't give students an instant edge. And even if they pass, they only get the license after graduating and building up practical experience. “The day you can take the exam” and “the day you can call yourself one” are two different days, right? The best preparation students can do is to start early on linking what they learn in class to how it gets tested. The new system is at most a little under three years away. I think we're entering an era when students start thinking about the license while they're still in school.",
-            "briefing": [
-              "The Central Kenchikushi Council is a body set up within MLIT under the Kenchikushi Act. It deliberates on matters such as pass marks for the first-class exam and disciplinary action against licensed architects. At its June 9 meeting, the future of the first-class exam was on the agenda.",
-              "The amended Kenchikushi Act was passed on July 24 and promulgated on July 31. On the licensing side, it also shortens the practical experience a second-class kenchikushi, a license limited to smaller buildings, needs before taking the first-class exam, from four years to two.",
-              "In a written opinion, the Architectural Institute of Japan said the review needs to be considered on the assumption of a move to computer-based testing (CBT)."
-            ],
-            "hojosen": [
-              {
-                "title": "From exam to license",
-                "body": "Passing the exam alone doesn't let you call yourself a kenchikushi. For the first-class license, university graduates register only after at least two years of practical experience. That order stays the same even once students can take the exam."
-              },
-              {
-                "title": "Younger test-takers",
-                "body": "A 2020 reform changed first-class exam eligibility so that graduates can take it right after finishing university. One exam-prep school's analysis found that people in their 20s made up about 65% of those who passed this year's written exam, the first stage of the test. Taking the exam while enrolled pushes that trend a step further."
-              }
-            ]
-          },
-          "namesEn": {
-            "国土交通省（公式）": "Ministry of Land, Infrastructure, Transport and Tourism (official)",
-            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shinbun",
-            "日本工業経済新聞社": "Nihon Kogyo Keizai Shinbunsha"
-          }
-        },
-        {
-          "id": "issue-2026-10-21-s2",
-          "number": 2,
-          "title": "首都圏の新築マンション、4〜9月の平均が初の1億円超え 1億1494万円で21%上昇",
-          "summary": "不動産経済研究所によると、今年4〜9月に首都圏で発売された新築マンションの平均価格は1億1494万円で、半期として初めて1億円を超えました。",
-          "body": [
-            "不動産経済研究所は10月20日、2026年度上半期（4〜9月）に首都圏（東京・神奈川・埼玉・千葉の1都3県）で発売された新築マンションの市場動向を発表しました。1戸あたりの平均価格は前年同期より21.1%高い1億1494万円で、年度の上半期として初めて1億円を超えました。",
-            "地域別では、東京23区が34.7%上昇の1億7925万円となり、最高値を更新しました。報道によると、発売される戸数が限られるなかで、大規模な物件の販売が相次いだことが平均を押し上げました。背景には、土地の値上がりに加えて、資材や人件費などの建築コストの上昇があります。",
-            "建築コストは高止まりが続いており、今後の価格の動きは見通しにくい状況です。9月24日号では8月単月の平均価格が5カ月ぶりに下がったことをお伝えしましたが、半年分をならすと、上昇の流れが続いていることになります。"
-          ],
-          "commentary": "1億1494万円。今年4〜9月に首都圏で売り出された新築マンションの、1戸あたりの平均です。半年の平均で1億円を超えたのは初めて。東京23区に限ると1億7925万円です。数字だけ見ると、別の国の話みたいですよね。価格を押し上げているのは、土地の値段と建築費です。建物は、職人さんの手間と、鉄やコンクリートの値段の積み重ね。どちらも、この数年でじわじわ上がってきました。加えて今回は、高い大型物件が同じ時期にまとめて売り出されたことも、平均を引き上げたと報じられています。平均値って、クラスに一人とても背の高い子が転校してくると上がる、身長の平均みたいなものなんです。だから、誰もが1億円を払っているわけではありません。それでも、建てるコストが下がる気配は今のところありません。新築を買える人が限られていくなかで、都心の新しい住まいは誰のためのものになっていくんでしょうね。",
-          "briefing": [
-            "1年前の2025年度上半期は、首都圏の発売戸数が9150戸で、前年同期より11.1%増えていました（不動産経済研究所の2025年10月21日の発表）。",
-            "時事通信は、首都圏全体に加えて東京23区の平均も最高値になった理由として、建設コストの上昇を挙げています。",
-            "テレ東BIZは、今回の上昇の大きな要因として建築費の高騰を見出しに掲げて伝えています。"
-          ],
-          "sources": [
-            {
-              "name": "テレ東BIZ",
-              "url": "https://txbiz.tv-tokyo.co.jp/you/news/post_350886"
-            },
-            {
-              "name": "nippon.com（時事通信）",
-              "url": "https://www.nippon.com/ja/news/yjj2026102000613/"
-            },
-            {
-              "name": "南日本新聞（共同通信）",
-              "url": "https://373news.com/news/national/detail/2026102001000906"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "平均価格のクセ",
-              "body": "平均価格は、1戸で数億円の住戸がまとまって売り出されると大きく動きます。月ごとに上がったり下がったりするのはそのためで、流れをつかむには半期や年間の数字、1平方メートルあたりの単価とあわせて見るのが一般的です。"
-            },
-            {
-              "title": "建築費が下がらない理由",
-              "body": "建設現場では、職人の高齢化と人手不足、資材価格の上昇が重なり、建築費が上がり続けています。国も技能者の賃上げを進めていて、賃金の上昇は工事費にも反映されます。10月14日号でお伝えした技能者の「月給制」の議論も、その流れの一つです。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "テレ東BIZ",
-          "sourceURL": "https://txbiz.tv-tokyo.co.jp/you/news/post_350886",
-          "shoComment": "",
-          "en": {
-            "title": "Average new condo price in greater Tokyo tops ¥100 million over a half-year for the first time",
-            "summary": "New condominiums released in the Tokyo metropolitan area from April to September averaged ¥114.94 million, the first time a half-year average has topped ¥100 million, according to the Real Estate Economic Institute.",
-            "body": [
-              "The Real Estate Economic Institute, a private research firm that tracks Japan's housing market, said on Oct 20 that new condominiums released in the Tokyo metropolitan area (Tokyo plus the neighboring prefectures of Kanagawa, Saitama and Chiba) in the first half of fiscal 2026, April through September, averaged ¥114.94 million per unit. That was up 21.1% from a year earlier and the first time the average for the first half of a fiscal year has topped ¥100 million.",
-              "By area, the average in Tokyo's 23 wards, the city's urban core, rose 34.7% to a record ¥179.25 million. According to news reports, a string of large projects went on sale while the number of units released stayed limited, pushing up the average. Behind the rise are higher land prices on top of growing construction costs, including materials and labor.",
-              "Construction costs remain high, making the direction of prices hard to predict. As we reported on Sep 24, the August average fell for the first time in five months, but taken over six months, the upward trend continues."
-            ],
-            "commentary": "¥114.94 million. That's the average price per unit of new condos put on sale in the Tokyo area from April to September this year. It's the first time a half-year average has gone over ¥100 million. In Tokyo's 23 wards alone, it's ¥179.25 million. Just looking at the numbers, it sounds like a story from another country, doesn't it? What's pushing prices up is the cost of land and the cost of building. A building is the sum of the craftspeople's labor and the price of steel and concrete. Both have been creeping up over the past few years. On top of that, this time a batch of expensive large projects went on sale at the same time, which reports say lifted the average. An average is like the average height of a class, which goes up when one very tall kid transfers in. So not everyone is paying ¥100 million. Still, for now there's no sign that the cost of building will come down. As fewer people can afford a new home, who will new housing in central Tokyo end up being for?",
-            "briefing": [
-              "A year earlier, in the first half of fiscal 2025, 9,150 units were released in the Tokyo area, up 11.1% from the year before (Real Estate Economic Institute release of Oct 21, 2025).",
-              "Jiji Press cites rising construction costs as the reason the 23-ward average, as well as the Tokyo-area average, hit a record high.",
-              "TV Tokyo BIZ put soaring construction costs in its headline as a major factor behind the rise."
-            ],
-            "hojosen": [
-              {
-                "title": "How averages behave",
-                "body": "Average prices swing widely when a batch of units costing several hundred million yen each goes on sale at once. That's why they rise and fall from month to month. To read the trend, it's common to look at half-year or annual figures alongside the price per square meter."
-              },
-              {
-                "title": "Why building costs won't fall",
-                "body": "On Japanese construction sites, an aging workforce, labor shortages and rising material prices have combined to keep pushing building costs up. The national government is also pushing pay raises for skilled workers, and higher wages feed into construction costs. The debate over paying skilled workers a monthly salary, which we reported on Oct 14, is part of the same trend."
-              }
-            ]
-          },
-          "namesEn": {
-            "nippon.com（時事通信）": "nippon.com (Jiji Press)",
-            "テレ東BIZ": "TV Tokyo BIZ",
-            "南日本新聞（共同通信）": "Minami-Nippon Shimbun (Kyodo News)"
-          }
-        },
-        {
-          "id": "issue-2026-10-21-s3",
-          "number": 3,
-          "title": "安藤忠雄設計の「淡路夢舞台」、ホテルと会議場の譲渡先にフォートレス系 50億円超で再生",
-          "summary": "兵庫県が売却方針の淡路夢舞台について、ホテルや国際会議場の優先交渉権者を米フォートレス系のグループに決めました。50億円超を投じる計画です。",
-          "body": [
-            "兵庫県は10月14日、淡路市にある複合施設「淡路夢舞台」のうち、県が持つホテルや国際会議場などの優先交渉権者を、米資産運用会社の日本法人フォートレス・インベストメント・グループ・ジャパンを代表とするグループに決めたと発表しました。淡路夢舞台は建築家の安藤忠雄さんが設計した施設で、県は3月から、施設の一部を有償で譲渡する相手を公募していました。応募は2者でした。",
-            "グループには、全国でホテルを運営するアイコニア・ホスピタリティも加わっています。提案では施設全体を「Awaji シーガイア リゾート」と位置づけ、初期投資として50億円超をかけて、温泉やキッズパークの新設、客室の改修、国際会議場の機能強化などを行います。国際会議場は「Awaji シーガイアコンベンションセンター」として、会議と滞在を組み合わせた使い方を目指します。",
-            "譲渡の対象は、県が持つホテル、展望テラス、国際会議場の土地と建物、それにホテル事業です。夢舞台のすべてが民間の所有になるわけではありません。資産と事業の譲渡は2027年4月以降の予定で、その後に新しい事業者が運営を始めます。"
-          ],
-          "commentary": "明石海峡大橋を渡った先の丘に、コンクリートの建物と庭が段々に広がっています。安藤忠雄さんが設計した淡路夢舞台です。そのホテルと国際会議場を、兵庫県から引き継ぐ相手が決まりました。公共の建物を民間に譲ると聞いて、まず心配になるのは「建物がいじられないか」です。今回の提案では、安藤さんの意匠を損なわないことを前提に、温泉やキッズパークを足すとされています。古い家に住み続けながら、柱や梁は残して、お風呂やキッチンだけ新しくするリフォームに近い考え方です。建物は、使われ続けてこそ残ります。名建築でも、維持にお金を出す人がいなければ守れません。一方で、新しい施設をどこに、どんな形で足すかによって、敷地全体の見え方は変わります。譲渡は2027年4月以降。今度淡路島に行ったら、夢舞台の階段や広場を歩いて、いまの姿を目に焼き付けておいてください。",
-          "briefing": [
-            "フォートレス・グループは、宮崎の「フェニックス・シーガイア・リゾート」をセガサミーホールディングスから取得し、現在はアイコニア・ホスピタリティが運営しています。淡路の新しいリゾート名にも、同じ「シーガイア」の名前が使われています。",
-            "フォートレスの発表によると、アイコニア・ホスピタリティは2026年10月時点で188軒のホテルを運営しています。",
-            "県が施設の一部譲渡を決めて公募を始めたのは2026年3月13日です。宿泊施設の運営実績が国内で5年以上ある法人やグループが、応募の対象でした。"
-          ],
-          "sources": [
-            {
-              "name": "フォートレス・インベストメント・グループ（公式・共同通信PRワイヤー）",
-              "url": "https://www.kyodo.co.jp/pr/2026-10-15_4042042/"
-            },
-            {
-              "name": "神戸新聞NEXT",
-              "url": "https://www.kobe-np.co.jp/news/economy/202610/0020926051.shtml"
-            },
-            {
-              "name": "建設通信新聞",
-              "url": "https://www.kensetsunews.com/web-kan/1296806"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "公共施設の民間譲渡",
-              "body": "自治体が建てたホテルや会議場は、運営費の負担が重くなり、民間に売ったり運営を任せたりする例が各地で増えています。建物を残しながら担い手を替える方法として注目される一方、どこまで手を加えてよいかは、譲渡の条件や協議で決まります。"
-            },
-            {
-              "title": "名建築を残す条件",
-              "body": "10月18日号でお伝えした丹下健三の旧香川県立体育館のように、使い道が決まらないまま解体に向かう名建築もあります。使い続ける担い手が見つかること自体が、建物を残すための大きな条件です。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "フォートレス・インベストメント・グループ（公式・共同通信PRワイヤー）",
-          "sourceURL": "https://www.kyodo.co.jp/pr/2026-10-15_4042042/",
-          "shoComment": "",
-          "en": {
-            "title": "Fortress-led group named preferred bidder for hotel at Tadao Ando's Awaji Yumebutai, plans ¥5 billion-plus",
-            "summary": "Hyogo Prefecture, which plans to sell part of Awaji Yumebutai, has chosen a group led by the Japanese arm of US-based Fortress as the preferred bidder for its hotel and international conference center. The group plans to invest more than ¥5 billion.",
-            "body": [
-              "Hyogo Prefecture, home to Kobe, announced on Oct 14 that it had chosen a group led by Fortress Investment Group Japan, the Japanese arm of a US asset manager, as the preferred negotiating partner for the hotel, international conference center and other facilities it owns at Awaji Yumebutai, a complex in the city of Awaji. Designed by architect Tadao Ando, Awaji Yumebutai sits on Awaji Island, which lies between Kobe and the island of Shikoku. Since March, the prefecture had been seeking a buyer to take over part of the complex for a fee. Two bidders applied.",
-              "The group also includes Iconia Hospitality, which operates hotels across Japan. Its proposal positions the whole facility as Awaji Seagaia Resort and calls for an initial investment of more than ¥5 billion to add a hot spring and a kids' park, renovate guest rooms and strengthen the conference center. Renamed Awaji Seagaia Convention Center, the conference center would aim to combine meetings with stays at the resort.",
-              "The transfer covers the hotel, the observation terrace, the land and buildings of the conference center owned by the prefecture, and the hotel business. Not all of Yumebutai will become privately owned. The assets and business are to be transferred in or after April 2027, after which the new operator will take over."
-            ],
-            "commentary": "Cross the Akashi Kaikyo Bridge from Kobe, and on a hill just beyond, concrete buildings and gardens spread out in terraces. This is Awaji Yumebutai, designed by Tadao Ando. Now it's been decided who will take over its hotel and international conference center from Hyogo Prefecture. When you hear a public building is going to a private company, the first worry is whether the building will be tampered with. The proposal says the hot spring and kids' park will be added on the premise of not harming Ando's design. It's close to a renovation where you keep living in an old house, leave the columns and beams alone, and just redo the bathroom and kitchen. Buildings survive by being used. Even a masterpiece can't be protected if no one pays to maintain it. On the other hand, where and in what form the new facilities are added will change how the whole site looks. The transfer is set for April 2027 or later. If you ever visit Awaji Island, walk Yumebutai's stairs and plazas and take in how it looks right now.",
-            "briefing": [
-              "Fortress acquired Phoenix Seagaia Resort in Miyazaki, on the southern island of Kyushu, from Sega Sammy Holdings, and the resort is now run by Iconia Hospitality. The new Awaji resort name uses the same word, Seagaia.",
-              "According to Fortress's announcement, Iconia Hospitality operated 188 hotels as of October 2026.",
-              "The prefecture decided on a partial transfer and opened the call for bids on March 13, 2026. Companies or groups with at least five years of experience running lodging facilities in Japan were eligible."
-            ],
-            "hojosen": [
-              {
-                "title": "Public buildings, private owners",
-                "body": "As running costs weigh on budgets, more local governments across Japan are selling the hotels and conference centers they built to private companies or handing over their operation. It is drawing attention as a way to keep buildings while changing who runs them, but how much they can be altered is decided by the terms of the transfer and by negotiation."
-              },
-              {
-                "title": "What keeps a landmark standing",
-                "body": "Some celebrated buildings head for demolition with no new use decided, like Kenzo Tange's former Kagawa Prefectural Gymnasium, which we reported on Oct 18. Finding someone to keep using a building is itself one of the biggest conditions for saving it."
-              }
-            ]
-          },
-          "namesEn": {
-            "フォートレス・インベストメント・グループ（公式・共同通信PRワイヤー）": "Fortress Investment Group (official, Kyodo News PRWire)",
-            "建設通信新聞": "Kensetsu Tsushin Shimbun",
-            "神戸新聞NEXT": "Kobe Shimbun NEXT"
           }
         }
       ]
