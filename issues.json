@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "富士市（公式）",
           "sourceURL": "https://www.city.fuji.shizuoka.jp/1040250000/p003830.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Fuji Station redevelopment in Shizuoka breaks ground, scaled back from 18 to 12 stories",
+            "summary": "On Nov 19, a groundbreaking ceremony was held for a redevelopment complex at the north exit of JR Fuji Station in Fuji, Shizuoka Prefecture. The building will house homes, shops and a vocational school, with opening targeted for spring 2030.",
+            "body": [
+              "A groundbreaking ceremony was held on Nov 19 at the north exit of JR Fuji Station in Fuji, an industrial city in Shizuoka Prefecture at the foot of Mount Fuji, for a mixed-use complex being built under an urban redevelopment project, a Japanese scheme in which landowners pool their plots to build a larger complex. Those involved prayed for the safety of the work. The plan puts homes, shops, parking and a vocational school on a site of about 1 hectare (2.5 acres) in front of the station.",
+              "The main south building will rise 12 stories with a total floor area of about 13,620 m² (147,000 sq ft). A six-story building with about 9,900 m² (107,000 sq ft) of floor space will go up on the north side. When the project was first conceived, the south building was planned as an 18-story tower, but it was scaled down in response to rising construction costs and other factors.",
+              "Construction is scheduled to start in December, with completion around fall 2029 and opening targeted for around spring 2030. At the ceremony, the chair of the redevelopment association said that rising prices for materials and land had made it impossible to proceed as originally planned."
+            ],
+            "commentary": "At the north exit of Fuji Station, the old buildings in front of the station have been coming down since around January this year. What will rise there is a 12-story mixed-use building. But the original idea was 18 stories. So the building has lost six floors of height. The reason is rising construction costs. When steel, concrete and the cost of skilled labor all go up, the same budget buys less floor area. You've noticed how the same grocery budget buys less and less food, right? Buildings work the same way. So the plan was made smaller and reorganized into something that still works as a project. Similar revisions are happening at station-front redevelopments across Japan. Even so, this one didn't stop, and it made it to construction. Completion is set for fall 2029, and opening for spring 2030.",
+            "briefing": [
+              "The redevelopment association was established in 2023. The plan announced at that time called for an 18-story south building with 128 homes.",
+              "According to the City of Fuji, demolition of the existing buildings has been underway since around January 2026. The city positions this project as part of its wider Fuji Station North Exit redevelopment program, aimed at bringing life to the area and improving the station's transport terminal.",
+              "The south building is planned as a combination of reinforced concrete and steel construction, and the north building as a steel structure."
+            ],
+            "hojosen": [
+              {
+                "title": "Shrinking station projects",
+                "body": "With construction costs soaring, station-front redevelopments in regional Japanese cities are being scaled back or delayed one after another. We reported on Nov 13 that the Hakodate Station area redevelopment was cut by about 30% and its opening postponed, and on Oct 27 that a downtown Maebashi redevelopment was being scaled down. Dropping high-rise towers in favor of mid-rise buildings to keep projects viable has become a common pattern."
+              },
+              {
+                "title": "How association projects work",
+                "body": "This project is carried out by a redevelopment association made up of landowners and others. Landowners exchange their rights for floor space in the new building, and the leftover floor space is sold to pay for the project. When construction costs rise, selling floor space is no longer enough to cover the cost, so these projects are especially prone to being forced into revisions."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-20-s2",
@@ -97,7 +122,32 @@
           "reliability": "中",
           "sourceName": "国土交通省（公式）",
           "sourceURL": "https://www.mlit.go.jp/report/press/house05_hh_001166.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Japan's ministry panel reviews a long-term vision for architecture centered on making full use of existing buildings",
+            "summary": "On Nov 16, a panel of Japan's Ministry of Land, Infrastructure, Transport and Tourism met to work toward a draft long-term vision for the building sector looking ahead to 2050, discussing feedback on the earlier outline and proposed responses.",
+            "body": [
+              "The Building Standards System Subcommittee of the Panel on Infrastructure Development, an advisory body to Japan's Ministry of Land, Infrastructure, Transport and Tourism (MLIT), met on Nov 16 to deliberate on drafting a medium- to long-term vision for the building sector. The vision looks ahead to 2050 and sets the direction for building policy over the next 10 years. The outline presented in October called for a shift from a society centered on new construction to a stock-based society that keeps buildings in use for a long time. Its stated goal is a society that makes full use of buildings, where both new and existing buildings are real options.",
+              "At this meeting, members' comments on the outline and a draft of proposed responses were presented, according to reports. The vision will state that promoting renovation and changes of use in existing buildings requires looking across not only the Building Standards Act, but also the Fire Service Act, city planning rules and local ordinances.",
+              "Other items expected to be reflected in the vision include adding the idea of an architect's assessment in surveys of building condition, adding health and comfort to the values buildings provide, and training the workforce in cooperation with the welfare sector."
+            ],
+            "commentary": "2050. That's when architects in their 20s today will be in the prime of their careers. A map for building policy that looks that far ahead is now being drawn. The key phrase is making full use of buildings. Until now, the default in Japan was to tear a building down and rebuild once it got old. This is about switching toward repairing existing buildings and continuing to use them. You probably have an old, empty building somewhere in your own town, don't you? Say you want to turn an old office building into housing or a daycare center. But the rules are split across the Building Standards Act, the Fire Service Act, city planning and local ordinances, so you clear one and get stopped by another. You get passed from counter to counter until you give up. It's a lot like the runaround you get with government paperwork. The draft is moving toward writing in that these rules should be considered together. The other point is adding a role for architects to assess the condition of buildings. From people who build to people who examine the buildings we already have. Where will the center of an architect's work move from here?",
+            "briefing": [
+              "This was the subcommittee's 27th meeting, held on the morning of Nov 16 at the Central Government Building No. 3 in Kasumigaseki, Tokyo's government district, with online participation. Public observers could watch online only.",
+              "The outline sets out the idea of judging a building's value across its whole life cycle, from construction or acquisition through use, renovation, handover and demolition. It treats not only building performance but also the people who live in and work on buildings, as well as maintenance and operations, as elements of value.",
+              "After deliberation in the subcommittee, the vision is scheduled to be finalized by the Building Subcommittee of the advisory panel."
+            ],
+            "hojosen": [
+              {
+                "title": "Groundwork for reuse",
+                "body": "Several policy moves aimed at making better use of existing buildings have come recently. On Nov 6 we covered a study on reflecting the maintenance of used homes in their price, and on Nov 19 the amended Act on Special Measures concerning Urban Renaissance, which requires advance notice before demolishing buildings that shape a town's character. The vision is meant to be the higher-level policy that ties these individual moves together."
+              },
+              {
+                "title": "The change-of-use hurdle",
+                "body": "When an old building is converted to a different use, it often has to be brought up to current evacuation and fire safety standards, and the requirements of the Building Standards Act and the Fire Service Act can overlap or conflict. The weight of these procedures has been seen as one reason rebuilding tends to be chosen over renovation."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-20-s3",
@@ -142,7 +192,32 @@
           "reliability": "高",
           "sourceName": "日本経済新聞",
           "sourceURL": "https://www.nikkei.com/article/DGXZQOUC136NH0T11C26A1000000/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Isetan Mitsukoshi plans a Tokyo hotel by merging five of its Shinjuku buildings, aiming to open in 2032",
+            "summary": "On Nov 13, Isetan Mitsukoshi Holdings unveiled a plan to redevelop five of its own buildings near the Isetan Shinjuku flagship department store as a single hotel, aiming to open in 2032.",
+            "body": [
+              "Isetan Mitsukoshi Holdings, the operator of one of Japan's best-known department store groups, unveiled on Nov 13 a plan to develop a hotel in Shinjuku 5-chome, Tokyo. It will redevelop five of its own office buildings, located on a block between Meiji-dori and Gyoen-dori avenues near the Isetan Shinjuku flagship store, as a single project, aiming to open in 2032. It will be the company's first move into the hotel business.",
+              "The company plans to bring in a luxury overseas hotel brand making its debut in Japan, and expects around 100,000 guests a year. The exterior is to be designed with a connection to the Isetan Shinjuku store in mind, and the published rendering shows a stately facade reminiscent of the department store.",
+              "The aim is for the two to send customers to each other, with hotel guests visiting the department store and store shoppers staying at the hotel. The hotel brand, number of floors, total floor area and number of rooms have not yet been announced."
+            ],
+            "commentary": "A block in Shinjuku squeezed between Meiji-dori and Gyoen-dori. The plan is to combine five company-owned buildings standing right next to the Isetan Shinjuku store into a single hotel. What I want to focus on is that separate buildings will be rebuilt as one site. If you rebuild small lots one by one, each needs its own stairs and elevators, so the usable floor space inevitably ends up chopped into pieces. You can make a bigger picture by joining puzzle pieces into one sheet than by laying them out separately, right? It's the same idea. The exterior is supposed to connect with the flagship store. How will the new hotel and the nearby store speak to each other? I think we've entered an era in which a department store redraws its own block by itself.",
+            "briefing": [
+              "The plan was presented alongside the company's earnings briefing on Nov 13. It is at the concept stage, and details may change as planning continues.",
+              "All five buildings are office buildings owned by the company. Reports say the site map includes the Hanazono MJ Building, among others.",
+              "In its medium-term business plan through 2030, Isetan Mitsukoshi Holdings has set out investment in real estate development, and the hotel is positioned as part of that. Because the hotel business is new to the company, some observers see operating know-how and recovering the investment as key issues going forward."
+            ],
+            "hojosen": [
+              {
+                "title": "Stores and their blocks",
+                "body": "Unlike department stores run by railway companies, which can develop together with their stations, department stores not tied to a railway, like Isetan Mitsukoshi, have seen making use of the buildings and land they own nearby as one of the challenges for survival. What sets this plan apart is that it uses the surrounding company buildings rather than the flagship store itself."
+              },
+              {
+                "title": "Why merge sites",
+                "body": "Combining small sites into one before rebuilding gives more freedom in a building's layout and height, and makes it easier to cut shared spaces and gain usable floor area. In central Tokyo redevelopment, assembling multiple buildings and plots is a precondition for making large facilities work."
+              }
+            ]
+          }
         }
       ]
     },
