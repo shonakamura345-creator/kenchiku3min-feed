@@ -1,6 +1,151 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-21",
+      "date": "2026-11-21",
+      "weekday": "土",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-21-s1",
+          "number": 1,
+          "title": "大阪駅前に「うめきたの森」が開園 グラングリーン大阪、滝と池の森と南北結ぶデッキが完成",
+          "summary": "JR大阪駅北側のグラングリーン大阪で11月20日、約8400平方メートルの「うめきたの森」が開園。南北の公園を結ぶ歩行者デッキも全面開通しました。",
+          "body": [
+            "JR大阪駅の北側で進む再開発「グラングリーン大阪」で11月20日正午、うめきた公園ノースパークの一角に「うめきたの森」が開園しました。広さは約8400平方メートル。当初は2027年春ごろの開園を予定していましたが、整備の進み具合を踏まえて前倒しで開くことになりました。",
+            "森には桜やモミジ、カツラなど100種類以上の樹木や植物が植えられ、滝や池といった水辺も設けられました。大阪近郊の在来種も取り入れ、かつて梅田貨物駅があった土地に、生き物にも配慮した自然環境をつくることを目指しています。森を望むカフェレストランも同じ日に営業を始めました。",
+            "同じ日には、南北の公園をつなぐ歩行者デッキ「ひらめきの道」も全面開通しました。道路をはさんだ残りの未開園区域、約2200平方メートルは2027年春ごろに開園する予定です。"
+          ],
+          "commentary": "梅田の北側には、かつて貨物駅がありました。線路とコンテナが並んでいたその場所で、いまは滝が水を落としています。きのう開いた「うめきたの森」は約8400平方メートル。テニスコートにすると30面ほどの広さです。駅前って、どこもにぎやかで落ち着けないじゃないですか。この森は、滝と池で周りを囲むように計画されています。水の音が、人の声や車の音をやわらかく包んでくれるんです。数十歩歩くだけで、まわりの視線も音も遠のく。そういう仕掛けなんですね。植えたのは桜やモミジ、カツラなど100種類以上。春の花と秋の紅葉で、季節ごとに表情が変わります。皆さんも知っているとおり、駅前の一等地はふつうビルで埋まります。そこを森にするのは、土地の使い方として思い切った判断だと思うんです。道路の向こうの残り約2200平方メートルが開くのは、2027年の春です。",
+          "briefing": [
+            "ノースパークの敷地は約1万平方メートルで、今回はそのうち約8400平方メートルを先行して開園しました。開園は正午のオープニングセレモニーのあとでした。",
+            "植栽にはエノキやムクノキなどの落葉樹や、水辺に合う樹種も選ばれています。滝や池に囲まれた配置にすることで、周囲からの視線や音をさえぎり、都心にいながら静けさを感じられる場所を目指したとされています。",
+            "開園を記念して、11月23日までドローンショーなどのイベントが予定されています。"
+          ],
+          "sources": [
+            {
+              "name": "阪急阪神不動産（公式）",
+              "url": "https://prtimes.jp/main/html/rd/p/000000636.000033147.html"
+            },
+            {
+              "name": "大阪府（公式）",
+              "url": "https://www.pref.osaka.lg.jp/hodo/fumin/o140030/prs_51178.html"
+            },
+            {
+              "name": "梅田経済新聞",
+              "url": "https://umeda.keizai.biz/headline/4725"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "貨物駅跡の再開発",
+              "body": "うめきた地区は、JR大阪駅北側の旧梅田貨物駅の跡地です。先に開発された区域には2013年にグランフロント大阪が開業し、その西側の2期区域がグラングリーン大阪として整備されてきました。2期区域は2024年9月に先行してまちびらきしており、大きな公園を計画の中心に置いているのが特徴です。"
+            },
+            {
+              "title": "駅前に公園を置く",
+              "body": "大都市のターミナル駅前は地価が高く、オフィスや商業施設で床を積み上げるのが一般的です。グラングリーン大阪は広い公園をまちの真ん中に置き、その周りにオフィスやホテル、住宅などを配置する構成をとっています。緑の量そのものを、まちの価値として打ち出す開発の代表例といえます。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "阪急阪神不動産（公式）",
+          "sourceURL": "https://prtimes.jp/main/html/rd/p/000000636.000033147.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-21-s2",
+          "number": 2,
+          "title": "高知の新県民体育館、設計提案の概要を公表 津波に備え駐車場は地下から地上のピロティへ",
+          "summary": "高知県は11月19日、新しい県民体育館の設計提案の概要を公表しました。津波浸水への懸念を受け、駐車場は地下ではなく地上に250台以上を確保します。",
+          "body": [
+            "高知県は11月19日、建て替えを計画している新しい県民体育館について、設計を担う事業者の提案の概要を発表しました。設計は梓設計と高知市のみやび設計の共同企業体が担当し、「まちのリビング」をコンセプトに掲げています。県は2031年度半ばの開館を目指しています。",
+            "大きな変更点は駐車場です。県が6月にまとめた基本計画では、地下に駐車場を設ける選択肢も含まれていましたが、津波による浸水を心配する県民の声を受け、提案では地上に250台以上を確保することにしました。建物を柱で持ち上げるピロティ構造とし、その下を駐車場として使う計画です。",
+            "建物は3階建てで、5000人以上が入る観客席を備えたアリーナや武道館などを設けます。サブアリーナを2階に上げ、武道館などと同じフロアにまとめることで、施設を使いやすくする狙いもあります。今回の内容は設計の段階で変わる可能性があり、設計案は2027年夏ごろに固まる見込みです。"
+          ],
+          "commentary": "建物の1階を柱だけにして、その下を空けておく。これをピロティと言います。高床式の倉庫、社会の教科書で見ましたよね。あれに近いイメージです。高知の新しい県民体育館は、このピロティの下を駐車場にする案になりました。実は最初、地下に駐車場をつくる選択肢もあったんです。でも心配されたのが津波でした。地下は水の通り道のいちばん下にあたります。一度水が入ると、ポンプでくみ出すまで抜けません。だから車は地上に置き、サブアリーナのような大事な床は2階へ上げる。5000人以上が入る大きな建物でも、最初に考えるのは「水が来たらどうなるか」なんです。皆さんの街の体育館も、災害のときは避難の場所になることが多いはずです。住民の声を受けて計画を組み直したのは、海に近い街の公共建築として理にかなった判断だと思います。地下に頼らない設計が、これからの標準になっていくのかもしれません。",
+          "briefing": [
+            "県が4月に公表した基本計画の概要では、延べ床面積を約1万7000〜1万9000平方メートル（ピロティと地下駐車場を除く）と見込んでいました。メインアリーナは観客席5000席以上、サブアリーナは500〜1000席程度を想定しています。",
+            "県の検討会では、委員からリスクとコストの面で地下駐車場は避けるべきだという意見が出ていました。パブリックコメントでも、津波浸水のおそれを理由に地下駐車場に反対する意見が寄せられていました。",
+            "設計者は公募型プロポーザルで選ばれ、県は10月に二次審査の結果を公表しています。県はプロスポーツの試合やコンサート、展示会などにも使える施設を目指しています。"
+          ],
+          "sources": [
+            {
+              "name": "高知県（公式）",
+              "url": "https://www.pref.kochi.lg.jp/doc/2026102100170"
+            },
+            {
+              "name": "日本経済新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOCC195RT0Z11C26A1000000/"
+            },
+            {
+              "name": "テレビ高知（Yahoo!ニュース）",
+              "url": "https://news.yahoo.co.jp/articles/4477a371aa332cc2b2a85996ce964f915e3989cf"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "地下は水に弱い",
+              "body": "地下の駐車場や電気室は、浸水すると水がたまりやすく、排水や復旧に時間がかかります。2019年の台風19号では、川崎市・武蔵小杉のタワーマンションで地下の電気設備が浸水し、停電や断水が続きました。この事例以降、電気設備を上の階に置くなど、浸水を前提にした設計への関心が高まっています。"
+            },
+            {
+              "title": "各地で続くアリーナ整備",
+              "body": "全国では、プロスポーツの試合やコンサートを開ける大型アリーナの整備が相次いでいます。観客席5000席以上という規模は、地方都市の体育館としては大きな部類です。ふだんは競技やイベントに使い、災害時には避難所にもなるため、防災と集客の両方を設計で満たすことが求められます。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "高知県（公式）",
+          "sourceURL": "https://www.pref.kochi.lg.jp/doc/2026102100170",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-21-s3",
+          "number": 3,
+          "title": "首都圏の新築マンション平均価格、10月は9308万円 3カ月連続下落、23区も下げ",
+          "summary": "不動産経済研究所によると、10月に首都圏で発売された新築マンションの平均価格は9308万円で、前年同月より5.9％下落。3カ月連続の下落です。",
+          "body": [
+            "不動産経済研究所が11月19日に発表した10月の首都圏の新築マンション市場動向によると、1戸あたりの平均価格は9308万円で、前年同月に比べて5.9％下がりました。前年同月を下回るのは3カ月連続です。",
+            "東京23区の平均価格は1億2937万円で、前年同月比15.5％の下落となり、4カ月ぶりに前年を下回りました。都心で高額の大型物件の発売がなかったことに加え、金利の上昇で購入を考える人の動きが鈍り、販売する側も発売する戸数を絞ったことが背景とされています。",
+            "ただし研究所は、今後は金利の上昇などで需要の減少が見込まれる一方、建設費の高騰が続いているため、さらなる下落は考えにくいとしています。"
+          ],
+          "commentary": "9308万円。10月に首都圏で売り出された新築マンションの、1戸あたりの平均です。前の年より5.9％安くなりました。下がったと聞くと「そろそろ買い時かな」と思いますよね。でも中身を見ると、少し話が違うんです。平均価格は、その月にどんな物件が売りに出たかで大きく動きます。今回は都心の高額な大型物件が出ませんでした。回転寿司の平均単価が、大トロが品切れの日だけ下がるのと似ています。一方で、建物をつくるコストは高いままです。研究所も、ここからどんどん下がるとは見ていません。売れ行きが鈍っても、つくる側の原価は下がらない。皆さんが目にするマンションの値段は、いま買う人と建てる人の綱引きの真ん中にあるんです。金利が上がって買う人が慎重になるのか、建設費が落ち着いて売る側に余裕が出るのか。この綱引き、先に力を緩めるのはどちらなんでしょうね。",
+          "briefing": [
+            "この調査の対象は、東京都・神奈川県・埼玉県・千葉県の1都3県です。平均価格はその月に発売された物件の顔ぶれに左右される数字で、同じ部屋の値段が下がったことを示すものではありません。",
+            "住宅ローンの金利も動いています。三菱UFJ銀行は、9月18日に発表した短期プライムレートの引き上げに伴い、12月1日から住宅ローンの変動金利の基準金利を見直すと案内しています。"
+          ],
+          "sources": [
+            {
+              "name": "テレ東BIZ",
+              "url": "https://txbiz.tv-tokyo.co.jp/you/news/post_352829"
+            },
+            {
+              "name": "共同通信（Yahoo!ニュース）",
+              "url": "https://news.yahoo.co.jp/articles/72a10177d82e3e8a75b479278ae7417993f81ece"
+            },
+            {
+              "name": "テレビ朝日系（ANN）",
+              "url": "https://news.ksb.co.jp/ann/article/17064953"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "建設費が値段を支える",
+              "body": "新築マンションの値段は、土地代と建設費、販売にかかる費用などを積み上げて決まります。資材や人件費の上昇で建設費が上がり続けているため、売れ行きが鈍っても大きく値下げしにくい構造です。11月20日号でお伝えした富士駅前の再開発が規模を縮めたのも、同じ建設費の高騰が背景にあります。"
+            },
+            {
+              "title": "金利は月々の返済に効く",
+              "body": "変動金利で住宅ローンを組んだ場合、金利が上がると月々の返済額や総返済額が増えます。借入額が大きくなりがちな都心の物件ほど、金利のわずかな変化が家計に与える影響は大きくなります。買い手が慎重になると、売り手は発売戸数を絞って様子を見る動きを強めることになります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "テレ東BIZ",
+          "sourceURL": "https://txbiz.tv-tokyo.co.jp/you/news/post_352829",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-20",
       "date": "2026-11-20",
       "weekday": "金",
@@ -6687,236 +6832,6 @@
           "namesEn": {
             "ミサワホーム（公式・2023年発表）": "MISAWA HOMES (official, announced 2023)",
             "ミサワホーム（公式）": "MISAWA HOMES (official)"
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-22",
-      "date": "2026-10-22",
-      "weekday": "木",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-22-s1",
-          "number": 1,
-          "title": "滋賀県庁舎、築87年の本館は全館保存し4.3万m2の新棟を 懇話会で県が4案を比較",
-          "summary": "滋賀県は10月19日の懇話会で、県庁舎の建て替えなど4つの配置案を比べ、本館を残したまま延べ約4.3万m2の新棟を建てる案が最も有効と示しました。",
-          "body": [
-            "滋賀県は10月19日、大津市の県庁で「滋賀県庁舎等のあり方検討懇話会」の5回目の会合を開きました。県庁の建物をこれからどう整備するかについて、4つの配置案を比べた結果を示し、東館を解体し、新館と新新館の一部を減らしたうえで、延べ約4万3200m2の新しい棟を建てる案が最も有効だと評価しました。",
-            "国の登録有形文化財になっている本館は、全館を保存する方向です。本館は1939年に完成した鉄筋コンクリート造4階建ての建物で、府県庁舎を多く手がけた佐藤功一と、建築装飾を得意とした國枝博が設計しました。2014年には、現役の都道府県庁舎として全国で5例目となる登録有形文化財に登録されています。",
-            "懇話会は2025年9月に始まり、学識者や県民の意見を聞きながら検討を進めてきました。報道によると、来年1月に懇話会の報告書案をまとめ、県はそれを踏まえて今年度中に整備の方針を示す見通しです。"
-          ],
-          "commentary": "大津市の滋賀県庁本館。中央の階段には、焼き物でできたテラコッタの飾りが今も残っています。完成は1939年。日中戦争で鉄が足りなくなっていくなかで建った、戦前の最後のほうの大きな建物です。その本館を丸ごと残して、隣に大きな新棟を建てる。県はこの案が一番いいと評価しました。僕が注目したいのは、残し方です。古い建物を残すとき、表側の壁だけを新しいビルに貼り付けるように残す例も少なくありません。今回は「全館保存」の方向。家でいえば、おじいちゃんの代の母屋はそのまま使い続けて、まわりの離れを建て替えるイメージですよね。その代わり、東館は解体し、新館と新新館も一部を減らします。守るものと新しくするものを分けて、庁舎全体を組み直すわけです。新棟の延べ面積は約4万3200m2。今年度中に、県の方針が出ます。",
-          "briefing": [
-            "会合の座長は、京都大学大学院人間・環境学研究科の中嶋節子教授です。会合では、庁舎の機能のほか、国の地方合同庁舎とのかかわりについても意見が交わされました。",
-            "本館の施工は大林組です。県の紹介では、中央階段のテラコッタ装飾や、知事室・議場の内装が見どころとされています。1937年9月に着工し、1939年5月に完成しました。",
-            "報道によると、どの案でも整備には10年以上かかる見込みです。工事費の試算は報道によって数字が分かれており、県の正式な方針の公表が待たれます。"
-          ],
-          "sources": [
-            {
-              "name": "滋賀県（公式）",
-              "url": "https://www.pref.shiga.lg.jp/ba00/7368.html"
-            },
-            {
-              "name": "日刊建設工業新聞",
-              "url": "https://www.decn.co.jp/?p=188591"
-            },
-            {
-              "name": "建設通信新聞",
-              "url": "https://www.kensetsunews.com/sokuho/1298718"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "戦前の県庁舎",
-              "body": "滋賀県庁舎本館は、現役の都道府県庁舎としては全国で5例目の登録有形文化財です。戦前の庁舎を使い続ける自治体では、文化財としての価値を守りながら、耐震性や手狭さにどう対応するかが共通の課題になっています。"
-            },
-            {
-              "title": "減築という選択",
-              "body": "人口が減り、行政のデジタル化も進むなか、建物を足し続けるのではなく面積を減らす「減築」が選択肢になっています。今回の案も、増築を重ねた庁舎群を整理し、必要な機能を新棟にまとめる考え方です。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "滋賀県（公式）",
-          "sourceURL": "https://www.pref.shiga.lg.jp/ba00/7368.html",
-          "shoComment": "",
-          "en": {
-            "title": "Shiga's preferred plan keeps its 87-year-old prefectural office whole and adds a new wing",
-            "summary": "At an advisory panel meeting on Oct 19, Shiga Prefecture compared four layout plans for its government buildings and rated as most effective the one that keeps the Main Building and adds a new wing of about 43,200 m² (465,000 sq ft).",
-            "body": [
-              "Shiga Prefecture, which surrounds Lake Biwa, Japan's largest lake, just east of Kyoto, has compared four ways to lay out its government office complex. At the fifth meeting of an advisory panel on the future of the prefectural government buildings, held Oct 19 at the prefectural office in Otsu, the prefecture's capital, it presented the results. It rated as most effective the plan that demolishes the East Building, scales back parts of the New Building (Shinkan) and the even newer Shin-Shinkan, and adds a new wing with a total floor area of about 43,200 m² (465,000 sq ft).",
-              "The Main Building, a national Registered Tangible Cultural Property, would be preserved in its entirety. Completed in 1939, it is a four-story reinforced concrete building designed by Koichi Sato, who designed many prefectural government buildings, and Hiroshi Kunieda, known for his architectural ornament. In 2014 it became the fifth prefectural headquarters still in use in Japan to be listed as a Registered Tangible Cultural Property, a lighter tier of the country's national heritage system.",
-              "The panel began in September 2025 and has been gathering views from academics and residents. According to news reports, it will compile a draft report in January, and the prefecture expects to set out its redevelopment policy based on that report before the end of this fiscal year, which in Japan runs through March."
-            ],
-            "commentary": "The Main Building of the Shiga prefectural government in Otsu still has terracotta ornaments, decoration made of fired clay, on its central staircase. It was finished in 1939, as steel was growing scarce during the Second Sino-Japanese War, which makes it one of the last large buildings of the prewar era. Now the prefecture has rated keeping that entire building and putting a big new wing next to it as the best option. What I want to focus on is how it's being kept. When old buildings are saved, it's not unusual for only the front wall to survive, pasted onto a new building. This time the direction is to preserve the whole building. Think of a family home: you keep living in the main house from your grandfather's day and rebuild the outbuildings around it. That's the picture, right? In exchange, the East Building comes down, and the New Building and the Shin-Shinkan are partly cut back. They're separating what to protect from what to renew and reorganizing the whole complex. The new wing: about 43,200 m² (465,000 sq ft). The prefecture's policy comes out this fiscal year.",
-            "briefing": [
-              "The panel is chaired by Professor Setsuko Nakajima of Kyoto University's Graduate School of Human and Environmental Studies. Members discussed the functions the offices need as well as how the plan relates to the national government's regional joint office building, which houses local branches of national ministries.",
-              "The Main Building was built by Obayashi Corporation. The prefecture points to the terracotta ornament on the central staircase and the interiors of the governor's office and the assembly chamber as highlights. Construction began in September 1937 and was completed in May 1939.",
-              "According to news reports, any of the plans would take more than 10 years to carry out. Construction cost estimates differ from one news outlet to another, so the prefecture's official policy is the thing to watch."
-            ],
-            "hojosen": [
-              {
-                "title": "Prewar prefectural offices",
-                "body": "Shiga's Main Building is the fifth prefectural headquarters still in use in Japan to be registered as a cultural property. For local governments that keep using prewar office buildings, a shared challenge is protecting their heritage value while dealing with earthquake resistance and a lack of space."
-              },
-              {
-                "title": "Choosing to shrink",
-                "body": "As Japan's population falls and government services go digital, reducing floor area instead of continually adding to buildings, known in Japanese as genchiku, has become an option. This plan follows the same thinking: it sorts out a cluster of buildings that grew through repeated additions and gathers the functions that are needed into a new wing."
-              }
-            ]
-          },
-          "namesEn": {
-            "建設通信新聞": "Kensetsu Tsushin Shimbun",
-            "日刊建設工業新聞": "Nikkan Kensetsu Kogyo Shimbun",
-            "滋賀県（公式）": "Shiga Prefecture (official)"
-          }
-        },
-        {
-          "id": "issue-2026-10-22-s2",
-          "number": 2,
-          "title": "成田空港の新滑走路、完成予定を2034年末に延期 用地の約1割が未取得で土地収用へ",
-          "summary": "成田空港会社は10月19日、C滑走路などの完成予定を2029年3月から2034年12月末に延ばすと発表しました。用地取得が難航し、土地収用の手続きも進めます。",
-          "body": [
-            "成田国際空港会社（NAA）は10月19日、新しく造るC滑走路などの完成予定日を、2034年12月31日に変更すると国土交通大臣に届け出たと発表しました。これまでの予定は2029年3月31日で、5年9か月の先送りになります。",
-            "C滑走路は長さ3500mで、既存のB滑走路の延伸とあわせて、成田空港の年間の発着容量を50万回に増やす計画の柱です。報道によると、C滑走路の用地は約1割がまだ取得できていません。NAAは地権者との話し合いを続けながら、土地を強制的に取得できる土地収用制度の手続きも並行して進めます。",
-            "収用には国の事業認定が必要で、NAAはその申請に先立ち、法律で定められた説明会を10月28日から成田市、多古町、芝山町で順に開く予定です。一方、用地がほぼ取得済みのB滑走路の延伸部分は、先に2029年度内の供用を目指します。"
-          ],
-          "commentary": "5年9か月。新しい滑走路の完成が、それだけ後ろにずれました。工事の技術が足りないわけではないんです。止まっている理由は、土地。用地の約1割が、まだ買えていません。滑走路は、ほんの一部の土地が欠けても成り立たない施設です。3500mの一本の線のどこかに他人の土地が残っていたら、飛行機は降りられません。拡幅された道路の真ん中に、一軒だけ家がぽつんと残っている写真、見たことありますよね。滑走路では、あれが許されないわけです。成田空港には、1960年代の建設をめぐる激しい対立の歴史があり、国はその後、話し合いを重視する方針をとってきました。今回、土地収用の手続きに入ることは、話し合いと並行して進む大きな節目です。空港の拡張と、そこで暮らしてきた人の土地。どこで折り合いをつけるのかを決めるのは、誰なんでしょうね。",
-          "briefing": [
-            "今回の2034年末は工事の完成予定日で、C滑走路の供用開始日は示されていません。報道によると、C滑走路や新しい貨物地区は2030年代前半の供用開始を目指しています。",
-            "成田空港の機能強化は、2020年1月に国土交通省が空港の施設変更を許可して本格的に動き出しました。B滑走路は2500mから3500mに延ばします。",
-            "土地収用の説明会は、成田市、多古町、芝山町の3市町で開かれます。事業認定を受けたあとも、収用委員会の審理など複数の手続きを経る必要があります。"
-          ],
-          "sources": [
-            {
-              "name": "Aviation Wire",
-              "url": "https://www.aviationwire.jp/archives/352714"
-            },
-            {
-              "name": "日本経済新聞",
-              "url": "https://www.nikkei.com/article/DGXZQOCC196QA0Z11C26A0000000/"
-            },
-            {
-              "name": "国土交通省（公式）",
-              "url": "https://www.mlit.go.jp/report/press/kouku07_hh_000136.html"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "成田の歴史",
-              "body": "成田空港は1966年に建設が閣議決定されましたが、地元の反対運動が激しく、開港は1978年までずれ込みました。その後、国は強制的な収用に頼らない話し合い路線をとり、B滑走路も長く計画より短い状態が続きました。"
-            },
-            {
-              "title": "空港の拡張競争",
-              "body": "羽田空港も2020年に都心上空を通る新しい飛行ルートの運用を始めるなど、首都圏の発着枠は増え続けています。アジアの主要空港も滑走路の増設を進めており、成田の拡張は国際競争の中で計画されたものです。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "Aviation Wire",
-          "sourceURL": "https://www.aviationwire.jp/archives/352714",
-          "shoComment": "",
-          "en": {
-            "title": "Narita Airport pushes back its new runway to the end of 2034 as land purchases stall",
-            "summary": "Narita International Airport Corporation said on Oct 19 it will move the completion target for its new Runway C and related work from March 2029 to the end of December 2034. Land acquisition has stalled, and the company will also start land expropriation procedures.",
-            "body": [
-              "Narita International Airport Corporation (NAA), which runs the airport in Chiba Prefecture east of Tokyo, announced on Oct 19 that it had notified the Minister of Land, Infrastructure, Transport and Tourism of a new completion date for Runway C and related facilities: Dec 31, 2034. The previous target was March 31, 2029, so the schedule slips by five years and nine months.",
-              "Runway C, 3,500 m (11,500 ft) long, is the centerpiece, along with an extension of the existing Runway B, of a plan to raise Narita's annual capacity to 500,000 takeoffs and landings. According to news reports, about a tenth of the land for Runway C has yet to be acquired. NAA will keep negotiating with landowners while also pursuing procedures under Japan's land expropriation system, which allows land to be acquired compulsorily, similar to eminent domain.",
-              "Expropriation requires a project certification from the national government. Before applying, NAA plans to hold legally required briefing sessions starting Oct 28, in turn in the city of Narita and the towns of Tako and Shibayama. Meanwhile, the Runway B extension, for which nearly all the land has been secured, aims to open first, within fiscal 2029."
-            ],
-            "commentary": "Five years and nine months. That's how far the new runway's completion has slipped. It's not that the construction technology falls short. What's holding it up is land. About a tenth of the site still hasn't been bought. A runway is a facility that doesn't work if even a small piece of land is missing. If someone else's plot remains anywhere along that single 3,500 m (11,500 ft) line, planes can't land. You've seen those photos of one house left standing alone in the middle of a widened road, right? On a runway, that simply can't happen. Narita has a history of fierce conflict over its construction in the 1960s, and since then the national government has put dialogue first. Moving into expropriation procedures now, running alongside the talks, is a major turning point. The expansion of an airport, and the land of the people who have lived there. Who gets to decide where the two meet?",
-            "briefing": [
-              "The end-of-2034 date is the target for finishing construction; no date has been given for Runway C to enter service. According to news reports, Runway C and a new cargo area are aiming to open in the early 2030s.",
-              "Narita's expansion got fully underway in January 2020, when the Ministry of Land, Infrastructure, Transport and Tourism (MLIT) approved changes to the airport's facilities. Runway B will be extended from 2,500 m (8,200 ft) to 3,500 m (11,500 ft).",
-              "The expropriation briefings will be held in three municipalities: Narita, Tako and Shibayama. Even after the project is certified, several more steps are required, including hearings by an expropriation committee."
-            ],
-            "hojosen": [
-              {
-                "title": "Narita's history",
-                "body": "Japan's cabinet decided to build Narita Airport in 1966, but fierce local opposition delayed its opening until 1978. Afterward, the national government took a path of negotiation instead of relying on compulsory expropriation, and Runway B stayed shorter than planned for a long time."
-              },
-              {
-                "title": "An airport expansion race",
-                "body": "Tokyo's other airport, Haneda, began using new flight routes over central Tokyo in 2020, and the number of takeoff and landing slots in the Tokyo area keeps growing. Major Asian airports are also adding runways, and Narita's expansion was planned amid that international competition."
-              }
-            ]
-          },
-          "namesEn": {
-            "国土交通省（公式）": "Ministry of Land, Infrastructure, Transport and Tourism (official)",
-            "日本経済新聞": "Nikkei"
-          }
-        },
-        {
-          "id": "issue-2026-10-22-s3",
-          "number": 3,
-          "title": "注文住宅の取得費が14年連続上昇し7293万円 延べ床は118.9m2で120m2割れ",
-          "summary": "住団連の2025年度調査で、注文住宅の建築費は平均4954万円、土地込みの取得費は7293万円と過去最高に。延べ床面積は118.9m2まで縮みました。",
-          "body": [
-            "住宅生産団体連合会（住団連）は、2025年度の「戸建注文住宅の顧客実態調査」をまとめました。主要な都市圏で注文住宅を建てた人の平均の建築費は4954万円で、前の年度より194万円上がりました。土地代を含めた住宅の取得費は7293万円で、14年連続の上昇となり、過去最高を更新しています。",
-            "一方で、家の大きさは小さくなっています。延べ床面積の平均は118.9m2で、前の年度の122.5m2から3.6m2減り、120m2を下回りました。延べ床面積は2015年度から縮小が続いています。物価高への対応を聞いた質問では、「住宅の面積を縮小した」と答えた人が51.3%と半数を超えました。",
-            "調査は今回で26回目で、有効回答は2709件です。住団連は、建築費の上昇に対して、建てる人が面積を抑えながら借入金を増やして対応しているとみています。"
-          ],
-          "commentary": "注文住宅を建てた人の半分が、「物価高で面積を減らした」と答えています。延べ床面積の平均は118.9m2。ざっくり36坪くらいで、ついに120m2を切りました。今回は1年で3.6m2の縮小です。3.6m2というと、畳2枚ちょっと。ちょうど納戸か、広めのウォークインクローゼット1つ分がなくなった計算です。ただ、僕は面積が減ること自体を悪いとは思わないんです。狭くても、なぜか居心地のいいカフェってありますよね。家の満足度も、広さだけでは決まりません。廊下を減らす、収納を壁の中にまとめる、天井の高さや窓の取り方で広く感じさせる。設計でできることは、まだたくさんあります。気になるのは、建築費と土地代を合わせた取得費が14年続けて上がっていることです。面積を削る工夫で吸収できる値上がりには、限界があります。小さく建てて、上手に暮らす。注文住宅は、そういう時代に入ったんだと思います。",
-          "briefing": [
-            "調査の有効回答2709件のうち、2560件は住団連の会員企業を通じて集めた回答です。住団連は大手ハウスメーカーなどで構成する業界団体です。",
-            "前の年度、2024年度の調査では建築費の平均は4760万円でした。1年で約200万円上がったことになります。",
-            "住宅の取得費は1年で287万円上がりました。住団連は、自己資金や親からの贈与を増やすのには限りがあるため、借入金で補う動きが強まっていると分析しています。"
-          ],
-          "sources": [
-            {
-              "name": "新建ハウジング",
-              "url": "https://www.s-housing.jp/archives/433344"
-            },
-            {
-              "name": "ハウジング・トリビューン",
-              "url": "https://htonline.sohjusha.co.jp/20261016-1/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "小さな家の工夫",
-              "body": "面積を抑えながら広く感じさせる手法には、廊下を減らした間取りや、吹き抜け、床の高さをずらすスキップフロアなどがあります。1m2あたりの建築費が上がるほど、1m2ごとの使い方の工夫が問われます。"
-            },
-            {
-              "title": "住宅ローンの重さ",
-              "body": "10月1日号でお伝えしたように、10月は大手銀行の変動金利型の住宅ローン金利が引き上げられました。借入金が増えるほど金利の上昇の影響は大きくなり、家の大きさや予算の決め方にも効いてきます。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "新建ハウジング",
-          "sourceURL": "https://www.s-housing.jp/archives/433344",
-          "shoComment": "",
-          "en": {
-            "title": "Japan's custom-home costs rise for a 14th straight year to ¥72.93 million as homes shrink",
-            "summary": "In a fiscal 2025 survey by the Japan Federation of Housing Organizations, the average construction cost of a custom-built home was ¥49.54 million and the total cost including land hit a record ¥72.93 million. Average floor area shrank to 118.9 m² (1,280 sq ft).",
-            "body": [
-              "The Japan Federation of Housing Organizations (Judanren), an industry group of major homebuilders and others, has compiled its fiscal 2025 survey of people who built custom detached homes, houses built to the owner's order rather than bought ready-made. In Japan's major metropolitan areas, the average construction cost was ¥49.54 million, up ¥1.94 million from the previous year. The total cost including land rose for the 14th year in a row to ¥72.93 million, a record high.",
-              "Homes, meanwhile, are getting smaller. Average floor area was 118.9 m² (1,280 sq ft), down 3.6 m² (39 sq ft) from 122.5 m² (1,320 sq ft) the year before, dipping below 120 m² (1,290 sq ft). Floor area has been shrinking since fiscal 2015. Asked how they responded to rising prices, 51.3% said they reduced the size of their home, more than half of respondents.",
-              "This was the 26th edition of the survey, with 2,709 valid responses. The federation believes that as construction costs rise, buyers are coping by keeping floor area down while borrowing more."
-            ],
-            "commentary": "Half of the people who built a custom home said they cut its size because of rising prices. Average floor area was 118.9 m² (1,280 sq ft). That's roughly 36 tsubo, the traditional Japanese unit of about 3.3 m² (35.6 sq ft) still used for homes, and it has finally slipped under 120 m² (1,290 sq ft). This year's drop was 3.6 m² (39 sq ft). That's a little over two tatami mats, the straw mats Japanese rooms are measured in, or exactly one storage room or a roomy walk-in closet gone. But I don't think a smaller home is a bad thing in itself. You know those small cafes that somehow feel really comfortable, right? How happy you are with a home isn't decided by size alone either. Cut down on hallways, build storage into the walls, use ceiling height and window placement to make rooms feel bigger. There's still plenty design can do. What worries me is that the total cost, building plus land, has gone up 14 years in a row. There's a limit to how much of that increase you can absorb by trimming space. Build small, live well. I think custom homes have entered that kind of era.",
-            "briefing": [
-              "Of the 2,709 valid responses, 2,560 were collected through the federation's member companies. The federation is an industry group made up of major homebuilders and others.",
-              "In the previous survey, for fiscal 2024, the average construction cost was ¥47.6 million. That means it rose by about ¥2 million in a year.",
-              "The total cost of acquiring a home rose ¥2.87 million in a year. The federation's analysis is that because there are limits to how much buyers can increase their own savings or gifts from parents, they are increasingly making up the difference with loans."
-            ],
-            "hojosen": [
-              {
-                "title": "Small-house tricks",
-                "body": "Ways to make a home feel bigger without adding floor area include layouts with fewer hallways, double-height voids, and skip floors, which shift floor levels against each other. The higher the construction cost per square meter, the more thought each square meter demands."
-              },
-              {
-                "title": "The weight of mortgages",
-                "body": "As we reported on Oct 1, major banks raised their variable mortgage rates in October. The more you borrow, the harder rising rates hit, and that also shapes how buyers decide on home size and budget."
-              }
-            ]
-          },
-          "namesEn": {
-            "ハウジング・トリビューン": "Housing Tribune",
-            "新建ハウジング": "Shinkenchiku Housing"
           }
         }
       ]
