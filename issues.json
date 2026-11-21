@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "文化庁（公式）",
           "sourceURL": "https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/94458401.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Japan's architecture festivals gather in Tokyo's Ginza as the Agency for Cultural Affairs opens LinkArchiScape 2026",
+            "summary": "LinkArchiScape 2026, run by Japan's Agency for Cultural Affairs, opened on Nov 21 at Ginza Sony Park in central Tokyo. It uses video to introduce four architecture festivals, in Tsuyama, Osaka, Nagoya and Tokyo, and runs through Nov 23.",
+            "body": [
+              "The festival exhibition of LinkArchiScape 2026, an architecture tourism event run by the Agency for Cultural Affairs, the Japanese government body in charge of culture and heritage, opened on Nov 21 at Ginza Sony Park in Tokyo's Ginza shopping district. It runs for three days through Monday, Nov 23, a national holiday, and admission is free. The event was first held in Kyoto in 2025, and this is its second edition.",
+              "Of the architecture festivals spreading across Japan, events where buildings that are normally closed open their doors to the public for a few days, the exhibition focuses on four: the Tsuyama Architecture Festival, the Living Architecture Museum Festival Osaka, the Nagoya Architecture Festival and the Tokyo Architecture Festival. Photographs of buildings in each region are turned into video through programming, showing each building's features, where it stands and how it relates to its community.",
+              "A talk event will follow on Dec 12 in the auditorium of Jiyu Gakuen Myonichikan in Tokyo's Ikebukuro area. It has room for 200 people and requires advance registration by Nov 30. If there are more applicants than seats, attendees will be chosen by lottery."
+            ],
+            "commentary": "Under the streets of Ginza, buildings from Tsuyama, Osaka, Nagoya and Tokyo now sit side by side. LinkArchiScape 2026, which opened yesterday, is an exhibition that lets you compare Japan's architecture festivals in one room. An architecture festival is a kind of celebration where buildings that are usually closed open their doors for just one weekend. Sometimes you can even walk into a company boardroom or a bank vault. What catches my attention is that the organizer is the Agency for Cultural Affairs. Until now, these festivals have spread thanks to local volunteers and the cooperation of building owners. Now the national government has started backing them as a pillar of tourism. That's what this means. The venue, Ginza Sony Park, stands on the site of the former Sony Building. A place where a well-known building was torn down is now showing off systems for keeping buildings standing. It's a pairing that makes you think a little. The venue is open until 5 p.m. tomorrow, Nov 23.",
+            "briefing": [
+              "The exhibition is open from 11 a.m. to 7 p.m., except on the final day, Nov 23, when it closes at 5 p.m. It is on the first basement floor of Ginza Sony Park.",
+              "The Dec 12 talk event has 200 seats, and registration closes at 5 p.m. on Nov 30. Those selected will receive a separate confirmation email.",
+              "The event is organized by the Agency for Cultural Affairs with the cooperation of Jiyu Gakuen Myonichikan, and planning and production are handled by KYO-ZON Co., Ltd."
+            ],
+            "hojosen": [
+              {
+                "title": "Architecture festivals spread",
+                "body": "Architecture festivals, which open buildings to the public for a limited time, were pioneered by events such as Osaka's Living Architecture Museum Festival and have since spread to Nagoya, Kyoto, Tokyo and other cities. In 2026, Kitakyushu held its first one too. In many cases, the number of participating buildings grows with each edition."
+              },
+              {
+                "title": "Two buildings, two stories",
+                "body": "Ginza Sony Park, the exhibition venue, opened in January 2025 on the site of the former Sony Building, completed in 1966 and designed by Yoshinobu Ashihara. Jiyu Gakuen Myonichikan, the venue for the talk, was designed by Frank Lloyd Wright and is a national Important Cultural Property, Japan's main heritage designation for buildings. It has been preserved while being used for weddings and lectures."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-22-s2",
@@ -97,7 +122,32 @@
           "reliability": "高",
           "sourceName": "日本経済新聞",
           "sourceURL": "https://www.nikkei.com/article/DGXZQOUC140J50U6A111C2000000/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Insurers halt new sales via Tama Home over suspected fire insurance fraud",
+            "summary": "After employees at Tama Home's Takamatsu branch were suspected of filing fraudulent fire insurance claims, Sompo Japan stopped selling new policies through the homebuilder from Nov 19. Tama Home plans to close its insurance agency business.",
+            "body": [
+              "Major non-life insurers are taking action after it emerged that employees at the Takamatsu branch of Tama Home, a Japanese homebuilder, are suspected of fraudulently claiming fire insurance payouts on homes. Sompo Japan stopped selling new policies through Tama Home on Nov 19. Mitsui Sumitomo Insurance and Tokio Marine & Nichido Fire Insurance are reported to be moving in the same direction. Takamatsu is the capital of Kagawa Prefecture, on the island of Shikoku.",
+              "According to reports, the suspected methods include fictitious claims, which reused photos from past incidents to make up damage that did not exist, and inflated claims, which estimated repair costs higher than they really were. The Takamatsu branch alone is thought to account for about 340 cases, with losses on the order of ¥23 million, and the practice is said to have gone on since around 2020 at the latest.",
+              "On Nov 14, Tama Home announced that it had told the insurers it intends to close its insurance agency business. It is investigating all of its branches for similar cases and is considering bringing in outside experts. For existing policyholders, the company says it expects to transfer them to another insurance agency."
+            ],
+            "commentary": "About 340. That's the number of claims under suspicion at the Takamatsu branch alone. In Japan, homebuilders often also act as the sales window for fire insurance when they build a house. If a typhoon damages your roof, you file a claim, and the same company does the repair. For the customer, it's easy to handle everything in one place, right? But this setup has a weak point. The people who check the damage and the people who make money from the repair sit inside the same company. Reports also point out that a bonus system tied to orders may have encouraged the fraud. A single photo from a site feeds directly into both the insurance payout and the construction fee. Without a brake on that, this kind of thing can happen. The investigation is still underway, and the full picture has yet to come out. Should the people who assess damage be separated from the people who fix it? What do you think?",
+            "briefing": [
+              "An internal investigation reportedly found about 250 fictitious claims using reused photos and about 90 inflated claims priced above the actual damage. The insurers that suffered losses are reported to be Tokio Marine & Nichido, Mitsui Sumitomo Insurance and Sompo Japan.",
+              "Kyodo News reported that insurance money received through fictitious claims is suspected of having been booked as sales, as payment for construction work. The company has declined to give details, saying it is still investigating the individual reports.",
+              "A fire insurance policy itself is a contract between the policyholder and the insurer. Even if the agency changes, policies are not said to become void across the board."
+            ],
+            "hojosen": [
+              {
+                "title": "Repairs paid by insurance",
+                "body": "In Japan, fire insurance policies often include coverage for wind and snow damage, which can pay to repair roofs and walls harmed by typhoons or heavy snow. At the same time, trouble with contractors who pitch homeowners by saying insurance will make repairs effectively free has long been a problem in many areas. What sets this case apart is that the suspected fraud took place at a branch of the homebuilder itself."
+              },
+              {
+                "title": "Agent and builder in one",
+                "body": "It is not unusual for housing companies to double as insurance agents, and the advantage is that customers can handle insurance at the time of building and later repairs through a single window. But because the role of assessing damage overlaps with the role of earning money from repairs, the company's internal checks come into question. Insurers are reported to have asked for an objective investigation by a third-party committee."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-22-s3",
@@ -142,7 +192,32 @@
           "reliability": "高",
           "sourceName": "e-architect",
           "sourceURL": "https://www.e-architect.com/awards/world-architecture-festival-2026-winners",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "World Architecture Festival names an Indian university building that evokes stepwells World Building of the Year",
+            "summary": "At the World Architecture Festival in Florida on Nov 20, the top prize went to a building at Prestige University in Indore, India, designed by Sanjay Puri Architects.",
+            "body": [
+              "The World Architecture Festival (WAF) 2026, which judges new architecture from around the world, was held Nov 18 to 20 in Fort Lauderdale, Florida. At the awards on the evening of Nov 20, World Building of the Year, the festival's top prize, went to a building at Prestige University in Indore, India, designed by the Indian firm Sanjay Puri Architects.",
+              "The building first won its category, Higher Education and Research, and was then chosen for the top prize from among the category winners. Its five levels hold administrative offices, an open-air auditorium, seminar halls, a library and a cafeteria.",
+              "The building rises gradually from the approach side, reaching 28 m (92 ft) at its highest point. The whole thing looks like a never-ending flight of stairs, and its design is described as recalling India's traditional stepwells, which descend to underground water sources."
+            ],
+            "commentary": "This is a school building where stairs just keep going, all the way up to 28 m (92 ft). It won the top prize at this year's World Architecture Festival. The motif is India's stepwell. It's a well dug dozens of steps down into the ground to reach water. This building looks like that staircase flipped to face the sky. Normally stairs are just a passage to get to the next floor, right? But if the steps are wide, they become a place to sit, talk, or even listen to a lecture. Think of the big staircase at Kyoto Station, where people sit down to rest. That picture makes it easy to understand. Combining a passage and a place to stay is an idea that pays off most in buildings with limited land or budget. Next time you pass a big staircase at a station or shopping mall, take a moment to look at whether it's a passage or a place to stay.",
+            "briefing": [
+              "The awards were presented on Nov 20 at a gala dinner held at the Broward County Convention Center, the festival venue. The top prize is chosen after the category winners give their presentations again.",
+              "At the same ceremony, &Matcha Three Yards was named World Interior of the Year, the top prize for interiors.",
+              "The 2025 top prize went to a church and community center at Las Chumberas by Spanish architect Fernando Menis. The 2025 festival was held in Miami, so this was the second year in a row in Florida."
+            ],
+            "hojosen": [
+              {
+                "title": "What WAF is",
+                "body": "The World Architecture Festival is an international architecture award that judges completed buildings and planned projects by category. Designers who make the shortlist present their work live in front of the jury at the festival. In 2026, 416 projects from around the world were shortlisted."
+              },
+              {
+                "title": "Indian architecture stands out",
+                "body": "In 2026, Indian architecture drew attention, winning in two categories. Stepwells are said to have served not only as a source of water but also as places where people gathered in the coolness below ground, and contemporary designers often take them as a theme."
+              }
+            ]
+          }
         }
       ]
     },
@@ -6837,7 +6912,12 @@
         "issue-2026-11-18",
         "issue-2026-11-17",
         "issue-2026-11-16"
-      ]
+      ],
+      "en": {
+        "title": "This week in Japanese architecture",
+        "dateRangeText": "Nov 16 – Nov 22",
+        "heroTitle": "The week the restoration of Shuri Castle's main hall was completed, MLIT, Japan's construction ministry, issued supervisory orders to two private building inspection bodies, and the Umekita Forest opened in front of Osaka Station. Plus the first rebuilt building on Wajima's morning market street, Takenaka's patent release, a music hall plan in Nishi-Shinjuku, a draft long-term vision for architecture, falling condo prices in the Tokyo area, and the top prize at the World Architecture Festival"
+      }
     },
     {
       "id": "feature-2026-w46",
