@@ -1,6 +1,153 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-23",
+      "date": "2026-11-23",
+      "weekday": "月",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-23-s1",
+          "number": 1,
+          "title": "続報：首里城正殿で復元完成式 焼失から7年、きょう一般公開 内部見学は予約制",
+          "summary": "焼失から7年、首里城正殿の復元完成式が22日に開かれました。23日から一般公開が始まり、正殿内部の見学は日時指定の事前予約制です。",
+          "body": [
+            "2019年10月の火災で焼失した那覇市の首里城正殿について、国が主催する復元完成式が11月22日午後、正殿前の広場「御庭（うなー）」で開かれました。琉球王国の祝いの踊り「かぎやで風」で幕を開け、木原稔官房長官や古謝玄太知事らが出席しました。",
+            "11月17日号では報道陣への内部公開をお伝えしましたが、きょう23日からいよいよ一般公開が始まります。正殿の内部は、30分ごとの日時を指定する事前予約制です。消防法で建物に入れる人数に上限があることと、観光客の集中を避けることが理由とされています。正殿の外観や、内部を除く有料区域は予約なしで見られます。",
+            "今回の「令和の復元」では、1992年の前回の復元以降に見つかった資料を取り入れ、往時の姿により近づけたとされています。柱や壁の朱色には、市販の顔料に代えて沖縄産の天然顔料「久志間切弁柄（くしまぎりべんがら）」が使われ、焼失前より深い色合いになりました。"
+          ],
+          "commentary": "同じ赤でも、色の素が変わると印象はがらりと変わります。前回の正殿は市販の顔料で塗られていて、少し明るい朱色でした。今回使われたのは、沖縄の川でとれる天然の顔料、久志間切弁柄です。王国の時代に使われていたものを、もう一度つくり直したんです。復元というと、形を写し取る仕事を思い浮かべますよね。でも実際は、色の素から彫刻の模様まで、資料を一つずつ当たっていく調べものの仕事でもあります。1992年の復元のあとに新しく見つかった写真や文書が、今回の設計に生かされました。焼けてしまったからこそ、前回より正確になれた。皮肉ですが、復元とはそういうものだと思うんです。入場料も大人400円から1000円に上がりました。深い朱色の正殿は、きょうから誰でも見られます。",
+          "briefing": [
+            "個人の入場料は、大人1000円、高校生760円、小・中学生370円で、6歳未満は無料です。70歳以上の県民や障がい者手帳を持つ人は無料ですが、正殿内部の見学には予約が必要です。",
+            "個人の予約はウェブサイトで受け付けており、1回の決済で9枚まで買えます。2027年1月1日以降の入場分は、入場予定日の2か月前の1日午後1時から販売されます。",
+            "団体による正殿内部の見学は当面、予約フォームからの抽選制で、11月23日から12月6日までの分は受け付けていません。",
+            "復元工事は清水建設、國場組、大米建設の共同企業体が担当し、2026年9月末に工事を終えています。"
+          ],
+          "sources": [
+            {
+              "name": "清水建設（公式）",
+              "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026051.html"
+            },
+            {
+              "name": "琉球新報",
+              "url": "https://ryukyushimpo.jp/news/entry-5610958.html"
+            },
+            {
+              "name": "traicy",
+              "url": "https://www.traicy.com/posts/20260814379116/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "色の素を探す",
+              "body": "今回採用された久志間切弁柄は、川にすむ鉄バクテリアがつくる赤い沈殿物を原料にした顔料とされています。歴史的な建物の復元では、形だけでなく塗料や瓦の原料まで当時に近づけようとする動きが強まっており、材料を確保して作り方を復活させること自体が大きな仕事になります。"
+            },
+            {
+              "title": "見学の予約制",
+              "body": "人気の文化財や美術館では、混雑を避けるために日時指定の予約制を取り入れる例が増えています。木造の文化財は、火災のときの避難を考えると一度に入れる人数に限りがあり、建物を守ることと多くの人に見てもらうことの両立が課題になってきました。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "清水建設（公式）",
+          "sourceURL": "https://www.shimz.co.jp/company/about/news-release/2026/2026051.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-23-s2",
+          "number": 2,
+          "title": "柏崎刈羽原発の建設現場で作業員がガラスの下敷きになり死亡 東電が全工事を中止",
+          "summary": "柏崎刈羽原発で建設中の事務本館の現場で、作業員が倒れてきたガラス十数枚の下敷きになり死亡。東電は全工事を止めました。",
+          "body": [
+            "新潟県の東京電力柏崎刈羽原子力発電所で11月22日、建設中の事務本館の現場で作業をしていた38歳の男性が、倒れてきたガラス十数枚の下敷きになり、搬送先の病院で死亡が確認されました。男性は下請けのガラス会社の社員だったと報じられています。",
+            "報道によると、男性は同僚1人と、搬入された窓ガラスの荷ほどきや枚数の確認をしていました。現場は原子炉に関係する建物ではないとされ、警察が事故の原因を調べています。",
+            "東京電力は、安全が確認できるまで発電所の工事をすべて中止すると発表しました。中止の対象には、テロ対策施設の工事も含まれます。"
+          ],
+          "commentary": "窓ガラスは、建物に取り付けられてしまえば静かな板です。でも現場に届いた直後は、重たい荷物そのものなんです。ガラスの重さは、同じ大きさのコンクリート板とほとんど変わりません。たとえば厚さ12ミリで1.5メートル角なら、計算上1枚で60キロを超えます。それが十数枚、まとめて立てかけてあるわけです。現場では、ガラスは専用の架台に斜めに立てて置き、倒れないように固定するのが基本です。荷ほどきや検品は、その固定をいったん緩める作業でもあります。高所からの転落や重機の事故に比べると、目立ちにくい危険かもしれません。今回の原因はまだ調査中で、何が起きたのかは分かっていません。荷を受け取る一番最初の作業の安全を、現場の誰が設計しているのか。そこが問われているんじゃないでしょうか。",
+          "briefing": [
+            "作業の内容について、多くの報道は「荷ほどき」と伝えていますが、NHKは「検品作業」と報じています。いずれも、現場に届いたガラスを扱う段階での事故です。",
+            "東京電力は、発電所で進めているテロ対策施設を含むすべての工事を止め、安全を確認してから再開する方針です。",
+            "日本経済新聞は、7号機のテロ対策施設の完成が遅れた場合、国内で稼働できる原発が一時的にゼロになる可能性があると伝えています。"
+          ],
+          "sources": [
+            {
+              "name": "日本経済新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOCC2222X0S6A121C2000000/"
+            },
+            {
+              "name": "新潟日報",
+              "url": "https://www.niigata-nippo.co.jp/articles/-/947677"
+            },
+            {
+              "name": "NHK",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261122de80075"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "重層下請けの現場",
+              "body": "大規模な建設現場では、元請けの下に設備や内装、ガラスなど専門の会社が何層にも連なって作業します。資材の搬入や荷ほどきのように会社と会社の境目で起きる作業は、誰が段取りと安全を管理するのかがあいまいになりやすいと指摘されてきました。"
+            },
+            {
+              "title": "見えにくい労災",
+              "body": "建設業の死亡災害は墜落・転落が最も多く、対策もそこに集中してきました。一方で、資材の倒壊や崩壊による事故も毎年起きており、置き方や固定の方法といった地味な手順の徹底が、事故を防ぐうえで欠かせません。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "日本経済新聞",
+          "sourceURL": "https://www.nikkei.com/article/DGXZQOCC2222X0S6A121C2000000/",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-23-s3",
+          "number": 3,
+          "title": "英Dezeen Awards、2026年の建築部門最高賞に神奈川の森のサウナ",
+          "summary": "英デザイン誌が主催するDezeen Awards 2026で、神奈川県の森に建つサウナが建築部門の最高賞「今年の建築プロジェクト」に選ばれました。",
+          "body": [
+            "英国のデザイン誌Dezeenが主催する国際的な賞「Dezeen Awards 2026」で、神奈川県の森の中に建つ「Daichi Silent River Tree Sauna」が、建築部門の最高賞にあたる「Architecture Project of the Year」に選ばれました。受賞は11月中旬、ロンドンで開かれた授賞パーティーで発表されました。",
+            "設計したのは日本の建築事務所Daichi Incです。サウナは周囲の木々を建物の骨組みの中に通すようにつくられた「木の上のサウナ」で、ゲスト用のキャビンやほかのサウナを備えたリトリート施設「Daichi Silent River」の一角にあります。",
+            "このサウナは、レジャー・ウェルネス部門の賞もあわせて受賞しました。審査員は「美しくミニマルで、魂に触れるような精神性がある」と評しています。"
+          ],
+          "commentary": "森の木が、建物の骨組みを突き抜けています。今年のDezeen Awardsで、建築部門のいちばん上の賞を取ったのは、神奈川の森に建つサウナでした。ふつう建物は、木を切って場所を空けてから建てますよね。このサウナでは、周りの木々が建物の枠の中を通り抜けているんです。サウナで汗をかいて外に出ると、目の前が森。体と景色の境目がなくなるような体験を、建築でつくろうとしているわけです。この賞では去年も、レジャー・ウェルネス部門の作品が建築部門全体のトップに立ちました。美術館や庁舎のような大きな建物ではなく、小さな休むための建物が世界で評価される。建築の主役が少しずつ入れ替わっている、そういう流れの中にある受賞だと思います。",
+          "briefing": [
+            "このサウナは、Dezeen Awards 2026の一般投票でも、自分の部門で最も多くの票を集めました。審査員による賞と読者の投票の両方で選ばれた形です。",
+            "レジャー・ウェルネス部門の受賞作が建築部門全体の最高賞を取るのは、2年連続です。",
+            "Dezeen Awardsは英国のオンラインデザイン誌Dezeenが毎年開いている賞で、建築・インテリア・デザインの各部門ごとに「今年のプロジェクト」を選んでいます。"
+          ],
+          "sources": [
+            {
+              "name": "Dezeen",
+              "url": "https://www.dezeen.com/2026/11/16/dezeen-awards-2026-architecture-project-of-the-year-revealed/"
+            },
+            {
+              "name": "ADF Web Magazine",
+              "url": "https://www.adfwebmagazine.jp/en/architect/dezeen-awards-2026-architecture-winners/"
+            },
+            {
+              "name": "PRAGMATIKA.MEDIA",
+              "url": "https://pragmatika.media/news/sauna-sered-derev-u-iaponii-stala-arkhitekturnym-proiektom-roku-za-versiieiu-dezeen-awards-2026/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "サウナと建築",
+              "body": "日本では数年前からサウナの人気が続き、森や湖のそばに建つ小さなサウナ小屋が各地で生まれています。小さな建物は、構造や素材、景色の切り取り方を思い切って試しやすく、建築家にとって実験の場にもなっています。"
+            },
+            {
+              "title": "海外の賞と日本",
+              "body": "海外の建築賞やデザイン誌の賞では、日本の小規模な住宅や宿泊施設、休憩施設がたびたび評価されてきました。自然と建物の距離を近づける設計は、海外から見た日本の建築の特徴として受け止められることが多いテーマです。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "Dezeen",
+          "sourceURL": "https://www.dezeen.com/2026/11/16/dezeen-awards-2026-architecture-project-of-the-year-revealed/",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-22",
       "date": "2026-11-22",
       "weekday": "日",
@@ -6658,241 +6805,6 @@
           "namesEn": {
             "長崎国際テレビ（Yahoo!ニュース）": "Nagasaki International Television (Yahoo! News)",
             "長崎新聞": "Nagasaki Shimbun"
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-24",
-      "date": "2026-10-24",
-      "weekday": "土",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-24-s1",
-          "number": 1,
-          "title": "リニア談合で大成建設と鹿島に120日の営業停止 静岡工区の着工は来年3月以降に",
-          "summary": "国交省は10月23日、リニア談合事件で有罪が確定した大成建設と鹿島に120日間の営業停止を命令。JR東海は静岡工区の着工が来年3月以降になるとの見解です。",
-          "body": [
-            "国土交通省は10月23日、リニア中央新幹線の建設工事をめぐる談合事件で有罪が確定した大成建設と鹿島に対し、建設業法に基づく営業停止処分を出しました。期間は11月7日から2027年3月6日までの120日間で、対象は民間の土木工事です。この間、両社は新しい契約の締結や見積もり、交渉などができなくなります。",
-            "事件では、品川駅と名古屋駅の工事をめぐって、受注する会社を事前に決めていたとして独占禁止法違反の罪に問われました。最高裁が9月に両社の上告を退け、有罪判決が確定していました。",
-            "影響を受けるのが、着工できずにいた静岡工区です。大成建設を含む共同企業体はJR東海と工事契約の協議を進めていましたが、JR東海は処分を受けて「実質的に協議を進めることができない状況となった」と説明し、トンネル掘削の着手は早くても来年3月以降になるとの見解を示しました。営業停止が明けしだい、速やかに協議を再開する方針です。"
-          ],
-          "commentary": "120日。会社の看板はそのままでも、民間の土木工事について新しい仕事の話を一切できなくなる期間です。お店で例えるなら、営業は続けていいけれど、新しい予約は4か月間受け付けられない状態に近いと思います。今回効いてくるのは、静岡工区のトンネルです。県との長い協議を経て、ようやく工事の契約に向けて話が進み始めたところでした。その相手が大成建設を含む共同企業体だったんです。つまり、工事の中身ではなく、受注した会社の過去のルール違反で工程が止まる。大きなプロジェクトほど、限られた大手にしか任せられないので、1社がつまずくと全体が待つしかありません。談合は、仕事を順番に分け合う業界の古い慣行と結びついてきました。そのツケが、いま現場の工程表に回ってきています。営業停止が明けるのは、2027年3月6日です。",
-          "briefing": [
-            "処分の対象は「土木工事業」の民間工事で、11月7日から始まります。両社はコンプライアンス体制の強化を進めると表明しています。",
-            "静岡工区は約8.9kmの区間です。JR東海は、営業停止の影響で着工は遅れるものの、年内に開業時期を示すという方針は変えないとしています。",
-            "報道によると、処分によって年内のトンネル掘削開始は難しくなり、着工は来春以降にずれ込む見通しです。JR東海は両社に独占禁止法違反の事実が認定されたことについて「大変遺憾」とコメントしています。"
-          ],
-          "sources": [
-            {
-              "name": "日本経済新聞",
-              "url": "https://www.nikkei.com/article/DGXZQOFD230T50T21C26A0000000/"
-            },
-            {
-              "name": "中日新聞",
-              "url": "https://chunichi.co.jp/article/1329314"
-            },
-            {
-              "name": "KSB瀬戸内海放送（ANN）",
-              "url": "https://news.ksb.co.jp/ann/article/16990002"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "静岡工区の経緯",
-              "body": "リニアの静岡工区は、大井川の水資源や南アルプスの環境への影響をめぐって県との協議が長く続き、品川〜名古屋間で唯一着工できていない区間でした。協議が前に進み始めた矢先に、今度は施工会社側の事情で足止めされる形になりました。"
-            },
-            {
-              "title": "営業停止という処分",
-              "body": "建設業法の営業停止は、建設会社にとって最も重い行政処分の一つです。期間中も契約済みの工事は続けられますが、新しい受注に向けた営業ができないため、大手でも経営や受注計画への影響は小さくありません。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "日本経済新聞",
-          "sourceURL": "https://www.nikkei.com/article/DGXZQOFD230T50T21C26A0000000/",
-          "shoComment": "",
-          "en": {
-            "title": "Taisei and Kajima suspended for 120 days over maglev bid-rigging, delaying Shizuoka tunnel to March or later",
-            "summary": "On Oct 23, Japan's transport ministry ordered Taisei and Kajima, convicted in the Chuo Shinkansen maglev bid-rigging case, to suspend business for 120 days. JR Central says work on the Shizuoka section will not start until March next year at the earliest.",
-            "body": [
-              "The Ministry of Land, Infrastructure, Transport and Tourism (MLIT) on Oct 23 ordered Taisei Corporation and Kajima Corporation to suspend business under the Construction Business Act. Both companies' convictions in a bid-rigging case over construction of the Chuo Shinkansen, the maglev line that Central Japan Railway Company (JR Central) is building between Tokyo and Nagoya, have been finalized. The suspension runs for 120 days, from November 7 to March 6, 2027, and covers private-sector civil engineering work. During that period, the two companies cannot sign new contracts, submit estimates or negotiate deals.",
-              "In the case, the companies were charged under the Antimonopoly Act with deciding in advance which company would win the contracts for work at Shinagawa Station in Tokyo and at Nagoya Station. In September, the Supreme Court rejected both companies' appeals, finalizing their convictions.",
-              "The section hit hardest is the one in Shizuoka Prefecture, where construction has yet to begin. A joint venture that includes Taisei had been negotiating a construction contract with JR Central. After the suspension order, JR Central said it was “now effectively unable to move the negotiations forward,” and said tunnel excavation would begin no earlier than March next year. It plans to resume talks promptly once the suspension ends."
-            ],
-            "commentary": "120 days. The company sign stays up, but for that whole stretch the firm can't discuss any new private civil engineering work at all. If it were a shop, I'd say it's like being allowed to stay open but not being allowed to take any new reservations for four months. Where this really bites is the tunnel in Shizuoka. After long talks with the prefecture, negotiations toward a construction contract had finally started moving. And the other party at the table was the joint venture that includes Taisei. In other words, the schedule is stopping not because of anything about the work itself, but because of the contractor's past rule-breaking. The bigger the project, the fewer major firms you can trust it to, so when one company stumbles, the whole project has no choice but to wait. Bid-rigging, known in Japan as dango, has long been tied to the industry's old habit of taking turns handing out work. Now the bill for that is landing on the construction schedule. The suspension ends on March 6, 2027.",
-            "briefing": [
-              "The order covers private-sector projects in the civil engineering category of the companies' construction licenses and takes effect on November 7. Both companies have said they will strengthen their compliance systems.",
-              "The Shizuoka section is about 8.9 km (5.5 miles) long. JR Central says the suspension will delay the start of work, but it is sticking to its plan to announce an opening date for the line within this year.",
-              "According to media reports, the order makes it difficult to start tunnel excavation this year, and construction is expected to slip to next spring or later. JR Central called the finding that the two companies violated the Antimonopoly Act “extremely regrettable.”"
-            ],
-            "hojosen": [
-              {
-                "title": "How Shizuoka got stuck",
-                "body": "The Shizuoka section of the maglev line was held up for a long time by talks with the prefecture over the project's effects on the water resources of the Oi River and the environment of the Southern Alps. It was the only section between Shinagawa and Nagoya where construction had not started. Just as those talks began to move forward, the project has been held up again, this time by problems on the contractor's side."
-              },
-              {
-                "title": "What a suspension means",
-                "body": "A business suspension under the Construction Business Act is one of the heaviest administrative penalties a Japanese construction company can face. Work already under contract can continue, but the company cannot pursue new orders. Even for major firms, the impact on business and order plans is significant."
-              }
-            ]
-          },
-          "namesEn": {
-            "KSB瀬戸内海放送（ANN）": "KSB Setonaikai Broadcasting (ANN)",
-            "中日新聞": "Chunichi Shimbun",
-            "日本経済新聞": "Nikkei"
-          }
-        },
-        {
-          "id": "issue-2026-10-24-s2",
-          "number": 2,
-          "title": "大阪の建物224件が扉を開く「イケフェス大阪2026」きょう開幕 過去最多の参加",
-          "summary": "大阪の建物を一斉に公開する「イケフェス大阪2026」が10月24・25日のメイン期間に入りました。13回目の今年は過去最多の224件が参加します。",
-          "body": [
-            "大阪のまちの建物を無料で公開する「生きた建築ミュージアムフェスティバル大阪（イケフェス大阪）2026」が、きょう10月24日から25日までのメイン期間を迎えます。13回目となる今年は、過去最多の224件の建物などが参加を予定しています。",
-            "会期は、20日から23日までのプレ期間、24・25日のメイン期間、26日から30日までのアフター期間に分かれています。建物ごとに公開日時や定員、予約の要否が異なり、ガイドツアーには事前の抽選申し込みが必要なものもあります。",
-            "大阪市役所本庁舎は、昨年に続いての参加です。普段は入れない正面玄関ホールの2階ギャラリーを24・25日に特別公開するほか、関係者以外は入れない部屋や屋上を巡るガイドツアーも予定しています。1928年竣工の原田産業大阪本社も、ふだんは業務で使っているため一般公開していない社屋を公開します。"
-          ],
-          "commentary": "皆さん、毎日通る道のビルの中に入ったことってありますか。外から見るだけで、入口の先は知らない。そういう建物が、街にはたくさんあるんです。イケフェス大阪は、その扉を2日間だけ一斉に開けるお祭りです。今年は224件。銀行の本店、昔からある会社の社屋、市役所まで並びます。建物の楽しみ方の一つに、「天井の高さ」があります。昔のオフィスビルは、天井が今よりずっと高いことが多い。エアコンのない時代に、空気を溜めて夏の暑さをしのぐための工夫でもあったんです。原田産業の大阪本社は1928年の竣工で、いまも社員が働く現役のビルです。保存された建物を「見学する」のではなく、使われている建物に「お邪魔する」。そこが他の公開イベントとの違いだと思います。今週末に大阪の街を歩くなら、玄関に入ったらまず真上を見上げてみてください。",
-          "briefing": [
-            "大阪市役所本庁舎の2階ギャラリーの公開は、24日が10時から17時、25日が10時から16時です。25日には、ふだんは鳴らせない「みおつくしの鐘」を鳴らせるツアーも予定されています（事前申込・抽選）。",
-            "市役所本庁舎1階ホールでは、10月20日から30日まで、大阪のまちや建築に関する展示やワークショップが行われます。ワークショップと一部展示を除き、予約は不要です。",
-            "市役所本庁舎は2025年に初めてイケフェスに参加し、今年が2回目です。参加建物の一覧や各プログラムの申し込み状況は、公式サイトや公式ガイドブックで確認できます。"
-          ],
-          "sources": [
-            {
-              "name": "大阪市（公式）",
-              "url": "https://www.city.osaka.lg.jp/hodoshiryo/toshiseibi/0000685432.html"
-            },
-            {
-              "name": "ADF Web Magazine",
-              "url": "https://www.adfwebmagazine.jp/architect/open-house-osaka-2026-to-be-held-in-october/"
-            },
-            {
-              "name": "原田産業（公式・オリコンニュース掲載）",
-              "url": "https://www.oricon.co.jp/pressrelease/3023006/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "建物公開イベント",
-              "body": "建物を一斉に公開するイベントは、ロンドンの「オープンハウス・ロンドン」がよく知られ、世界各地に広がっています。日本でもイケフェス大阪のほか、東京や京都などで同じような取り組みが行われています。"
-            },
-            {
-              "title": "使いながら残す",
-              "body": "古い建物を残すとき、博物館のように使うのをやめて保存する方法と、現役の建物として使い続ける方法があります。イケフェスに参加する建物の多くは後者で、公開は持ち主の協力があって初めて成り立ちます。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "大阪市（公式）",
-          "sourceURL": "https://www.city.osaka.lg.jp/hodoshiryo/toshiseibi/0000685432.html",
-          "shoComment": "",
-          "en": {
-            "title": "A record 224 buildings open their doors in Osaka as Ikefes Osaka 2026 begins its main weekend",
-            "summary": "Ikefes Osaka 2026, which opens buildings across Osaka to the public at the same time, entered its main period on Oct 24 and 25. A record 224 buildings are taking part in this year's festival, the 13th.",
-            "body": [
-              "The Living Architecture Museum Festival Osaka 2026, known as Ikefes Osaka, which opens buildings across the city to the public free of charge, reaches its main period today, October 24, running through the 25th. A record 224 buildings and other sites are set to take part in this year's festival, the 13th edition.",
-              "The festival is split into a pre-period from the 20th to the 23rd, the main period on the 24th and 25th, and an after-period from the 26th to the 30th. Opening hours, capacity and reservation requirements differ from building to building, and some guided tours require entering a lottery in advance.",
-              "Osaka City Hall's main building is taking part again after joining last year. On the 24th and 25th, it is specially opening the second-floor gallery of its front entrance hall, which is normally closed to the public, and offering guided tours of staff-only rooms and the roof. Harada Sangyo is also opening its Osaka headquarters, completed in 1928, which is normally closed to the public because it is still used as offices."
-            ],
-            "commentary": "Have you ever been inside the buildings along a street you walk down every day? You see them from outside, but you have no idea what's past the entrance. Cities are full of buildings like that. Ikefes Osaka is a festival that throws those doors open all at once, for just two days. This year there are 224 of them: bank head offices, long-established company buildings, even City Hall. One way to enjoy a building is to look at its ceiling height. Older office buildings often have much higher ceilings than today's. In the days before air conditioning, that was partly a way to hold a large volume of air and get through the summer heat. Harada Sangyo's Osaka headquarters was completed in 1928, and its staff still work there every day. You're not touring a preserved building; you're dropping in on one that's still in use. I think that's what sets it apart from other open-house events. If you're walking around Osaka this weekend, step through the front door and look straight up first.",
-            "briefing": [
-              "The second-floor gallery at City Hall's main building is open from 10 a.m. to 5 p.m. on the 24th and from 10 a.m. to 4 p.m. on the 25th. On the 25th, there is also a tour where visitors can ring the Miotsukushi Bell, which normally cannot be rung (advance application required, chosen by lottery).",
-              "From October 20 to 30, the first-floor hall of City Hall's main building is hosting exhibits and workshops about Osaka's streets and architecture. No reservation is needed, except for the workshops and some exhibits.",
-              "City Hall's main building joined Ikefes for the first time in 2025, so this is its second year. The list of participating buildings and the booking status of each program can be checked on the official website and in the official guidebook."
-            ],
-            "hojosen": [
-              {
-                "title": "Open-house events",
-                "body": "Open House London is the best-known event that opens buildings to the public all at once, and the idea has spread around the world. In Japan, besides Ikefes Osaka, similar events are held in Tokyo, Kyoto and other cities."
-              },
-              {
-                "title": "Preserving by using",
-                "body": "There are two ways to keep an old building: stop using it and preserve it like a museum, or keep it in use as a working building. Most of the buildings in Ikefes take the second route, and opening them to the public is only possible with their owners' cooperation."
-              }
-            ]
-          },
-          "namesEn": {
-            "原田産業（公式・オリコンニュース掲載）": "HARADA CORPORATION (official, as listed on Oricon News)",
-            "大阪市（公式）": "Osaka City (official)"
-          }
-        },
-        {
-          "id": "issue-2026-10-24-s3",
-          "number": 3,
-          "title": "続報：マンション修繕談合で国交省の有識者会議が初会合 管理組合の発注を支える仕組みへ",
-          "summary": "国交省は10月19日、マンション大規模修繕の談合を受けた有識者会議を初開催。管理組合が適切に業者を選べる仕組みを議論し、年度末に対策をまとめます。",
-          "body": [
-            "国土交通省は10月19日、マンションの大規模修繕工事をめぐる談合を受けて、再発防止に向けた有識者会議の初会合を開きました。10月6日号でお伝えした、公正取引委員会による談合の認定と国交省の検討会設置の続報です。",
-            "公取委は9月、東京都と関東6県の大規模修繕工事計171件で談合があったとして、設計コンサルタント2社と施工業者40社の独占禁止法違反（不当な取引制限）を認定していました。会議では、住民でつくる管理組合が工事を発注するときに、適切な事業者を選べる仕組みづくりなどを議論します。年度末に対策を取りまとめる方針です。",
-            "会議は冒頭を除いて非公開でした。国交省によると、委員からは、管理組合には業者の選び方や見積金額が妥当かを判断する材料が足りないとの意見が出ました。談合のもとで工事が行われていたと分かったマンションの管理組合から、損害賠償の請求について相談が寄せられていることも紹介されました。"
-          ],
-          "commentary": "マンションの大規模修繕は、だいたい12年から15年に1回。足場が組まれ、建物全体が白いシートに包まれる、あの工事です。費用は住民が毎月積み立ててきた修繕積立金から出ます。発注するのは管理組合、つまり住民の代表です。ところが、住民の多くは建築の素人ですよね。見積もりが3社から出てきても、どれが適正なのか判断できない。だから設計コンサルタントに相談するのですが、今回はその相談相手の側まで談合に加わっていたと認定されました。家を売るときに査定を頼んだ不動産屋さんが、実は買い手と裏でつながっていた。そんな構図に近い話なんです。会議で「判断する材料が足りない」という声が出たのは、まさにそこだと思います。業者を選ぶ力を、住民の側にどう持たせるのか。あるいは住民に任せきりにしない仕組みをつくるのか。その線をどこに引くべきなのか、皆さんはどう思いますか。",
-          "briefing": [
-            "国交省は9月29日、業界団体に再発防止の取り組みを要請し、その際に有識者会議を設ける方針を明らかにしていました。",
-            "初会合の冒頭で、国交省の住宅局長は、管理組合の信頼を裏切る談合は許されないと述べました。会議では、大規模修繕工事の実態や、管理組合が持つ知識やノウハウが足りないことも共有されました。",
-            "有識者会議は、管理組合が気をつけるべきことや、適切な事業者を確保する方策を検討します。年度末の取りまとめのあと、2027年度以降の対応も含めて検討を続ける見通しです。"
-          ],
-          "sources": [
-            {
-              "name": "東京新聞（共同通信）",
-              "url": "https://www.tokyo-np.co.jp/article/522551"
-            },
-            {
-              "name": "テレ東BIZ",
-              "url": "https://txbiz.tv-tokyo.co.jp/wbs/news/post_350811"
-            },
-            {
-              "name": "TBS NEWS DIG（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/dc8b21cbb3531b890f7176a809817428fa7550b9"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "コンサルの役割",
-              "body": "大規模修繕では、管理組合が設計コンサルタントに建物の調査や工事の仕様づくり、業者選びの手伝いを頼む「設計監理方式」が広く使われています。本来は住民の側に立って工事費をチェックする役割で、そこが談合に関わったことが問題を深くしています。"
-            },
-            {
-              "title": "積立金不足の時代",
-              "body": "資材や人件費の上昇で修繕工事の費用は上がり続けており、修繕積立金が足りないマンションも少なくありません。国交省は長期修繕計画のガイドラインの見直しにも着手しており、修繕のお金と発注の仕組みの両方が問われています。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "東京新聞（共同通信）",
-          "sourceURL": "https://www.tokyo-np.co.jp/article/522551",
-          "shoComment": "",
-          "en": {
-            "title": "Update: Japan's expert panel on condo repair bid-rigging holds first meeting to back owners' associations",
-            "summary": "On Oct 19, Japan's transport ministry held the first meeting of an expert panel set up after bid-rigging on large-scale condominium repairs. It will discuss how to help owners' associations choose contractors and compile measures by the end of the fiscal year.",
-            "body": [
-              "The Ministry of Land, Infrastructure, Transport and Tourism (MLIT) held the first meeting of an expert panel on Oct 19 to prevent a repeat of bid-rigging on large-scale repair work for condominium buildings. This follows up on our Oct 6 report on the Japan Fair Trade Commission (JFTC) finding of bid-rigging and the ministry's plan to set up a review panel.",
-              "In September, the JFTC, Japan's antitrust watchdog, found bid-rigging on a total of 171 large-scale repair projects in Tokyo and six other prefectures in the surrounding Kanto region, and determined that two design consultants and 40 contractors had violated the Antimonopoly Act through unreasonable restraint of trade. The panel will discuss ways to help owners' associations, which are made up of residents, choose appropriate firms when they order repair work. The ministry plans to compile measures by the end of the fiscal year, which in Japan ends in March.",
-              "The meeting was closed to the public except for its opening. According to the ministry, panel members said owners' associations lack the information they need to decide how to choose contractors and whether estimates are reasonable. The ministry also noted that associations at condominiums found to have had work done under bid-rigging have been asking for advice about seeking damages."
-            ],
-            "commentary": "Large-scale repairs on a condominium building come around roughly once every 12 to 15 years. It's the job where scaffolding goes up and the whole building gets wrapped in white sheeting. The money comes from the repair reserve fund that residents have been paying into every month. And the one placing the order is the owners' association, in other words, representatives of the residents. But most residents aren't construction experts, right? Even if three companies hand in estimates, they can't tell which one is fair. That's why they turn to a design consultant for advice. This time, though, even that adviser was found to have joined in the bid-rigging. Imagine you're selling your home, and the real estate agent you asked for an appraisal turns out to be secretly working with the buyer. It's a setup a lot like that. When panel members said residents lack the information to judge, I think that's exactly the point. How do you give residents the ability to choose contractors? Or do you build a system that doesn't leave it all up to them? Where do you think that line should be drawn?",
-            "briefing": [
-              "On Sept 29, MLIT asked industry groups to take steps to prevent a recurrence, and at the time announced its plan to set up an expert panel.",
-              "At the start of the first meeting, the head of MLIT's Housing Bureau said bid-rigging that betrays the trust of owners' associations cannot be tolerated. The meeting also shared information on how large-scale repairs are actually carried out and on owners' associations' lack of knowledge and know-how.",
-              "The panel will look at what owners' associations should watch out for and at ways to secure appropriate contractors. After compiling its findings at the end of the fiscal year, it is expected to keep studying the issue, including steps for fiscal 2027 and beyond."
-            ],
-            "hojosen": [
-              {
-                "title": "The consultant's role",
-                "body": "In large-scale repairs, a common approach is the design-and-supervision method, in which an owners' association hires a design consultant to survey the building, draw up the work specifications and help choose a contractor. The consultant is supposed to be on the residents' side, checking construction costs, which is why its involvement in bid-rigging makes the problem so serious."
-              },
-              {
-                "title": "Reserve funds running short",
-                "body": "Rising material and labor costs keep pushing up the price of repair work, and many condominiums don't have enough in their repair reserve funds. MLIT has also begun revising its guidelines for long-term repair plans. Both the money for repairs and the way the work is ordered are now being called into question."
-              }
-            ]
-          },
-          "namesEn": {
-            "TBS NEWS DIG（Yahoo!ニュース）": "TBS NEWS DIG (Yahoo! News)",
-            "テレ東BIZ": "TV Tokyo BIZ",
-            "東京新聞（共同通信）": "Tokyo Shimbun (Kyodo News)"
           }
         }
       ]
