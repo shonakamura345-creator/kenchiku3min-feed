@@ -53,7 +53,33 @@
           "reliability": "高",
           "sourceName": "清水建設（公式）",
           "sourceURL": "https://www.shimz.co.jp/company/about/news-release/2026/2026051.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Update: Shuri Castle's restored main hall in Okinawa celebrates completion and opens to the public today",
+            "summary": "Seven years after it burned down, the main hall of Shuri Castle in Naha, Okinawa, marked the completion of its restoration with a ceremony on Nov 22. Public viewing starts Nov 23, and entry to the interior requires an advance reservation.",
+            "body": [
+              "A government-hosted ceremony marking the completed restoration of the Seiden, the main hall of Shuri Castle in Naha, was held on the afternoon of Nov 22 in the Una, the courtyard in front of the hall. Shuri Castle was the royal seat of the Ryukyu Kingdom, which ruled Okinawa before it became part of Japan, and the main hall was destroyed by fire in October 2019. The ceremony opened with Kagiyadefu, a celebratory dance from the Ryukyu court, and was attended by Chief Cabinet Secretary Minoru Kihara and Okinawa Governor Genta Koja, among others.",
+              "As we reported on Nov 17, when the interior was shown to the press, the hall opens to the general public today, Nov 23. Entry to the interior is by advance reservation, with time slots every 30 minutes. The reasons given are a cap under the Fire Service Act on how many people can be inside the building at once, and a wish to avoid overcrowding by tourists. The exterior of the hall and the paid areas outside the interior can be visited without a reservation.",
+              "This restoration, known as the Reiwa restoration after Japan's current imperial era, drew on records found after the previous restoration in 1992 to bring the building closer to its historical appearance. For the vermilion of the columns and walls, a natural pigment from Okinawa called Kushimagiri bengara replaced the commercial pigment used before, giving a deeper color than the hall had before the fire."
+            ],
+            "commentary": "The same red can look completely different when what it's made from changes. The previous main hall was painted with a commercial pigment, and its vermilion was a little brighter. This time they used Kushimagiri bengara, a natural pigment taken from a river in Okinawa. It's the pigment used in the days of the kingdom, made again from scratch. When you hear the word restoration, you probably picture copying a shape, right? But in practice it's also research work, checking records one by one, from what the paint is made of to the patterns of the carvings. Photos and documents found after the 1992 restoration were put to use in this design. Because it burned, it could become more accurate than last time. It's ironic, but I think that's what restoration is. The admission fee for adults has also gone up, from ¥400 to ¥1,000. Starting today, anyone can see the main hall in its deep vermilion.",
+            "briefing": [
+              "Individual admission is ¥1,000 for adults, ¥760 for high school students and ¥370 for elementary and junior high students, and free for children under 6. Okinawa residents aged 70 and over and holders of disability certificates get in free, but they still need a reservation to enter the main hall.",
+              "Individual reservations are taken online, and up to nine tickets can be bought in one payment. Tickets for visits on or after Jan 1, 2027 go on sale at 1 p.m. on the first day of the month two months before the visit date.",
+              "For now, group visits to the interior of the main hall are handled by lottery through a reservation form, and no group bookings are being accepted for Nov 23 through Dec 6.",
+              "The restoration work was carried out by a joint venture of Shimizu Corporation, Kokuba-gumi and Daibei Construction, which finished construction at the end of September 2026."
+            ],
+            "hojosen": [
+              {
+                "title": "Searching for the pigment",
+                "body": "Kushimagiri bengara, the pigment used this time, is said to be made from a red sediment produced by iron bacteria living in a river. In restoring historic buildings, there is a growing push to match not only the shapes but also the raw materials of paints and roof tiles to the originals, and securing materials and reviving how they were made is a major job in itself."
+              },
+              {
+                "title": "Reservations for visits",
+                "body": "More popular heritage sites and museums in Japan are introducing timed reservations to avoid crowding. In wooden heritage buildings, the number of people who can be inside at once is limited by the need to evacuate in a fire, and balancing protection of the building with letting many people see it has become a challenge."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-23-s2",
@@ -98,7 +124,32 @@
           "reliability": "高",
           "sourceName": "日本経済新聞",
           "sourceURL": "https://www.nikkei.com/article/DGXZQOCC2222X0S6A121C2000000/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Worker killed under falling glass at construction site at Japan's Kashiwazaki-Kariwa nuclear plant; TEPCO halts all work",
+            "summary": "At the Kashiwazaki-Kariwa nuclear plant in Niigata, a worker on the site of a new office building under construction died after a dozen or so panes of glass fell on him. TEPCO, the plant's operator, has stopped all construction at the plant.",
+            "body": [
+              "On Nov 22, at Tokyo Electric Power Company's (TEPCO) Kashiwazaki-Kariwa Nuclear Power Station in Niigata Prefecture, on the Sea of Japan coast, a 38-year-old man working on the site of the main office building under construction was pinned under a dozen or so panes of glass that toppled onto him. He was confirmed dead at the hospital he was taken to. Reports say he was an employee of a glass company working as a subcontractor.",
+              "According to reports, the man was unpacking window glass that had been delivered and checking the number of panes together with one coworker. The site is said not to be a building related to the reactors, and police are investigating the cause of the accident.",
+              "TEPCO announced that it would halt all construction work at the plant until safety can be confirmed. The halt includes work on the plant's anti-terrorism facilities."
+            ],
+            "commentary": "Once it's installed in a building, window glass is just a quiet pane. But right after it arrives on site, it's a heavy load. Glass weighs almost the same as a concrete slab of the same size. For example, a pane 12 mm (about half an inch) thick and 1.5 m (4.9 ft) square works out to more than 60 kg (130 lb) on paper. And a dozen or so of those are standing together, leaning against each other. On a site, the basic rule is to stand glass at an angle on a dedicated rack and secure it so it can't fall. Unpacking and checking deliveries also means loosening that restraint for a while. Compared with falls from height or accidents with heavy machinery, it may be a danger that's harder to notice. The cause in this case is still under investigation, and what happened is not yet known. Who on the site is actually designing the safety of the very first task, receiving the load? Isn't that the question being asked here?",
+            "briefing": [
+              "Most reports describe the work as unpacking, while NHK, Japan's public broadcaster, reported it as inspecting the delivery. Either way, the accident happened at the stage of handling glass that had just arrived on site.",
+              "TEPCO plans to stop all construction under way at the plant, including the anti-terrorism facilities, and resume only after confirming safety.",
+              "The Nikkei newspaper reports that if completion of the anti-terrorism facilities for Unit 7 is delayed, the number of nuclear plants able to operate in Japan could temporarily fall to zero."
+            ],
+            "hojosen": [
+              {
+                "title": "Layers of subcontractors",
+                "body": "On large construction sites, specialist firms for equipment, interiors, glass and more work in many layers beneath the general contractor. It has long been pointed out that for tasks that fall on the boundaries between companies, such as delivering and unpacking materials, it tends to be unclear who manages the arrangements and safety."
+              },
+              {
+                "title": "Accidents that get less attention",
+                "body": "Falls from height are the most common cause of fatal accidents in Japan's construction industry, and safety measures have focused there. But accidents in which materials topple or collapse also happen every year, and sticking to unglamorous procedures, such as how materials are stored and secured, is essential to preventing them."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-23-s3",
@@ -143,7 +194,32 @@
           "reliability": "高",
           "sourceName": "Dezeen",
           "sourceURL": "https://www.dezeen.com/2026/11/16/dezeen-awards-2026-architecture-project-of-the-year-revealed/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Forest sauna in Kanagawa, Japan, wins top architecture prize at the Dezeen Awards 2026",
+            "summary": "At the Dezeen Awards 2026, run by the British design magazine Dezeen, a sauna in a forest in Kanagawa Prefecture, Japan, was named Architecture Project of the Year, the top prize in the architecture category.",
+            "body": [
+              "At the Dezeen Awards 2026, an international prize run by the British design magazine Dezeen, the Daichi Silent River Tree Sauna, which stands in a forest in Kanagawa Prefecture, southwest of Tokyo, was named Architecture Project of the Year, the top prize in the architecture category. The win was announced in mid-November at an awards party in London.",
+              "It was designed by the Japanese architecture studio Daichi Inc. The sauna is a tree-top sauna built so that the surrounding trees pass through the building's frame. It is part of Daichi Silent River, a retreat that also has guest cabins and other saunas.",
+              "The sauna also won the leisure and wellness project of the year award. The judges called it \"beautifully minimalist with a spiritual touch of the soul.\""
+            ],
+            "commentary": "Trees from the forest run straight through the building's frame. The top prize in the architecture category at this year's Dezeen Awards went to a sauna standing in a forest in Kanagawa. Normally, you cut the trees down to clear space before you build, right? In this sauna, the surrounding trees pass through the inside of the building's frame. You sweat in the sauna, step outside, and the forest is right in front of you. The idea is to use architecture to create an experience where the line between your body and the landscape disappears. At this award, a leisure and wellness project also took the top spot in the whole architecture category last year. Not a big building like a museum or a city hall, but a small building made for resting, is being recognized worldwide. I think this win is part of a shift in which the lead roles in architecture are slowly changing hands.",
+            "briefing": [
+              "The sauna also won its category in the Dezeen Awards 2026 public vote. That means it was chosen both by the judges and by readers' votes.",
+              "This is the second year in a row that the winner of the leisure and wellness category has taken the top prize for the whole architecture category.",
+              "The Dezeen Awards are held every year by Dezeen, a British online design magazine, and name a project of the year in each of its architecture, interiors and design categories."
+            ],
+            "hojosen": [
+              {
+                "title": "Saunas and architecture",
+                "body": "Saunas have stayed popular in Japan for several years, and small sauna huts beside forests and lakes have been appearing around the country. Small buildings make it easy to experiment boldly with structure, materials and how views are framed, so they also serve as a testing ground for architects."
+              },
+              {
+                "title": "Japan and overseas awards",
+                "body": "Small Japanese houses, lodgings and rest facilities have often been recognized by overseas architecture awards and design magazine prizes. Designs that bring buildings and nature closer together are a theme often seen from abroad as a feature of Japanese architecture."
+              }
+            ]
+          }
         }
       ]
     },
