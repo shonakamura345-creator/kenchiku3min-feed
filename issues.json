@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "岡山市（公式）",
           "sourceURL": "https://www.city.okayama.jp/shisei/cmsfiles/contents/0000082/82791/03_shinchousha.pdf",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Okayama's new 17-story city hall, modeled on Okayama Castle, fully opens today as the old one closes after 58 years",
+            "summary": "The new main building of Okayama City Hall, in the western Japanese city of Okayama, fully opens on Nov 24. The 17-story tower takes its design cue from Okayama Castle, and counters for family registers and resident records move there today.",
+            "body": [
+              "Okayama's new city hall main building fully opens today, Nov 24. Okayama is a regional capital in western Japan, between Osaka and Hiroshima. The building has 17 floors above ground and two below, and its dark exterior walls and layered white eaves are modeled on Okayama Castle. From today, the counters for koseki (family registers), resident records and tax certificates also operate on the new building's second floor.",
+              "Construction began in January 2023, and the building was completed on May 29, 2026. Departments started moving in stages on Aug 24, with the move planned in ten rounds ending by Nov 24. Counters used by the public are gathered on the second and third floors.",
+              "The old main building, completed in 1968, held a closing ceremony on Nov 20, ending 58 years of service. The city plans to demolish it and build Daiku Park and a plaza in front of the new building on the site, which lies to the north of the new tower."
+            ],
+            "commentary": "Fifty-eight years. That's how long the old main building of Okayama City Hall handled residents' paperwork. From today, a new 17-story building takes over. Its outer walls are dark gray, with white eaves stacked level after level. That's a design copied from Okayama Castle. Plenty of people have seen a photo of that castle, with white eaves layered over black walls, right? What I want to focus on, though, is the inside rather than the look. In a disaster, a city hall has to keep running as the city's command center. So the building combines base isolation, which keeps the shaking from reaching the building, with vibration damping, which absorbs the shaking. Think of base isolation as laying a cushion under the building's feet, and damping as building brakes into the structure itself. The move ran in ten rounds starting in August. The counters never closed; the city moved over a little at a time. The site of the old building will now become a park and a plaza.",
+            "briefing": [
+              "The structure is steel (partly steel-reinforced concrete and reinforced concrete), combining base isolation with vibration damping. The maximum height is about 87 m (285 ft).",
+              "The design is by a joint venture of Yamashita Sekkei and Marukawa Architects, whose proposal was selected in an open competition in 2020. Building work was carried out by a three-company joint venture that includes Life Design Kabaya.",
+              "The total project cost is about ¥32.8 billion, and the total floor area is about 56,000 m² (600,000 sq ft). The city's project plan treats construction of the new building as phase one and demolition of the old main building as phase two."
+            ],
+            "hojosen": [
+              {
+                "title": "City halls at replacement age",
+                "body": "Many city halls built in the 1960s and 1970s are reaching the point of replacement because of aging and seismic concerns. As with Takaoka in Toyama Prefecture, which we reported on Nov 10, costs vary hugely between building new and retrofitting for earthquakes, so many local governments are still debating how far to go."
+              },
+              {
+                "title": "A command center that keeps running",
+                "body": "In the 2016 Kumamoto earthquakes, the main city hall building in Uto was badly damaged and could no longer be used. When a city hall stops in a disaster, damage assessment and relief instructions stop too. Base isolation is spreading in new city halls because keeping operations going after a quake is now a priority."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-24-s2",
@@ -97,7 +122,32 @@
           "reliability": "高",
           "sourceName": "パルコ（公式）",
           "sourceURL": "https://www.parco.co.jp/news/detail/?id=3297",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "PARCO_ya Nagoya to open in spring 2027 in Matsuzakaya's south wing, reinterpreting Art Deco in its interiors",
+            "summary": "On Nov 19, Japanese retailer Parco announced that PARCO_ya Nagoya, with about 100 shops, will open in spring 2027 in the south wing of the Matsuzakaya department store in Nagoya. Its interiors will reinterpret Matsuzakaya's Art Deco style.",
+            "body": [
+              "Parco, a Japanese operator of fashion-oriented shopping buildings, announced on Nov 19 that it will open a new shopping facility, PARCO_ya Nagoya, in spring 2027 by renovating part of the south wing of the Matsuzakaya Nagoya store, a department store in Sakae, Nagoya's main downtown shopping district. About 100 shops, including some opening in the area for the first time, are planned for the second basement level and floors 1 to 6 (with some exceptions). Parco is working with Daimaru Matsuzakaya Department Stores and will run the facility.",
+              "The interior concept is called PARCO Deco. Parco says it will reinterpret, in its own way, the Art Deco architectural style that the Matsuzakaya Nagoya store has carried on. The building will also include an art space run in partnership with the Matsuzakaya Art Museum.",
+              "The facility aims to go beyond the boundary between a department store and a fashion building. Parco says it will draw in Matsuzakaya's existing customers while offering something different from Nagoya Parco, its existing store in the same Sakae district."
+            ],
+            "commentary": "Art Deco. It's a decorative style that was popular in the 1920s and 1930s, combining straight lines and fan shapes. It's that angular pattern you see at the entrance of an old movie theater, or on the stair railings of a building from the early Showa era, the late 1920s and 1930s in Japan, right? The Matsuzakaya Nagoya store is a department store that has carried this style as part of its character. Parco says it won't erase that style but will reinterpret it as the theme of the interiors. Here's what makes this interesting. When a shopping facility is renovated, the walls and ceilings are usually painted white and everything is rebuilt from scratch. It's faster and cheaper. But a white box looks the same in any city. I think that just keeping an old style in the lighting or the floor patterns lets a place go on belonging to its city. Even if the name on the sales floor changes, what stays in the memory of the people who live there? Is it the lettering on the sign, or the shape of the handrail? Which do you think it is?",
+            "briefing": [
+              "The first PARCO_ya opened in Ueno, Tokyo, on Nov 4, 2017. It opened with 68 shops on floors 1 to 6 of Ueno Frontier Tower, a building that replaced the south wing of the Matsuzakaya Ueno store.",
+              "In Ueno, the sales floor that Matsuzakaya Ueno ran on the building's first basement level was later converted into part of PARCO_ya, and the food floor Yushoku Kairo had its grand opening on Mar 16, 2023.",
+              "The Nagoya facility is planned to span categories such as fashion, food, lifestyle and culture. A specific opening date has not been announced yet."
+            ],
+            "hojosen": [
+              {
+                "title": "Department stores leasing out floors",
+                "body": "Across Japan, department stores are increasingly handing floors over to other operators instead of running the sales space themselves. In Umeda, Osaka, the upper floors of the South Gate Building, including part of the Daimaru Umeda store, have become LUCUA SOUTH, a shopping facility directly connected to JR Osaka Station, and its second phase opens today, Nov 24."
+              },
+              {
+                "title": "Keeping memory in the interiors",
+                "body": "Renovations that keep a building's structure and echo an older style in the lighting, floor patterns or handrails are a common approach in shops and hotels. Compared with rebuilding, they save time and money while keeping what makes a place distinctive."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-24-s3",
@@ -142,7 +192,32 @@
           "reliability": "高",
           "sourceName": "Dezeen",
           "sourceURL": "https://www.dezeen.com/2026/10/29/foster-partners-manica-generali-stadium/",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Foster + Partners and MANICA unveil a 71,500-seat stadium next to Milan's San Siro",
+            "summary": "On Oct 29, AC Milan and Inter unveiled the design of their new shared stadium by Foster + Partners and MANICA. It will hold 71,500 spectators.",
+            "body": [
+              "The Milan soccer clubs AC Milan and Inter unveiled on Oct 29 the design of the Generali Stadium, a new venue the two clubs will share. It is designed by Foster + Partners of the UK and MANICA of the US, and will hold 71,500 spectators. The name comes from Generali, the Italian insurer that holds the naming rights.",
+              "The new stadium is planned for the site next to the current San Siro, officially the Stadio Giuseppe Meazza. Its defining feature is a concrete X-shaped frame that rises through the facade and supports the curved roof. The design is said to draw on the stonework of Milan Cathedral, the Duomo.",
+              "San Siro opened in 1926 and has served as the clubs' home for nearly a century. It is reported to be slated for demolition once the new stadium is complete. The clubs aim to start using the new venue in the 2031-32 season, but further design and approval stages remain."
+            ],
+            "commentary": "Giant X shapes line the outside of the stadium. They aren't decoration. They're the structure itself, doubling as columns that hold up the roof. Showing a building's bones instead of hiding them is a bit like the steel frame of Tokyo Tower, right? The Foster office likens this frame to the stonework of Milan Cathedral. It borrows the language of the city's most famous building so that the city will welcome the new one. That's the strategy. But the plan hasn't had smooth sailing. San Siro has stood since 1926, and fans and residents are deeply attached to it. The city council has also raised demands over how the environmental impact is assessed. I think whether to tear down an old stadium has to be weighed together with how long the new building will be loved. After a building used for 100 years, will its successor also be used for 100 years? In the end, I think that's how the design will be judged.",
+            "briefing": [
+              "In September 2025, Milan's city council approved selling San Siro and the surrounding land to the two clubs for 197 million euros, by a vote of 24 to 20.",
+              "In late October 2026, the council passed a resolution asking that a health impact assessment be carried out earlier within the environmental review process. The resolution is not binding, and Milan Mayor Beppe Sala has said he does not intend to reconsider the plan.",
+              "UEFA and the Italian Football Federation have said the current San Siro is not suitable as a venue for the 2032 European Championship. The new stadium plan is also tied to preparing for that tournament."
+            ],
+            "hojosen": [
+              {
+                "title": "Rebuilding storied stadiums",
+                "body": "Across Europe, historic stadiums keep being torn down and rebuilt. In London, a new stadium was completed in 2007 on the site of the old Wembley Stadium. Balancing attachment to an old building with the safety and modern facilities of a new one is debated in every city."
+              },
+              {
+                "title": "The case of Japan",
+                "body": "Tokyo's National Stadium was also rebuilt in 2019 after the old stadium, completed in 1958, was demolished. The process had twists, including the scrapping of the original design. With giant stadiums, building consensus before design is a major hurdle in any country."
+              }
+            ]
+          }
         }
       ]
     },
