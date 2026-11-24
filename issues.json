@@ -1,6 +1,148 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-25",
+      "date": "2026-11-25",
+      "weekday": "水",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-25-s1",
+          "number": 1,
+          "title": "渋谷ヒカリエ裏の再開発、権利変換計画を認可 38階のビルにバスターミナル、35年竣工へ",
+          "summary": "渋谷駅東口側の「渋谷二丁目西地区」の再開発で、権利変換計画が11月24日付で認可されました。38階建てのビルにバスターミナルを設け、35年の竣工をめざします。",
+          "body": [
+            "東京建物、UR都市機構、渋谷二丁目西地区市街地再開発組合は、渋谷駅東口側で進める「渋谷二丁目西地区第一種市街地再開発事業」について、11月24日付で東京都知事から権利変換計画の認可を受けたと発表しました。権利変換計画は、地権者がいま持っている土地や建物の権利を、完成後の新しいビルの床などに置き換える中身を決めるもので、再開発が工事に進むための大きな節目です。",
+            "計画の中心となるB街区のビルは、地下3階・地上38階、高さ約192m、延べ面積約23万5000平方メートルです。オフィス、店舗、ホテル、人材育成拠点が入り、高速バスや空港連絡バスが発着する5バースのバスターミナル（付帯施設を含めて約5000平方メートル）も設けます。観光バスも受け入れる計画です。",
+            "今後は既存の建物の解体などを経て、2029年に本体工事に着手し、2035年の竣工をめざします。宮益坂に面したA街区には上空広場や店舗を設ける計画で、デザインアーキテクトは藤本壮介建築設計事務所が務めます。"
+          ],
+          "commentary": "渋谷駅の東口から宮益坂を上がっていくと、ヒカリエの裏手に出ます。この一角に、38階、高さ約192mのビルを建てる計画が、きのう一歩前に進みました。都が認めた「権利変換計画」は、引っ越しの部屋割り表のようなものです。いまの土地や建物の持ち分を、新しいビルのどの床と交換するのか。これが決まらないと、壊すことも建てることもできないんです。僕が注目しているのは、ビルの中にバスターミナルが入ることです。高速バスや空港行きのバスが、5つの乗り場から出ていきます。スーツケースを転がして坂の多い渋谷を歩くのって、けっこう大変じゃないですか。乗り場がビルにまとまれば、駅の東側の人の流れそのものが変わります。坂に面した上空広場は、藤本壮介さんの事務所がデザインを担当します。完成予定は2035年。いま小学1年生の子が、中学3年生になるころです。",
+          "briefing": [
+            "2022年に公表された計画では、B街区のビルは地下4階・地上41階、最高高さ約208m、延べ面積約25万5000平方メートルで、2029年度の完成をめざしていました。今回の計画では階数と高さが抑えられ、完成時期も後ろにずれています。",
+            "再開発組合は2023年1月に設立が認可されました。当時は2024年度に権利変換計画の認可を受け、2025年度に着工する予定とされていました。",
+            "事業は、A街区・B街区の市街地再開発事業と、東京建物が主体となるC街区の共同建て替えを合わせた「Shibuya REGENERATION Project」として進められています。全体の敷地面積は約1万8700平方メートルで、渋谷エリアで最大規模の再開発とされています。",
+            "広場は、豊かな緑と大きな庇（ひさし）を備え、渋谷駅周辺では数少ない大規模な憩いの場にする計画です。"
+          ],
+          "sources": [
+            {
+              "name": "東京建物・UR都市機構ほか（公式）",
+              "url": "https://prtimes.jp/main/html/rd/p/000000633.000052843.html"
+            },
+            {
+              "name": "Impress Watch",
+              "url": "https://www.watch.impress.co.jp/docs/news/2158810.html"
+            },
+            {
+              "name": "日本経済新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOUC2479G0U6A121C2000000/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "坂の上へ広がる再開発",
+              "body": "渋谷駅周辺では、2012年の渋谷ヒカリエ、2019年の渋谷スクランブルスクエア東棟など、駅の真上や駅前で高層ビルへの建て替えが続いてきました。今回の計画地は宮益坂を上った先にあり、再開発の範囲が駅から一歩離れた坂の上へ広がっている形です。"
+            },
+            {
+              "title": "計画の後ろ倒し",
+              "body": "建設費の高騰を背景に、全国の再開発で規模の見直しや延期が相次いでいます。11月13日号の函館駅前や11月20日号のJR富士駅北口では、規模を縮めて計画を進め直す判断が示されました。大規模な事業ほど、着工までの時間と費用の読みが難しくなっています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "東京建物・UR都市機構ほか（公式）",
+          "sourceURL": "https://prtimes.jp/main/html/rd/p/000000633.000052843.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-25-s2",
+          "number": 2,
+          "title": "広島・相生通りに20階建て、286室のホテル着工 丸紅都市開発と東急不動産、29年開業へ",
+          "summary": "丸紅都市開発と東急不動産は11月24日、広島市中区銀山町で20階建てホテルの本体工事に着工したと発表しました。全286室で、2029年の開業を予定しています。",
+          "body": [
+            "丸紅都市開発と東急不動産は11月24日、共同で進める「（仮称）広島市中区銀山町ホテル計画」の本体工事に着工したと発表しました。広島電鉄本線の「銀山町」電停から歩いて1分、路面電車が走る相生通りに面した敷地に、鉄骨造・地上20階建てのホテルを建てます。",
+            "客室は全286室の予定で、ダブルとツインの部屋を中心に、4人で泊まれるフォースルームも設けます。運営はソラーレホテルズアンドリゾーツが担い、開業は2029年を予定しています。"
+          ],
+          "commentary": "容積率900%。このホテルの敷地に認められている床面積の上限です。敷地の広さの9倍まで、床を積み上げてよいという意味なんです。敷地は約1185平方メートル。テニスコートでいうと4面半くらいの広さです。そこに20階まで客室を重ねて、286室をつくる。平らな土地を、縦に引き伸ばして使うイメージですよね。都心の商業地域でこれだけ高い数字が認められているのは、駅や電停の近くに人と建物を集めるためです。建物の前を走るのは、広島の街の足になっている路面電車です。電停から歩いて1分なら、大きな荷物を持った旅行者でも迷わずにたどり着けます。皆さんがふだん歩く大通りも、たぶん同じです。大きな再開発だけでなく、こうした一棟ずつの建て替えで通りの顔は変わっていく。都市はそういう積み重ねでできているんだと思います。",
+          "briefing": [
+            "客室の広さは21.60〜56.92平方メートルです。",
+            "所在地は広島市中区銀山町4番地1ほかで、敷地は約1185平方メートル、用途地域は商業地域、容積率は900%です。",
+            "設計は安藤・間（安藤ハザマ）が担当します。"
+          ],
+          "sources": [
+            {
+              "name": "東急不動産（公式）",
+              "url": "https://prtimes.jp/main/html/rd/p/000000785.000006953.html"
+            },
+            {
+              "name": "AMP",
+              "url": "https://ampmedia.jp/2026/11/24/mred-tokyu-hiroshima"
+            },
+            {
+              "name": "Dellows News",
+              "url": "https://news.dellows.jp/1316672/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "路面電車の街",
+              "body": "広島電鉄の路面電車は、国内でも最大規模の路線網を持ち、市民の日常の足になっています。2025年には広島駅の駅ビル2階に電車が直接乗り入れる新しいルートも開業しました。電停の近くに宿や店を集めるのは、こうした公共交通を軸にした街づくりと相性のよい建て方です。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "東急不動産（公式）",
+          "sourceURL": "https://prtimes.jp/main/html/rd/p/000000785.000006953.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-25-s3",
+          "number": 3,
+          "title": "リフォーム会社の倒産、10月までに108件で年間最多を更新 資材と人件費の上昇を吸収できず",
+          "summary": "東京商工リサーチによると、2026年1〜10月のリフォーム工事業の倒産は108件に達し、年間で過去最多だった2025年の105件をすでに上回りました。",
+          "body": [
+            "東京商工リサーチは11月23日、2026年1〜10月に起きたリフォーム工事業の倒産が108件にのぼったと発表しました。2002年以降で年間最多だった2025年（1〜12月）の105件を、10カ月で上回ったことになります。",
+            "住宅価格の高騰で中古住宅の人気が高まり、リフォームの需要そのものは増えています。一方で、資材価格や人件費の上昇を工事代金に反映しきれず、赤字の工事を受けざるを得ない小規模・零細の事業者で倒産に至るケースが多いと、同社は分析しています。",
+            "従業員5人未満の事業者が86件と、全体の約8割を占めました。同社は、年間では130件も視野に入るとの見方を示しています。"
+          ],
+          "commentary": "皆さん、家のリフォームを頼むとしたら、どんな会社を思い浮かべますか。大手のハウスメーカーより、近所の工務店や、職人さんが数人の小さな会社を思い浮かべる人も多いと思うんです。今年、そのリフォーム会社の倒産が10月までで108件。過去最多です。しかも8割は従業員5人未満でした。意外に聞こえるかもしれませんが、仕事が減ったわけではないんです。新築が高くなって、中古の家を買って直す人は増えています。苦しいのは値段のほうです。たとえば浴室の入れ替えを春の見積もりで引き受けたら、工事のころには材料も職人さんの手間賃も上がっていた。その差は会社がかぶるしかありません。体力の小さい会社ほど、これが効いてきます。頼む側にもできることがあります。今度リフォームの見積もりを取るときは、工事が始まる前にいくら払う約束なのか、契約書で確かめてみてください。",
+          "briefing": [
+            "9月末時点（1〜9月）の倒産は96件で、前年同期を20.0%上回り、この時点で2002年以降の最多を更新していました。",
+            "帝国データバンクの調査（11月17日発表）では、10月時点で正社員が不足していると答えた企業は全体で53.6%、建設業では68.9%にのぼりました。",
+            "帝国データバンクの集計では、2026年度上半期の人手不足倒産は225件で4年連続の過去最多となり、業種別では建設業が70件で最も多くなりました。"
+          ],
+          "sources": [
+            {
+              "name": "東京商工リサーチ（公式）",
+              "url": "https://www.tsr-net.co.jp/data/detail/1203443_1527.html"
+            },
+            {
+              "name": "FNNプライムオンライン",
+              "url": "https://news.yahoo.co.jp/articles/e1bee9b60c5508ae469a10cf8ce742fdd371599c"
+            },
+            {
+              "name": "帝国データバンク（公式）",
+              "url": "https://www.tdb.co.jp/report/economic/20261007-laborshortage-br26fy-h/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "中古シフトの担い手",
+              "body": "11月21日号でお伝えしたように、10月の首都圏の新築マンションの平均価格は9308万円でした。新築に手が届きにくくなるほど、中古住宅を買って手を入れる選択は増えます。その工事を支えているのが、地域の小さなリフォーム会社や職人です。"
+            },
+            {
+              "title": "前払い金に注意",
+              "body": "東京商工リサーチの2025年上半期の分析では、リフォーム・塗装業の倒産は9割超が破産で、未完成の工事に払った前払い金は戻りにくいと指摘されています。着工前に多額を払う契約ほど、相手の会社が倒れたときの影響が大きくなります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "東京商工リサーチ（公式）",
+          "sourceURL": "https://www.tsr-net.co.jp/data/detail/1203443_1527.html",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-24",
       "date": "2026-11-24",
       "weekday": "火",
@@ -6636,238 +6778,6 @@
             "ABCニュース（Yahoo!ニュース）": "ABC News (Yahoo! News)",
             "共同通信（東京新聞）": "Kyodo News (Tokyo Shimbun)",
             "大林組（公式）": "Obayashi Corporation (official)"
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-26",
-      "date": "2026-10-26",
-      "weekday": "月",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-26-s1",
-          "number": 1,
-          "title": "リニア神奈川県駅、地下3階の線路階を初の一般公開 深さ約30m・長さ約680mの地下駅",
-          "summary": "リニア中央新幹線の神奈川県駅（仮称）で10月24・25日、工事中の地下3階「軌道階」が初めて一般の人に公開されました。駅工事の完成目標は2030年春ごろです。",
-          "body": [
-            "JR東海と神奈川県、相模原市は10月24日と25日、相模原市緑区で建設中のリニア中央新幹線「神奈川県駅（仮称）」の工事現場で、市民参加イベント「さがみはらリニアフェスタ2026」を開きました。目玉は、地下3階にある「軌道階」の初めての一般公開です。軌道階は、将来リニアの本線と副本線が通り、ホームになる階です。",
-            "神奈川県駅は、JR・京王の橋本駅の南側の地下につくられています。長さ約680m、最大幅約50mで、深さ約30mの地下3階にホーム2面と線路4線を配置します。リニアの中間駅のなかで地下に設けられるのはこの駅だけで、地上から地面を掘り下げていく「開削工法」で工事が進んでいます。",
-            "JR東海は9月、この駅の工事期間を2030年3月ごろまでとする見込みを示しています。一方、リニアそのものの開業は、静岡工区の着工の遅れなどから2034年以降の見通しとされています。"
-          ],
-          "commentary": "橋本駅の南口から歩いて3分。その地下に、長さ約680mの巨大な空洞が掘られています。深さ約30mは、ビルでいうと10階分くらい。そこに線路4本とホーム2面が並びます。地下駅というと、狭い通路と低い天井を思い浮かべるじゃないですか。でもこの駅は、地上から地面を丸ごと掘り下げて、あとから床や柱をつくる「開削工法」なんです。大きな箱を土の中に埋めるイメージです。だから天井が高く、柱と柱の間も広く取れる。工事中のいまだけ見られるのは、壁も天井もまだ仕上げで覆われていない、骨組みそのものの姿です。完成すれば、この空間はホームの床と案内板とベンチで埋まっていきます。駅の工事の完了目標は、2030年3月ごろです。",
-          "briefing": [
-            "会場はJR・京王橋本駅から徒歩3分の工事現場で、開催は両日とも10時〜17時でした。入場は無料で、専用アプリでの事前申し込みが必要でした。",
-            "軌道階の見学には別枠のチケットが必要で、応募多数の場合は抽選、締め切りは10月13日でした。軌道階への移動は階段のみで、車いすやベビーカーでは入れない条件が付いていました。",
-            "軌道階では映像の投影や、原寸大のリニア車両パネルを使った写真スポットが用意されました。地下2階の特設ステージや地上のステージでは、音楽ライブなども行われました。",
-            "駅の構造物の建設は2023年10月に始まりました。2026年2月には、この工事現場で組み立てを終えたシールドマシンが報道陣に公開されています。"
-          ],
-          "sources": [
-            {
-              "name": "神奈川県（公式）",
-              "url": "https://www.pref.kanagawa.jp/docs/yi4/linear/sagamiharalinearfesta2026.html"
-            },
-            {
-              "name": "NHK",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261024de64791"
-            },
-            {
-              "name": "共同通信（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/3ca98f1b9f7d01f72fa7d30a937b8cee41ecb6e2"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "唯一の地下中間駅",
-              "body": "リニアは品川と名古屋のターミナル駅が地下につくられますが、途中の駅で地下になるのは神奈川県駅だけです。駅前の市街地の下に入るため、地上の街との関係をどうつくるかが、相模原市の駅周辺のまちづくりの大きなテーマになっています。"
-            },
-            {
-              "title": "工事中を見せる",
-              "body": "完成まで長い年月がかかる大型インフラでは、工事中の現場をあえて公開し、地域の関心をつなぎとめる取り組みが増えています。今回も県と市が共催に入り、開業前から駅を「行ってみたい場所」にする狙いがうかがえます。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "神奈川県（公式）",
-          "sourceURL": "https://www.pref.kanagawa.jp/docs/yi4/linear/sagamiharalinearfesta2026.html",
-          "shoComment": "",
-          "en": {
-            "title": "Maglev's Kanagawa Station opens its track level, about 30 m (98 ft) deep, to the public for the first time",
-            "summary": "On Oct 24 and 25, the third basement level, or track level, of the Chuo Shinkansen maglev line's Kanagawa Station (working name), now under construction, was opened to the general public for the first time. Station construction is targeted for completion around spring 2030.",
-            "body": [
-              "JR Central, Kanagawa Prefecture and Sagamihara City held a public event, Sagamihara Linear Festa 2026, on Oct 24 and 25 at the construction site of Kanagawa Station (working name) on the Chuo Shinkansen, the maglev line being built between Tokyo and Nagoya, in Sagamihara's Midori Ward. The highlight was the first public opening of the track level on the third basement floor, where the maglev main line and a secondary track will eventually run and the platforms will be.",
-              "Kanagawa Station is being built underground on the south side of Hashimoto Station, served by JR and Keio lines. It will be about 680 m (2,230 ft) long and up to about 50 m (164 ft) wide, with two platforms and four tracks on the third basement level, about 30 m (98 ft) below ground. It is the only intermediate station on the maglev line to be built underground, and it is being constructed by the cut-and-cover method, in which the ground is excavated downward from the surface.",
-              "In September, JR Central said it expects construction of the station to continue until around March 2030. The opening of the maglev line itself, meanwhile, is now expected in 2034 or later, partly because of the delayed start of work on the section in Shizuoka Prefecture."
-            ],
-            "commentary": "It's a three-minute walk from the south exit of Hashimoto Station. Underneath, a huge cavity about 680 m (2,230 ft) long has been dug out. A depth of about 30 m (98 ft) is roughly the height of a 10-story building. Down there, four tracks and two platforms will sit side by side. When you think of an underground station, you picture narrow passageways and low ceilings, right? But this station is being built with the cut-and-cover method: the ground is dug out entirely from the surface, and the floors and columns are built afterward. Picture burying a big box in the earth. That's why the ceilings can be high and the columns spaced widely apart. What you can only see now, during construction, is the bare structure itself, before walls and ceilings are covered with finishes. Once it's complete, this space will fill up with platform floors, signs and benches. The station's construction is targeted for completion around March 2030.",
-            "briefing": [
-              "The venue was the construction site, a three-minute walk from Hashimoto Station on the JR and Keio lines, and the event ran from 10 a.m. to 5 p.m. on both days. Admission was free, but advance registration through a dedicated app was required.",
-              "Visiting the track level required a separate ticket, with a lottery held if there were too many applicants; the deadline was Oct 13. The track level could be reached only by stairs, and wheelchairs and strollers could not enter.",
-              "On the track level, visitors could see video projections and a photo spot with a life-size panel of a maglev train car. Music performances and other events were held on a special stage on the second basement level and on a stage at ground level.",
-              "Construction of the station structure began in October 2023. In February 2026, a shield tunneling machine that had been assembled at this site was shown to the press."
-            ],
-            "hojosen": [
-              {
-                "title": "The only underground midway station",
-                "body": "The maglev's terminal stations at Shinagawa in Tokyo and at Nagoya are being built underground, but Kanagawa Station is the only intermediate station that will be. Because it sits beneath the town in front of the existing station, how to connect it with the streets above is a major theme of Sagamihara's planning for the station area."
-              },
-              {
-                "title": "Showing work in progress",
-                "body": "For large infrastructure projects that take many years to complete, more and more organizers are deliberately opening construction sites to keep local interest alive. This time, too, the prefecture and the city co-hosted the event, suggesting an aim to make the station a place people want to visit even before it opens."
-              }
-            ]
-          },
-          "namesEn": {
-            "共同通信（Yahoo!ニュース）": "Kyodo News (Yahoo! News)",
-            "神奈川県（公式）": "Kanagawa Prefecture (official)"
-          }
-        },
-        {
-          "id": "issue-2026-10-26-s2",
-          "number": 2,
-          "title": "古民家と木造2棟の「新綱島MICCA」28日開業 横浜市の歴史的建造物が飲食店に",
-          "summary": "東急新横浜線の新綱島駅前で、古民家と新築の木造2棟からなる商業施設「新綱島MICCA」が10月28日に開業します。飲食やサービスの21店舗が入ります。",
-          "body": [
-            "東急新横浜線・新綱島駅前の商業施設「新綱島MICCA（ミッカ）」が、10月28日にグランドオープンします。施設は、古民家「池谷家住宅主屋」を改修した「OMOYA」と、新しく建てた木造2階建ての「HANARE南」「HANARE北」の3棟で構成され、飲食やサービスの21店舗が入ります。",
-            "池谷家住宅主屋は、2024年に横浜市の認定歴史的建造物と特定景観形成歴史的建造物に指定された建物です。OMOYAにはベーカリービストロ「flour+water」とベーグル店「輪餅屋」が入り、古民家の中で食事ができるようになります。"
-          ],
-          "commentary": "新綱島駅の改札を出てすぐの場所に、大きな古民家が建っています。これが池谷家住宅の主屋です。横浜市の「認定歴史的建造物」は、国の文化財ほど厳しく縛られない代わりに、外観を大切に残しながら使い続けることを前提にした仕組みなんです。つまり、ガラスケース越しに眺める建物ではなく、パンを焼いて、お客さんが座って食べる建物として残す。もう一つ注目したいのが、隣に新しく建てた2棟も木造の2階建てだという点です。駅前の土地って、高いビルを建てた方が床面積を稼げますよね。それをせずに低い木造を並べたことで、古民家が大きな建物に埋もれずに済んでいます。28日以降に訪れたら、古民家の屋根の高さと、新しい木造棟の屋根の高さを見比べてみてください。",
-          "briefing": [
-            "プロジェクトの分担は、東急が事業コンサルタント、住友林業が木造商業施設の設計施工、再生建築研究所が全体の監修と古民家改修工事の設計監理です。",
-            "工事は、古民家の改修が2025年2月、木造商業施設の新築が2025年5月に始まりました。東急は2026年8月に施設名と「秋の開業」を発表し、その後10月28日の開業日を決めました。",
-            "開業後の11月3日には、開業イベント「MICCA祭」が予定されています。"
-          ],
-          "sources": [
-            {
-              "name": "東急（公式）",
-              "url": "https://www.tokyu.co.jp/company/news/pdf/20260806-micca-t_1.pdf"
-            },
-            {
-              "name": "Impress Watch",
-              "url": "https://www.watch.impress.co.jp/docs/news/2143382.html"
-            },
-            {
-              "name": "みんなの経済新聞（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/4bcf9e8e0258274589ef6df2b88e04c6740f1c0f"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "駅前に古民家を残す",
-              "body": "新綱島駅は2023年3月に開業した東急新横浜線の駅です。駅前の開発では古い建物を取り壊して大きなビルにするのが一般的ですが、ここでは古民家を中心に置き、低層の木造棟で囲む形を選びました。"
-            },
-            {
-              "title": "木造の商業施設",
-              "body": "脱炭素の流れや、木材の利用を後押しする法律の改正を受けて、店舗やオフィスを木造で建てる例が増えています。古い木造と新しい木造を並べて一つの施設にすると、街並みのスケールを保ちやすいのが利点です。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "東急（公式）",
-          "sourceURL": "https://www.tokyu.co.jp/company/news/pdf/20260806-micca-t_1.pdf",
-          "shoComment": "",
-          "en": {
-            "title": "Yokohama's Shin-Tsunashima MICCA opens Oct 28, pairing a historic old house with two timber buildings",
-            "summary": "Shin-Tsunashima MICCA, a commercial complex made up of a traditional old house and two new timber buildings, opens on Oct 28 in front of Shin-Tsunashima Station on the Tokyu Shin-Yokohama Line. It will house 21 restaurants and service businesses.",
-            "body": [
-              "Shin-Tsunashima MICCA, a commercial complex in front of Shin-Tsunashima Station on the Tokyu Shin-Yokohama Line in Yokohama, celebrates its grand opening on Oct 28. It consists of three buildings: OMOYA, a renovated kominka, or traditional old Japanese house, known as the Iketani Family Residence main house, and two newly built two-story timber buildings, HANARE South and HANARE North. (Omoya means main house in Japanese, and hanare a detached annex.) The complex will house 21 restaurants and service businesses.",
-              "The Iketani Family Residence main house was designated in 2024 as both a Certified Historic Building and a Specified Landscape Formation Historic Building, two heritage designations of the City of Yokohama. OMOYA will be home to the bakery bistro flour+water and a bagel shop, so visitors will be able to eat inside the old house."
-            ],
-            "commentary": "Right outside the ticket gates of Shin-Tsunashima Station stands a large old house. This is the main house of the Iketani Family Residence. Yokohama's Certified Historic Building status isn't as strict as national cultural property designation. Instead, it's a system built on the idea of carefully preserving a building's exterior while it stays in use. In other words, this isn't a building you look at through a glass case. It's kept as a building where bread gets baked and customers sit down to eat. The other thing I want to point out is that the two new buildings next door are also two-story timber structures. On land in front of a station, you can get far more floor area by putting up a tall building, right? By not doing that, and lining up low timber buildings instead, the old house avoids being swallowed up by large buildings. If you're ever in Yokohama after the 28th, compare the height of the old house's roof with the roofs of the new timber buildings.",
-            "briefing": [
-              "The project team divided the work this way: Tokyu served as business consultant, Sumitomo Forestry handled design and construction of the timber commercial buildings, and the architecture firm Saisei Kenchiku Kenkyusho oversaw the project as a whole and was responsible for design and supervision of the old house's renovation.",
-              "Construction began in February 2025 for the renovation of the old house and in May 2025 for the new timber commercial buildings. Tokyu announced the complex's name and an \"autumn opening\" in August 2026, and later set the opening date of Oct 28.",
-              "An opening event, the MICCA Matsuri festival, is planned for Nov 3, after the opening."
-            ],
-            "hojosen": [
-              {
-                "title": "Keeping an old house by the station",
-                "body": "Shin-Tsunashima Station is on the Tokyu Shin-Yokohama Line, which opened in March 2023. Development in front of a station usually means tearing down old buildings and putting up a large one, but here the old house was placed at the center and surrounded by low-rise timber buildings."
-              },
-              {
-                "title": "Timber for commercial buildings",
-                "body": "Driven by the push for decarbonization and by legal revisions encouraging the use of wood, more shops and offices are being built in timber in Japan. Placing old and new timber buildings side by side as a single complex has the advantage of making it easier to keep the scale of the streetscape."
-              }
-            ]
-          },
-          "namesEn": {
-            "みんなの経済新聞（Yahoo!ニュース）": "Minna no Keizai Shimbun (Yahoo! News)",
-            "東急（公式）": "Tokyu (official)"
-          }
-        },
-        {
-          "id": "issue-2026-10-26-s3",
-          "number": 3,
-          "title": "英国スターリング賞に駐車場跡の集合住宅 ロンドン南部クロイドンの157戸が受賞",
-          "summary": "英国王立建築家協会の2026年スターリング賞に、ロンドン南部の集合住宅「ライオン・グリーン・ロード」が選ばれました。駐車場跡に157戸を建てた計画です。",
-          "body": [
-            "英国王立建築家協会（RIBA）は10月15日、英国で最も優れた新しい建築に贈る「RIBAスターリング賞」の2026年の受賞作を発表しました。選ばれたのは、ロンドン南部クロイドン区コールスドンの集合住宅「ライオン・グリーン・ロード」です。設計はメアリー・ダガン・アーキテクツで、RUFFアーキテクツと組んで実現しました。",
-            "かつての駐車場の跡地に、5棟の独立した建物を配置し、合わせて157戸の住まいをつくりました。分譲住宅と、家賃を抑えた公的な賃貸住宅（ソーシャル住宅）を同じ敷地で供給しています。発注したのはクロイドン区の住宅会社「ブリック・バイ・ブリック」で、この会社はすでに解散しています。",
-            "スターリング賞は今年で30年目。集合住宅の受賞は、2008年の「アコーディア」、2019年の「ゴールドスミス・ストリート」、2025年の「アップルビー・ブルー・アームスハウス」に続く4例目です。"
-          ],
-          "commentary": "ブックメーカーの予想では、6作品の中でいちばん人気がなかった作品でした。それがスターリング賞を取った。ライオン・グリーン・ロードは、駐車場だった坂の土地に、5つの建物を間をあけて並べた集合住宅です。電車の窓から見える団地って、同じ形の棟が同じ向きにずらっと並んでいるじゃないですか。ここは敷地の奥と手前で8mある高低差を生かして、近くの公園を見渡せるように棟を配置しています。審査員が「生きた風景」と呼んだのはこの部分です。しかも分譲と、家賃を抑えた賃貸が同じ敷地に混ざっている。住む人の収入で敷地を分けないんです。日本の駅前や団地の脇にある駐車場も、こんなふうに住まいに変わっていけるのか。それを動かすのは設計者なのか、自治体なのか、皆さんはどう思いますか。",
-          "briefing": [
-            "最終候補には、レンゾ・ピアノ・ビルディング・ワークショップの「パディントン・スクエア」や、ハワース・トンプキンスの「ミル・レーン」、ベネッツ・アソシエイツの「ビーム」など6作品が残っていました。",
-            "敷地は奥から手前に向かって約8m下がる傾斜地です。審査員は、この高低差を生かして近くの公園を見渡せる「生きた風景」をつくった点を評価しました。",
-            "発表はロンドンのオールド・ビリングスゲートで行われました。ブックメーカーのオッズは6倍で、設計者のメアリー・ダガン氏にとっては初めての最終候補入りでした。"
-          ],
-          "sources": [
-            {
-              "name": "RIBA（公式）",
-              "url": "https://www.riba.org/news/riba-stirling-prize-2026-winner-announced/"
-            },
-            {
-              "name": "Dezeen",
-              "url": "https://www.dezeen.com/2026/10/15/lion-green-road-riba-stirling-prize-2026/"
-            },
-            {
-              "name": "Building",
-              "url": "https://www.building.co.uk/london-housing-scheme-named-winner-of-2026-stirling-prize/5144663.article"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "住宅が選ばれる意味",
-              "body": "スターリング賞は美術館や大学の施設など話題性の高い建物が選ばれやすく、30年で集合住宅の受賞は4件だけです。そのうち3件が2019年以降に集中しており、英国の住宅不足への関心の高まりが審査にも表れていると読めます。"
-            },
-            {
-              "title": "日本との比較",
-              "body": "日本でも、団地の建て替えや駐車場などの使われていない土地の活用が課題になっています。分譲と公的な賃貸を同じ敷地で混ぜて供給する手法は、日本ではまだ珍しく、海外の事例として参考にされることが増えそうです。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "RIBA（公式）",
-          "sourceURL": "https://www.riba.org/news/riba-stirling-prize-2026-winner-announced/",
-          "shoComment": "",
-          "en": {
-            "title": "Stirling Prize goes to Lion Green Road, 157 homes on a former parking lot in south London",
-            "summary": "Lion Green Road, a housing development in south London, has won the 2026 Stirling Prize from the Royal Institute of British Architects. The project built 157 homes on the site of a former parking lot.",
-            "body": [
-              "On Oct 15, the Royal Institute of British Architects (RIBA) announced the 2026 winner of the RIBA Stirling Prize, awarded to the best new building in the UK. The winner is Lion Green Road, a housing development in Coulsdon, in the London Borough of Croydon in south London. It was designed by Mary Duggan Architects, working with RUFF Architects.",
-              "On the site of a former parking lot, the project placed five freestanding buildings with a total of 157 homes. It provides homes for sale alongside social housing, public rental homes with reduced rents, on the same site. The client was Brick by Brick, the Croydon council's housing company, which has since been dissolved.",
-              "This is the 30th year of the Stirling Prize. Lion Green Road is the fourth housing project to win, after Accordia in 2008, Goldsmith Street in 2019 and Appleby Blue Almshouse in 2025."
-            ],
-            "commentary": "According to the bookmakers, this was the least favored of the six projects. And it won the Stirling Prize. Lion Green Road is a housing development that sets five buildings, with space between them, on a sloping site that used to be a parking lot. You know the danchi, Japan's big public housing estates, that you see from train windows, with identical blocks lined up facing the same direction, right? Here, the 8 m (26 ft) difference in height between the back and the front of the site was used to arrange the buildings so they look out over a nearby park. That's the part the judges called a \"living landscape.\" On top of that, homes for sale and lower-rent homes are mixed on the same site. The site isn't divided up by residents' income. Could the parking lots in front of Japanese train stations and beside danchi be turned into homes like this, too? And who would make that happen, architects or local governments? What do you think?",
-            "briefing": [
-              "Six projects made the shortlist, including Paddington Square by Renzo Piano Building Workshop, Mill Lane by Haworth Tompkins and Beam by Bennetts Associates.",
-              "The site slopes down about 8 m (26 ft) from back to front. The judges praised the way the project used this difference in height to create a \"living landscape\" that looks out over a nearby park.",
-              "The announcement was made at Old Billingsgate in London. Bookmakers had offered a sixfold payout on the project, and it was the first time architect Mary Duggan had been shortlisted."
-            ],
-            "hojosen": [
-              {
-                "title": "Why a housing win matters",
-                "body": "The Stirling Prize tends to go to high-profile buildings such as museums and university facilities, and in 30 years only four housing projects have won. Three of those four have come since 2019, which can be read as a sign that growing concern about Britain's housing shortage is showing up in the judging too."
-              },
-              {
-                "title": "A comparison with Japan",
-                "body": "Japan, too, faces the challenge of rebuilding aging public housing estates and making use of underused land such as parking lots. Mixing homes for sale with public rental housing on the same site is still rare in Japan, and overseas examples like this are likely to be cited more and more as references."
-              }
-            ]
-          },
-          "namesEn": {
-            "RIBA（公式）": "RIBA (official)"
           }
         }
       ]
