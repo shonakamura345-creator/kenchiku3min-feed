@@ -9,6 +9,12 @@
   2. noImage: true、または本文に人が亡くなった語がある → 空の写真 img/sky/<SKY_FOR_LOSS>.jpg（「画像はイメージ」）
   3. 出典にプレスリリース（PR TIMES・@Press・公式発表ページ）があり、その og:image が使える
      → その写真。クレジット「画像：〇〇（プレスリリース）」
+  3.5 現地の写真（2026-11-25 Sho「雲だけのやつでも現地の写真を入れられそうなものがある」）
+     記事に出てくる実在の建物・場所（まだ建っていなければ計画地の周り、訃報ならその人の作品）を
+     fal の LLM に選ばせ、Wikimedia Commons で自由に使える写真（CC BY / BY-SA / CC0 / パブリックドメイン）を探す。
+     候補は画像を読むAIで「本当にその場所か・ニュースの写真に向くか」を確かめてから使う。
+     クレジット「写真：〇〇／撮影者（Wikimedia Commons・ライセンス）」。人が亡くなった記事も、
+     訃報（作品の写真）は使い、事故・災害で亡くなった記事は空の写真のまま。
   4. fal の nano-banana-2 でイメージ写真（場面は imagePrompt があればそれ、無ければ見出し・要約から）。
      クレジット「画像はイメージ（AI生成）」
   5. 作れなかった → 画像なし
@@ -16,14 +22,17 @@
 書き足す欄（stories[]）:
   imageURL     … 写真の絶対URL（このリポジトリの img/<日付>/s<N>.jpg を GitHub Pages で配信）
   imageCredit  … 日本語のクレジット文（そのまま隅に出す）
-  imageKind    … "press" / "ai" / "sky"（英語の画面でクレジットを訳すため）
+  imageKind    … "press" / "commons" / "ai" / "sky"（英語の画面でクレジットを訳すため）
   imageSource  … press のときの会社・団体名
+  imageCreditEn… 英語の画面用のクレジット（commons のとき）
+  imagePage    … commons の写真のページ（ライセンスの出どころ）
   namesEn      … 英語の画面用の名前の対応表 {日本語の出典名・会社名: 英語名}（fal の LLM で作る）
 
 使い方:
   python3 tools/make_story_images.py --sync --push        # launchd から（専用クローンで）
   python3 tools/make_story_images.py --date 2026-11-16     # 指定の号に付ける（push しない）
   python3 tools/make_story_images.py --dry-run             # 何をするかだけ表示
+  python3 tools/make_story_images.py --date 2026-11-17 --upgrade  # AI・空の写真を現地の写真に差し替えられるか試す
 """
 from __future__ import annotations
 
@@ -170,6 +179,10 @@ def try_press_image(story, dst):
                     log(f"  写真の大きさ・形が合わない {w}x{h}:", img_url)
                     os.unlink(tmp)
                     continue
+                if not looks_like_photo(tmp):
+                    log("  地図・ロゴ・文字だけの画像なので使わない:", img_url)
+                    os.unlink(tmp)
+                    continue
                 to_jpeg(tmp, dst)
                 os.unlink(tmp)
                 log(f"  プレス写真 {w}x{h} ← {img_url}")
@@ -177,6 +190,23 @@ def try_press_image(story, dst):
         except Exception as e:  # noqa: BLE001 — 1件失敗しても次へ
             log("  取得失敗:", url, e)
     return None
+
+
+def looks_like_photo(path):
+    """プレスの画像が写真・パースか（地図・ロゴ・表・文字だけの帯は外す）。確かめられなければ通す。"""
+    import base64
+    try:
+        small = path + ".chk.jpg"
+        subprocess.run(["sips", "-s", "format", "jpeg", "-Z", "768", path, "--out", small], check=True, capture_output=True)
+        data = "data:image/jpeg;base64," + base64.b64encode(open(small, "rb").read()).decode()
+        os.unlink(small)
+        v = llm("Is this image a photograph or architectural rendering of a building, place, interior or scene? "
+                "Answer ok=false if it is mainly a map, site plan, logo, chart, table, document or a text banner. "
+                "Return only JSON {\"ok\": true/false, \"reason\": \"short\"}", data)
+        return v.get("ok", True) is not False
+    except Exception as e:  # noqa: BLE001
+        log("  画像の確認に失敗（そのまま使う）:", e)
+        return True
 
 
 def fal_req(url, key, data=None):
@@ -205,6 +235,149 @@ def make_ai_image(prompt, dst):
         tmp = tf.name
     to_jpeg(tmp, dst)
     os.unlink(tmp)
+
+
+# ---------- 現地の写真（Wikimedia Commons） ----------
+
+COMMONS_API = "https://commons.wikimedia.org/w/api.php"
+COMMONS_UA = "kenchiku3min-images/1.0 (news app; photo credit lookup)"
+OK_LICENSE_RE = re.compile(r"^(CC BY(-SA)? [0-9.]+|CC0|Public domain|PD|No restrictions)", re.I)
+BAD_FILE_RE = re.compile(r"map|logo|plan|diagram|floor|chart|seal|flag|emblem|\.svg|\.pdf|\.tif", re.I)
+
+
+def llm(prompt, image_data_url=None):
+    key = open(FAL_KEY_PATH).read().strip()
+    body = {"model": LLM_MODEL, "prompt": prompt}
+    ep = "fal-ai/any-llm"
+    if image_data_url:
+        body["image_urls"] = [image_data_url]
+        ep = "fal-ai/any-llm/vision"
+    s = fal_req(f"https://queue.fal.run/{ep}", key, body)
+    for _ in range(60):
+        if fal_req(s["status_url"], key)["status"] == "COMPLETED":
+            break
+        time.sleep(2)
+    out = fal_req(s["response_url"], key).get("output") or ""
+    m = re.search(r"\{.*\}", out, re.S)
+    return json.loads(m.group(0)) if m else {}
+
+
+def commons_subject(st, loss):
+    """記事から「写真に撮れる実在の場所」を選ばせる。無ければ subject=None。"""
+    rule_loss = (
+        "This story involves a death. If it is an obituary of an architect/designer, choose a well-known existing building "
+        "they designed. If people died in an accident, disaster or crime, return subject null.\n" if loss else "")
+    prompt = (
+        "You pick a real-world photo subject for a Japanese architecture news story, to be searched on Wikimedia Commons.\n"
+        "Choose ONE specific, real, already-existing building, station, landmark, district or site that appears in the story "
+        "and that readers would recognize as 'the place' of the story. If the project is not built yet, choose the existing "
+        "site, the building being replaced, or the landmark right next to the site. If the story is about statistics, law, "
+        "a company's finances or anything without a specific place, return subject null. Never choose a person.\n"
+        + rule_loss +
+        "Return only JSON: {\"subject\": Japanese name or null, \"queries\": [2-3 Wikimedia Commons search strings "
+        "that all name exactly the subject (no broader area, no other nearby place), English first, then Japanese], \"what\": short English description of what the photo should show, "
+        "\"caption\": short Japanese caption for the photo (e.g. 名護市庁舎 / 計画地の隣の渋谷ヒカリエ / 現在の旧本店), "
+        "\"captionEn\": the same caption in English, "
+        "\"minYear\": if the place changed a lot recently (burned, demolished, rebuilt, restored, renovated, newly "
+        "opened) so that older photos would show a different state from the story, the earliest year a valid photo can "
+        "be from; otherwise null}\n"
+        "The caption must describe the place itself, not claim a state (do not write 再建された / 完成した).\n"
+        f"Headline: {st.get('title', '')}\nSummary: {st.get('summary', '')}\nBody: {' '.join(st.get('body') or [])[:1500]}"
+    )
+    try:
+        return llm(prompt)
+    except Exception as e:  # noqa: BLE001
+        log("  場所の選び出しに失敗:", e)
+        return {}
+
+
+def commons_search(q, limit=12):
+    params = urllib.parse.urlencode({
+        "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6, "gsrsearch": q,
+        "gsrlimit": limit, "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime", "iiurlwidth": 1280})
+    req = urllib.request.Request(f"{COMMONS_API}?{params}", headers={"User-Agent": COMMONS_UA})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        pages = (json.loads(r.read()).get("query") or {}).get("pages") or {}
+    out = []
+    for p in sorted(pages.values(), key=lambda x: x.get("index", 99)):
+        ii = (p.get("imageinfo") or [{}])[0]
+        m = ii.get("extmetadata") or {}
+        lic = (m.get("LicenseShortName") or {}).get("value", "")
+        w, h = ii.get("width", 0), ii.get("height", 0)
+        if ii.get("mime") not in ("image/jpeg", "image/png") or BAD_FILE_RE.search(p.get("title", "")):
+            continue
+        if w < 1200 or h < 700 or not (1.25 <= w / max(h, 1) <= 1.9) or not OK_LICENSE_RE.search(lic):
+            continue
+        when = re.sub(r"<[^>]+>", "", (m.get("DateTimeOriginal") or m.get("DateTime") or {}).get("value", ""))
+        y = re.search(r"(19|20)\d\d", when)
+        artist = re.sub(r"<[^>]+>", "", html.unescape((m.get("Artist") or {}).get("value", ""))).strip()
+        artist = re.sub(r"\s+", " ", artist)[:40] or "不明"
+        out.append({"title": p["title"], "thumb": ii.get("thumburl"), "page": ii.get("descriptionurl"),
+                    "license": lic, "artist": artist, "year": int(y.group(0)) if y else None})
+    return out
+
+
+def commons_get(url):
+    req = urllib.request.Request(url, headers={"User-Agent": COMMONS_UA})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return r.read()
+
+
+def try_commons_image(st, dst, loss=False):
+    """現地の写真を探して dst に置く。成功したら欄（dict）を返す。"""
+    sub = commons_subject(st, loss)
+    if not sub or not sub.get("subject"):
+        log("  現地の写真：写せる場所がない記事")
+        return None
+    log(f"  現地の写真：{sub.get('subject')} を探す {sub.get('queries')}")
+    seen, cands = set(), []
+    for q in (sub.get("queries") or [])[:3]:
+        try:
+            for c in commons_search(q):
+                if c["title"] not in seen:
+                    seen.add(c["title"])
+                    cands.append(c)
+        except Exception as e:  # noqa: BLE001
+            log("  Commons 検索失敗:", q, e)
+    import base64
+    min_year = sub.get("minYear")
+    if isinstance(min_year, int):
+        cands = [c for c in cands if c["year"] and c["year"] >= min_year]
+        log(f"  {min_year}年以降に撮った写真だけ：{len(cands)}枚")
+    for c in cands[:6]:
+        try:
+            img = commons_get(c["thumb"])
+            data_url = "data:image/jpeg;base64," + base64.b64encode(img).decode()
+            v = llm(
+                f"Is this photo clearly {sub.get('what')} ({sub.get('subject')})? It will be the thumbnail of a news story. "
+                f"The file on Wikimedia Commons is titled: {c['title']!r}. If the title names a different place, branch, "
+                "city, street or building (for example another bank, another town's gymnasium, a different street nearby), "
+                "answer ok=false. "
+                "Answer ok=true only if (1) it really shows that place, recognizably, (2) it is a clear, well-exposed, "
+                "pleasant general view (exterior or the main space), not a map, drawing, document, sign close-up, "
+                "small detail or blurry night shot, (3) people are not the main subject. "
+                "Return only JSON {\"ok\": true/false, \"reason\": \"short\"}", data_url)
+            if not v.get("ok"):
+                log(f"  × {c['title'][:60]}（{v.get('reason', '')}）")
+                continue
+            with tempfile.NamedTemporaryFile(suffix=".img", delete=False) as tf:
+                tf.write(img)
+                tmp = tf.name
+            to_jpeg(tmp, dst)
+            os.unlink(tmp)
+            log(f"  ○ {c['title'][:60]} {c['license']} {c['artist']}")
+            cap, cap_en = sub.get("caption") or sub["subject"], sub.get("captionEn") or ""
+            if c["year"]:
+                cap, cap_en = f"{cap}（{c['year']}年）", (f"{cap_en} ({c['year']})" if cap_en else "")
+            return {
+                "imageCredit": f"写真：{cap}／{c['artist']}（Wikimedia Commons・{c['license']}）",
+                "imageCreditEn": f"Photo: {cap_en + ' / ' if cap_en else ''}{c['artist']} (Wikimedia Commons, {c['license']})",
+                "imageKind": "commons", "imageSource": c["artist"], "imagePage": c["page"],
+            }
+        except Exception as e:  # noqa: BLE001
+            log("  候補の確認に失敗:", c["title"][:60], e)
+    log("  現地の写真：使える写真が見つからない")
+    return None
 
 
 # ---------- 本体 ----------
@@ -270,13 +443,28 @@ def story_text(st):
     return " ".join([st.get("title", ""), st.get("summary", ""), *(st.get("body") or [])])
 
 
-def plan_and_make(issue, dry_run):
-    """記事ごとに写真を作り、{story_id: 欄} を返す（JSONにはまだ書かない）。"""
+def plan_and_make(issue, dry_run, upgrade=False):
+    """記事ごとに写真を作り、{story_id: 欄} を返す（JSONにはまだ書かない）。
+    upgrade=True のときは、AI・空の写真の記事だけ現地の写真に差し替えられるか試す。"""
     date = issue["date"]
     results = {}
     ai_count = 0
     for st in issue.get("stories") or []:
         sid, n = st["id"], st.get("number", 0)
+        rel = f"img/{date}/s{n}.jpg"
+        dst = os.path.join(ROOT, rel)
+        url = PAGES_BASE + rel
+        loss = bool(st.get("noImage") or DEATH_RE.search(story_text(st)))
+        if upgrade:
+            if st.get("imageKind") not in ("ai", "sky") or st.get("noImage"):
+                continue
+            log(f"s{n}: {st.get('imageKind')} → 現地の写真を試す")
+            if dry_run:
+                continue
+            got = try_commons_image(st, dst, loss)
+            if got:
+                results[sid] = {"imageURL": url, **got, "_force": True}
+            continue
         if st.get("imageURL"):
             log(f"s{n}: 写真は付いている")
             if not dry_run:
@@ -285,22 +473,25 @@ def plan_and_make(issue, dry_run):
                 if fields:
                     results[sid] = fields
             continue
-        if st.get("noImage") or DEATH_RE.search(story_text(st)):
-            # 人が亡くなった記事は、事故・現場の絵を作らず、アプリのヒーローと同じ落ち着いた空の写真にする（11/16 Sho）
+        if dry_run:
+            log(f"s{n}: 亡くなった語={loss} / プレス候補={[s.get('url') for s in st.get('sources') or []]} / imagePrompt={'あり' if st.get('imagePrompt') else 'なし'}")
+            continue
+        if not loss:
+            company = try_press_image(st, dst)
+            if company:
+                results[sid] = {"imageURL": url, "imageCredit": f"画像：{company}（プレスリリース）",
+                                "imageKind": "press", "imageSource": company}
+                continue
+        if not st.get("noImage"):
+            got = try_commons_image(st, dst, loss)
+            if got:
+                results[sid] = {"imageURL": url, **got}
+                continue
+        if loss:
+            # 事故・災害で人が亡くなった記事は、現場の絵を作らず、落ち着いた空の写真にする（11/16 Sho）
             log(f"s{n}: 人が亡くなった記事 → 空の写真（{SKY_FOR_LOSS}）")
             results[sid] = {"imageURL": f"{PAGES_BASE}img/sky/{SKY_FOR_LOSS}.jpg",
                             "imageCredit": "画像はイメージ", "imageKind": "sky"}
-            continue
-        rel = f"img/{date}/s{n}.jpg"
-        dst = os.path.join(ROOT, rel)
-        url = PAGES_BASE + rel
-        if dry_run:
-            log(f"s{n}: プレス候補={[s.get('url') for s in st.get('sources') or []]} / imagePrompt={'あり' if st.get('imagePrompt') else 'なし'}")
-            continue
-        company = try_press_image(st, dst)
-        if company:
-            results[sid] = {"imageURL": url, "imageCredit": f"画像：{company}（プレスリリース）",
-                            "imageKind": "press", "imageSource": company}
             continue
         prompt = (st.get("imagePrompt") or "").strip() or auto_prompt(st)
         if ai_count >= MAX_AI_PER_RUN:
@@ -326,7 +517,16 @@ def apply(d, issue_id, results):
         if iss["id"] != issue_id:
             continue
         for st in iss.get("stories") or []:
-            for k, v in (results.get(st["id"]) or {}).items():
+            fields = dict(results.get(st["id"]) or {})
+            if fields.pop("_force", False):
+                for k in ("imageCreditEn", "imageSource", "imagePage"):
+                    st.pop(k, None)
+                for k, v in fields.items():
+                    if k != "namesEn" and st.get(k) != v:
+                        st[k] = v
+                        changed = True
+                fields = {k: v for k, v in fields.items() if k == "namesEn"}
+            for k, v in fields.items():
                 if k == "namesEn":
                     merged = {**(st.get("namesEn") or {}), **v}
                     if merged != st.get("namesEn"):
@@ -370,6 +570,7 @@ def main():
     p.add_argument("--push", action="store_true", help="コミットして push する")
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("--names-all", action="store_true", help="全号の出典名・会社名に英語名を付ける（一度だけの埋め戻し）")
+    p.add_argument("--upgrade", action="store_true", help="AI・空の写真の記事を現地の写真に差し替えられるか試す（--date と一緒に）")
     p.add_argument("--no-wait-en", action="store_true", help="英語が付くのを待たない")
     a = p.parse_args()
 
@@ -392,12 +593,12 @@ def main():
         return 0
     if a.names_all:
         return backfill_names(d, a.push)
-    if all(s.get("imageURL") and not ja_names(s) for s in issue.get("stories") or []):
+    if not a.upgrade and all(s.get("imageURL") and not ja_names(s) for s in issue.get("stories") or []):
         log(issue["id"], "は写真も英語名も付いている")
         return 0
 
     log("対象:", issue["id"])
-    results = plan_and_make(issue, a.dry_run)
+    results = plan_and_make(issue, a.dry_run, a.upgrade)
     if a.dry_run or not results:
         log("書き足すものなし" if not a.dry_run else "dry-run 終了")
         return 0
@@ -416,7 +617,7 @@ def main():
         git("add", "issues.json", "index.html", "i", "en")
         if os.path.isdir(os.path.join(ROOT, "img", issue["date"])):
             git("add", f"img/{issue['date']}")
-        git("commit", "-q", "-m", f"{issue['date']}号に記事の写真・英語名を追加")
+        git("commit", "-q", "-m", f"{issue['date']}号の記事の写真を{'現地の写真に差し替え' if a.upgrade else '追加'}")
         r = git("push", "-q", "origin", "HEAD:main", check=False)
         if r.returncode == 0:
             log("push 済み:", ", ".join(f"{k}={v.get('imageKind', 'names')}" for k, v in results.items()))
