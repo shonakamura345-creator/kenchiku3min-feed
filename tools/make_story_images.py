@@ -26,6 +26,8 @@
   imageSource  … press のときの会社・団体名
   imageCreditEn… 英語の画面用のクレジット（commons のとき）
   imagePage    … commons の写真のページ（ライセンスの出どころ）
+  imageLicense / imageLicenseURL … commons の写真のライセンス名とその条文のURL
+  imageCreditURL … クレジットを押したときに開くページ（写真のクレジット一覧 credits/ の該当行）
   namesEn      … 英語の画面用の名前の対応表 {日本語の出典名・会社名: 英語名}（fal の LLM で作る）
 
 使い方:
@@ -240,7 +242,7 @@ def make_ai_image(prompt, dst):
 # ---------- 現地の写真（Wikimedia Commons） ----------
 
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
-COMMONS_UA = "kenchiku3min-images/1.0 (news app; photo credit lookup)"
+COMMONS_UA = "kenchiku3min-images/1.0 (https://kenchiku3min.web.app/; news app photo credit lookup)"
 OK_LICENSE_RE = re.compile(r"^(CC BY(-SA)? [0-9.]+|CC0|Public domain|PD|No restrictions)", re.I)
 BAD_FILE_RE = re.compile(r"map|logo|plan|diagram|floor|chart|seal|flag|emblem|\.svg|\.pdf|\.tif", re.I)
 
@@ -295,6 +297,7 @@ def commons_search(q, limit=12):
     params = urllib.parse.urlencode({
         "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6, "gsrsearch": q,
         "gsrlimit": limit, "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime", "iiurlwidth": 1280})
+    time.sleep(1)  # Commons の API に間をあける（429 を避ける）
     req = urllib.request.Request(f"{COMMONS_API}?{params}", headers={"User-Agent": COMMONS_UA})
     with urllib.request.urlopen(req, timeout=30) as r:
         pages = (json.loads(r.read()).get("query") or {}).get("pages") or {}
@@ -312,9 +315,24 @@ def commons_search(q, limit=12):
         y = re.search(r"(19|20)\d\d", when)
         artist = re.sub(r"<[^>]+>", "", html.unescape((m.get("Artist") or {}).get("value", ""))).strip()
         artist = re.sub(r"\s+", " ", artist)[:40] or "不明"
-        out.append({"title": p["title"], "thumb": ii.get("thumburl"), "page": ii.get("descriptionurl"),
+        lic_url = (m.get("LicenseUrl") or {}).get("value", "") or license_url(lic)
+        out.append({"title": p["title"], "thumb": ii.get("thumburl"), "page": ii.get("descriptionurl"), "license_url": lic_url,
                     "license": lic, "artist": artist, "year": int(y.group(0)) if y else None})
     return out
+
+
+def license_url(lic):
+    """ライセンス名から条文のURL（Commons に LicenseUrl が無いとき用）。"""
+    m = re.match(r"CC (BY(?:-SA)?) ([0-9.]+)", lic or "", re.I)
+    if m:
+        return f"https://creativecommons.org/licenses/{m.group(1).lower()}/{m.group(2)}/deed.ja"
+    if (lic or "").upper().startswith("CC0"):
+        return "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+    return ""
+
+
+def credit_url(date, n):
+    return f"{PAGES_BASE}credits/#p-{date}-s{n}"
 
 
 def commons_get(url):
@@ -370,9 +388,10 @@ def try_commons_image(st, dst, loss=False):
             if c["year"]:
                 cap, cap_en = f"{cap}（{c['year']}年）", (f"{cap_en} ({c['year']})" if cap_en else "")
             return {
-                "imageCredit": f"写真：{cap}／{c['artist']}（Wikimedia Commons・{c['license']}）",
-                "imageCreditEn": f"Photo: {cap_en + ' / ' if cap_en else ''}{c['artist']} (Wikimedia Commons, {c['license']})",
+                "imageCredit": f"写真：{cap}／{c['artist']}（Wikimedia Commons・{c['license']}・切り抜き）",
+                "imageCreditEn": f"Photo: {cap_en + ' / ' if cap_en else ''}{c['artist']} (Wikimedia Commons, {c['license']}, cropped)",
                 "imageKind": "commons", "imageSource": c["artist"], "imagePage": c["page"],
+                "imageLicense": c["license"], "imageLicenseURL": c["license_url"],
             }
         except Exception as e:  # noqa: BLE001
             log("  候補の確認に失敗:", c["title"][:60], e)
@@ -463,7 +482,7 @@ def plan_and_make(issue, dry_run, upgrade=False):
                 continue
             got = try_commons_image(st, dst, loss)
             if got:
-                results[sid] = {"imageURL": url, **got, "_force": True}
+                results[sid] = {"imageURL": url, **got, "imageCreditURL": credit_url(date, n), "_force": True}
             continue
         if st.get("imageURL"):
             log(f"s{n}: 写真は付いている")
@@ -485,7 +504,7 @@ def plan_and_make(issue, dry_run, upgrade=False):
         if not st.get("noImage"):
             got = try_commons_image(st, dst, loss)
             if got:
-                results[sid] = {"imageURL": url, **got}
+                results[sid] = {"imageURL": url, **got, "imageCreditURL": credit_url(date, n)}
                 continue
         if loss:
             # 事故・災害で人が亡くなった記事は、現場の絵を作らず、落ち着いた空の写真にする（11/16 Sho）
@@ -507,6 +526,7 @@ def plan_and_make(issue, dry_run, upgrade=False):
     for st in issue.get("stories") or []:
         fields = results.get(st["id"])
         if fields and fields.get("imageURL") and not dry_run:
+            fields.setdefault("imageCreditURL", credit_url(date, st.get("number", 0)))
             add_names(st, fields)
     return results
 
@@ -519,7 +539,7 @@ def apply(d, issue_id, results):
         for st in iss.get("stories") or []:
             fields = dict(results.get(st["id"]) or {})
             if fields.pop("_force", False):
-                for k in ("imageCreditEn", "imageSource", "imagePage"):
+                for k in ("imageCreditEn", "imageSource", "imagePage", "imageLicense", "imageLicenseURL", "imageCreditURL"):
                     st.pop(k, None)
                 for k, v in fields.items():
                     if k != "namesEn" and st.get(k) != v:

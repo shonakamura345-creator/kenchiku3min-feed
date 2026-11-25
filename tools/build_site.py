@@ -84,6 +84,14 @@ article p{margin:0 0 14px}
 .hojosen .item{background:var(--paper);border-radius:14px;padding:12px 14px;margin:0 0 8px}
 .hojosen .item b{display:block;margin-bottom:2px}
 .hojosen .item p{margin:0;font-size:.93rem}
+.photo{display:flex;gap:14px;background:#fff;border:1px solid var(--line);border-radius:18px;padding:14px;margin:0 0 12px;scroll-margin-top:12px}
+.photo:target{border-color:var(--orange);box-shadow:0 0 0 2px var(--orange)}
+.photo img{flex:0 0 120px;width:120px;height:80px;object-fit:cover;border-radius:10px}
+.photo .t{font-weight:700;font-size:.92rem;line-height:1.5}
+.photo dl{margin:6px 0 0;font-size:.82rem;line-height:1.6;display:grid;grid-template-columns:auto 1fr;gap:2px 10px}
+.photo dt{color:var(--sub);white-space:nowrap}
+.photo dd{margin:0;overflow-wrap:anywhere}
+@media (max-width:480px){.photo{flex-direction:column}.photo img{width:100%;height:auto;aspect-ratio:3/2}}
 .rel{display:inline-block;margin-top:14px;font-size:.75rem;color:var(--sub);border:1px solid var(--line);border-radius:999px;padding:2px 10px}
 .appbox{background:var(--ink);color:#fff;border-radius:22px;padding:22px 20px;margin:8px 0 22px;text-align:center}
 .appbox p{margin:0 0 12px;font-size:.95rem;opacity:.9}
@@ -187,7 +195,7 @@ def head(title: str, desc: str, url: str, extra_css: str = "", alt: str = "", la
 FOOTER = f"""
 <footer>
   <p>「{SITE_NAME}」は、毎朝3分で読める建築ニュースのiPhoneアプリです。記事は出典を要約・再構成したもので、詳細は各出典をご覧ください。解説は「Sho建築士AI」が生成しています。</p>
-  <p><a href="{APP_STORE_URL}">App Store</a> ・ <a href="{LINE_URL}">公式LINE</a> ・ <a href="https://kenchiku3min.web.app/">サポート</a> ・ <a href="https://kenchiku3min.web.app/privacy.html">プライバシーポリシー</a><br>© 2026 Sho Nakamura / 株式会社ATAP Works</p>
+  <p><a href="{APP_STORE_URL}">App Store</a> ・ <a href="{LINE_URL}">公式LINE</a> ・ <a href="https://kenchiku3min.web.app/">サポート</a> ・ <a href="https://kenchiku3min.web.app/privacy.html">プライバシーポリシー</a> ・ <a href="{BASE_URL}/credits/">写真のクレジット</a><br>© 2026 Sho Nakamura / 株式会社ATAP Works</p>
 </footer>
 </div></body></html>
 """
@@ -488,6 +496,48 @@ def render_index_en(issues: list[dict]) -> str:
     return "\n".join(out)
 
 
+# ---------------------------------------------------------------- 写真のクレジット（credits/）
+
+KIND_JA = {"commons": "現地の写真（Wikimedia Commons）", "press": "プレスリリースの写真", "ai": "AIで作ったイメージ", "sky": "イメージ（空の写真）"}
+
+
+def render_credits(issues: list[dict]) -> str:
+    """アプリの記事の写真ごとの出どころ・撮影者・ライセンス・手を加えたこと。アプリのクレジットを押すとここの該当行が開く。"""
+    title = f"写真のクレジット | {SITE_NAME}"
+    desc = "アプリ「建築3分ニュース」の記事に載せている写真の出どころ・撮影者・ライセンスの一覧です。"
+    out = [head(title, desc, f"{BASE_URL}/credits/")]
+    out.append('<div class="issue-head"><div class="kicker">Photo credits</div><h1>写真のクレジット</h1>'
+               '<p class="meta">アプリの記事に載せている写真の出どころです。Wikimedia Commons の写真は、撮影者が決めたライセンス（クリエイティブ・コモンズ）にしたがって使っています。'
+               'どの写真も、アプリの表示に合わせて縮小し、枠に合わせて切り抜いています。CC BY-SA の写真を縮小・切り抜きしたものは、元と同じ CC BY-SA のライセンスで公開しています。'
+               '写真の撮影者・権利者の方で、表示の直しや取り下げをご希望の場合は、<a href="https://kenchiku3min.web.app/">サポート</a>のお問い合わせからご連絡ください。</p></div>')
+    for iss in issues:
+        rows = [s for s in iss.get("stories") or [] if s.get("imageURL")]
+        if not rows:
+            continue
+        out.append(f'<div class="sec-label">{jp_date(iss["date"], iss.get("weekday", ""))}号</div>')
+        for st in rows:
+            n = st.get("number", 0)
+            kind = st.get("imageKind") or ""
+            dl = [f"<dt>種類</dt><dd>{esc(KIND_JA.get(kind, kind))}</dd>", f"<dt>表示</dt><dd>{esc(st.get('imageCredit', ''))}</dd>"]
+            if kind == "commons":
+                dl.append(f"<dt>撮影者</dt><dd>{esc(st.get('imageSource', ''))}</dd>")
+                lic, lu = st.get("imageLicense", ""), st.get("imageLicenseURL", "")
+                lic_html = f'<a href="{esc(lu)}" target="_blank" rel="noopener license">{esc(lic)}</a>' if lu else esc(lic)
+                dl.append(f"<dt>ライセンス</dt><dd>{lic_html}</dd>")
+                if st.get("imagePage"):
+                    dl.append(f'<dt>元の写真</dt><dd><a href="{esc(st["imagePage"])}" target="_blank" rel="noopener">Wikimedia Commons のページ</a></dd>')
+                dl.append("<dt>手を加えたこと</dt><dd>縮小・切り抜き" + ("（このページの写真も CC BY-SA で公開）" if "SA" in lic.upper() else "") + "</dd>")
+            elif kind == "press":
+                src = next((x for x in st.get("sources") or [] if x.get("url")), None)
+                if src:
+                    dl.append(f'<dt>発表</dt><dd><a href="{esc(src["url"])}" target="_blank" rel="noopener">{esc(src.get("name", "発表元"))}</a></dd>')
+            out.append(f'<div class="photo" id="p-{esc(iss["date"])}-s{n}"><img src="{esc(st["imageURL"])}" alt="" loading="lazy">'
+                       f'<div><div class="t"><a href="{issue_url(iss["date"])}#s{n}" style="color:inherit;text-decoration:none">{esc(st.get("title", ""))}</a></div>'
+                       f'<dl>{"".join(dl)}</dl></div></div>')
+    out.append(FOOTER)
+    return "\n".join(out)
+
+
 def write_if_changed(path: Path, text: str) -> int:
     path.parent.mkdir(parents=True, exist_ok=True)
     if not path.exists() or path.read_text(encoding="utf-8") != text:
@@ -530,6 +580,8 @@ def main() -> int:
                                     render_issue_en(issue, prev_issue=older, next_issue=newer))
     if en_issues:
         written += write_if_changed(ROOT / "en" / "index.html", render_index_en(en_issues))
+
+    written += write_if_changed(ROOT / "credits" / "index.html", render_credits(issues))
 
     # 保持は直近30号なので、それより古い号のページは消さずに残す（過去の共有リンクを生かす）
     print(f"生成完了: {len(issues)}号（英語 {len(en_issues)}号） / 更新ファイル {written}")

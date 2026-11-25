@@ -73,6 +73,14 @@ article p{margin:0 0 14px}
 .hojosen .item{background:var(--paper);border-radius:14px;padding:12px 14px;margin:0 0 8px}
 .hojosen .item b{display:block;margin-bottom:2px}
 .hojosen .item p{margin:0;font-size:.93rem}
+.photo{display:flex;gap:14px;background:#fff;border:1px solid var(--line);border-radius:18px;padding:14px;margin:0 0 12px;scroll-margin-top:12px}
+.photo:target{border-color:var(--orange);box-shadow:0 0 0 2px var(--orange)}
+.photo img{flex:0 0 120px;width:120px;height:80px;object-fit:cover;border-radius:10px}
+.photo .t{font-weight:700;font-size:.92rem;line-height:1.5}
+.photo dl{margin:6px 0 0;font-size:.82rem;line-height:1.6;display:grid;grid-template-columns:auto 1fr;gap:2px 10px}
+.photo dt{color:var(--sub);white-space:nowrap}
+.photo dd{margin:0;overflow-wrap:anywhere}
+@media (max-width:480px){.photo{flex-direction:column}.photo img{width:100%;height:auto;aspect-ratio:3/2}}
 .rel{display:inline-block;margin-top:14px;font-size:.75rem;color:var(--sub);border:1px solid var(--line);border-radius:999px;padding:2px 10px}
 .appbox{background:var(--ink);color:#fff;border-radius:22px;padding:22px 20px;margin:8px 0 22px;text-align:center}
 .appbox p{margin:0 0 12px;font-size:.95rem;opacity:.9}
@@ -158,6 +166,6 @@ footer a{color:var(--sub)}
 
 <footer>
   <p>「建築3分ニュース」は、毎朝3分で読める建築ニュースのiPhoneアプリです。記事は出典を要約・再構成したもので、詳細は各出典をご覧ください。解説は「Sho建築士AI」が生成しています。</p>
-  <p><a href="https://apps.apple.com/jp/app/id6800172328">App Store</a> ・ <a href="https://line.me/R/ti/p/@860krbpe">公式LINE</a> ・ <a href="https://kenchiku3min.web.app/">サポート</a> ・ <a href="https://kenchiku3min.web.app/privacy.html">プライバシーポリシー</a><br>© 2026 Sho Nakamura / 株式会社ATAP Works</p>
+  <p><a href="https://apps.apple.com/jp/app/id6800172328">App Store</a> ・ <a href="https://line.me/R/ti/p/@860krbpe">公式LINE</a> ・ <a href="https://kenchiku3min.web.app/">サポート</a> ・ <a href="https://kenchiku3min.web.app/privacy.html">プライバシーポリシー</a> ・ <a href="https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/">写真のクレジット</a><br>© 2026 Sho Nakamura / 株式会社ATAP Works</p>
 </footer>
 </div></body></html>
