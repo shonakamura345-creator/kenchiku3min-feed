@@ -156,14 +156,15 @@
             "そらみみ": "Soramimi"
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-25/s2.jpg",
-          "imageCredit": "写真：銀山町電停（2009年）／Ujinaport（Wikimedia Commons・CC BY-SA 3.0・切り抜き）",
-          "imageCreditEn": "Photo: Kanayamacho Station (2009) / Ujinaport (Wikimedia Commons, CC BY-SA 3.0, cropped)",
+          "imageCredit": "写真：Ujinaport／CC BY-SA 3.0（Commons・切り抜き）",
+          "imageCreditEn": "Photo: Ujinaport / CC BY-SA 3.0 (Wikimedia Commons, cropped)",
           "imageKind": "commons",
           "imageSource": "Ujinaport",
           "imagePage": "https://commons.wikimedia.org/wiki/File:Hiroden_Kanayama-cho_Sta.01.jpg",
           "imageLicense": "CC BY-SA 3.0",
           "imageLicenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
-          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-25-s2"
+          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-25-s2",
+          "imageCaption": "銀山町電停（2009年撮影）"
         },
         {
           "id": "issue-2026-11-25-s3",
@@ -405,8 +406,8 @@
             ]
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-24/s2.jpg",
-          "imageCredit": "写真：松坂屋名古屋店（2024年）／Kyu3a（Wikimedia Commons・CC BY-SA 4.0・切り抜き）",
-          "imageCreditEn": "Photo: Matsuzakaya Nagoya (2024) / Kyu3a (Wikimedia Commons, CC BY-SA 4.0, cropped)",
+          "imageCredit": "写真：Kyu3a／CC BY-SA 4.0（Commons・切り抜き）",
+          "imageCreditEn": "Photo: Kyu3a / CC BY-SA 4.0 (Wikimedia Commons, cropped)",
           "imageKind": "commons",
           "imageSource": "Kyu3a",
           "imagePage": "https://commons.wikimedia.org/wiki/File:Matsuzakaya_Nagoya_from_Chunichi_Building.jpg",
@@ -415,7 +416,8 @@
           },
           "imageLicense": "CC BY-SA 4.0",
           "imageLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
-          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-24-s2"
+          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-24-s2",
+          "imageCaption": "松坂屋名古屋店（2024年撮影）"
         },
         {
           "id": "issue-2026-11-24-s3",
@@ -817,8 +819,8 @@
             ]
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-22/s1.jpg",
-          "imageCredit": "写真：銀座ソニーパーク（2019年）／Wpcpey（Wikimedia Commons・CC BY 4.0・切り抜き）",
-          "imageCreditEn": "Photo: Ginza Sony Park (2019) / Wpcpey (Wikimedia Commons, CC BY 4.0, cropped)",
+          "imageCredit": "写真：Wpcpey／CC BY 4.0（Commons・切り抜き）",
+          "imageCreditEn": "Photo: Wpcpey / CC BY 4.0 (Wikimedia Commons, cropped)",
           "imageKind": "commons",
           "imageSource": "Wpcpey",
           "imagePage": "https://commons.wikimedia.org/wiki/File:Ginza_sony_park_night_view_201912.jpg",
@@ -827,7 +829,8 @@
           },
           "imageLicense": "CC BY 4.0",
           "imageLicenseURL": "https://creativecommons.org/licenses/by/4.0",
-          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-22-s1"
+          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-22-s1",
+          "imageCaption": "銀座ソニーパーク（2019年撮影）"
         },
         {
           "id": "issue-2026-11-22-s2",
@@ -1063,8 +1066,8 @@
             ]
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-21/s1.jpg",
-          "imageCredit": "写真：グラングリーン大阪（2025年）／掬茶（Wikimedia Commons・CC BY-SA 4.0・切り抜き）",
-          "imageCreditEn": "Photo: Grand Green Osaka (2025) / 掬茶 (Wikimedia Commons, CC BY-SA 4.0, cropped)",
+          "imageCredit": "写真：掬茶／CC BY-SA 4.0（Commons・切り抜き）",
+          "imageCreditEn": "Photo: 掬茶 / CC BY-SA 4.0 (Wikimedia Commons, cropped)",
           "imageKind": "commons",
           "imageSource": "掬茶",
           "imagePage": "https://commons.wikimedia.org/wiki/File:Grand_Green_Osaka_20250831.jpg",
@@ -1076,7 +1079,8 @@
           },
           "imageLicense": "CC BY-SA 4.0",
           "imageLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
-          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-21-s1"
+          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-21-s1",
+          "imageCaption": "グラングリーン大阪（2025年撮影）"
         },
         {
           "id": "issue-2026-11-21-s2",
@@ -1154,14 +1158,15 @@
             "高知県（公式）": "Kochi Prefecture (official)"
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-21/s2.jpg",
-          "imageCredit": "写真：高知県民体育館（2008年）／663highland（Wikimedia Commons・CC BY 2.5・切り抜き）",
-          "imageCreditEn": "Photo: Kochi Prefectural Gymnasium (2008) / 663highland (Wikimedia Commons, CC BY 2.5, cropped)",
+          "imageCredit": "写真：663highland／CC BY 2.5（Commons・切り抜き）",
+          "imageCreditEn": "Photo: 663highland / CC BY 2.5 (Wikimedia Commons, cropped)",
           "imageKind": "commons",
           "imageSource": "663highland",
           "imagePage": "https://commons.wikimedia.org/wiki/File:Kochi_Prefectural_Gymnasium01ss3200.jpg",
           "imageLicense": "CC BY 2.5",
           "imageLicenseURL": "https://creativecommons.org/licenses/by/2.5",
-          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-21-s2"
+          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-21-s2",
+          "imageCaption": "高知県民体育館（2008年撮影）"
         },
         {
           "id": "issue-2026-11-21-s3",
@@ -1321,18 +1326,19 @@
             ]
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-20/s1.jpg",
-          "imageCredit": "写真：JR富士駅北口（2023年）／MaedaAkihiko（Wikimedia Commons・CC BY-SA 4.0・切り抜き）",
+          "imageCredit": "写真：MaedaAkihiko／CC BY-SA 4.0・切り抜き",
           "imageKind": "commons",
           "namesEn": {
             "テレビ静岡（Yahoo!ニュース）": "TV Shizuoka (Yahoo! News)",
             "富士市（公式）": "Fuji City (official)"
           },
-          "imageCreditEn": "Photo: JR Fuji Station North Exit (2023) / MaedaAkihiko (Wikimedia Commons, CC BY-SA 4.0, cropped)",
+          "imageCreditEn": "Photo: MaedaAkihiko / CC BY-SA 4.0 (Wikimedia Commons, cropped)",
           "imageSource": "MaedaAkihiko",
           "imagePage": "https://commons.wikimedia.org/wiki/File:JRC_Fuji-STA_North.jpg",
           "imageLicense": "CC BY-SA 4.0",
           "imageLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
-          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-20-s1"
+          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-20-s1",
+          "imageCaption": "JR富士駅北口（2023年撮影）"
         },
         {
           "id": "issue-2026-11-20-s2",
@@ -1483,17 +1489,18 @@
             ]
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-20/s3.jpg",
-          "imageCredit": "写真：伊勢丹新宿本店（2019年）／Lombroso（Wikimedia Commons・CC BY-SA 4.0・切り抜き）",
+          "imageCredit": "写真：Lombroso／CC BY-SA 4.0・切り抜き",
           "imageKind": "commons",
           "namesEn": {
             "日本経済新聞": "Nikkei"
           },
-          "imageCreditEn": "Photo: Isetan Shinjuku store (2019) / Lombroso (Wikimedia Commons, CC BY-SA 4.0, cropped)",
+          "imageCreditEn": "Photo: Lombroso / CC BY-SA 4.0 (Wikimedia Commons, cropped)",
           "imageSource": "Lombroso",
           "imagePage": "https://commons.wikimedia.org/wiki/File:Isetan_Department_Store_Shinjuku_Store_(2019-05-01).jpg",
           "imageLicense": "CC BY-SA 4.0",
           "imageLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
-          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-20-s3"
+          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-20-s3",
+          "imageCaption": "伊勢丹新宿本店（2019年撮影）"
         }
       ]
     },
@@ -1733,14 +1740,15 @@
             "中国新聞": "Chugoku Shimbun"
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-19/s3.jpg",
-          "imageCredit": "写真：広島信用金庫 本店（2017年）／Tatp1（Wikimedia Commons・CC BY-SA 4.0・切り抜き）",
-          "imageCreditEn": "Photo: Hiroshima Shinkin Bank Headquarters (2017) / Tatp1 (Wikimedia Commons, CC BY-SA 4.0, cropped)",
+          "imageCredit": "写真：Tatp1／CC BY-SA 4.0（Commons・切り抜き）",
+          "imageCreditEn": "Photo: Tatp1 / CC BY-SA 4.0 (Wikimedia Commons, cropped)",
           "imageKind": "commons",
           "imageSource": "Tatp1",
           "imagePage": "https://commons.wikimedia.org/wiki/File:%E5%BA%83%E5%B3%B6%E4%BF%A1%E7%94%A8%E9%87%91%E5%BA%AB_%E6%9C%AC%E5%BA%97.jpg",
           "imageLicense": "CC BY-SA 4.0",
           "imageLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
-          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-19-s3"
+          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-19-s3",
+          "imageCaption": "広島信用金庫 本店（2017年撮影）"
         }
       ]
     },
@@ -2150,19 +2158,20 @@
             ]
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-17/s2.jpg",
-          "imageCredit": "写真：羽田空港（2021年）／MaedaAkihiko（Wikimedia Commons・CC BY-SA 4.0・切り抜き）",
+          "imageCredit": "写真：MaedaAkihiko／CC BY-SA 4.0・切り抜き",
           "imageKind": "commons",
           "namesEn": {
             "日本経済新聞": "Nikkei (official: Nikkei Inc.)",
             "東京新聞": "Tokyo Shimbun",
             "毎日新聞（dメニューニュース）": "Mainichi Shimbun (dmenu News)"
           },
-          "imageCreditEn": "Photo: Haneda Airport (2021) / MaedaAkihiko (Wikimedia Commons, CC BY-SA 4.0, cropped)",
+          "imageCreditEn": "Photo: MaedaAkihiko / CC BY-SA 4.0 (Wikimedia Commons, cropped)",
           "imageSource": "MaedaAkihiko",
           "imagePage": "https://commons.wikimedia.org/wiki/File:Tokyo-International-Airport_Satellite.jpg",
           "imageLicense": "CC BY-SA 4.0",
           "imageLicenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
-          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-17-s2"
+          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-17-s2",
+          "imageCaption": "羽田空港（2021年撮影）"
         },
         {
           "id": "issue-2026-11-17-s3",
@@ -2230,18 +2239,19 @@
             ]
           },
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-17/s3.jpg",
-          "imageCredit": "写真：名護市庁舎（2009年）／Waei（Wikimedia Commons・CC BY-SA 3.0・切り抜き）",
+          "imageCredit": "写真：Waei／CC BY-SA 3.0（Commons・切り抜き）",
           "imageKind": "commons",
           "namesEn": {
             "北海道新聞": "Hokkaido Shimbun",
             "十勝毎日新聞": "Tokachi Mainichi Shimbun"
           },
-          "imageCreditEn": "Photo: Nago City Hall (2009) / Waei (Wikimedia Commons, CC BY-SA 3.0, cropped)",
+          "imageCreditEn": "Photo: Waei / CC BY-SA 3.0 (Wikimedia Commons, cropped)",
           "imageSource": "Waei",
           "imagePage": "https://commons.wikimedia.org/wiki/File:Nago_City_Hall_02.jpg",
           "imageLicense": "CC BY-SA 3.0",
           "imageLicenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
-          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-17-s3"
+          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-17-s3",
+          "imageCaption": "名護市庁舎（2009年撮影）"
         }
       ]
     },
@@ -2325,18 +2335,19 @@
           },
           "imagePrompt": "A newly built two-story wooden shop-house with fresh cedar siding standing on a street in a quiet Japanese coastal town, surrounded by cleared empty lots where buildings used to be, gravel ground, overcast autumn sky, a few utility poles.",
           "imageURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/img/2026-11-16/s1.jpg",
-          "imageCredit": "写真：輪島朝市通り（2024年）／Hurohukidaikon（Wikimedia Commons・CC BY 4.0・切り抜き）",
+          "imageCredit": "写真：Hurohukidaikon／CC BY 4.0・切り抜き",
           "imageKind": "commons",
           "namesEn": {
             "東京新聞（共同通信）": "Tokyo Shimbun (Kyodo News)",
             "石川テレビ（Yahoo!ニュース）": "Ishikawa TV (Yahoo! News)"
           },
-          "imageCreditEn": "Photo: Wajima Asaichi Street (2024) / Hurohukidaikon (Wikimedia Commons, CC BY 4.0, cropped)",
+          "imageCreditEn": "Photo: Hurohukidaikon / CC BY 4.0 (Wikimedia Commons, cropped)",
           "imageSource": "Hurohukidaikon",
           "imagePage": "https://commons.wikimedia.org/wiki/File:R6_noto_earthquake_wajima_burned-out-asaichi-area_2024-02-17_13.jpg",
           "imageLicense": "CC BY 4.0",
           "imageLicenseURL": "https://creativecommons.org/licenses/by/4.0",
-          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-16-s1"
+          "imageCreditURL": "https://shonakamura345-creator.github.io/kenchiku3min-feed/credits/#p-2026-11-16-s1",
+          "imageCaption": "輪島朝市通り（2024年撮影）"
         },
         {
           "id": "issue-2026-11-16-s2",

@@ -331,6 +331,28 @@ def license_url(lic):
     return ""
 
 
+def text_width(t):
+    """アプリのクレジット（10pt・1行）での幅（pt）。ヒラギノで測る（無ければ全角10・半角6.5の目安）。
+    アプリは写真の左右20pt＋帯の余白で、iPhone SE・mini（幅375）だと約305ptまで。余裕を見て290に収める。"""
+    try:
+        from PIL import ImageFont
+        return ImageFont.truetype("/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc", 10).getlength(t)
+    except Exception:  # noqa: BLE001
+        return sum(10 if ord(ch) > 0x2000 else 6.5 for ch in t)
+
+
+def commons_credit(artist, lic):
+    """アプリの1行に収まるクレジット。撮影者とライセンスは必ず残す（場所・撮影年はクレジットページへ）。"""
+    for fmt in ("写真：{a}／{l}（Wikimedia Commons・切り抜き）", "写真：{a}／{l}（Commons・切り抜き）", "写真：{a}／{l}・切り抜き"):
+        t = fmt.format(a=artist, l=lic)
+        if text_width(t) <= 290:
+            return t
+    a = artist
+    while a and text_width(f"写真：{a}…／{lic}・切り抜き") > 290:
+        a = a[:-1]
+    return f"写真：{a}…／{lic}・切り抜き"
+
+
 def credit_url(date, n):
     return f"{PAGES_BASE}credits/#p-{date}-s{n}"
 
@@ -384,12 +406,13 @@ def try_commons_image(st, dst, loss=False):
             to_jpeg(tmp, dst)
             os.unlink(tmp)
             log(f"  ○ {c['title'][:60]} {c['license']} {c['artist']}")
-            cap, cap_en = sub.get("caption") or sub["subject"], sub.get("captionEn") or ""
+            cap = sub.get("caption") or sub["subject"]
             if c["year"]:
-                cap, cap_en = f"{cap}（{c['year']}年）", (f"{cap_en} ({c['year']})" if cap_en else "")
+                cap = f"{cap}（{c['year']}年撮影）"
             return {
-                "imageCredit": f"写真：{cap}／{c['artist']}（Wikimedia Commons・{c['license']}・切り抜き）",
-                "imageCreditEn": f"Photo: {cap_en + ' / ' if cap_en else ''}{c['artist']} (Wikimedia Commons, {c['license']}, cropped)",
+                "imageCredit": commons_credit(c["artist"], c["license"]),
+                "imageCreditEn": f"Photo: {c['artist']} / {c['license']} (Wikimedia Commons, cropped)",
+                "imageCaption": cap,
                 "imageKind": "commons", "imageSource": c["artist"], "imagePage": c["page"],
                 "imageLicense": c["license"], "imageLicenseURL": c["license_url"],
             }

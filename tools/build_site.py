@@ -520,6 +520,8 @@ def render_credits(issues: list[dict]) -> str:
             kind = st.get("imageKind") or ""
             dl = [f"<dt>種類</dt><dd>{esc(KIND_JA.get(kind, kind))}</dd>", f"<dt>表示</dt><dd>{esc(st.get('imageCredit', ''))}</dd>"]
             if kind == "commons":
+                if st.get("imageCaption"):
+                    dl.append(f"<dt>写っているもの</dt><dd>{esc(st['imageCaption'])}</dd>")
                 dl.append(f"<dt>撮影者</dt><dd>{esc(st.get('imageSource', ''))}</dd>")
                 lic, lu = st.get("imageLicense", ""), st.get("imageLicenseURL", "")
                 lic_html = f'<a href="{esc(lu)}" target="_blank" rel="noopener license">{esc(lic)}</a>' if lu else esc(lic)
