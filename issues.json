@@ -1,6 +1,152 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-26",
+      "date": "2026-11-26",
+      "weekday": "木",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-26-s1",
+          "number": 1,
+          "title": "新宿駅直結の明治安田新宿ビル、28日に商業エリア開業 1961年築の本社ビルを建て替え",
+          "summary": "新宿駅西口の「明治安田新宿ビル」で、11月28日に商業エリアが開業します。1961年築の旧本社ビルを建て替えた23階建てで、地下1階と1階に21店が入ります。",
+          "body": [
+            "明治安田生命保険は、新宿駅西口に建て替えた「明治安田新宿ビル」（東京都新宿区西新宿1丁目）の商業エリアを、11月28日に開業します。新宿駅に直結するビルの地下1階と1階に、飲食店を中心とした21店舗が入ります。",
+            "ビルは地上23階・地下4階、高さ約126mの複合オフィスビルです。1961年に完成した旧安田生命本社ビルの老朽化を受けて、2021年から建て替え工事が進められてきました。今年8月末に竣工し、9月4日には竣工記念の式典と見学会が開かれています。",
+            "商業エリアは1階に5店舗、地下1階に16店舗という構成です。1階には約100坪の大型店となる「キル フェ ボン新宿」や「Shake Shack」などが、地下1階には回転寿司やビストロ、カクテルバーなどが並びます。ビルには「明治安田ホール」も設けられ、災害時には新宿区と連携して帰宅困難者を受け入れる計画です。"
+          ],
+          "commentary": "放送でも話したんですが、建物は人だと思って見ると、急におもしろくなるんです。名前、年齢、仕事。皆さんも、新しい同僚に会ったら、まずそのあたりから聞きますよね。このビルなら、名前は明治安田新宿ビル。先代は1961年に建った旧安田生命本社ビルで、代替わりした新しいビルはまだ0歳です。本業はオフィスです。でも、それだけじゃないんですよね。地下1階と1階はお店の階で、駅から雨にぬれずに入れます。さらに、大きな地震で電車が止まったら、帰れなくなった人を受け入れる役目も持っています。人で言えば、会社員をしながら、週末は地域の消防団にも入っている、みたいな働き方です。新宿駅のまわりでは、同じ時代に建ったビルの建て替えが続いています。28日、この新人のお店の階が、街に向けて開きます。",
+          "briefing": [
+            "1階には、約100坪の「キル フェ ボン新宿」のほか、スターバックスのティー専門業態「スターバックス ティー＆カフェ」、オーストラリア発のメキシカン「Guzman y Gomez」、サラダ専門店「CHOPPED SALAD DAY」、ハンバーガーの「Shake Shack」が入ります。キル フェ ボンは都内では東京ドームシティ店に続く店舗です。",
+            "地下1階には、THE CITY BAKERYが手がけるビストロ「THE CITY BAKERY BISTRO RUBIN 新宿」、北海道・根室発の「回転寿司 根室花まる」、セルフタップ式のカクテルバー「BREW」などが出店します。",
+            "防災面では、非常用発電機や帰宅困難者向けの備蓄を備えています。ビルの2階にはホールと、地域の人も使えるラウンジが設けられています。"
+          ],
+          "sources": [
+            {
+              "name": "TOKYO MX+",
+              "url": "https://s.mxtv.jp/tokyomxplus/mx/article/202611251010/detail/"
+            },
+            {
+              "name": "レッツエンジョイ東京",
+              "url": "https://www.enjoytokyo.jp/news/205238/"
+            },
+            {
+              "name": "Impress Watch",
+              "url": "https://www.watch.impress.co.jp/docs/news/2138293.html"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "西口の建て替えラッシュ",
+              "body": "新宿駅西口では、小田急百貨店本館の跡地で超高層ビルの工事が進むなど、駅前の大きな建物の建て替えが続いています。東京都と新宿区は、駅と周辺の街を歩いてつなぎ直す「新宿グランドターミナル」の再編を進めており、駅直結のビルが増えると、地下と地上の人の流れも変わっていきます。"
+            },
+            {
+              "title": "築60年前後のビルの更新",
+              "body": "高度経済成長期に建ったオフィスビルや庁舎が、いま築60年前後で建て替えの時期を迎えています。11月19日号の広島信用金庫本店（築60年）や、11月24日号の岡山市役所（旧庁舎は58年）も同じ流れです。建て替えでは、帰宅困難者の受け入れなど、昔のビルには無かった防災の役目が加わることが多くなっています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "TOKYO MX+",
+          "sourceURL": "https://s.mxtv.jp/tokyomxplus/mx/article/202611251010/detail/",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-26-s2",
+          "number": 2,
+          "title": "京都駅東南部の市有地に「アーティストの村」 寺田倉庫など4棟計画、30年度開業へ",
+          "summary": "京都市は、京都駅東南部の市有地約4300平方メートルの活用先に寺田倉庫などのグループを選びました。アトリエや宿泊施設など4棟を建て、30年度の開業をめざします。",
+          "body": [
+            "京都市は11月20日、南区東九条の市有地約4300平方メートルを活用する契約候補事業者に、寺田倉庫（東京都品川区）を代表事業者、デベロップ（千葉県市川市）を共同事業者とするグループを選んだと発表しました。京都駅の東南側にあたるエリアで、アートを軸にしたまちづくりを進める市の公募によるものです。",
+            "事業名は「Link Knot KYOTO（リンク・ノット・キョウト、仮称）」です。アーティストが共同で使うシェアアトリエ、宿泊施設、シェアハウス、レジデンスの4棟を建て、全体で延べ約6000平方メートルの規模を想定しています。工事は2028年度以降に始め、2030年度の開業をめざします。",
+            "土地は60年間の貸し付けで、提案された借地料は年3360万円でした。これは公募の最低額と同じで、応募はこの1グループだけでした。市との契約は2027年度以降に結ぶ予定です。"
+          ],
+          "commentary": "アトリエ、宿泊施設、シェアハウス、レジデンス。京都駅の東南側に建つ4棟の顔ぶれです。美術館を1つ建てるのではなく、作家が作り、泊まり、暮らす場所をまとめて用意する。いわば、作品を見せる建物より、作品が生まれる建物なんです。アトリエって、外から見ると地味ですよね。窓が大きくて、床は汚れてもいい素材で、天井が高い。お客さんを迎えるための飾りはほとんどありません。でも、そういう建物が通りに並ぶと、街の空気が変わるんです。夜遅くまで明かりがついていて、作業の音が聞こえてくる。このエリアでは、村上隆さんの会社カイカイキキの制作スタジオも、近くの市有地で計画が進んでいます。気になるのは、応募がこの1グループだけで、借地料も最低額と同じだったことです。60年という長い契約で、この場所をアートの街に育てていけるのか。それを見届けるのは、このあたりに住む人たちなんでしょうね。",
+          "briefing": [
+            "対象地は南区東九条北河原町の市有地で、面積は約4352平方メートルです。京都市は2026年5月から公募を行い、10月27日に非公開の選定委員会で提案を審査していました。",
+            "事業費や、用途ごとの収支計画は公表されていません。",
+            "京都市はこのエリアで市有地の活用を段階的に進めています。2025年4月には、別の市有地（約1573平方メートル）について、村上隆氏の会社カイカイキキを契約候補事業者に選んでおり、同社は制作スタジオを整備する計画です。"
+          ],
+          "sources": [
+            {
+              "name": "京都新聞",
+              "url": "https://www.kyoto-np.co.jp/articles/-/1830277"
+            },
+            {
+              "name": "日刊建設通信新聞",
+              "url": "https://www.kensetsunews.com/web-kan/1314007"
+            },
+            {
+              "name": "建設ニュース",
+              "url": "https://www.constnews.com/?p=161693"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "駅の東南側をアートの街に",
+              "body": "京都駅の東南部では、市有地を民間に貸してアートやクリエイティブの拠点に変える取り組みが続いています。2021年にはチームラボが別の市有地の契約候補に選ばれ、2025年にはカイカイキキのスタジオ計画が決まりました。近くには2023年に京都市立芸術大学が移転しており、駅の南東側に芸術の拠点が集まりつつあります。"
+            },
+            {
+              "title": "「売る」より「貸す」",
+              "body": "自治体が持つ土地を売らずに、数十年単位で貸して民間に建物を建ててもらう方式が全国で増えています。土地は市の財産として残り、借地料が毎年入ります。一方で、契約期間の終わりに建物をどう扱うか、事業がうまくいかなかったときにどうするかを、最初の契約で決めておくことが大切になります。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "京都新聞",
+          "sourceURL": "https://www.kyoto-np.co.jp/articles/-/1830277",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-26-s3",
+          "number": 3,
+          "title": "ロンドン博物館、1880年代の市場建築を改修した新館が28日開館 事業費4.37億ポンド",
+          "summary": "ロンドン博物館が、ヴィクトリア朝の旧スミスフィールド市場を改修した新しい本拠地を11月28日に開館します。中央のドームを修復し、常設展示は無料です。",
+          "body": [
+            "英国のロンドン博物館（London Museum、旧ロンドン博物館＝Museum of London）は、ロンドン中心部の旧スミスフィールド市場の「ジェネラル・マーケット」を改修した新しい本拠地を、11月28日に開館します。1880年代に建てられたヴィクトリア朝の市場建築で、長く使われていなかった建物です。",
+            "設計は英国のスタントン・ウィリアムズが主導し、アシフ・カーン・スタジオが協働建築家、ジュリアン・ハラップ・アーキテクツが保存修復を担当しました。両事務所は2016年の設計競技で選ばれており、約10年をかけたプロジェクトです。総事業費は4億3700万ポンドとされています。市場の中央にあるドームも修復されました。",
+            "常設展示は「Real Time」「Our Time」「Past Time」という3つのつながった空間で構成され、入場は無料です。隣接する1960年代の「プールトリー・マーケット」は、企画展示室や収蔵庫、学習センターとして2028年に開く予定です。"
+          ],
+          "commentary": "ロンドンの旧スミスフィールド市場は、1880年代に建てられた市場の建物です。ここが、ロンドンの歴史を伝える博物館に生まれ変わります。市場の建物って、実は博物館に向いているんです。もともと荷車や大勢の人が出入りするための建物なので、天井が高くて、柱と柱の間が広い。体育館のように、中の使い方を後から変えやすいんですね。設計を主導したスタントン・ウィリアムズのチームには、保存修復を専門にする事務所も入りました。真ん中の大きなドームも修復されています。博物館はこれまで、市内のバービカン地区にありました。そこから、1880年代の市場に引っ越すわけです。古い建物を残すかどうかの議論は、日本でもよく起きますよね。使い道を変えれば、建物はもう一度働ける。そういう答えを、ロンドンは10年かけて形にしたんだと思います。",
+          "briefing": [
+            "設計チームが選ばれたのは2016年の設計競技で、BIGやカルーソ・セント・ジョンなどの有力事務所が参加していました。",
+            "開館後の最初の企画シーズンは「London Tastes」で、2027年8月31日まで続きます。開館日から12月31日までの無料入場券の予約が受け付けられています。",
+            "開館時間は日曜〜木曜が午前10時〜午後6時で、金曜と土曜は午後11時まで開けています。"
+          ],
+          "sources": [
+            {
+              "name": "London Museum（公式）",
+              "url": "https://www.londonmuseum.org.uk/about/press/press-releases/london-museum-smithfield-will-open-doors/"
+            },
+            {
+              "name": "Dezeen",
+              "url": "https://www.dezeen.com/2026/11/24/london-museum-stanton-williams-asif-khan-julian-harrap-architects/"
+            },
+            {
+              "name": "designboom",
+              "url": "https://www.designboom.com/architecture/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "市場建築の転用",
+              "body": "鉄とガラスでできた19世紀の市場や駅、倉庫は、広い空間を持つため、美術館や商業施設への転用がよく行われてきました。パリのオルセー美術館は1900年の駅舎を、ロンドンのテート・モダンは発電所を改修したものです。今回もその系譜に連なる計画です。"
+            },
+            {
+              "title": "日本での議論とのちがい",
+              "body": "日本では、10月27日号でお伝えした大阪松竹座のように、築100年前後の建物でも跡地の計画が決まらないまま解体に進む例があります。ロンドン博物館の場合は、使われていなかった市場の建物に博物館という新しい役目を与え、公共の施設として残しました。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "London Museum（公式）",
+          "sourceURL": "https://www.londonmuseum.org.uk/about/press/press-releases/london-museum-smithfield-will-open-doors/",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-25",
       "date": "2026-11-25",
       "weekday": "水",
@@ -6815,241 +6961,6 @@
             "データ・マックス": "Data Max",
             "住友商事ほか8社（公式・共同通信PRワイヤー）": "Sumitomo Corporation and 8 Other Companies (official, Kyodo News PR Wire)",
             "西日本新聞": "Nishinippon Shimbun"
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-27",
-      "date": "2026-10-27",
-      "weekday": "火",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-27-s1",
-          "number": 1,
-          "title": "前橋中心街の再開発を大幅に縮小へ 事業費470億円から2割増、小中一貫校の計画を断念",
-          "summary": "前橋市千代田町の再開発で、準備組合が計画の大幅な見直しを発表しました。建築費の高騰で事業費が膨らみ、小中一貫校をやめて図書館は単独で建てます。",
-          "body": [
-            "群馬県前橋市の中心市街地、千代田町で進む再開発について、市と地権者でつくる再開発準備組合は10月23日、計画を大きく見直して規模を縮小する方針を発表しました。従来の計画では総事業費を470億円としていましたが、資材や人件費の高騰で2割ほど膨らむ見通しとなり、そのままでは実現が難しいと判断しました。",
-            "見直し案では、小中一貫校が入る教育文化施設や、市立図書館などをまとめた複合施設の建設を取りやめます。図書館は単独の建物として整備する方向です。また、閉店を控える百貨店「スズラン前橋店」の新館は、解体せずに改修して商業施設などに使い、事業費を抑える案が示されました。オフィスやマンションを入れるかどうかは、引き続き検討します。",
-            "前橋市の小川晶市長は10月26日の記者会見で、今回の見直しについて「前に進むため」のものだと説明し、民間と協力して事業を進める考えを示しました。地元では、計画が動き出すことへの期待と、小中一貫校がなくなることで街のにぎわいがどうなるのかという不安の両方の声が上がっています。"
-          ],
-          "commentary": "470億円の2割といえば、90億円を超える額です。この上乗せ分をどう埋めるかで、計画の形ががらりと変わりました。見直しの中身で、僕が注目しているのは百貨店の新館を「壊さずに使う」という判断です。建物を壊して建て直すと、解体費に加えて、基礎や柱からすべてを新しく買い直すことになります。今ある骨組みを生かせば、その分をまるごと浮かせられるんです。古い服を仕立て直して着る、あの感覚に近いですよね。一方で、小中一貫校をやめたことで、平日の昼間に子どもや親が街なかに来る理由は一つ減ります。お金の帳尻と、街に人が集まる理由。その両方を同時に満たせる計画になるのかどうか。皆さんは、どちらを優先すべきだと思いますか。",
-          "briefing": [
-            "今回の見直しは、千代田町の中心拠点地区で計画されている再開発が対象です。再開発の準備組合は2018年10月に設立されており、市と地権者が一緒に計画をつくってきました。",
-            "前橋市は2026年度の当初予算案で、この中心市街地の再開発に関する事業費の計上を見送っていました。組合の設立も当初の想定より遅れており、今回の見直し案はその遅れを取り戻すための仕切り直しという位置づけです。",
-            "再開発の区域にある「スズラン前橋店」は、再開発後の施設には入居しない方針を示しています。新館を改修して使う案は、百貨店の跡をどんな店や施設で埋めるかが今後の課題になります。"
-          ],
-          "sources": [
-            {
-              "name": "NHK",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261023de64287"
-            },
-            {
-              "name": "上毛新聞",
-              "url": "https://www.jomo-news.co.jp/articles/-/1050442"
-            },
-            {
-              "name": "日本経済新聞",
-              "url": "https://www.nikkei.com/article/DGXZQOCC219U10R21C26A0000000/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "全国で見直し相次ぐ",
-              "body": "NHKの2026年5月の報道では、全国の駅周辺の再開発の約7割が、計画の見直しや中止・中断を迫られていました。建築費の高騰は地方都市ほど重く、テナントの賃料で建設費を回収しにくいことが背景にあります。"
-            },
-            {
-              "title": "壊さず使う再開発",
-              "body": "再開発といえば古い建物を一掃して高層ビルを建てる手法が主流でしたが、建設費の高騰で既存の建物を改修して残す案が各地で選択肢に入ってきました。10月18日号でお伝えした神戸・東灘の分譲マンションの一棟改修も、骨組みを生かして費用を抑える同じ流れにあります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "NHK",
-          "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261023de64287",
-          "shoComment": "",
-          "en": {
-            "title": "Maebashi scales back downtown redevelopment as its ¥47 billion cost climbs, dropping a planned school",
-            "summary": "The preparatory association behind a redevelopment in Maebashi's Chiyoda-machi district has announced a major overhaul. With construction costs soaring, it will drop a combined elementary and junior high school and build the library as a standalone building.",
-            "body": [
-              "On Oct 23, the redevelopment preparatory association formed by the city and landowners announced that it will substantially revise and scale back a redevelopment in Chiyoda-machi, in central Maebashi, the capital of Gunma Prefecture north of Tokyo. The total project cost had been put at ¥47 billion, but rising material and labor costs are expected to push it up by about 20%, and the association concluded that the plan would be hard to carry out as it stood.",
-              "The revised proposal scraps a complex that would have combined an education and culture facility, housing a combined elementary and junior high school, with the city library and other uses. The library will instead be built as a standalone building. The proposal also calls for renovating, rather than demolishing, the newer annex of the Suzuran department store's Maebashi branch, which is set to close, and using it for retail and other purposes to hold down costs. Whether to include offices or condominiums is still under consideration.",
-              "At a press conference on Oct 26, Maebashi Mayor Akira Ogawa described the revision as a step \"to move forward\" and said the city intends to push ahead with the project in cooperation with the private sector. Locally, people have voiced both hope that the plan will finally get moving and worry about what losing the school will mean for the life of the town center."
-            ],
-            "commentary": "Twenty percent of ¥47 billion is more than ¥9 billion. How to cover that extra amount completely changed the shape of the plan. What caught my attention in the revision is the decision to use the department store's annex without tearing it down. When you demolish a building and rebuild, you pay for the demolition, and on top of that you have to buy everything new again, from the foundations and columns up. If you make use of the structural frame that's already there, you save that entire cost. It's close to that feeling of having old clothes altered and wearing them again, isn't it? On the other hand, dropping the school removes one reason for children and parents to come downtown on weekday daytimes. Balancing the books, and giving people a reason to gather in town. Can this plan deliver both at once? Which do you think should come first?",
-            "briefing": [
-              "The revision covers the redevelopment planned for the central hub district of Chiyoda-machi. The preparatory association was set up in October 2018, and the city and landowners have been drawing up the plan together.",
-              "Maebashi City left funding for this downtown redevelopment out of its initial budget proposal for fiscal 2026. The establishment of the association has also fallen behind the original timeline, and the revised proposal is meant as a reset to make up for those delays.",
-              "The Suzuran Maebashi store, which stands within the redevelopment area, has said it will not be a tenant in the facilities built after the redevelopment. Under the plan to renovate and reuse the annex, the next challenge will be deciding what shops and facilities will fill the space the department store leaves behind."
-            ],
-            "hojosen": [
-              {
-                "title": "Revisions across Japan",
-                "body": "NHK, Japan's public broadcaster, reported in May 2026 that about 70% of redevelopment projects around train stations nationwide had been forced to revise their plans or had been canceled or suspended. Soaring construction costs weigh most heavily on regional cities, where it is harder to recover building costs through tenant rents."
-              },
-              {
-                "title": "Redevelopment without demolition",
-                "body": "Redevelopment in Japan has typically meant clearing away old buildings and putting up high-rises. But with construction costs soaring, renovating and keeping existing buildings has become an option in many places. The whole-building renovation of a condominium in Kobe's Higashinada Ward, which we reported on Oct 18, is part of the same trend of reusing a structural frame to keep costs down."
-              }
-            ]
-          },
-          "namesEn": {
-            "上毛新聞": "Jomo Shimbun",
-            "日本経済新聞": "Nikkei"
-          }
-        },
-        {
-          "id": "issue-2026-10-27-s2",
-          "number": 2,
-          "title": "箱根美術館が10月30日にプレオープン 1952年開館以来初の全面改修、外壁を当初の色に",
-          "summary": "5月から休館していた箱根美術館が10月30日に再開します。1952年の開館以来初の全面改修で、外壁を開館当時の淡い黄色に戻しました。",
-          "body": [
-            "神奈川県箱根町の箱根美術館が、改修工事を終えて10月30日にプレオープンします。2026年5月7日から全面休館して工事を進めてきました。12月23日にグランドオープンする予定です。1952年の開館以来、初めての全面的なリニューアルで、建物、展示空間、庭園、休憩施設までをまとめて手入れしました。",
-            "外観では、本館と別館の外壁を、開館当時の日本の伝統色「鳥の子色」と呼ばれる淡い黄色に戻します。青い瓦屋根との組み合わせで、当初の姿に近づけるねらいです。本館の展示室には、木工芸の人間国宝・須田賢司さんが手がけた展示ケースを新たに置きます。創立者の意匠を受け継ぎ、木を組み合わせる「指物（さしもの）」の技法を生かしたケースです。",
-            "休憩所にはカフェを新設し、同じく木工芸の人間国宝・村山明さんによる銘木のカウンターを設けます。プレオープン期間中は、苔庭や石楽園で知られる名勝「神仙郷」に加え、ふだんは公開していない奥庭も特別に公開されます。"
-          ],
-          "commentary": "鳥の子色は、鶏の卵の殻のような、ほんのり黄みがかった白です。改修というと、新しくてきれいな色に塗り替えるものだと思うじゃないですか。でも今回は逆で、時計の針を開館当時に戻しました。外壁の色は、建物の印象を一番大きく左右する要素なんです。同じ家でも、壁が真っ白か卵色かで、夕方の光の受け方がまったく違って見えます。しかも箱根美術館は、庭とセットで見せる美術館です。苔の緑と青い瓦の間に置かれる壁の色は、庭の一部と言ってもいい。展示ケースまで人間国宝の手で作り直したのも、建物と中身を一体で考える姿勢の表れだと思います。プレオープンの初日は、10月30日です。",
-          "briefing": [
-            "プレオープン期間の入館料は一般1,000円、高校・大学生500円、中学生以下は無料と案内されています。グランドオープン後は一般1,500円になる予定です。",
-            "神仙郷の苔庭には約130種類の苔と約200本のモミジがあるとされます。新しいカフェでは、苔庭を眺めながらスペシャルティコーヒーやオリジナルのパンを楽しめる予定です。",
-            "創立者は岡田茂吉です。開館当初の鉄筋コンクリート3階建ての建物、内装、展示ケースは、いずれも岡田の設計によるものとされています。"
-          ],
-          "sources": [
-            {
-              "name": "箱根美術館（公式）",
-              "url": "https://moaart.or.jp/hakone/en/"
-            },
-            {
-              "name": "美術手帖",
-              "url": "https://bijutsutecho.com/magazine/news/headline/32979"
-            },
-            {
-              "name": "美術展ナビ",
-              "url": "https://artexhibition.jp/topics/news/20260907-AEJ2988941/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "色を戻す改修",
-              "body": "歴史ある建物の改修では、汚れを落として当初の素材や色に戻す「復原」の考え方が広がっています。東京駅丸の内駅舎の保存・復原工事のように、調査で当初の仕様を確かめてから戻す手順が一般的になりました。"
-            },
-            {
-              "title": "庭と建物の一体",
-              "body": "日本の美術館には、建物そのものより庭や周辺の景色を主役にしたものが少なくありません。こうした施設では、改修でも建物を目立たせすぎず、庭の見え方を守ることが設計の大切な条件になります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "箱根美術館（公式）",
-          "sourceURL": "https://moaart.or.jp/hakone/en/",
-          "shoComment": "",
-          "en": {
-            "title": "Hakone Museum of Art pre-opens Oct 30 after first full renovation since 1952, walls in original color",
-            "summary": "The Hakone Museum of Art, closed since May, reopens on Oct 30. In its first full renovation since opening in 1952, its exterior walls have been returned to the pale yellow they had when the museum first opened.",
-            "body": [
-              "The Hakone Museum of Art in Hakone, a hot-spring resort town in the mountains of Kanagawa Prefecture southwest of Tokyo, will hold a pre-opening on Oct 30 after completing renovation work. The museum had been fully closed for the work since May 7, 2026, and its grand opening is scheduled for Dec 23. It is the museum's first full-scale renovation since it opened in 1952, covering the buildings, galleries, gardens and rest areas all at once.",
-              "On the outside, the exterior walls of the main building and the annex are being returned to the pale yellow they had at the opening, a traditional Japanese color known as torinoko-iro. The aim is to bring the buildings closer to their original look, paired with their blue tile roofs. In the main building's galleries, new display cases have been made by Kenji Suda, a woodworker designated a Living National Treasure, a title Japan gives to master artisans and performers who carry on traditional crafts and arts. The cases follow the founder's designs and use sashimono, a traditional technique of joining pieces of wood.",
-              "A new cafe has been added to the rest area, with a counter made of prized wood by Akira Murayama, another woodworker who is a Living National Treasure. During the pre-opening period, visitors can see Shinsenkyo, the museum's garden, which is designated a Place of Scenic Beauty and known for its moss garden and its stone garden, Sekirakuen, along with an inner garden that is normally closed to the public."
-            ],
-            "commentary": "Torinoko-iro is a white with a faint yellow tint, like the shell of a hen's egg. When you hear \"renovation,\" you'd assume it means repainting in a fresh, clean new color, right? This time it's the opposite: they turned the clock back to the day the museum opened. The color of the exterior walls is the single biggest factor in how a building comes across. The same house looks completely different in the evening light depending on whether its walls are pure white or egg-colored. What's more, the Hakone Museum of Art is a museum meant to be seen together with its garden. The wall color, set between the green of the moss and the blue of the roof tiles, is practically part of the garden. Even the display cases were remade by Living National Treasures, which I think shows an approach that treats the building and what's inside it as one. The first day of the pre-opening is Oct 30.",
-            "briefing": [
-              "Admission during the pre-opening period is listed as ¥1,000 for adults, ¥500 for high school and university students, and free for junior high school students and younger. After the grand opening, adult admission is expected to be ¥1,500.",
-              "The moss garden at Shinsenkyo is said to have about 130 kinds of moss and about 200 maple trees. At the new cafe, visitors will be able to enjoy specialty coffee and original breads while looking out over the moss garden.",
-              "The museum's founder was Mokichi Okada. The original three-story reinforced concrete building, its interiors and its display cases are all said to have been designed by Okada."
-            ],
-            "hojosen": [
-              {
-                "title": "Restoring the original color",
-                "body": "In renovating historic buildings in Japan, the idea of restoration, cleaning off grime and bringing back the original materials and colors, has been spreading. As in the preservation and restoration of the red-brick Marunouchi building of Tokyo Station, the usual process now is to confirm the original specifications through research before restoring them."
-              },
-              {
-                "title": "Garden and building as one",
-                "body": "Many Japanese museums make the garden or the surrounding scenery, rather than the building itself, the main attraction. At such places, a key design condition even in a renovation is to keep the building from standing out too much and to protect the views of the garden."
-              }
-            ]
-          },
-          "namesEn": {
-            "箱根美術館（公式）": "Hakone Museum (official)",
-            "美術展ナビ": "Bijutsuten Navi",
-            "美術手帖": "Bijutsu Techo"
-          }
-        },
-        {
-          "id": "issue-2026-10-27-s3",
-          "number": 3,
-          "title": "大阪松竹座が11月から解体へ 103年前の「道頓堀の凱旋門」、跡地の計画は未定",
-          "summary": "5月に閉館した大阪・道頓堀の大阪松竹座の解体工事が11月に始まります。工期は約2年の見込みで、跡地の具体的な計画はまだ決まっていません。",
-          "body": [
-            "大阪・道頓堀にある劇場、大阪松竹座の解体工事が11月に始まることが、10月23日に分かりました。運営する松竹への取材で明らかになったもので、工期は約2年の見込みです。大阪松竹座は2026年5月の公演を最後に閉館し、103年の歴史に幕を下ろしていました。",
-            "大阪松竹座は1923年、大林組の設計・施工で建てられました。設計を担った大林組の技師・木村得三郎は、イタリア・ミラノのスカラ座を手本にしたとされています。正面の大きなアーチが特徴のネオ・ルネサンス様式の外観は「道頓堀の凱旋門」と呼ばれ、長く街の顔として親しまれてきました。",
-            "建物は1997年に大規模に改修され、正面の外観を残したまま、内部を最新の設備を備えた劇場に生まれ変わらせています。松竹は跡地について「新たな文化芸能の発信拠点の実現」を目指すとしてきましたが、解体後の具体的な計画は決まっていないとしています。"
-          ],
-          "commentary": "「道頓堀の凱旋門」。大阪松竹座の正面にある大きなアーチは、そう呼ばれてきました。実はこの建物、1997年に一度、中身をほぼ入れ替えています。正面の壁だけを残して、その裏側に新しい劇場をつくり直したんです。古い額縁に新しい絵を入れ直した、と言えば伝わりやすいじゃないですか。こうして顔だけを残す手法は「ファサード保存」と呼ばれ、街の景色を守りながら建物を使い続けるやり方として、日本でも広く使われてきました。その額縁ごと、今回はなくなります。跡地の計画が決まっていないので、あのアーチの記憶を次の建物に引き継ぐかどうかも、まだ白紙です。103年分の街の顔をどう受け継ぐのか、ここからが本当の宿題なんだと思います。",
-          "briefing": [
-            "閉館の日は2026年5月26日で、この日の千秋楽が最後の公演となりました。閉館が発表されたあと、松竹は大阪府や大阪市と、建て替えも選択肢の一つとして協議を進めていると報じられていました。",
-            "大林組の社史では、大阪松竹座は1923年1月に竣工したとされています。日本で初めての鉄骨鉄筋コンクリート造の洋画館として建てられたとされています。",
-            "解体工事の期間は約2年とされ、道頓堀の中心で大型の工事が続くことになります。跡地の用途や新しい建物の規模、着工の時期はいずれも決まっていません。"
-          ],
-          "sources": [
-            {
-              "name": "大林組（公式）",
-              "url": "https://www.obayashi.co.jp/company/history/year_1923.html"
-            },
-            {
-              "name": "共同通信（東京新聞）",
-              "url": "https://www.tokyo-np.co.jp/article/523448"
-            },
-            {
-              "name": "ABCニュース（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/92cbc5de9225be1e96aeea5fc77a3727b9ebbd13"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "顔だけ残す保存",
-              "body": "外壁だけを残して内部を建て替える「ファサード保存」は、東京・丸の内や大阪・中之島などのビル再開発でも多く使われてきました。費用を抑えつつ街並みを守れる一方で、建物の中身が失われることへの批判もあり、保存の方法として評価が分かれています。"
-            },
-            {
-              "title": "劇場の建て替え難",
-              "body": "大きな劇場は、舞台の奥行きや客席の高さが必要で、建て替えには広い敷地と大きな費用がかかります。建築費が高騰する今、閉館した劇場の跡地が別の用途に変わる例もあり、劇場として再建できるかどうかが各地で課題になっています。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "大林組（公式）",
-          "sourceURL": "https://www.obayashi.co.jp/company/history/year_1923.html",
-          "shoComment": "",
-          "en": {
-            "title": "Osaka Shochiku-za, the 103-year-old 'Arc de Triomphe of Dotonbori', to be demolished from November",
-            "summary": "Demolition of the Osaka Shochiku-za theater in Osaka's Dotonbori district, which closed in May, will begin in November. The work is expected to take about two years, and no concrete plan for the site has been decided.",
-            "body": [
-              "Demolition of the Osaka Shochiku-za, a theater in Dotonbori, Osaka's canal-side entertainment district, will begin in November, it emerged on Oct 23 from inquiries to Shochiku, the company that runs it. The work is expected to take about two years. The theater closed after its May 2026 performances, ending a 103-year history.",
-              "The Osaka Shochiku-za was built in 1923, designed and constructed by Obayashi Corporation. Tokusaburo Kimura, the Obayashi engineer who led the design, is said to have modeled it on La Scala in Milan, Italy. Its Neo-Renaissance facade, marked by a large arch at the front, came to be called \"the Arc de Triomphe of Dotonbori\" and was long cherished as the face of the neighborhood.",
-              "The building underwent a major renovation in 1997 that kept the front facade while turning the interior into a theater with up-to-date equipment. Shochiku had said it aims to make the site \"a new hub for culture and the performing arts,\" but says no concrete plan for after the demolition has been decided."
-            ],
-            "commentary": "\"The Arc de Triomphe of Dotonbori.\" That's what people have called the big arch on the front of the Osaka Shochiku-za. Here's the thing: this building already had almost everything inside it replaced once, in 1997. They kept only the front wall and built a brand-new theater behind it. Think of it as putting a new painting into an old frame; that makes it easy to picture, doesn't it? Keeping just the face of a building like this is called facade preservation, and it has been widely used in Japan as a way to keep using buildings while protecting the look of the street. This time, the frame itself is going too. Because there's no plan yet for the site, whether the memory of that arch will be carried into the next building is also a blank page. How do you pass on 103 years of a neighborhood's face? I think that's where the real homework begins.",
-            "briefing": [
-              "The theater closed on May 26, 2026, and the final performance of the run that day was its last. After the closure was announced, Shochiku was reported to be in talks with Osaka Prefecture and Osaka City, with rebuilding as one of the options.",
-              "According to Obayashi Corporation's company history, the Osaka Shochiku-za was completed in January 1923. It is said to have been built as Japan's first steel-reinforced concrete theater for showing Western films.",
-              "The demolition is expected to take about two years, meaning large-scale construction will continue in the heart of Dotonbori. The future use of the site, the size of any new building and when construction would start have all yet to be decided."
-            ],
-            "hojosen": [
-              {
-                "title": "Keeping only the face",
-                "body": "Facade preservation, in which only the outer walls are kept and the interior is rebuilt, has been used in many office redevelopments, including in Tokyo's Marunouchi business district and Osaka's Nakanoshima area. It keeps costs down while protecting the streetscape, but it has also drawn criticism for losing the building's interior, and opinion on it as a preservation method is divided."
-              },
-              {
-                "title": "Why theaters are hard to rebuild",
-                "body": "Large theaters need a deep stage and a tall auditorium, so rebuilding one takes a large site and a lot of money. With construction costs soaring, some closed theaters' sites have been turned to other uses, and whether a theater can be rebuilt as a theater has become an issue in many places."
-              }
-            ]
-          },
-          "namesEn": {
-            "ABCニュース（Yahoo!ニュース）": "ABC News (Yahoo! News)",
-            "共同通信（東京新聞）": "Kyodo News (Tokyo Shimbun)",
-            "大林組（公式）": "Obayashi Corporation (official)"
           }
         }
       ]
