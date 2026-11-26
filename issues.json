@@ -52,7 +52,32 @@
           "reliability": "高",
           "sourceName": "OCHABI（公式・PR TIMES）",
           "sourceURL": "https://prtimes.jp/main/html/rd/p/000000017.000062469.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Shigeru Ban designs a vision for a new building at his old Tokyo art prep school, merging three buildings into one",
+            "summary": "OCHABI, which runs the Ochanomizu Bijutsu Gakuin art prep school in Tokyo, has unveiled a concept by architect Shigeru Ban for a new school building. It would merge three buildings in Kanda-Surugadai into one, opening sometime between 2030 and 2035.",
+            "body": [
+              "Hattori Gakuen, the educational corporation known as OCHABI, announced a plan to rebuild its school on Nov 25, the 71st anniversary of its founding. OCHABI runs Ochanomizu Bijutsu Gakuin, a prep school for students aiming to get into art universities. The plan would consolidate its three existing buildings in Kanda-Surugadai, a student district in central Tokyo, into a single building. Architect Shigeru Ban is responsible for the concept design.",
+              "Ban studied at Ochanomizu Bijutsu Gakuin as a high school student, before he left for the United States. The concept is called the Green Hill of the Environment. Terraces step down toward the street on the south side, planted with greenery, to create a hill-like natural space in the middle of the city. The plan also shows a library, lounges and other spaces for learning and meeting.",
+              "The school aims to put the new building into use sometime between 2030 and 2035. It says the published exterior renderings are concept images and may change as planning continues."
+            ],
+            "commentary": "Terraces stepping down toward the street like rice paddies on a hillside. That's the new building Shigeru Ban has sketched for the art prep school where he once studied. A prep school building is usually just a block packed with desks, right? This plan brings a green hill into it. I've written about this on note before: Ban is the architect who builds partitions for evacuation shelters out of paper tubes, the same kind of cardboard tube you find inside a roll of plastic wrap. He's someone who uses materials right to the end. Here too, the aim is classrooms where a breeze flows through when you open the windows, and daylight keeps them bright during the day. Rainwater would be stored and used for watering plants and similar uses. The school will even study how to carry forward the resources from the three buildings it tears down. It's a way of thinking that doesn't treat rebuilding as just demolition and done. The target for opening is between 2030 and 2035. Today's elementary and junior high school kids will be the ones carrying drawing boards up this hill.",
+            "briefing": [
+              "OCHABI is an educational corporation founded in 1955, and the announcement was timed to its 71st anniversary on Nov 25. Besides the Ochanomizu Bijutsu Gakuin prep school for art university entrance exams, it also runs a vocational college.",
+              "On the environmental side, the plan is studying natural ventilation and daylighting, and a system to store rainwater for watering plants and other non-drinking uses. How to structure, build and maintain the building for long-term use will be worked out in later design stages.",
+              "The school will also study how to carry resources forward from construction through operation and future renewal, including materials from demolishing the existing buildings. A construction schedule and project cost have not yet been announced."
+            ],
+            "hojosen": [
+              {
+                "title": "Architects and their alma maters",
+                "body": "It's not unusual for architects to design buildings for the schools they attended. Having been a student there, they know how students actually spend their time. What makes this case unusual is that it's a prep school for entrance exams, not a university."
+              },
+              {
+                "title": "Kanda-Surugadai student district",
+                "body": "Kanda-Surugadai is a student district in central Tokyo, home to campuses of Meiji University, Nihon University and others. University buildings there have been rebuilt and grown taller in recent years, gradually changing the look of the area. This plan would add a school that opens toward the street with green terraces."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-27-s2",
@@ -97,7 +122,32 @@
           "reliability": "高",
           "sourceName": "奈良新聞",
           "sourceURL": "https://www.nara-np.co.jp/news/20261121205918.html",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Nara Prefectural Museum of Art to move into the Iraka hall in Nara Park, with a new storage wing added",
+            "summary": "Nara Prefecture has drafted a plan to move its aging prefectural art museum into Iraka, a facility inside Nara Park. The building would be renovated, and a new storage wing would be added to protect the collection.",
+            "body": [
+              "Nara Prefecture, home to the ancient capital of Nara in western Japan, has put together a draft basic plan for redeveloping its aging Nara Prefectural Museum of Art, now located in Noborioji-cho, Nara. The draft would renovate the Nara Kasugano International Forum Iraka, a facility inside Nara Park in Kasugano-cho, into the museum, and add a storage wing for the collection on the west side of its main building.",
+              "The draft was presented and discussed at an expert panel meeting on Nov 20. The prefecture will revise the plan based on that feedback, invite public comments from mid-December, and finalize the basic plan by the end of this fiscal year, which in Japan ends in March. The concept for the new museum is Creating Together, and it envisions a wide range of exhibitions, including manga.",
+              "Iraka was originally built as the Nara Prefecture New Public Hall. In fiscal 2015 it was renovated together with the neighboring Silk Road Exchange Hall and given its current name. The museum aims to reopen in the mid-2030s."
+            ],
+            "commentary": "Turning a public hall into an art museum. Instead of rebuilding on the current site, Nara Prefecture chose to move the museum into Nara Park. The key piece here is the new storage wing. A storage area is basically a warehouse where the artworks are kept. Have you ever found clothes you put away in a closet covered in mold after the rainy season? For an artwork, that kind of damage can't be undone. That's why museum storage is built so the temperature and humidity barely move all year. Converting a hall made for meetings and concerts into storage that good is hard. Use the existing building for exhibitions, and build the part that protects the art from scratch. I think splitting the roles that way is a sound call. Still, the building carries all the years it spent as a public hall. Should it keep traces of that, or be fully repainted as a museum? If you were writing in during the public comment period starting in December, which would you choose?",
+            "briefing": [
+              "As of August 2025, the prefecture had for the first time put forward options other than rebuilding on the current site, including a move to Iraka.",
+              "The basic concept the prefecture drew up in April 2026 listed two options side by side: rebuilding on the current site, or moving the museum's functions to Iraka. After further meetings, the move to Iraka became the core of this draft.",
+              "Iraka is the former New Public Hall, whose construction began to mark the 100th anniversary of Nara Prefecture's establishment, and which opened in 1989. The plan is set to be formally adopted at the end of this fiscal year."
+            ],
+            "hojosen": [
+              {
+                "title": "Museums in converted buildings",
+                "body": "Turning disused buildings or facilities that have outlived their original role into museums is becoming more common in Japan and abroad. London Museum, which we covered on Nov 26, also opened in a renovated 1880s market building. Conversion can make schedules and costs easier to control than new construction, but managing temperature and humidity to protect the works becomes a major challenge."
+              },
+              {
+                "title": "Building in Nara Park",
+                "body": "Nara Park is the heart of sightseeing in the ancient capital, home to Todaiji, Kofukuji, Kasuga Taisha and other temples and shrines. Strict rules protect the landscape inside the park, so putting up a large new building is not easy. Reusing an existing building fits those conditions."
+              }
+            ]
+          }
         },
         {
           "id": "issue-2026-11-27-s3",
@@ -142,7 +192,32 @@
           "reliability": "高",
           "sourceName": "NHK",
           "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261124de80761",
-          "shoComment": ""
+          "shoComment": "",
+          "en": {
+            "title": "Japan's prime minister orders a second extra budget, with zero-year bonds to ease the spring lull in public works",
+            "summary": "Prime Minister Sanae Takaichi ordered a second supplementary budget for fiscal 2026 on Nov 24. For national resilience projects, the government is expected to use zero-year bonds, which let next year's work be ordered this fiscal year.",
+            "body": [
+              "Prime Minister Sanae Takaichi ordered the drafting of a second supplementary budget for fiscal 2026 at a meeting of the Council on Economic and Fiscal Policy on Nov 24. The government plans to limit it to spending needed for disaster response and similar purposes.",
+              "What the construction industry is watching is the budget for national resilience, Japan's program to make the country more resistant to disasters. The government has begun working toward funding fiscal 2027, the second year of its five-year mid-term implementation plan for national resilience, through both this second supplementary budget and the initial fiscal 2027 budget. The supplementary budget is expected to include resilience projects funded with zero-year bonds.",
+              "Zero-year bonds, known in Japan as zero kokusai, let the government sign construction contracts within the current fiscal year while pushing the actual spending into the next one. The industry had voiced concern that the volume of work drops in April through June, when the fiscal year turns over (Japan's fiscal year starts in April). If work to be built in fiscal 2027 can be ordered this fiscal year using zero-year bonds, it is expected to even out construction timing. The size of the second-year budget is expected to be settled by the end of the year."
+            ],
+            "commentary": "April through June. That's when Japan's public works sites go quietest every year. The national budget runs in one-year blocks, so construction deadlines tend to pile up in March, at the end of the fiscal year. You've probably noticed roadwork suddenly multiplying in March, right? The flip side is that from April, there's a gap on site until new contracts get signed. Zero-year bonds are a tool to fill that gap. Think of it like booking next year's trip before the year ends, but paying for it after New Year. If the contract is signed in advance, crews can get to work as soon as April starts. This isn't only about roads and levees. School and city hall renovations run through the same public works budget cycle. And for the tradespeople working on site, whether some months go without work hits their livelihoods directly. Rather than adding more work, smooth out its peaks and valleys. It's unglamorous, but I think that's what actually helps protect the people who build things.",
+            "briefing": [
+              "The second supplementary budget is reported to be limited in size, with disaster response in mind. The backdrop is the recovery and rebuilding needed after a series of disasters, including the Kumamoto earthquake in July (we covered the recovery plan on Oct 28).",
+              "When zero-year bonds are used, the national government's spending occurs in fiscal 2027. At the fiscal 2026 supplementary budget stage, no national spending takes place.",
+              "In its fiscal 2027 budget request, the Ministry of Land, Infrastructure, Transport and Tourism (MLIT) listed the costs of second-year projects under the mid-term plan as an itemized request with no amount attached. The amount will be decided in the budget process by the end of the year."
+            ],
+            "hojosen": [
+              {
+                "title": "Evening out construction timing",
+                "body": "National and local governments have long worked on leveling, an effort to fix the pattern where work piles up at the end of the fiscal year and dries up at the start. The main tools are two-year bonds, which allow contracts for work spanning two years, and zero-year bonds. Critics have pointed out that how far this goes varies widely between public clients."
+              },
+              {
+                "title": "Link to work-style reform",
+                "body": "Since April 2024, caps on overtime hours have applied to Japan's construction industry, making it more important to get work done within limited hours. When the gap between busy and slow seasons is large, the strain tends to pile up in the busy season. Smoothing out the workload is directly tied to how easily workers can take time off."
+              }
+            ]
+          }
         }
       ]
     },
