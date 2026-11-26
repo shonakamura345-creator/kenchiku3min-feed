@@ -1,6 +1,152 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-27",
+      "date": "2026-11-27",
+      "weekday": "金",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-27-s1",
+          "number": 1,
+          "title": "坂茂さんが母校の新校舎を構想 御茶の水美術学院、神田の3校舎を1棟に建て替えへ",
+          "summary": "美術予備校を運営するOCHABIが、坂茂さんによる新校舎の構想を発表。神田駿河台の3校舎を1棟にまとめ、2030〜35年の供用開始をめざします。",
+          "body": [
+            "美術予備校「御茶の水美術学院」などを運営する学校法人服部学園（通称OCHABI）は、創立71周年を迎えた11月25日、校舎の建て替え構想を発表しました。東京・神田駿河台にある既存の3つの校舎を、1棟に統合・再編する計画です。新校舎のコンセプトデザインは、建築家の坂茂さんが手がけます。",
+            "坂さんは渡米する前の高校時代に、御茶の水美術学院で学んでいました。構想の名前は「環境の緑の丘」。南側の道路に向かって段状にテラスが連なり、そこに緑を配して、都市の中に丘のような自然の空間をつくるという案です。校舎の中には図書館やラウンジなど、学びと交流のための場所も描かれています。",
+            "新校舎の供用開始は、2030年から2035年の間をめざすとしています。公表された外観パースは構想段階のイメージで、今後の検討で変わる可能性があるとしています。"
+          ],
+          "commentary": "段々畑のようなテラスが、通りに向かって下りていく。坂茂さんが、自分の学んだ美術予備校のために描いた新校舎の姿です。予備校の校舎って、ふつうは机がぎっしり並んだビルですよね。そこに緑の丘を持ち込むのが、今回の構想なんです。noteでも書いたんですが、坂さんは紙管、つまりラップの芯のような紙の筒で、避難所の間仕切りをつくってきた建築家です。使える材料を最後まで使い切る人なんですね。今回も、窓を開ければ風が抜けて、昼間は外の光で明るい教室をめざしています。降った雨は貯めて、植木の水やりなどに回す計画です。さらに、壊す3つの校舎の資源をどう引き継ぐかまで検討するといいます。建て替えを「壊して終わり」にしない考え方です。供用開始の目標は2030年から2035年の間。いまの小中学生が、この丘で画板を抱えることになります。",
+          "briefing": [
+            "OCHABIは1955年創立の学校法人で、今回の発表は創立71周年の11月25日に合わせたものです。美大・芸大受験の予備校「御茶の水美術学院」のほか、専門学校も運営しています。",
+            "環境面では、自然換気と自然採光を生かすこと、雨水を貯めて植栽への散水や雑用水に使う仕組みが検討されています。建物を長く使うための構造・材料・維持管理の方法は、今後の設計で詰めるとしています。",
+            "既存校舎の解体で出る資源の扱いも含め、建設から運用、将来の更新まで資源をどう引き継ぐかを検討する方針です。工事の具体的な日程や事業費は、まだ公表されていません。"
+          ],
+          "sources": [
+            {
+              "name": "OCHABI（公式・PR TIMES）",
+              "url": "https://prtimes.jp/main/html/rd/p/000000017.000062469.html"
+            },
+            {
+              "name": "TECTURE MAG",
+              "url": "https://mag.tecture.jp/culture/20261126-162730/"
+            },
+            {
+              "name": "architecturephoto",
+              "url": "https://architecturephoto.net/260458/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "建築家と母校",
+              "body": "建築家が自分の出身校の校舎を手がける例は少なくありません。学んだ側の記憶がある分、どんな場所で学生が過ごしているかを知っていることが強みになります。今回は大学ではなく、受験のための予備校の校舎という点が珍しいところです。"
+            },
+            {
+              "title": "神田駿河台の学生街",
+              "body": "神田駿河台は、明治大学や日本大学などのキャンパスが集まる学生街です。大学の校舎は近年、高層化や建て替えが続いていて、街の表情も少しずつ変わっています。その中に、緑のテラスで道路に向かって開く校舎が加わる構想です。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "OCHABI（公式・PR TIMES）",
+          "sourceURL": "https://prtimes.jp/main/html/rd/p/000000017.000062469.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-27-s2",
+          "number": 2,
+          "title": "奈良県立美術館、奈良公園の「甍」へ移転 旧公会堂を改修し収蔵庫棟を増築する素案",
+          "summary": "奈良県は、老朽化した県立美術館を奈良公園内の施設「甍」に移す再整備計画の素案をまとめました。建物を改修し、作品を守る収蔵庫棟を新しく増築します。",
+          "body": [
+            "奈良県は、老朽化が進む県立美術館（奈良市登大路町）の再整備に向けて、基本計画の素案をまとめました。奈良公園の中にある「奈良春日野国際フォーラム甍（いらか）」（奈良市春日野町）を改修して美術館とし、本館の西側に作品を保管する収蔵庫棟を増築する案です。",
+            "素案は11月20日の有識者会議で示され、意見が交わされました。県はこの日の意見をもとに計画を直し、12月中旬から県民の意見を募集したうえで、今年度末に基本計画を決める方針です。新しい美術館のコンセプトは「共に創る」で、マンガなども含めた多様な展示を想定しています。",
+            "甍は、もとは「奈良県新公会堂」として建てられた施設です。2015年度に隣のシルクロード交流館と一体で改修され、いまの名前になりました。美術館の再開館は、2030年代半ばをめざすとされています。"
+          ],
+          "commentary": "公会堂を美術館に変える。奈良県が選んだのは、いまの場所での建て替えではなく、奈良公園の中への引っ越しでした。ここで大事なのが、新しく建てる収蔵庫棟です。収蔵庫は、作品をしまっておく倉庫のこと。押し入れにしまった服が、梅雨にカビていたことってありませんか。美術品にとって、あれは取り返しのつかない傷なんです。だから収蔵庫は、温度も湿度も一年中ほとんど動かないようにつくります。会議やコンサートのための公会堂を、そこまでの倉庫に改造するのは大変です。展示は既存の建物を生かし、作品を守る部分は新しく建てる。役割を分けた、筋のいい判断だと思います。ただ、建物には公会堂として使われてきた時間があります。その面影を残すのか、美術館らしく塗り替えるのか。12月からの意見募集で、皆さんならどちらを書きますか。",
+          "briefing": [
+            "県は2025年8月の時点で、現在地での建て替え以外の案として、甍などへの移転を初めて検討の対象に示していました。",
+            "2026年4月に県が策定した基本構想では、現在地での建て替え案と、甍への機能移転案の2つが並べて書かれていました。その後の会議を経て、今回の素案で甍への移転が軸になりました。",
+            "甍は、奈良県の置県100年を記念して建設が始まり、平成元年（1989年）に開館した旧新公会堂です。計画の正式な決定は今年度末の予定です。"
+          ],
+          "sources": [
+            {
+              "name": "奈良新聞",
+              "url": "https://www.nara-np.co.jp/news/20261121205918.html"
+            },
+            {
+              "name": "奈良テレビ放送（Yahoo!ニュース）",
+              "url": "https://news.yahoo.co.jp/articles/e33049a5eb1673da218abf48d621cac0f314bb1b"
+            },
+            {
+              "name": "奈良県（公式）",
+              "url": "https://www.pref.nara.jp/secure/135855/houdoushiryou.pdf"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "施設を転用する美術館",
+              "body": "使われなくなった建物や役目を終えた施設を美術館に変える例は、国内外で増えています。11月26日号のロンドン博物館も、1880年代の市場建築を改修した新館でした。新築より工期や費用を抑えやすい一方、作品を守るための温湿度の管理が大きな課題になります。"
+            },
+            {
+              "title": "奈良公園という立地",
+              "body": "奈良公園は、東大寺や興福寺、春日大社などが集まる、古都奈良の観光の中心です。公園の中には景観を守るための厳しいルールがあり、新しく大きな建物を建てるのは簡単ではありません。既存の建物を生かす方法は、そうした場所の事情とも合っています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "奈良新聞",
+          "sourceURL": "https://www.nara-np.co.jp/news/20261121205918.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-27-s3",
+          "number": 3,
+          "title": "首相が第2次補正予算の編成を指示 公共工事は「ゼロ国債」で春の閑散期対策へ",
+          "summary": "首相が24日、第2次補正予算の編成を指示しました。国土強靱化の事業では、来年度の工事を今年度中に発注できる「ゼロ国債」の活用が見込まれます。",
+          "body": [
+            "高市早苗首相は11月24日の経済財政諮問会議で、2026年度第2次補正予算の編成を指示しました。対象は、災害対応などに必要な経費に限る方針です。",
+            "建設業界にとって注目されるのは、国土強靱化（災害に強い国土づくり）の予算の扱いです。政府は、5年間の国土強靱化実施中期計画の2年目にあたる2027年度の予算を、今回の第2次補正予算と2027年度当初予算の2つで手当てする方向で調整に入りました。補正予算には、「ゼロ国債」を使った国土強靱化関係の事業が盛り込まれる見通しです。",
+            "ゼロ国債は、今年度のうちに工事の契約だけを結び、実際の支出は翌年度に回す仕組みです。建設業界からは、年度が替わる4〜6月に工事量が減ることを心配する声が出ていました。ゼロ国債で2027年度に施工する工事を今年度中に発注できれば、施工時期をならす効果が期待されます。2年目の予算規模は、年末までに固まる見通しです。"
+          ],
+          "commentary": "4月から6月。公共工事の現場が、毎年いちばん静かになる季節です。国の予算は1年ごとに区切られていて、工事の締め切りは年度末の3月に集まりがちです。3月になると、道路工事がやけに増えたと感じること、ありますよね。その反動で、4月からは新しい工事の契約がそろうまで、現場に空白ができてしまうんです。ゼロ国債は、その空白を埋めるための道具です。たとえるなら、年内に来年の旅行の予約だけ済ませて、支払いは年明けにするようなもの。契約を先に結んでおけば、4月になってすぐ現場を動かせます。これは道路や堤防だけの話ではありません。学校や庁舎の改修も、同じ公共工事の予算の流れの中にあります。そして現場で働く職人さんにとっては、仕事が途切れない月があるかどうかが、そのまま暮らしに響きます。工事の量を増やすより、工事の波をならす。地味ですが、担い手を守るにはそこが効くんだと思います。",
+          "briefing": [
+            "第2次補正予算は、災害対応などを念頭に規模を限る方針と報じられています。7月の熊本地震（10月28日号で復旧・復興プランをお伝えしました）など、相次ぐ災害の復旧・復興への対応が背景にあります。",
+            "ゼロ国債を使う場合、国の支出は2027年度に発生します。2026年度の補正予算の段階では、国の支出は伴いません。",
+            "国土交通省の2027年度概算要求では、中期計画2年目の事業の経費は、金額を示さない「事項要求」とされていました。金額は年末までの予算編成の中で決まります。"
+          ],
+          "sources": [
+            {
+              "name": "NHK",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261124de80761"
+            },
+            {
+              "name": "日刊建設工業新聞",
+              "url": "https://www.decn.co.jp/?p=189870"
+            },
+            {
+              "name": "建設専門紙の会",
+              "url": "https://www.senmonshi.com/news/2026/10/09/n10224/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "施工時期の平準化",
+              "body": "国や自治体は以前から、工事が年度末に集中して年度初めに途切れる状態を改めようと、「平準化」に取り組んできました。2年がかりの工事を契約できる「2か年国債」と、ゼロ国債がその主な道具です。発注者によって取り組みに差があることも、課題として指摘されてきました。"
+            },
+            {
+              "title": "働き方改革との関係",
+              "body": "建設業では2024年4月から残業時間の上限規制が適用され、限られた時間で工事を進める必要が強まっています。繁忙期と閑散期の差が大きいと、繁忙期に無理が集中しやすくなります。工事量の波をならすことは、休みの取りやすさとも直結しています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "NHK",
+          "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261124de80761",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-26",
       "date": "2026-11-26",
       "weekday": "木",
@@ -6834,238 +6980,6 @@
             "ABCニュース（Yahoo!ニュース）": "ABC News (Yahoo! News)",
             "大阪城天守閣（公式）": "Osaka Castle Museum (official)",
             "日本経済新聞": "Nikkei"
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-28",
-      "date": "2026-10-28",
-      "weekday": "水",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 10,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-28-s1",
-          "number": 1,
-          "title": "続報：熊本地震から3か月、県が復旧・復興プラン 仮設住宅は12月まで、公費解体は来年中に",
-          "summary": "熊本県が2026年熊本地震の「復旧・復興プラン」をまとめました。仮設住宅の整備を12月までに終え、壊れた家の公費解体は来年中の完了をめざします。",
-          "body": [
-            "熊本県は10月27日、県の復旧・復興本部会議で、7月28日に起きた2026年熊本地震からの「復旧・復興プラン」をまとめました。2028年度までの3年間の工程表を示し、暮らしや地域経済、インフラの復旧をおおむね3年以内にやり遂げる考えです。地震の発生からは、10月28日で3か月になります。",
-            "住まいについては、建設型の応急仮設住宅の整備を12月までに終える目標を掲げました。被災した家を市町村が所有者に代わって解体・撤去する「公費解体」は、来年中に終えられるよう自治体を支えます。あわせて、災害公営住宅を整備する市町村を技術面で支援するとしています。NHKによると、避難所は今年度末までに閉じる方針です。",
-            "9月29日号と10月5日号では、仮設住宅の完成の遅れや2階建て仮設の入居開始をお伝えしました。今回のプランは、そうした応急の段階から、恒久的な住まいの再建へ移るための道筋を県として初めて期限付きで示したものです。プランの全文は10月30日に県のウェブサイトで公表される予定です。"
-          ],
-          "commentary": "仮設住宅は12月まで、公費解体は来年中。今回のプランで僕が大事だと思うのは、この二つの期限の並び順なんです。壊れた家が片付かないと、その土地に新しい家は建てられません。引っ越しで、古い家具を運び出さないと新しい家具が入らないのと同じですよね。実は解体は、復興のなかでも重機と人手の取り合いになりやすい工程です。解体業者の数にも、がれきを受け入れる処分場の容量にも限りがあり、そこが詰まると家の再建全体が後ろにずれていきます。7月末の放送では、被災地で建築家のアイデアが暮らしを支えてきた例を紹介しましたが、仮設から本当の住まいへ移るまでの段取りを組むことも、同じくらい建築の仕事です。地震から、きょうでちょうど3か月です。",
-          "briefing": [
-            "国は「令和8年熊本地震 被災者の生活となりわい支援のためのパッケージ」で、公費解体支援チームを活用した迅速な公費解体の推進を掲げています。県のプランはこの国の支援を前提に、市町村の作業を後押しする形です。",
-            "熊本日日新聞によると、熊本市は半壊以上の被害を受けた建物を公費解体の対象とし、所有者の自己負担はありません。所有者が申請し、市が解体・撤去を代行します。",
-            "NHKによると、八代市も同じ10月27日、2035年度までのおよそ10年間を見据えた市独自の「復旧・復興プラン」の素案を公表しました。県の3年の工程表と、市町村の長期計画が並行して動き出しています。"
-          ],
-          "sources": [
-            {
-              "name": "NHK",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261027de66260"
-            },
-            {
-              "name": "熊本日日新聞（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/8cec43dc6b744a0e2ce1d258f1482b60aa10a2f1"
-            },
-            {
-              "name": "読売新聞（Infoseekニュース）",
-              "url": "https://news.infoseek.co.jp/article/yomiuri_20261027_gyt1t00243/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "公費解体の仕組み",
-              "body": "大きな災害で壊れた家は、本来なら所有者が自分で解体業者を探して壊します。公費解体は、市町村が所有者に代わって解体・撤去を行い、費用を国の補助などでまかなう制度です。2024年の能登半島地震では、申請の多さと業者不足から解体の順番待ちが長引き、再建の遅れにつながったことが課題になりました。"
-            },
-            {
-              "title": "仮設から恒久住宅へ",
-              "body": "災害救助法では、応急仮設住宅の供与期間は原則2年とされています。その間に、被災者は自宅を建て直すか修理するか、自力での再建が難しい場合は自治体が建てる災害公営住宅へ移ることになります。2016年の熊本地震でも、仮設の整備に続いて災害公営住宅づくりが復興の柱になりました。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "NHK",
-          "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261027de66260",
-          "shoComment": "",
-          "en": {
-            "title": "Update: Three months after its quake, Kumamoto sets deadlines for temporary homes and demolition",
-            "summary": "Kumamoto Prefecture in southwestern Japan has adopted a recovery and reconstruction plan for the 2026 Kumamoto earthquake. It aims to finish building temporary housing by December and to complete publicly funded demolition of damaged homes within next year.",
-            "body": [
-              "Kumamoto Prefecture, on Kyushu, the southernmost of Japan's four main islands, adopted a recovery and reconstruction plan for the 2026 Kumamoto earthquake, which struck on July 28, at a meeting of its recovery headquarters on Oct 27. The plan sets out a three-year roadmap running through fiscal 2028 (Japan's fiscal year runs from April to March) and aims to restore daily life, the local economy and infrastructure within roughly three years. Oct 28 marks three months since the quake.",
-              "On housing, the prefecture set a goal of finishing construction of purpose-built temporary housing by December. It will also help municipalities complete \"public-expense demolition\", in which the local government demolishes and clears damaged homes on the owners' behalf, within next year. The prefecture says it will also give technical support to municipalities building public disaster-recovery housing, the permanent rental homes local governments provide for survivors. According to NHK, Japan's public broadcaster, evacuation shelters are to close by the end of the current fiscal year.",
-              "As we reported on Sept 29 and Oct 5, completion of temporary housing fell behind schedule, and residents began moving into two-story temporary units. The new plan is the first time the prefecture has laid out, with deadlines, a path from that emergency phase toward rebuilding permanent homes. The full text of the plan is scheduled to be posted on the prefecture's website on Oct 30."
-            ],
-            "commentary": "Temporary housing by December, public-expense demolition within next year. What I think matters most in this plan is the order of those two deadlines. Until a damaged house is cleared away, you can't build a new one on that land. It works the same way as moving house: you can't bring the new furniture in until the old furniture is carried out, can you? In fact, demolition is one of the stages of recovery where heavy machinery and labor tend to be fought over. There are only so many demolition contractors, and only so much room at the disposal sites that take the debris. When that bottleneck clogs, rebuilding homes as a whole slips back. In a broadcast at the end of July, I talked about examples of architects' ideas supporting daily life in disaster areas. But planning the steps from temporary units to real, lasting homes is just as much an architect's job. Today marks exactly three months since the earthquake.",
-            "briefing": [
-              "In its support package for the livelihoods and businesses of survivors of the 2026 Kumamoto earthquake, the national government calls for speeding up public-expense demolition by using a dedicated demolition support team. The prefecture's plan assumes this national support and is designed to back up the work of municipalities.",
-              "According to the Kumamoto Nichinichi Shimbun, the local daily newspaper, Kumamoto City covers buildings judged to be half destroyed or worse under public-expense demolition, at no cost to the owners. Owners apply, and the city carries out the demolition and clearance for them.",
-              "According to NHK, Yatsushiro, another city in the prefecture, also released a draft of its own recovery and reconstruction plan on the same day, Oct 27, looking ahead about 10 years to fiscal 2035. The prefecture's three-year roadmap and the municipalities' long-term plans are now moving forward side by side."
-            ],
-            "hojosen": [
-              {
-                "title": "How public demolition works",
-                "body": "Normally, the owner of a house damaged in a major disaster has to find a demolition contractor and pay to have it torn down. Under public-expense demolition, the municipality demolishes and clears the house on the owner's behalf, with costs covered by national subsidies and other funds. After the 2024 Noto Peninsula earthquake on Japan's Sea of Japan coast, a flood of applications and a shortage of contractors left owners waiting a long time for demolition, which became a problem because it delayed rebuilding."
-              },
-              {
-                "title": "From temporary to permanent homes",
-                "body": "Under Japan's Disaster Relief Act, emergency temporary housing is provided for two years in principle. During that time, survivors either rebuild or repair their own homes, or, if they cannot rebuild on their own, move into public disaster-recovery housing built by local governments. After the 2016 Kumamoto earthquakes, too, building that public housing became a pillar of recovery once the temporary units were in place."
-              }
-            ]
-          },
-          "namesEn": {
-            "熊本日日新聞（Yahoo!ニュース）": "Kumamoto Nichi-nichi Shimbun (Yahoo! News)",
-            "読売新聞（Infoseekニュース）": "The Yomiuri Shimbun (Infoseek News)"
-          }
-        },
-        {
-          "id": "issue-2026-10-28-s2",
-          "number": 2,
-          "title": "銀座のビル解体現場で作業員が重機にひかれ死亡 6階建ての5階で作業中、警視庁が原因を捜査",
-          "summary": "10月26日、東京・銀座1丁目にある6階建てビルの解体現場で、60代くらいの男性作業員が重機にひかれて亡くなりました。警視庁が原因を調べています。",
-          "body": [
-            "10月26日午後4時ごろ、東京都中央区銀座1丁目にある6階建てビルの解体工事現場で、「建物と重機に人が挟まれたか」と119番通報がありました。警視庁によると、5階部分で作業をしていた60代くらいの男性が、別の作業員が運転する重機にひかれたとみられ、その場で死亡が確認されました。",
-            "朝日新聞によると、重機は油圧ショベルで、男性は解体したコンクリートや鉄骨が置かれた場所に倒れていました。事故当時、5階では男性を含む作業員3人が、4階では工事の責任者ら2人が作業をしており、ほかの作業員にけがはありませんでした。警視庁は業務上過失致死の疑いも視野に、事故の詳しい原因を調べています。",
-            "建設・解体の現場での死亡事故は、10月4日号でお伝えした東京・日本橋のビル建設現場での鉄材の落下、10月13日号の大阪・豊中の解体現場でのH形鋼の落下に続き、今月この欄でお伝えするのは3件目です。施工者や当時の作業手順は、現時点で公式には明らかにされていません。"
-          ],
-          "commentary": "重機が5階にいた、と聞いて不思議に思った方もいるかもしれません。都心の狭い敷地では、重機をクレーンで建物の上に載せて、上の階から一層ずつ壊していく方法がよく使われます。積み木の塔を、てっぺんから一つずつ外していくイメージです。周りにすき間がない銀座のような場所では、外から大きな重機で崩すことができないんです。そのぶん、床の上という限られた広さのなかで、重機と人が同じ空間で動くことになります。足元にはコンクリートのかけらや鉄骨が積み上がり、運転席からの死角も生まれやすい。今回の現場がどんな手順で進めていたのかは、まだ報じられていません。古いビルの建て替えで解体工事が増えるこれからこそ、人と重機の距離の取り方を、現場全体で見直す時期なんだと思います。",
-          "briefing": [
-            "テレビ各局は通報の内容を「建物と重機に人が挟まれたか」と伝えています。朝日新聞は、男性が油圧ショベルの足回りに巻き込まれたとみられると報じており、警視庁が当時の位置関係を調べています。",
-            "警視庁は亡くなった男性の身元の確認を進めています。同じ現場で作業していたほかの4人にけがはありませんでした。"
-          ],
-          "sources": [
-            {
-              "name": "ABEMA TIMES",
-              "url": "https://times.abema.tv/articles/-/10284211"
-            },
-            {
-              "name": "朝日新聞（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/31f1a8ac4373ae2fd164e76652119e01b4e0cdbb"
-            },
-            {
-              "name": "FNNプライムオンライン（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/0656f7ea2567467037d68aac530d9a850a16d6cf"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "上から壊す解体",
-              "body": "中高層ビルの解体では、小型の重機を屋上に揚げて上の階から順に壊し、がれきを開口部から下ろしていく方法がとられます。敷地に余裕がない都心では一般的ですが、重機が床の上で旋回し、作業員がその近くで分別や散水を行うため、重機との接触が典型的な事故のパターンとされています。"
-            },
-            {
-              "title": "重機との接触を防ぐ",
-              "body": "労働安全衛生規則は、車両系建設機械を使う作業で、運転中の機械に接触するおそれのある場所への立ち入り禁止や誘導者の配置などを事業者に求めています。各地の労働基準監督署は、重機との接触による死亡事故が起きるたびに、解体現場の安全総点検を業界に要請してきました。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "ABEMA TIMES",
-          "sourceURL": "https://times.abema.tv/articles/-/10284211",
-          "shoComment": "",
-          "en": {
-            "title": "Worker run over and killed by heavy machinery at a building demolition site in Tokyo's Ginza",
-            "summary": "On Oct 26, a male worker who appeared to be in his 60s was run over by heavy machinery and killed at the demolition site of a six-story building in Ginza 1-chome, Tokyo. The Metropolitan Police Department is investigating the cause.",
-            "body": [
-              "At around 4 p.m. on Oct 26, an emergency call came in to 119, Japan's number for fire and ambulance services, reporting that a person might be trapped between a building and heavy machinery at the demolition site of a six-story building in Ginza 1-chome, Chuo Ward, in Tokyo's best-known shopping district. According to the Metropolitan Police Department, Tokyo's police force, a man who appeared to be in his 60s and was working on the fifth floor is believed to have been run over by heavy machinery operated by another worker. He was pronounced dead at the scene.",
-              "According to the Asahi Shimbun, the machine was a hydraulic excavator, and the man was found collapsed in an area where demolished concrete and steel had been piled. At the time, three workers including the man were working on the fifth floor, and two people including the person in charge of the work were on the fourth floor. No other workers were injured. Police are investigating the detailed cause of the accident, including possible professional negligence resulting in death.",
-              "This is the third fatal accident at a construction or demolition site that we have reported this month, after steel material fell at a building construction site in Tokyo's Nihonbashi district (reported Oct 4) and an H-beam fell at a demolition site in Toyonaka, a city just north of Osaka (reported Oct 13). The contractor and the work procedure in use at the time have not been officially disclosed so far."
-            ],
-            "commentary": "Some of you may have wondered why heavy machinery was up on the fifth floor. On tight sites in central Tokyo, a common method is to lift the machine onto the top of the building with a crane and take the building down one floor at a time, starting from the top. Think of a tower of toy blocks being taken apart one block at a time from the very top. In a place like Ginza, where there's no space at all around the building, you can't knock it down from outside with a big machine. That means machines and people end up moving within the same limited space on a single floor. Chunks of concrete and steel pile up underfoot, and blind spots from the operator's seat are easy to create. How this particular site was running its work hasn't been reported yet. With more and more old buildings being rebuilt, demolition work is only going to increase. I think now is exactly the time for everyone on site to rethink how much distance to keep between people and machines.",
-            "briefing": [
-              "TV stations reported the content of the emergency call as a person possibly trapped between a building and heavy machinery. The Asahi Shimbun reported that the man is believed to have been caught in the excavator's undercarriage, and police are examining where everyone was positioned at the time.",
-              "Police are working to confirm the identity of the man who died. The four other people working at the same site were not injured."
-            ],
-            "hojosen": [
-              {
-                "title": "Demolishing from the top down",
-                "body": "When mid- and high-rise buildings are demolished, a small machine is often hoisted onto the roof to break down the floors in order from the top, lowering the debris through openings in the floors. The method is standard in central Tokyo, where sites have little spare room. But because the machine swings around on the floor while workers sort debris and spray water nearby, contact with the machine is considered a typical accident pattern."
-              },
-              {
-                "title": "Keeping people clear of machines",
-                "body": "Japan's Industrial Safety and Health Regulations require employers using construction machinery such as excavators to keep people out of areas where they could come into contact with an operating machine, and to assign signal persons to guide it, among other measures. Each time a fatal accident involving contact with heavy machinery occurs, local labor standards inspection offices, the government's workplace safety inspectors, have asked the industry to carry out a general safety check of demolition sites."
-              }
-            ]
-          },
-          "namesEn": {
-            "FNNプライムオンライン（Yahoo!ニュース）": "FNN Prime Online (Yahoo! News)",
-            "朝日新聞（Yahoo!ニュース）": "Asahi Shimbun (Yahoo! News)"
-          }
-        },
-        {
-          "id": "issue-2026-10-28-s3",
-          "number": 3,
-          "title": "九大箱崎跡地の新しい街は「HAKOZAKI BLOCK」 名前にレンガの記憶、商業核も決定",
-          "summary": "九州大学箱崎キャンパス跡地の再開発で、住友商事など8社が街の名前を「HAKOZAKI BLOCK」に決めました。家電量販店やスーパーの出店も決まっています。",
-          "body": [
-            "福岡市東区の九州大学箱崎キャンパス跡地で進む再開発について、住友商事を代表とする8社の企業グループは10月22日、プロジェクト名を「HAKOZAKI BLOCK（ハコザキブロック）」に決めたと発表しました。コンセプトは「好奇心まで、ひらくまち。」で、スマートシティ構想「FUKUOKA Smart EAST」の先行プロジェクトに位置づけられています。",
-            "名前の「BLOCK」には、街区という意味に加えて、九州大学箱崎キャンパスの記憶を受け継ぐレンガ、箱崎の「箱」を思わせる形、積み木のイメージが重ねられています。西日本新聞によると、商業エリアの核として、家電量販店のエディオン、イオン九州、ロイヤルホームセンターの出店が決まりました。",
-            "街では、住民がひとつの共通IDで買い物や移動、健康などのサービスを使える仕組みが計画されており、鍵や財布を持たずに「顔パス」で暮らせる街をめざすとしています。2028年度に最初のまちびらきを迎え、2036年度にかけて段階的に整備が進む予定です。"
-          ],
-          "commentary": "BLOCKという名前には、レンガの意味も込められています。九州大学が西区の伊都キャンパスへ移ったあと、ここには広大な更地が残りました。都市のど真ん中で、これだけの広さを一から描ける機会は、なかなかありません。白紙の方眼紙に、道と建物を自由に引けるようなものなんです。そこで掲げられたのが「顔パス」の街。鍵も財布もいらない暮らしは、正直ちょっと憧れますよね。ただ、建築の側から見ると、顔を読み取るカメラや端末をどこに置くかは、街並みや入口のデザインそのものに関わってきます。どこまでを便利さとして受け入れ、どこからを「見られている」と感じるのか。その線を引くのは事業者なのか、住む人なのか。皆さんなら、どこに線を引きますか。",
-          "briefing": [
-            "提案段階での街の仮称は「HAKOZAKI GreenInnovation Campus」でした。正式なプロジェクト名の決定にあわせて、公式サイト「hakozaki-block.jp」も開設されています。",
-            "事業者のグループは、九州大学とUR都市機構が土地利用事業者として正式に決定したもので、住友商事のほか、清水建設、大和ハウス工業、東急不動産、西日本新聞社などが名を連ねています。",
-            "商業エリアには家電量販店、スーパー、ホームセンターがそろい、日常の買い物を街の中で済ませられる構成になります。住宅や教育、医療の機能もあわせて整備される計画です。"
-          ],
-          "sources": [
-            {
-              "name": "住友商事ほか8社（公式・共同通信PRワイヤー）",
-              "url": "https://kyodonewsprwire.jp/release/202610218410"
-            },
-            {
-              "name": "西日本新聞",
-              "url": "https://www.nishinippon.co.jp/item/1552005/"
-            },
-            {
-              "name": "データ・マックス",
-              "url": "https://data-max.co.jp/article/87626"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "大学跡地という資源",
-              "body": "大学キャンパスの移転跡地は、都市の中でまとまった土地が一度に出る数少ない機会です。九州大学は伊都キャンパスへの統合移転を2018年に終えており、箱崎の跡地はその後の土地利用が長く議論されてきました。10月20日号でお伝えした東京・門前仲町の大学用地の住宅開発も、同じく大学跡地を街に変える例です。"
-            },
-            {
-              "title": "スマートシティの論点",
-              "body": "共通IDや顔認証で生活サービスをつなぐ街づくりは、静岡県裾野市のトヨタ「ウーブン・シティ」など国内でも試みが広がっています。便利さが増す一方で、集めたデータを誰がどう管理するのか、住民の同意をどう取るのかが、各地で共通の論点になっています。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "住友商事ほか8社（公式・共同通信PRワイヤー）",
-          "sourceURL": "https://kyodonewsprwire.jp/release/202610218410",
-          "shoComment": "",
-          "en": {
-            "title": "Fukuoka's former Kyushu University campus will become HAKOZAKI BLOCK, a name that recalls its bricks",
-            "summary": "In the redevelopment of Kyushu University's former Hakozaki campus in Fukuoka, a group of eight companies led by Sumitomo Corporation has named the new district HAKOZAKI BLOCK. An electronics retailer and a supermarket are among the stores already lined up.",
-            "body": [
-              "On Oct 22, an eight-company group led by Sumitomo Corporation announced that the redevelopment of Kyushu University's former Hakozaki campus, in Higashi Ward of Fukuoka, the largest city on the southern island of Kyushu, will be called HAKOZAKI BLOCK. Its concept is roughly \"a town that opens up, all the way to your curiosity.\" The project is positioned as the lead project of FUKUOKA Smart EAST, a smart city initiative.",
-              "The word BLOCK carries several meanings: a city block, the bricks that carry on the memory of the Hakozaki campus, a shape that recalls the \"hako\" (box) in the name Hakozaki, and the image of toy building blocks. According to the Nishinippon Shimbun, a Fukuoka-based newspaper, the electronics retailer Edion, AEON Kyushu and Royal Home Center have been confirmed as anchor tenants of the commercial area.",
-              "The district plans a system that lets residents use services for shopping, transportation, health and more with a single shared ID, and aims to let people live without carrying keys or a wallet, getting in simply by showing their face. The first section is set to open in fiscal 2028, with development continuing in phases through fiscal 2036."
-            ],
-            "commentary": "The name BLOCK also carries the meaning of brick. After Kyushu University moved to its Ito campus in the city's Nishi Ward, a vast empty site was left behind here. Chances to design an area this large from scratch, right in the middle of a city, don't come along often. It's like being handed a blank sheet of graph paper and being free to draw in the streets and buildings. And what they've put forward is a town where your face is your pass. I'll admit, a life without keys or a wallet sounds pretty appealing, doesn't it? But from an architect's point of view, where you put the cameras and devices that read faces has a direct effect on the design of the streetscape and of building entrances. How much do we accept as convenience, and at what point do we start to feel watched? And who draws that line, the developers or the people who live there? Where would you draw it?",
-            "briefing": [
-              "At the proposal stage, the district's working name was HAKOZAKI GreenInnovation Campus. An official website, hakozaki-block.jp, has opened along with the announcement of the official project name.",
-              "The group of companies was formally chosen as the land-use developer by Kyushu University and the Urban Renaissance Agency (UR), Japan's public agency for housing and urban development. Besides Sumitomo Corporation, its members include Shimizu Corporation, Daiwa House Industry, Tokyu Land Corporation and the Nishinippon Shimbun.",
-              "The commercial area will include an electronics store, a supermarket and a home improvement store, so residents can do their everyday shopping within the district. Housing, education and medical facilities are also planned."
-            ],
-            "hojosen": [
-              {
-                "title": "Former campuses as a resource",
-                "body": "When a university campus relocates, it is one of the few occasions when a large, single piece of land in a city becomes available all at once. Kyushu University completed its consolidated move to the Ito campus in 2018, and the future use of the Hakozaki site was debated for a long time afterward. The housing development on university land in Tokyo's Monzen-nakacho area, which we reported on Oct 20, is another example of a former university site being turned into part of the city."
-              },
-              {
-                "title": "Questions for smart cities",
-                "body": "Town planning that links everyday services through a shared ID or face recognition is spreading in Japan, including Toyota's Woven City in Susono, Shizuoka Prefecture. As convenience grows, the same questions keep coming up everywhere: who manages the data collected, how, and how residents' consent is obtained."
-              }
-            ]
-          },
-          "namesEn": {
-            "データ・マックス": "Data Max",
-            "住友商事ほか8社（公式・共同通信PRワイヤー）": "Sumitomo Corporation and 8 Other Companies (official, Kyodo News PR Wire)",
-            "西日本新聞": "Nishinippon Shimbun"
           }
         }
       ]
