@@ -1,6 +1,152 @@
 {
   "issues": [
     {
+      "id": "issue-2026-11-28",
+      "date": "2026-11-28",
+      "weekday": "土",
+      "isRead": false,
+      "readingMinutesSummary": 3,
+      "readingMinutesFull": 10,
+      "updatedAt": "07:00",
+      "stories": [
+        {
+          "id": "issue-2026-11-28-s1",
+          "number": 1,
+          "title": "神戸の「日本真珠会館」建て替えが完成 1952年築の登録文化財の跡に13階の複合マンション",
+          "summary": "東京建物と日本真珠輸出組合が、神戸・旧居留地の日本真珠会館の建て替え完了を発表。1・2階に新しい会館、上の階は53戸の住宅です。",
+          "body": [
+            "東京建物と日本真珠輸出組合は11月26日、神戸市中央区の旧居留地で進めてきた「日本真珠会館」の建て替え事業で、複合マンション「Brillia 神戸旧居留地」が竣工したと発表しました。建物は鉄筋コンクリート造の地上13階・地下1階です。竣工日は10月5日で、住戸の引き渡しは12月中旬に始まる予定です。",
+            "旧会館は1952年に建てられ、約70年にわたって日本の真珠産業の拠点として使われてきました。2005年には国の登録有形文化財になりましたが、老朽化のため2023年3月に閉館していました。新しい建物の1・2階には組合が新たな「日本真珠会館」を設け、事務所や真珠の入札会場、ミュージアムが入ります。休館していた「神戸パールミュージアム」は、「JAPAN PEARL MUSEUM」として2027年4月に再オープンする予定です。",
+            "上の階は総戸数53戸の分譲住宅で、旧居留地では14年ぶりの分譲マンションになります。外観は、旧居留地の西洋建築に多い縦のラインや、低層・中層・上層に分ける三層構成を取り入れました。バルコニーの手すりは、真珠を支える爪の形をモチーフにしています。"
+          ],
+          "commentary": "真珠を支える爪。新しいマンションのバルコニーの手すりは、この形がモチーフです。指輪の真珠を、台座の小さな爪が四方から押さえている、あの形ですね。1952年に建った日本真珠会館は、約70年間、真珠の取引の場所でした。国の登録有形文化財でもありました。ただ、登録文化財は、建物を残すことを義務づける仕組みではないんです。届け出をすれば、所有者が建て替えを選ぶこともできます。今回選ばれたのは、建物は新しくして、仕事と場所を残す道でした。真珠の入札会場もミュージアムも、同じ場所の1・2階に戻ってきます。組合だけで建て直すのではなく、デベロッパーと組んで住宅と一緒に建てる。都心の古いビルでよく見る建て替え方ですよね。モダニズムの名建築が消えたのは、やっぱり寂しいです。それでも、真珠のまちの看板は同じ住所に残りました。ミュージアムの再オープンは、2027年4月です。",
+          "briefing": [
+            "設計はD＆D建築設計事務所、施工は大木工務店、デザイン監修は光井純アンドアソシエーツ建築設計事務所が担当しました。売主・建築主は東京建物で、旧建物を所有していた日本真珠輸出組合と連携して事業を進めました。",
+            "2024年7月の着工発表の時点では、竣工は2026年7月下旬の予定とされていました。実際の竣工は10月5日で、発表は竣工から約1カ月半後の11月26日でした。",
+            "旧会館は、兵庫県の営繕課に所属していた光安義光氏の設計とされ、神戸を象徴するモダニズム建築として評価されてきました。住戸の専有面積は約38.7〜147.7㎡です。"
+          ],
+          "sources": [
+            {
+              "name": "東京建物（公式・PR TIMES）",
+              "url": "https://prtimes.jp/main/html/rd/p/000000634.000052843.html"
+            },
+            {
+              "name": "ラジオ関西",
+              "url": "https://jocr.jp/raditopi/2026/11/27/711037/"
+            },
+            {
+              "name": "遊都総研",
+              "url": "https://yutosoken.com/wp/2026/11/27/tatemono-98/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "登録文化財の限界",
+              "body": "国の登録有形文化財は、重要文化財のような「指定」と比べて規制がゆるい仕組みです。外観を大きく変えたり解体したりする場合も、届け出で済みます。所有者の負担を軽くして登録を広げる狙いがある一方で、建物が残る保証にはなりません。"
+            },
+            {
+              "title": "旧居留地の街並み",
+              "body": "旧居留地は、明治時代に外国人の居住地として整備された区画です。近代の洋風建築が残る一方で、オフィスや商業ビルへの建て替えも進んできました。住宅の新築は少なく、今回が14年ぶりの分譲マンションです。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "東京建物（公式・PR TIMES）",
+          "sourceURL": "https://prtimes.jp/main/html/rd/p/000000634.000052843.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-28-s2",
+          "number": 2,
+          "title": "隈研吾氏ら6人が手がける名古屋・熱田の「MTG PARK」 現場を公開、27年春開業へ",
+          "summary": "美容機器のMTGが、熱田神宮近くで建設中の本社複合施設「MTG PARK」を報道公開。隈研吾氏ら6人のつくり手が集まり、27年春の開業をめざします。",
+          "body": [
+            "美容機器ブランド「ReFa」などで知られるMTGは11月24日、名古屋市熱田区で建設中の複合施設「MTG PARK」で現場視察会を開き、同じ日に熱田神宮会館で報道向けの発表会を行いました。施設は2027年春の開業を予定しています。",
+            "MTG PARKには、MTGの新しい本社のほか、日本料理店やレストラン、カフェなどが入ります。熱田神宮の周辺ににぎわいをつくる「熱田外苑プロジェクト」の一つと位置づけられています。施設全体の設計・監修は、隈研吾建築都市設計事務所が担当しています。",
+            "発表会では、建築家の隈研吾氏のほか、数寄屋建築の中村公治氏、空間デザイナーの小坂竜氏と青野恵太氏、フラワーアーティストのHIKARU SEINO氏、アーティストのロッコ・リッチー氏の6人が「つくり手」として紹介されました。視察会では隈氏が建設中のロビーを案内し、壁が立体的に波打つデザインについて説明しました。"
+          ],
+          "commentary": "建築家、数寄屋の職人、空間デザイナー2人、花の作家、アーティスト。一つの建物の発表に、6人の名前が並びました。僕は以前、「また隈研吾か」という声に答える記事をnoteに書いたことがあります。そのときも思ったんですが、大きな建物ほど、1人の名前だけでは語れないんです。オーケストラで言えば、隈さんの事務所は全体をまとめる指揮者。楽器を弾く人は、それぞれ別にいるイメージです。日本料理の店は数寄屋の職人が、ロビーの壁は立体的に波打つデザインで。同じ屋根の下に、手ざわりの違う仕事が隣り合うことになります。会社の本社って、ふつうは社員証がないと入れない場所じゃないですか。そこにカフェやレストランを入れて、熱田神宮のそばで街の人も立ち寄れる場所にする計画です。開業は2027年春。完成した建物で、皆さんは誰の仕事に目が止まると思いますか。",
+          "briefing": [
+            "MTGの公式発表によると、施設には本社に加えて研究開発の拠点とブランドミュージアムも入ります。カフェとレストランは、一般の人も利用できる場所として計画されています。",
+            "日本料理店は懐石割烹「露結」で、数寄屋建築を手がける中村外二工務店がかかわります。視察会のあと、熱田神宮会館で報道向けの発表会が開かれました。",
+            "開業の正確な日付や総事業費は、今回の発表では示されていません。"
+          ],
+          "sources": [
+            {
+              "name": "MTG（公式・PR TIMES）",
+              "url": "https://prtimes.jp/main/html/rd/p/000001170.000029736.html"
+            },
+            {
+              "name": "東海テレビ（Yahoo!ニュース）",
+              "url": "https://news.yahoo.co.jp/articles/6e6c863a82438ce636f9a2754c4f85fdeb77985e"
+            },
+            {
+              "name": "ADF Web Magazine",
+              "url": "https://www.adfwebmagazine.jp/architect/permalinkmtg-park-kengo-kuma-six-creators/"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "開かれる本社",
+              "body": "企業の本社は、かつては社員だけが出入りする建物でした。近年は、1階にカフェや展示を置いて、地域の人を呼び込む本社が増えています。ブランドを体験してもらう場所としての役割を、建物そのものに持たせる考え方です。"
+            },
+            {
+              "title": "熱田という場所",
+              "body": "名古屋では、11月24日号でお伝えした栄のPARCO_ya名古屋など、商業の再編が続いています。熱田は名駅や栄と違い、熱田神宮を中心にした街です。熱田外苑プロジェクトは、その周辺ににぎわいをつくる取り組みで、MTG PARKはその一つです。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "MTG（公式・PR TIMES）",
+          "sourceURL": "https://prtimes.jp/main/html/rd/p/000001170.000029736.html",
+          "shoComment": ""
+        },
+        {
+          "id": "issue-2026-11-28-s3",
+          "number": 3,
+          "title": "北九州空港の造成工事で設計と違う施工 五洋建設と大本組を6週間の指名停止",
+          "summary": "九州地方整備局が、北九州空港の造成工事で設計図書と違う施工があったとして、五洋建設と大本組を6週間の指名停止にしました。",
+          "body": [
+            "国土交通省九州地方整備局は11月16日、福岡県苅田町の北九州空港で行われた滑走路延長用地の造成工事で、設計図書と異なる施工があったとして、五洋建設と大本組を6週間の指名停止にしました。期間は12月27日までで、この間、両社は同局が発注する工事の入札に参加できません。",
+            "工事は両社の共同企業体（JV）が受注したものです。発注者と事前に協議しないまま、排水工の地下水対策や取付管、照明施設の工事で、設計図書と違う施工をしていたとされています。",
+            "問題がわかったきっかけは、工事が終わったあと、別の施工者が側溝をつくるために地面を掘り返したことでした。その際、排水管が設計図書より浅い位置に埋まっているのが見つかりました。その後の調査で、照明の基礎の位置や、マンホールにつながる管の角度にも誤りがあったと報じられています。"
+          ],
+          "commentary": "排水管が、図面より浅いところに埋まっていた。見つけたのは、工事が終わったあとに側溝を掘った、別の会社でした。地面の下の管は、埋めてしまえば誰の目にも触れません。だからこそ、図面と違う形にするなら、発注者と協議して記録を残す決まりがあるんです。家で言えば、壁紙の下の電気の配線を、施主に伝えずに別のルートに変えるようなものです。見た目は同じでも、あとで壁に穴を開けた人が困りますよね。今回の報道では、なぜ変えたのかという理由までは明らかになっていません。図面どおりにいかない事情は、どの現場にもあります。問われているのは、変えたことそのものより、協議の手順を通らなかったことなんです。工期に追われる現場ほど、手続きは後回しになりがちです。手間でも一度立ち止まって、発注者に相談する。その積み重ねが、地面の下の品質を守るんだと思います。",
+          "briefing": [
+            "対象は「令和6年度北九州空港滑走路延長用地造成工事」です。日経クロステックによると、同じJVが2024〜25年度に行った工事でした。",
+            "北九州空港では、滑走路を延ばす事業が進められています。今回の工事は、その延長に使う用地を造成するものでした。",
+            "指名停止は、刑事処分や建設業法にもとづく営業停止とは別のものです。発注者が一定の期間、その会社を入札に参加させない措置で、ほかの発注者の工事には直接は及びません。"
+          ],
+          "sources": [
+            {
+              "name": "日経クロステック",
+              "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02836/"
+            },
+            {
+              "name": "西日本新聞",
+              "url": "https://www.nishinippon.co.jp/item/1560966/"
+            },
+            {
+              "name": "JC-NET",
+              "url": "https://n-seikei.jp/2026/11/kitakyushu-airport-goyo-ohmoto-shimeiteishi.html"
+            }
+          ],
+          "hojosen": [
+            {
+              "title": "埋めたら見えない工事",
+              "body": "排水管や基礎のように、完成すると地中に隠れる部分は、あとから確かめるのが難しい工事です。そのため公共工事では、埋め戻す前に写真や立会いで状態を記録する段階確認が行われています。今回は、別の工事で掘り返したことで食い違いが見つかりました。"
+            },
+            {
+              "title": "現場の変更と協議",
+              "body": "現場では、地盤や地下水の状態が想定と違い、図面どおりに施工しにくいことは珍しくありません。その場合は発注者と協議し、設計を変更してから施工するのがルールです。今回は、その協議を経ずに変えた点が問われています。"
+            }
+          ],
+          "reliability": "高",
+          "sourceName": "日経クロステック",
+          "sourceURL": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02836/",
+          "shoComment": ""
+        }
+      ]
+    },
+    {
       "id": "issue-2026-11-27",
       "date": "2026-11-27",
       "weekday": "金",
@@ -6851,242 +6997,6 @@
                 "body": "Zaha Hadid won the 2012 international design competition for Tokyo's New National Stadium, the main venue planned for the Tokyo Olympics, but the plan was scrapped in 2015, partly because of soaring construction costs. The episode made her name widely known in Japan, and it also sparked debate over how large public buildings should be handled."
               }
             ]
-          }
-        }
-      ]
-    },
-    {
-      "id": "issue-2026-10-29",
-      "date": "2026-10-29",
-      "weekday": "木",
-      "isRead": false,
-      "readingMinutesSummary": 3,
-      "readingMinutesFull": 11,
-      "updatedAt": "07:00",
-      "stories": [
-        {
-          "id": "issue-2026-10-29-s1",
-          "number": 1,
-          "title": "建築確認の「BIMデータ審査」、2029年春の開始へ国交省が部会 審査方法は今年度末に確定",
-          "summary": "国土交通省は10月28日の部会で、BIMデータそのものを審査する建築確認の制度について、2029年春の開始に向けた進め方を整理しました。",
-          "body": [
-            "国土交通省は10月28日、第25回建築BIM環境整備部会を開き、建築確認申請でBIMデータそのものを審査対象にする「BIMデータ審査」の制度開始に向けた今後の取り組みを整理しました。2029年春からの開始をめざし、対象とする審査項目ごとの審査・検査の方法を2026年度末までに確定させる方針です。",
-            "導入の時点で建築確認のすべての項目をBIMデータで確認するのは難しいとして、入力の手間と効果のバランスから優先する項目を選んで検討を進めています。建設通信新聞によると、建ぺい率や容積率、防火区画などが検討対象に挙がっています。データで審査しない項目は、これまでどおりPDFの図面で審査される見込みです。",
-            "BIMを使った建築確認は段階的に進められており、2026年4月には第1段階の「BIM図面審査」が始まっています。こちらは審査の対象はあくまで図面で、BIMデータは参考扱いです。2029年のBIMデータ審査は、データそのものを審査に使う次の段階にあたります。"
-          ],
-          "commentary": "2029年春。あと2年半ほどで、建築確認の「審査されるもの」が変わり始めます。確認申請の図面の束って、驚くほど分厚いじゃないですか。いまは、それを審査する人が一枚ずつ読み込んでいるんです。BIMは、建物を柱や壁、部屋といった部品の情報ごとパソコンの中に組み立てたデータです。図面が完成予想図の写真だとすると、BIMは中身まで詰まったプラモデルに近い。そのプラモデルを、審査する側が直接受け取って調べるのがBIMデータ審査です。実は今回の議論で面白いのは、容積率のように計算で一つに決まることと、人の判断が要ることを分けようとしている点です。全部を機械に任せるわけではない。床面積を数えるのはデータに、解釈が分かれる部分は審査する人に。審査方法が確定するのは、今年度末の2027年3月です。",
-          "briefing": [
-            "BIMデータ審査の検討は、国交省が設けた審査のタスクフォースで進められています。その中に集団規定、防火規定、その他の規定、設備に関する規定の4つのワーキンググループが置かれています。",
-            "容積率の審査については、データから一つに決まる事項と、設計者や審査者の判断が必要な事項を切り分けたうえで、IFCデータに持たせる情報と外部の情報を整理する方針とされています。IFCは、異なるBIMソフトの間でデータをやり取りするための共通形式です。",
-            "審査の方法としては、審査事項に合わせた見せ方でデータを確認する「ビュー審査」と、プログラムやAIで確認する「デジタル審査」を組み合わせる構想が示されています。審査のばらつきを減らす効果も見込まれています。"
-          ],
-          "sources": [
-            {
-              "name": "国土交通省（公式）",
-              "url": "https://www.mlit.go.jp/report/press/house05_hh_001157.html"
-            },
-            {
-              "name": "建設通信新聞",
-              "url": "https://www.kensetsunews.com/archives/1301957"
-            },
-            {
-              "name": "BuildApp News",
-              "url": "https://news.build-app.jp/article/42787/"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "3段階のロードマップ",
-              "body": "国交省はBIMを使った建築確認を段階的に進める計画を示してきました。2024年の部会で、2026年春にBIM図面審査、2029年春にBIMデータ審査を始める方針が示され、第1段階のBIM図面審査はこの4月に始まっています。今回の部会は、その次の段階の中身を詰める局面にあたります。"
-            },
-            {
-              "title": "設計事務所への影響",
-              "body": "データそのものが審査対象になると、設計側はソフトでの入力ルールに沿ってデータを作る必要が出てきます。そのため国交省はIFCデータの入力ルールを定める作成基準づくりも進めています。大手だけでなく、中小の設計事務所がどこまで対応できるかが普及のかぎになります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "国土交通省（公式）",
-          "sourceURL": "https://www.mlit.go.jp/report/press/house05_hh_001157.html",
-          "shoComment": "",
-          "en": {
-            "title": "Japan maps out BIM data review for building permits, aiming for a spring 2029 start",
-            "summary": "At a panel meeting on October 28, Japan's construction ministry laid out its next steps toward a building confirmation system that reviews the BIM data itself, with a target start in spring 2029.",
-            "body": [
-              "The Ministry of Land, Infrastructure, Transport and Tourism (MLIT) held the 25th meeting of its Building BIM Environment Development Subcommittee on October 28 and laid out its next steps toward launching BIM data review, in which the BIM data itself becomes the subject of review in building confirmation applications. Building confirmation is Japan's pre-construction check that a design complies with the Building Standards Act. MLIT aims to start the system in spring 2029 and plans to finalize the review and inspection methods for each covered item by the end of fiscal 2026, which ends in March 2027.",
-              "Because it would be difficult to check every item of building confirmation with BIM data at launch, the ministry is choosing which items to prioritize based on the balance between the effort of data entry and the benefits. According to the trade newspaper Kensetsu Tsushin Shimbun, items under consideration include the building coverage ratio, the floor area ratio (FAR) and fire compartments. Items not reviewed with data are expected to be reviewed using PDF drawings, as they are today.",
-              "BIM-based building confirmation is being introduced in stages. The first stage, BIM drawing review, began in April 2026. In that stage, what gets reviewed is still the drawings, and the BIM data is treated only as a reference. BIM data review in 2029 is the next stage, in which the data itself is used in the review."
-            ],
-            "commentary": "Spring 2029. In about two and a half years, what actually gets reviewed in building confirmation will start to change. The stack of drawings for a permit application is surprisingly thick, isn't it? Right now, the reviewers read through it one sheet at a time. BIM is data in which a building is assembled inside the computer, along with information for each part, like columns, walls and rooms. If drawings are like a picture of what the finished building will look like, BIM is closer to a plastic model kit with the insides filled in. BIM data review means the reviewers receive that model directly and examine it. What I find interesting about this round of discussion is that they're trying to separate things that a calculation settles one way, like the floor area ratio, from things that need human judgment. They're not handing everything over to machines. Counting floor area goes to the data, and the parts open to interpretation go to the reviewers. The review methods will be finalized at the end of this fiscal year, in March 2027.",
-            "briefing": [
-              "The study of BIM data review is being carried out by a review task force set up by MLIT. Under it are four working groups: one on zoning-type rules that govern a building's relationship to its surroundings, one on fire-protection rules, one on other provisions and one on rules for building services.",
-              "For FAR review, the plan is to first separate items that can be settled one way from the data from items that require the judgment of designers or reviewers, and then sort out which information should be held in the IFC data and which should come from outside sources. IFC is a common format for exchanging data between different BIM software programs.",
-              "As for review methods, the ministry has presented a concept that combines “view review,” in which the data is checked in displays tailored to each review item, with “digital review,” in which it is checked by programs or AI. The approach is also expected to reduce inconsistency between reviews."
-            ],
-            "hojosen": [
-              {
-                "title": "A roadmap in stages",
-                "body": "MLIT has laid out a plan to bring BIM into building confirmation step by step. A 2024 subcommittee meeting set the policy of starting BIM drawing review in spring 2026 and BIM data review in spring 2029, and the first stage, BIM drawing review, began this April. This latest meeting comes as the ministry works out the details of the next stage."
-              },
-              {
-                "title": "What it means for design firms",
-                "body": "Once the data itself is reviewed, designers will need to build their data following input rules in their software. For that reason, MLIT is also developing creation standards that set the input rules for IFC data. Whether small and midsize design firms, not just the large ones, can keep up will be the key to wider adoption."
-              }
-            ]
-          },
-          "namesEn": {
-            "国土交通省（公式）": "Ministry of Land, Infrastructure, Transport and Tourism (official)",
-            "建設通信新聞": "Kensetsu Tsushin Shimbun"
-          }
-        },
-        {
-          "id": "issue-2026-10-29-s2",
-          "number": 2,
-          "title": "全国の高さ60m超の煙突、4割の180本に損傷や劣化 熊本地震の倒壊を受け国交省が調査",
-          "summary": "熊本地震で工場の煙突が倒壊したことを受け、国交省が全国444本の高い煙突を調べたところ、約4割の180本でひび割れなどが見つかりました。",
-          "body": [
-            "国土交通省は10月23日、全国の高さ60メートルを超える鉄筋コンクリート造の煙突について、調査結果を公表しました。今年7月28日の熊本地震で、熊本県八代市の日本製紙八代工場の煙突が倒壊したことを受けたもので、444本のうち約4割にあたる180本で損傷や劣化が確認されました。",
-            "見つかったのは、ひび割れや鉄筋の露出、腐食などです。国交省は軽微なものも含むとしており、ただちに安全性が低いとまでは判断できないとしています。一方、60本については事業者が対策をとる予定がないと答えたため、国交省は関係省庁とともに応急的な補修を求めました。",
-            "煙突は、建物のように劣化や補修の状況を都道府県などへ定期的に報告する制度の対象になっていません。国交省は有識者会議で倒壊の原因究明と再発防止策を検討しており、新たな義務付けなどの制度の見直しも論点になっています。"
-          ],
-          "commentary": "放送でも話したんですが、煙突は法律の上では「建築物」ではなく「工作物」の扱いです。人が中で暮らしたり働いたりしない構造物、という位置づけなんです。だから建物と同じ物差しでは見られてこなかった。でも八代では、倒れた煙突の先にあった事務所で、9人が亡くなりました。中に人がいなくても、倒れた先に人がいれば命に関わる。今回の調査は、その事実を全国に当てはめた最初の点検だと思います。古いベランダの手すりの根元が茶色く錆びているのを、見かけたことがありますよね。ひび割れや鉄筋の露出も、それと同じで外から見えるサインです。見えているなら、手は打てる。建築基準法は、大きな事故のたびに書き換えられてきた法律です。今回の180本という数字が、点検と報告の仕組みにつながっていく。そこは建築士として、しっかり見届けたいと思います。",
-          "briefing": [
-            "調査は8月18日から9月7日にかけて、関係省庁を通じて行われました。都道府県別で最も多かったのは北海道の21本で、兵庫県20本、山口県16本と続きます。",
-            "業種別では、製紙が36本で最も多く、製鉄31本、セメント製造29本の順でした。高い煙突を持つ工場の多い業種に集中しています。",
-            "国交省は、自治体などに対しても、応急補修の方法を周知し、事業者を指導するよう求めています。",
-            "日本製紙は9月10日、社外の有識者による被害調査委員会を設置しました。委員長は九州大学名誉教授の松田泰治氏で、煙突が損傷・倒壊したメカニズムの究明と、工場運営の安全対策を検討しています。"
-          ],
-          "sources": [
-            {
-              "name": "NHK",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261023de64615"
-            },
-            {
-              "name": "共同通信（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/643ac4432d4483fc8ac488f6468b5ce2deffbfa8"
-            },
-            {
-              "name": "日本製紙（公式）",
-              "url": "https://www.nipponpapergroup.com/news/2026/news260910145930.html"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "建物と工作物の差",
-              "body": "高さ60メートルを超える建築物は、時刻歴応答解析という詳しい揺れのシミュレーションを行い、国土交通大臣の認定を受ける必要があります。一方で煙突は工作物として別の枠組みで扱われ、建物のような定期報告の対象にもなっていません。今回の調査結果は、この差をどう埋めるかという議論の材料になります。"
-            },
-            {
-              "title": "検証は年度内に",
-              "body": "9月29日号でお伝えしたとおり、国の有識者委員会は、八代市庁舎の免震建物の被害とあわせて、煙突の倒壊についても2026年度内に検証結果をまとめる予定です。原因の特定と並行して、全国の既存の煙突をどう点検していくかが次の焦点になります。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "NHK",
-          "sourceURL": "https://news.web.nhk/newsweb/na/nd-20261023de64615",
-          "shoComment": "",
-          "en": {
-            "title": "180 of Japan's tall chimneys, about 40%, show damage after a fatal collapse in Kumamoto",
-            "summary": "After a factory chimney collapsed in the Kumamoto earthquake, Japan's construction ministry surveyed 444 tall chimneys nationwide and found cracks and other problems in 180 of them, about 40%.",
-            "body": [
-              "The Ministry of Land, Infrastructure, Transport and Tourism (MLIT) on October 23 released the results of a survey of reinforced concrete chimneys taller than 60 m (197 ft) across Japan. The survey followed the collapse of a chimney at Nippon Paper Industries' Yatsushiro mill in Yatsushiro, Kumamoto Prefecture, on the southern island of Kyushu, in the Kumamoto earthquake of July 28 this year. Damage or deterioration was found in 180 of the 444 chimneys, about 40%.",
-              "The problems found included cracks, exposed rebar and corrosion. MLIT said the findings include minor cases and that it cannot conclude the chimneys are immediately unsafe. However, for 60 chimneys whose operators said they had no plans to take action, MLIT and other relevant ministries asked for emergency repairs.",
-              "Unlike buildings, chimneys are not covered by the system that requires owners to regularly report their condition and repairs to prefectures and other authorities. MLIT's expert panel is examining the cause of the collapse and measures to prevent another one, and a review of the rules, including possible new requirements, is one of the issues on the table."
-            ],
-            "commentary": "I mentioned this on the show, too: under the law, a chimney isn't treated as a building. It's classed as a kosakubutsu, a structure, meaning something people don't live or work inside. So it was never measured with the same yardstick as buildings. But in Yatsushiro, nine people died in the office that stood where the chimney fell. Even with nobody inside, if there are people where it falls, lives are at stake. I see this survey as the first inspection that applies that fact to the whole country. You've probably seen the base of an old balcony railing rusted brown, haven't you? Cracks and exposed rebar are the same kind of thing: signs you can see from the outside. If you can see them, you can do something about them. The Building Standards Act is a law that has been rewritten after every major accident. This number, 180 chimneys, should lead to a system of inspections and reporting. As an architect, I want to see that through.",
-            "briefing": [
-              "The survey was conducted from August 18 to September 7 through the relevant ministries. By prefecture, Hokkaido had the most with 21, followed by Hyogo with 20 and Yamaguchi with 16.",
-              "By industry, paper had the most with 36, followed by steel with 31 and cement with 29. They are concentrated in industries with many factories that have tall chimneys.",
-              "MLIT is also asking local governments and others to spread the word about emergency repair methods and to provide guidance to operators.",
-              "On September 10, Nippon Paper set up a damage investigation committee of outside experts. Chaired by Taiji Matsuda, professor emeritus at Kyushu University, it is examining how the chimney was damaged and collapsed, as well as safety measures for running the mill."
-            ],
-            "hojosen": [
-              {
-                "title": "Buildings versus structures",
-                "body": "Buildings taller than 60 m (197 ft) must undergo time-history response analysis, a detailed simulation of how the building moves in an earthquake, and receive certification from the minister of MLIT. Chimneys, on the other hand, are handled under a separate framework as structures and are not subject to periodic reporting the way buildings are. The survey results give the debate over how to close that gap something to work with."
-              },
-              {
-                "title": "Findings due this fiscal year",
-                "body": "As we reported on Sep 29, a national expert committee plans to compile its findings on the chimney collapse within fiscal 2026, together with the damage to the base-isolated Yatsushiro City Hall building. Alongside pinning down the cause, the next focus will be how to inspect existing chimneys across the country."
-              }
-            ]
-          },
-          "namesEn": {
-            "共同通信（Yahoo!ニュース）": "Kyodo News (Yahoo! News)",
-            "日本製紙（公式）": "Nippon Paper Industries (official)"
-          }
-        },
-        {
-          "id": "issue-2026-10-29-s3",
-          "number": 3,
-          "title": "大阪城天守閣が重要文化財へ 1931年築の鉄骨鉄筋コンクリート造、昭和の復元天守で初",
-          "summary": "国の文化審議会が大阪城天守閣を重要文化財に指定するよう答申しました。昭和に再建された復元天守が重文になるのは初めてです。",
-          "body": [
-            "国の文化審議会は10月16日、大阪城天守閣を重要文化財に指定するよう文部科学大臣に答申しました。官報に掲載された時点で正式な指定となります。文化庁によると、資料や推定に基づいて昭和に建てられた天守が重要文化財に指定されるのは初めてです。",
-            "現在の天守閣は1931年（昭和6年）、豊臣時代の天守の再現をめざし、市民の寄付によって鉄骨鉄筋コンクリート造で再建されました。天守の再建手法の先がけとして価値が高いことや、市民に開かれた博物館・展望台として建てられたことが評価されました。",
-            "大阪城天守閣は1997年に国の登録有形文化財になっており、今回はそこから一段上の重要文化財への格上げとなります。同じ答申では、京都・建仁寺の法堂や奈良ホテル本館なども重要文化財に指定するよう求められました。"
-          ],
-          "commentary": "鉄筋コンクリートのお城が、国の重要文化財になります。木造じゃない天守閣なんて偽物でしょ、と思った方もいるかもしれません。実際、城郭の専門家からは疑問の声も出ています。ただ、評価されたのは「豊臣時代の天守そのもの」ではないんです。95年前、昭和の大阪の人たちが寄付を出し合って、当時最新の鉄骨鉄筋コンクリートで建てた。その建物自体の価値が問われました。古い木造の天守を残す話と、昭和の建築を残す話は、物差しが違うんですよね。いまの天守閣は、元の天守を写した複製というより、1931年という時代の作品なんです。東京タワーや昭和のビルが文化財になっていく流れと、同じ線の上にあると思います。お城の価値を決めるのは、建てられた時代なのか、それとも誰がどう建てたかなのか。皆さんはどちらだと思いますか。",
-          "briefing": [
-            "答申された8件の建造物のなかには、京都の建仁寺法堂や奈良ホテル本館が含まれています。重要文化財は、文化審議会の答申を受け、官報への掲載をもって正式に指定されます。",
-            "大阪城天守閣の館長は、指定を「価値を知ってもらうきっかけに」と受け止めています。天守閣は現在も博物館として公開されています。",
-            "一方で、城郭史に詳しい歴史評論家の香原斗志氏は、史実と異なる部分を含む再建建築であることから、指定の理由に疑問を呈しています。評価をめぐっては見方が分かれています。"
-          ],
-          "sources": [
-            {
-              "name": "大阪城天守閣（公式）",
-              "url": "https://www.osakacastle.net/news/detail.html?id=322&lang=en"
-            },
-            {
-              "name": "日本経済新聞",
-              "url": "https://www.nikkei.com/article/DGXZQOUD1526Z0V11C26A0000000/"
-            },
-            {
-              "name": "ABCニュース（Yahoo!ニュース）",
-              "url": "https://news.yahoo.co.jp/articles/ba027e46e34864f28c9db05357faf121ef55b670"
-            }
-          ],
-          "hojosen": [
-            {
-              "title": "近代建築の文化財化",
-              "body": "重要文化財には、寺社や城だけでなく近代の建物も選ばれるようになっています。鉄筋コンクリートや鉄骨の建物は、建てられた時代の技術や社会のありようを伝える資料として評価されます。10月16日号でお伝えした村野藤吾の旧横浜市庁舎の転用のように、昭和の建築をどう残し、どう使うかは各地で共通のテーマになっています。"
-            },
-            {
-              "title": "各地の復元天守",
-              "body": "戦前・戦後に鉄筋コンクリートで再建された天守は全国に多く、名古屋城のように木造で建て直す計画が進む例もあります。耐震性やバリアフリーの課題を抱える天守も多く、残すのか、木造に戻すのかの判断は自治体ごとに分かれています。"
-            }
-          ],
-          "reliability": "高",
-          "sourceName": "大阪城天守閣（公式）",
-          "sourceURL": "https://www.osakacastle.net/news/detail.html?id=322&lang=en",
-          "shoComment": "",
-          "en": {
-            "title": "Osaka Castle's 1931 concrete keep to become an Important Cultural Property, a first for a reconstruction",
-            "summary": "A national council has recommended designating the main keep of Osaka Castle as an Important Cultural Property. It is the first time a castle keep reconstructed in the Showa era would receive the designation.",
-            "body": [
-              "Japan's Council for Cultural Affairs recommended on October 16 that the Minister of Education, Culture, Sports, Science and Technology designate the main keep of Osaka Castle as an Important Cultural Property, Japan's main national heritage designation for buildings and objects. The designation becomes official when it is published in the government's Official Gazette. According to the Agency for Cultural Affairs, it is the first time a keep built in the Showa era based on historical records and conjecture has been designated an Important Cultural Property.",
-              "The current keep was rebuilt in 1931 (Showa 6) in steel-framed reinforced concrete, funded by donations from the public, with the aim of recreating the keep from the era of Toyotomi Hideyoshi, the warlord who built the original castle. It was recognized for its high value as a pioneer of how castle keeps are reconstructed, and for having been built as a museum and observation deck open to the public.",
-              "The Osaka Castle main keep became a national Registered Tangible Cultural Property in 1997, and this is an upgrade from that listing to the higher rank of Important Cultural Property. The same recommendation also called for designating the Dharma Hall of Kennin-ji temple in Kyoto and the main building of the Nara Hotel, among others, as Important Cultural Properties."
-            ],
-            "commentary": "A reinforced concrete castle is becoming a national Important Cultural Property. Some of you may be thinking a castle keep that isn't made of wood is just a fake. And in fact, some castle experts have raised doubts. But what was recognized here isn't the Toyotomi-era keep itself. Ninety-five years ago, the people of Showa-era Osaka pooled their donations and built it with steel-framed reinforced concrete, the latest technology of the day. What was weighed was the value of that building in its own right. Preserving an old wooden keep and preserving a piece of Showa architecture are judged with different yardsticks, aren't they? Today's keep is less a copy of the original keep and more a work of its own time, 1931. I think it sits on the same line as Tokyo Tower and Showa-era buildings becoming cultural properties. Is a castle's value decided by the era it was built in, or by who built it and how? Which do you think it is?",
-            "briefing": [
-              "The eight structures recommended include the Dharma Hall of Kennin-ji in Kyoto and the main building of the Nara Hotel. Important Cultural Properties are formally designated once the council's recommendation is published in the Official Gazette.",
-              "The director of the Osaka Castle keep has welcomed the designation as “a chance for people to learn about its value.” The keep is still open to the public as a museum.",
-              "On the other hand, Toshi Kahara, a historical commentator well versed in castle history, has questioned the reasons for the designation, since the keep is a reconstruction that includes parts that differ from the historical record. Opinions on how to judge it are divided."
-            ],
-            "hojosen": [
-              {
-                "title": "Modern buildings as heritage",
-                "body": "Important Cultural Properties now include not only temples, shrines and castles but also modern buildings. Reinforced concrete and steel buildings are valued as records of the technology and society of the time they were built. As with the conversion of the former Yokohama City Hall by architect Togo Murano, which we reported on Oct 16, how to keep and use Showa-era architecture has become a shared theme across Japan."
-              },
-              {
-                "title": "Reconstructed keeps around Japan",
-                "body": "Many castle keeps across Japan were rebuilt in reinforced concrete before and after World War II, and in some cases, such as Nagoya Castle, plans are moving ahead to rebuild them in wood. Many keeps also face challenges with earthquake resistance and accessibility, and local governments differ on whether to keep them as they are or go back to wood."
-              }
-            ]
-          },
-          "namesEn": {
-            "ABCニュース（Yahoo!ニュース）": "ABC News (Yahoo! News)",
-            "大阪城天守閣（公式）": "Osaka Castle Museum (official)",
-            "日本経済新聞": "Nikkei"
           }
         }
       ]
